@@ -4,7 +4,7 @@ A TagPack is a collection of cryptocurrency attribution tags with associated pro
 
 ## What is an attribution tag?
 
-An attribution tag is any form of context information that can be attributed to a cryptocurrency address. The following example attributes a Bitcoin address to the Internet Archive, which is, according to [this source][https://archive.org/donate/cryptocurrency/], the holder of that address:
+An attribution tag is any form of context information that can be attributed to a cryptocurrency address. The following example attributes a Bitcoin address to the Internet Archive, which is, according to [this source](https://archive.org/donate/cryptocurrency/), the holder of that address:
 
 	label: Internet Archive
 	address: 1Archive1n2C579dMsAu3iC6tWzuQJz8dN
@@ -20,7 +20,7 @@ Crypocurrency analytics relies on two complentary techniques: **address clusteri
 
 A TagPack defines a structure for collecting and packaging attribution tags with additional provenance information (e.g., creator, last modification datetime, etc.). TagPacks are intended to be created by users having a Git-service (in this case Github) account. This enables version control for TagPacks and records modifications as part of the Git history.
 
-TagPacks are represented as [YAML][https://yaml.org/] files, which can easily be created by hand or exported automatically from other systems. A tag pack defines a **header** with a number of mandatory and optional fields and a **body** containing a list of tags.
+TagPacks are represented as [YAML](https://yaml.org/) files, which can easily be created by hand or exported automatically from other systems. A tag pack defines a **header** with a number of mandatory and optional fields and a **body** containing a list of tags.
 
 Here is a minimal TagPack example with mandatory properties:
 

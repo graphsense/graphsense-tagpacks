@@ -1,6 +1,20 @@
+---
 baseURI: https://github.com/graphsense/graphsense-tagpacks
+fields:
+  header:
+    - title
+    - creator
+    - lastmod
+    - currency
+    - category
+  tags:
+    - label
+    - source
+    - address
+    - addresses
 categories:
   - miner
   - exchange
+  - walletprovider
   - marketplace
   - mixingservice

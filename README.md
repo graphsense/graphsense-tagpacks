@@ -18,7 +18,7 @@ Crypocurrency analytics relies on two complentary techniques: **address clusteri
 
 ## What is a TagPack?
 
-A TagPack defines a structure for collecting and packaging attribution tags with additional provenance information (e.g., creator, last modification datetime, etc.). TagPacks are intended to be created by users having a Git-service (e.g., Github) account. This enables version control for TagPacks and records modifications as part of the Git history.
+A TagPack defines a structure for collecting and packaging attribution tags with additional provenance information (e.g., creator, last modification datetime, etc.). TagPacks are intended to be created by users having a Git-service (in this case Github) account. This enables version control for TagPacks and records modifications as part of the Git history.
 
 TagPacks are represented as [YAML][https://yaml.org/] files, which can easily be created by hand or exported automatically from other systems. A tag pack defines a **header** with a number of mandatory and optional fields and a **body** containing a list of tags.
 
@@ -66,44 +66,72 @@ Above example shows several tags associating addresses from various cryptocurren
 
 A tag is treated as a first-class object and is unique across TagPacks. That implies that the same label (e.g., `Internet Archive`) can be assigned several times to the same address (e.g., `1Archive1n2C579dMsAu3iC6tWzuQJz8dN`), typically by different parties.
 
-Since TagPacks are essentially files pushed to some Git repository, they can be uniquely identified by their URI (`tagPackURI`).
+Since TagPacks are essentially files pushed to some Git repository, they can be uniquely identified by their Git URI (e.g., `https://github.com/graphsense/graphsense-tagpacks/packs/example.yaml`).
 
-Uniquness of tags is guaranteed by computing unique tag identifiers (hashes) across the following fields:
+Uniquness of individual tags is guaranteed by computing unique tag identifiers (hashes) across the following fields:
 
-	tagPackURI
+	gitURI
 	label
 	address
 	source
 
+## How can I add additional fields or categorization information
+
+Additional permitted fields and categorization information can be defined by adding them to the configuration file (`config.yaml`) of a TagPack repository.
+
+	---
+	baseURI: https://github.com/graphsense/graphsense-tagpacks
+	fields:
+	  header:
+	    - title
+	    - creator
+	    - lastmod
+	    - currency
+	    - category
+	  tags:
+	    - label
+	    - source
+	    - address
+	    - addresses
+	categories:
+	  - miner
+	  - exchange
+	  - walletprovider
+	  - marketplace
+	  - mixingservice
+
+Please note that additional fields must also be considered in the schema definition (`./packs/schema_tagpacks.yaml`) when needed for further processing.
+
+
 ## How can I contribute TagPacks to this repository?
 
-**Step 1**: Fork this repository
+**Step 1**: [Fork](https://help.github.com/en/articles/fork-a-repo) this repository
 
-**Step 2**: C
+**Step 2**: Add your TagPacks to the folder `packs`
+
+**Step 3**: Contribute them to GraphSense public TagPack collection by submitting a [pull request](https://help.github.com/en/articles/about-pull-requests)
 
 
-	git clone git@github.com:graphsense/graphsense-tagpacks.git
+## What kind of tags will be accepted in the public GraphSense TagPack repository?
 
-**Step 2**: Create a TagPack file (`my_tags.yaml`) that follows the YAML file structure explained above and add it to the folder `packs`. Add the file locally 
+All pull requests will be reviewed by the GraphSense core development team and only be accepted if the following conditions are met:
+
+1.) None of the tags contains personally identifyable information (PII)
+
+2.) All tags originate from public sources
+
+3.) All tags provide a dereferencable pointer to their origin
+
+TagPacks not fulfilling above criteria can be maintained in some private Git repositories.
 
 ## How can I ingest TagPacks into my local GraphSense instance
 
 Ensure that there is a keyspace `tagPacks` in your local Cassandra instance.
 
-	./bin/create_schema
+	./scripts/create_schema.sh
 
 Run this script to ingest all TagPacks
 
-	./bin/ingest_tagspacks
+	./bin/ingest_tagspacks.sh
 
-Re-run the transformation job as described in XX
-
-
-## What else should I know
-
-Mandatory fields
-
-Categories
-
-
-
+Re-run the transformation job as described in [graphsense-transformation](https://github.com/graphsense/graphsense-transformation)

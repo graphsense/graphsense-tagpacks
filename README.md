@@ -12,7 +12,7 @@ An attribution tag is any form of context information that can be attributed to 
 
 ## Why are attribution tags important?
 
-Crypocurrency analytics relies on two complentary techniques: **address clustering heuristics**, which are used to group multiple addresses into maximal subsets that can likely be assigned to the same real-world actor, and **attribution tags** as shown above. The strength lies in the combination of these techniques: a tag attributed to a single address belonging to a larger cluster can easily add contextual information to hundreds of thousands cryptocurrency addresses.
+Cryptocurrency analytics relies on two complementary techniques: **address clustering heuristics**, which are used to group multiple addresses into maximal subsets that can likely be assigned to the same real-world actor, and **attribution tags** as shown above. The strength lies in the combination of these techniques: a tag attributed to a single address belonging to a larger cluster can easily add contextual information to hundreds of thousands cryptocurrency addresses.
 
 **Note**: certain types of transactions (e.g., CoinJoins, Mixing Services) can distort clustering results and lead to false, unreliable, or intentionally misplaced attribution tags could associate unrelated actors with a given cluster.
 
@@ -68,7 +68,7 @@ A tag is treated as a first-class object and is unique across TagPacks. That imp
 
 Since TagPacks are essentially files pushed to some Git repository, they can be uniquely identified by their Git URI (e.g., `https://github.com/graphsense/graphsense-tagpacks/packs/example.yaml`).
 
-Uniquness of individual tags is guaranteed by computing unique tag identifiers (hashes) across the following fields:
+Uniqueness of individual tags is guaranteed by computing unique tag identifiers (hashes) across the following fields:
 
 	gitURI
 	label
@@ -116,7 +116,7 @@ Please note that additional fields must also be considered in the schema definit
 
 All pull requests will be reviewed by the GraphSense core development team and only be accepted if the following conditions are met:
 
-1.) None of the tags contains personally identifyable information (PII)
+1.) None of the tags contains personally identifiable information (PII)
 
 2.) All tags originate from public sources
 

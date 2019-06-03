@@ -4,17 +4,19 @@ fields:
   header:
     - title
     - creator
-    - lastmod
-    - currency
-    - category
-  tags:
+    - description
+    - tags
+  tag:
+    - address
     - label
     - source
-    - address
-    - addresses
+    - currency
+    - categories
+    - lastmod
 categories:
-  - miner
-  - exchange
-  - walletprovider
-  - marketplace
-  - mixingservice
+  - Organization
+  - Miner
+  - Exchange
+  - Walletprovider
+  - Marketplace
+  - Mixingservice

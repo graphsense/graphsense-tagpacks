@@ -2,12 +2,19 @@
 
 import yaml
 from yaml.parser import ParserError
+
+import json
+
 from argparse import ArgumentParser
+
+from cassandra.cluster import Cluster
+
 
 CONFIG_FILE = "config.yaml"
 
 config = yaml.safe_load(open(CONFIG_FILE, 'r'))
 
+config_baseURI = config['baseURI']
 config_header_fields = config['fields']['header']
 config_tag_fields = config['fields']['tag']
 config_categories = config['categories']
@@ -74,18 +81,37 @@ def validate(args):
         print("Cannot parse YAML file:" + str(parser_error))
 
 
+def insert_tag_pack_meta(tag_pack_json):
+    pass
+
+
 def ingest(args):
+    KEYSPACE = 'tagpacks'
+    db_nodes = [args.db_nodes] if not isinstance(args.db_nodes, list) else args.db_nodes
+    cluster = Cluster(db_nodes)
+    session = cluster.connect(KEYSPACE)
+    session.default_timeout = 60
+
     tag_pack_files = args.tagpacks
-    db_nodes = args.db_nodes
 
     for tag_pack_file in tag_pack_files:
         tag_pack = yaml.safe_load(open(tag_pack_file, 'r'))
+        tag_pack_uri = config_baseURI + '/' + tag_pack_file
+        
+        # Insert metadata into tagpack_by_uri table
         tag_pack_meta = extract_meta(tag_pack)
-        # TODO jsonify and ingest into TagPack table
-        print(tag_pack_meta)
+        tag_pack_meta['uri'] = tag_pack_uri
+        tag_pack_meta_json = json.dumps(tag_pack_meta)
+        cql_stmt = "INSERT INTO tagpack_by_uri JSON '{}';".format(tag_pack_meta_json)
+        # print(cql_stmt)
+        session.execute(cql_stmt)
+        
+        # Insert tags into tag_by_address table
         tags = list(extract_tags(tag_pack))
         # TODO jsonify and ingest into Tags table
-        print(tags)
+        #print(tags)
+
+    cluster.shutdown()
 
 
 
@@ -99,7 +125,7 @@ def main():
     # create parser for ingest command
     parser_i = subparsers.add_parser("ingest", help="Ingest TagPacks into GraphSense")
     parser_i.add_argument('-d', '--db_nodes', dest='db_nodes', nargs='+',
-                        default='localhost', metavar='DB_NODE',
+                        default='127.0.0.1', metavar='DB_NODE',
                         help='list of Cassandra nodes; default "localhost")')
     parser_i.set_defaults(func=ingest)
 

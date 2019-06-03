@@ -19,6 +19,7 @@ CREATE TABLE tag_by_address (
     source          text,
     tagpack_uri     text,
     currency        text,
-    lastmod         int,
+    lastmod         text,
+    category        text,
     PRIMARY KEY (address, label, source, tagpack_uri)
 );

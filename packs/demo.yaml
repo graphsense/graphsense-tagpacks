@@ -2,16 +2,16 @@
 title: GraphSense Demo TagPack
 creator: GraphSense Team
 description: A collection of tags commonly used for demonstrating GraphSense features
-lastmod: 2019-06-03
+lastmod: "2019-06-03"
 label: Internet Archive
 source: https://archive.org/donate/cryptocurrency
-categories: Organization
+category: Organization
 tags:
   - address: 1Archive1n2C579dMsAu3iC6tWzuQJz8dN   
     currency: BTC
   - address: qrzeh0y2uv2rdmjmkfqcmd39h9yqjrqwmqzaztef9w
     currency: BCH
-  - address: 0xFA8E3920daF271daB92Be9B87d9998DDd94FEF08
+  - address: "0xFA8E3920daF271daB92Be9B87d9998DDd94FEF08"
     currency: ETH
   - address: rGeyCsqc6vKXuyTGF39WJxmTRemoV3c97h
     currency: XRP

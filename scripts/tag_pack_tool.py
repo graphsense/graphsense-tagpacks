@@ -103,13 +103,14 @@ def ingest(args):
         tag_pack_meta['uri'] = tag_pack_uri
         tag_pack_meta_json = json.dumps(tag_pack_meta)
         cql_stmt = "INSERT INTO tagpack_by_uri JSON '{}';".format(tag_pack_meta_json)
-        # print(cql_stmt)
         session.execute(cql_stmt)
         
         # Insert tags into tag_by_address table
-        tags = list(extract_tags(tag_pack))
-        # TODO jsonify and ingest into Tags table
-        #print(tags)
+        for tag in extract_tags(tag_pack):
+            tag['tagpack_uri'] = tag_pack_uri
+            tag_json = json.dumps(tag)
+            cql_stmt = "INSERT INTO tag_by_address JSON '{}';".format(tag_json)
+            session.execute(cql_stmt)
 
     cluster.shutdown()
 

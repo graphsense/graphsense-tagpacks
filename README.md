@@ -1,6 +1,6 @@
 # GraphSense TagPacks
 
-A TagPack is a collection of cryptocurrency attribution tags with associated provenance and categorization metadata. This repository defines a common schema for TagPacks, provices the Git infrastructure for collaboratively collecting TagPacks with detailed provenance information, and the necessary scripts for ingesting TagPacks into GraphSense for further processing.
+A TagPack is a collection of cryptocurrency attribution tags with associated provenance and categorization metadata. This repository defines a common stucture for TagPacks, provices the Git infrastructure for collaboratively collecting TagPacks with detailed provenance information, and the necessary scripts for ingesting TagPacks into GraphSense for further processing.
 
 ## What is an attribution tag?
 
@@ -18,13 +18,14 @@ Cryptocurrency analytics relies on two complementary techniques: **address clust
 
 ## What is a TagPack?
 
-A TagPack defines a structure for collecting and packaging attribution tags with additional provenance information (e.g., creator, last modification datetime, etc.). TagPacks are intended to be created by users having a Git-service (in this case Github) account. This enables version control for TagPacks and records modifications as part of the Git history.
+A TagPack defines a structure for collecting and packaging attribution tags with additional provenance information (e.g., creator, last modification datetime, etc.). TagPacks can be shared via some Git-Service (Github in this case), which enables version control and recording of mofifications.
 
 TagPacks are represented as [YAML](https://yaml.org/) files, which can easily be created by hand or exported automatically from other systems. A tag pack defines a **header** with a number of mandatory and optional fields and a **body** containing a list of tags.
 
 Here is a minimal TagPack example with mandatory properties:
 
-    title: First Tag Pack Example
+    ---
+    title: First TagPack Example
     creator: John Doe
     lastmod: 2019-03-15
     currency: BTC
@@ -34,31 +35,35 @@ Here is a minimal TagPack example with mandatory properties:
           source: https://archive.org/donate/cryptocurrency/
         - label: Example
           address: 1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2
-          source: https://example.com         
+          source: https://example.com
 
-Properties in the TagPack header (in the above example: title, creator, lastmod, currency) are automatically inherited by each tag. Thus, in the above example `John Doe` is the creator of two tags that assign human-readable labels to Bitcoin (BTC) addresses. The `source` property is mandatory and describes where this piece of information is coming from (either in the form of a URI or a textual description).
+Body fields placed within a TagPack header (in the above example: lastmod, currency) apply to all tags in the body and are automaticallz inherited by each tag. Thus, in the above example `John Doe` is the creator of two tags that assign human-readable labels to Bitcoin (BTC) addresses.
+
+Please note that next to the `label` and `address` fields, the `source` property is mandatory as it describes where a certain piece of information is coming from (either in the form of a URI or a textual description). Thus it must either appear in the header or as part of a single tag.
 
 TagPack properties can also be associated on the tag-level and overwrite header property values:
 
----
-    title: Example Tag Pack
+    ---
+    title: Second TagPack Example
     creator: John Doe
+    description: A collection of tags commonly used for demonstrating GraphSense features
     lastmod: 2019-03-15
+    label: Internet Archive
+    source: https://archive.org/donate/cryptocurrency
+    category: Organization
     tags:
-        - label: Internet Archive
-          source: https://archive.org/donate/cryptocurrency/
-          addresses:
-            - address: 1Archive1n2C579dMsAu3iC6tWzuQJz8dN     
-              currency: BTC
-            - address: qrzeh0y2uv2rdmjmkfqcmd39h9yqjrqwmqzaztef9w
-              currency: BCH
-            - address: 0xFA8E3920daF271daB92Be9B87d9998DDd94FEF08
-              currency: ETH
-            - address: rGeyCsqc6vKXuyTGF39WJxmTRemoV3c97h
-              currency: XRP
-            - address: t1ZmpK4QFcvyQZ3ghTgSboBW8b4HgiZHQF9
-              currency: ZSH
-              lastmod: 2019-03-20
+        - address: 1Archive1n2C579dMsAu3iC6tWzuQJz8dN   
+          currency: BTC
+        - address: qrzeh0y2uv2rdmjmkfqcmd39h9yqjrqwmqzaztef9w
+          currency: BCH
+        - address: "0xFA8E3920daF271daB92Be9B87d9998DDd94FEF08"
+          currency: ETH
+        - address: rGeyCsqc6vKXuyTGF39WJxmTRemoV3c97h
+          currency: XRP
+        - address: t1ZmpK4QFcvyQZ3ghTgSboBW8b4HgiZHQF9
+          currency: ZSH
+          lastmod: 2019-04-16
+
 
 Above example shows several tags associating addresses from various cryptocurrencies with the label `Internet Archive`. Most of them were collected at the same timme (2019-03-15), except the Zcash tag that has been collected and added later (2019-03-20).
 
@@ -66,39 +71,36 @@ Above example shows several tags associating addresses from various cryptocurren
 
 A tag is treated as a first-class object and is unique across TagPacks. That implies that the same label (e.g., `Internet Archive`) can be assigned several times to the same address (e.g., `1Archive1n2C579dMsAu3iC6tWzuQJz8dN`), typically by different parties.
 
-Since TagPacks are essentially files pushed to some Git repository, they can be uniquely identified by their Git URI (e.g., `https://github.com/graphsense/graphsense-tagpacks/packs/example.yaml`).
+Since TagPacks are essentially files pushed to some Git repository, they can be uniquely identified by their Git URI (e.g., `https://github.com/graphsense/graphsense-tagpacks/packs/demo.yaml`).
 
-Uniqueness of individual tags is guaranteed by computing unique tag identifiers (hashes) across the following fields:
-
-    tagPackURIcp
-    label
-    address
-    source
-
-## How can I add additional fields or categorization information
+## How can I configure my local TagPack environment
 
 Additional permitted fields and categorization information can be defined by adding them to the configuration file (`config.yaml`) of a TagPack repository.
 
-    ---
-    baseURI: https://github.com/graphsense/graphsense-tagpacks
-    fields:
-      header:
-        - title
-        - creator
-        - lastmod
-        - currency
-        - category
-      tags:
-        - label
-        - source
-        - address
-        - addresses
-    categories:
-      - miner
-      - exchange
-      - walletprovider
-      - marketplace
-      - mixingservice
+---
+baseURI: https://github.com/graphsense/graphsense-tagpacks
+targetKeyspace: tagpacks
+fields:
+  header:
+    - title
+    - creator
+    - description
+    - tags
+  tag:
+    - address
+    - label
+    - source
+    - currency
+    - category
+    - lastmod
+categories:
+  - Organization
+  - Miner
+  - Exchange
+  - Walletprovider
+  - Marketplace
+  - Mixingservice
+
 
 Please note that additional fields must also be considered in the schema definition (`./packs/schema_tagpacks.yaml`) when needed for further processing.
 
@@ -109,8 +111,9 @@ Please note that additional fields must also be considered in the schema definit
 
 **Step 2**: Add your TagPacks to the folder `packs`
 
-**Step 3**: Contribute them to GraphSense public TagPack collection by submitting a [pull request](https://help.github.com/en/articles/about-pull-requests)
+**Step 3**: Validate your TagPack `./scripts/tag_pack_tool.py validate packs/example.yaml`
 
+**Step 4**: Contribute them to GraphSense public TagPack collection by submitting a [pull request](https://help.github.com/en/articles/about-pull-requests)
 
 ## What kind of tags will be accepted in the public GraphSense TagPack repository?
 
@@ -128,10 +131,16 @@ TagPacks not fulfilling above criteria can be maintained in some private Git rep
 
 Ensure that there is a keyspace `tagPacks` in your local Cassandra instance.
 
-    ./scripts/create_schema.sh
+    ./scripts/create_tagpack_schema.sh
 
-Run this script to ingest all TagPacks
+Validate a single TagPack or all TagPacks
 
-    ./bin/ingest_tagspacks.sh
+    ./scripts/tag_pack_tool.py validate packs/example.yaml
+    ./scripts/tag_pack_tool.py validate packs/*.yaml
 
-Re-run the transformation job as described in [graphsense-transformation](https://github.com/graphsense/graphsense-transformation)
+Ingest a single TagPack or all TagPacks
+
+    ./scripts/tag_pack_tool.py ingest packs/example.yaml
+    ./scripts/tag_pack_tool.py ingest packs/*.yaml
+
+After ingesting new TagPacks you should re-run the [graphsense-transformation](https://github.com/graphsense/graphsense-transformation) job in order to propgate newly added tags over all computation steps.

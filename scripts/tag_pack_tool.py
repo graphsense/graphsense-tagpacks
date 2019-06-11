@@ -58,7 +58,10 @@ def check_categories(d):
 def lastmod_to_timestamp(d):
     for k, v in d.items():
         if isinstance(v, dict):
-            v = lastmod_to_timestamp(v)
+            d[k] = lastmod_to_timestamp(v)
+        elif isinstance(v, list):
+            for index, val in enumerate(v):
+                v[index] = lastmod_to_timestamp(val)
         else:
             if k == 'lastmod' and isinstance(v, datetime.date):
                 d[k] = int(time.mktime(v.timetuple()))

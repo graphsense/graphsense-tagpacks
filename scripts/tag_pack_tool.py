@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+import datetime
+import time
+
 import yaml
 from yaml.parser import ParserError
 
@@ -12,9 +15,11 @@ from cassandra.cluster import Cluster
 
 CONFIG_FILE = "config.yaml"
 
+
 config = yaml.safe_load(open(CONFIG_FILE, 'r'))
 
 config_baseURI = config['baseURI']
+config_tagpacks = config['targetKeyspace']
 config_header_fields = config['fields']['header']
 config_tag_fields = config['fields']['tag']
 config_categories = config['categories']
@@ -48,6 +53,16 @@ def check_categories(d):
         else:
             if k == 'categories' and v not in config_categories:
                 return(k, v)
+
+
+def lastmod_to_timestamp(d):
+    for k, v in d.items():
+        if isinstance(v, dict):
+            v = lastmod_to_timestamp(v)
+        else:
+            if k == 'lastmod' and isinstance(v, datetime.date):
+                d[k] = int(time.mktime(v.timetuple()))
+    return d
 
 
 def verify_tag_pack(tag_pack):
@@ -90,12 +105,11 @@ def insert_tag_pack_meta(tag_pack_json):
 
 
 def ingest(args):
-    KEYSPACE = 'tagpacks'
     db_nodes = args.db_nodes
     if not isinstance(args.db_nodes, list):
         db_nodes = [args.db_nodes]
     cluster = Cluster(db_nodes)
-    session = cluster.connect(KEYSPACE)
+    session = cluster.connect(config_tagpacks)
     session.default_timeout = 60
 
     tag_pack_files = args.tagpacks
@@ -103,6 +117,9 @@ def ingest(args):
     for tag_pack_file in tag_pack_files:
         tag_pack = yaml.safe_load(open(tag_pack_file, 'r'))
         tag_pack_uri = config_baseURI + '/' + tag_pack_file
+
+        # Convert lastmod values from datetime to UNIX timestamp
+        tag_pack = lastmod_to_timestamp(tag_pack)
 
         # Insert metadata into tagpack_by_uri table
         tag_pack_meta = extract_meta(tag_pack)

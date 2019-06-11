@@ -1,5 +1,6 @@
 ---
 baseURI: https://github.com/graphsense/graphsense-tagpacks
+targetKeyspace: tagpacks
 fields:
   header:
     - title

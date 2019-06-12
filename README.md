@@ -1,10 +1,18 @@
 # GraphSense TagPacks
 
-A TagPack is a collection of cryptocurrency attribution tags with associated provenance and categorization metadata. This repository defines a common stucture for TagPacks, provices the Git infrastructure for collaboratively collecting TagPacks with detailed provenance information, and the necessary scripts for ingesting TagPacks into GraphSense for further processing.
+A TagPack is a collection of cryptocurrency attribution tags with associated
+provenance and categorization metadata. This repository defines a common
+structure for TagPacks, provides the Git infrastructure for collaboratively
+collecting TagPacks with detailed provenance information, and the necessary
+scripts for ingesting TagPacks into GraphSense for further processing.
 
 ## What is an attribution tag?
 
-An attribution tag is any form of context information that can be attributed to a cryptocurrency address. The following example attributes a Bitcoin address to the Internet Archive, which is, according to [this source](https://archive.org/donate/cryptocurrency/), the holder of that address:
+An attribution tag is any form of context information that can be attributed to
+a cryptocurrency address. The following example attributes a Bitcoin address to
+the Internet Archive, which is, according to
+[this source](https://archive.org/donate/cryptocurrency/), the holder of that
+address:
 
     label: Internet Archive
     address: 1Archive1n2C579dMsAu3iC6tWzuQJz8dN
@@ -12,15 +20,30 @@ An attribution tag is any form of context information that can be attributed to 
 
 ## Why are attribution tags important?
 
-Cryptocurrency analytics relies on two complementary techniques: **address clustering heuristics**, which are used to group multiple addresses into maximal subsets that can likely be assigned to the same real-world actor, and **attribution tags** as shown above. The strength lies in the combination of these techniques: a tag attributed to a single address belonging to a larger cluster can easily add contextual information to hundreds of thousands cryptocurrency addresses.
+Cryptocurrency analytics relies on two complementary techniques: **address
+clustering heuristics**, which are used to group multiple addresses into
+maximal subsets that can likely be assigned to the same real-world actor, and
+**attribution tags** as shown above. The strength lies in the combination of
+these techniques: a tag attributed to a single address belonging to a larger
+cluster can easily add contextual information to hundreds of thousands
+cryptocurrency addresses.
 
-**Note**: certain types of transactions (e.g., CoinJoins, Mixing Services) can distort clustering results and lead to false, unreliable, or intentionally misplaced attribution tags could associate unrelated actors with a given cluster.
+**Note**: certain types of transactions (e.g., CoinJoins, Mixing Services) can
+distort clustering results and lead to false, unreliable, or intentionally
+misplaced attribution tags could associate unrelated actors with a given
+cluster.
 
 ## What is a TagPack?
 
-A TagPack defines a structure for collecting and packaging attribution tags with additional provenance information (e.g., creator, last modification datetime, etc.). TagPacks can be shared via some Git-Service (Github in this case), which enables version control and recording of mofifications.
+A TagPack defines a structure for collecting and packaging attribution tags
+with additional provenance information (e.g., creator, last modification
+datetime, etc.). TagPacks can be shared via some Git-Service (Github in this
+case), which enables version control and recording of modifications.
 
-TagPacks are represented as [YAML](https://yaml.org/) files, which can easily be created by hand or exported automatically from other systems. A tag pack defines a **header** with a number of mandatory and optional fields and a **body** containing a list of tags.
+TagPacks are represented as [YAML](https://yaml.org/) files, which can easily
+be created by hand or exported automatically from other systems. A tag pack
+defines a **header** with a number of mandatory and optional fields and a
+**body** containing a list of tags.
 
 Here is a minimal TagPack example with mandatory properties:
 
@@ -37,11 +60,18 @@ Here is a minimal TagPack example with mandatory properties:
           address: 1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2
           source: https://example.com
 
-Body fields placed within a TagPack header (in the above example: lastmod, currency) apply to all tags in the body and are automaticallz inherited by each tag. Thus, in the above example `John Doe` is the creator of two tags that assign human-readable labels to Bitcoin (BTC) addresses.
+Body fields placed within a TagPack header (in the above example: `lastmod`,
+`currency`) apply to all tags in the body and are automatically inherited by
+each tag. Thus, in the above example `John Doe` is the creator of two tags that
+assign human-readable labels to Bitcoin (BTC) addresses.
 
-Please note that next to the `label` and `address` fields, the `source` property is mandatory as it describes where a certain piece of information is coming from (either in the form of a URI or a textual description). Thus it must either appear in the header or as part of a single tag.
+Please note that next to the `label` and `address` fields, the `source`
+property is mandatory as it describes where a certain piece of information is
+coming from (either in the form of a URI or a textual description). Thus it
+must either appear in the header or as part of a single tag.
 
-TagPack properties can also be associated on the tag-level and overwrite header property values:
+TagPack properties can also be associated on the tag-level and overwrite header
+property values:
 
     ---
     title: Second TagPack Example
@@ -65,17 +95,26 @@ TagPack properties can also be associated on the tag-level and overwrite header 
           lastmod: 2019-04-16
 
 
-Above example shows several tags associating addresses from various cryptocurrencies with the label `Internet Archive`. Most of them were collected at the same timme (2019-03-15), except the Zcash tag that has been collected and added later (2019-03-20).
+Above example shows several tags associating addresses from various
+cryptocurrencies with the label `Internet Archive`. Most of them were collected
+at the same time (2019-03-15), except the Zcash tag that has been collected
+and added later (2019-03-20).
 
 ## How are Tags and TagPacks identified
 
-A tag is treated as a first-class object and is unique across TagPacks. That implies that the same label (e.g., `Internet Archive`) can be assigned several times to the same address (e.g., `1Archive1n2C579dMsAu3iC6tWzuQJz8dN`), typically by different parties.
+A tag is treated as a first-class object and is unique across TagPacks. That
+implies that the same label (e.g., `Internet Archive`) can be assigned several
+times to the same address (e.g., `1Archive1n2C579dMsAu3iC6tWzuQJz8dN`),
+typically by different parties.
 
-Since TagPacks are essentially files pushed to some Git repository, they can be uniquely identified by their Git URI (e.g., `https://github.com/graphsense/graphsense-tagpacks/packs/demo.yaml`).
+Since TagPacks are essentially files pushed to some Git repository, they can be
+uniquely identified by their Git URI
+(e.g., `https://github.com/graphsense/graphsense-tagpacks/packs/demo.yaml`).
 
 ## How can I configure my local TagPack environment
 
-Additional permitted fields and categorization information can be defined by adding them to the configuration file (`config.yaml`) of a TagPack repository.
+Additional permitted fields and categorization information can be defined by
+adding them to the configuration file (`config.yaml`) of a TagPack repository.
 
 ---
 baseURI: https://github.com/graphsense/graphsense-tagpacks
@@ -102,7 +141,8 @@ categories:
   - Mixingservice
 
 
-Please note that additional fields must also be considered in the schema definition (`./packs/schema_tagpacks.yaml`) when needed for further processing.
+Please note that additional fields must also be considered in the schema
+definition (`./packs/schema_tagpacks.yaml`) when needed for further processing.
 
 
 ## How can I contribute TagPacks to this repository?
@@ -117,7 +157,8 @@ Please note that additional fields must also be considered in the schema definit
 
 ## What kind of tags will be accepted in the public GraphSense TagPack repository?
 
-All pull requests will be reviewed by the GraphSense core development team and only be accepted if the following conditions are met:
+All pull requests will be reviewed by the GraphSense core development team and
+only be accepted if the following conditions are met:
 
 1.) None of the tags contains personally identifiable information (PII)
 
@@ -143,4 +184,6 @@ Ingest a single TagPack or all TagPacks
     ./scripts/tag_pack_tool.py ingest packs/example.yaml
     ./scripts/tag_pack_tool.py ingest packs/*.yaml
 
-After ingesting new TagPacks you should re-run the [graphsense-transformation](https://github.com/graphsense/graphsense-transformation) job in order to propgate newly added tags over all computation steps.
+After ingesting new TagPacks you should re-run the
+[graphsense-transformation](https://github.com/graphsense/graphsense-transformation)
+job in order to propagate newly added tags over all computation steps.

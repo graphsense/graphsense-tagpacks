@@ -1,15 +1,12 @@
 #!/usr/bin/env python3
 
 import datetime
+import json
 import time
+from argparse import ArgumentParser
 
 import yaml
 from yaml.parser import ParserError
-
-import json
-
-from argparse import ArgumentParser
-
 from cassandra.cluster import Cluster
 
 
@@ -72,19 +69,19 @@ def verify_tag_pack(tag_pack):
     # Header should only contain header and generic body fields
     unknown_header = set(tag_pack.keys()) - \
         set(config_header_fields) - set(config_tag_fields)
-    if(len(unknown_header) > 0):
+    if unknown_header:
         raise TagPackException(
             'Found unknown header field: {}.'.format(unknown_header))
     # Tags should only contain body fields
     for tag in tag_pack['tags']:
         unknown_tag_field = set(tag.keys()) - set(config_tag_fields)
-        if(len(unknown_tag_field) > 0):
+        if unknown_tag_field:
             raise TagPackException(
                 'Found unknown tag field {} assigned with tag {}.'
                 .format(unknown_tag_field, tag))
     # Check that categories are taken from defined vocabulary
     wrong_category = check_categories(tag_pack)
-    if(wrong_category is not None):
+    if wrong_category is not None:
         raise TagPackException(
             'Found unknown category {}'.format(wrong_category))
 

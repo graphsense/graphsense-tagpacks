@@ -120,26 +120,26 @@ adding them to the configuration file (`config.yaml`) of a TagPack repository.
     baseURI: https://github.com/graphsense/graphsense-tagpacks
     targetKeyspace: tagpacks
     fields:
-        header:
-            - title
-            - creator
-            - description
-            - tags
-        tag:
-            - address
-            - label
-            - source
-            - currency
-            - category
-            - lastmod
-        categories:
-            - Organization
-            - Miner
-            - Exchange
-            - Walletprovider
-            - Marketplace
-            - Mixingservice
-
+      header:
+        - title
+        - creator
+        - description
+        - tags
+      tag:
+        - address
+        - label
+        - source
+        - currency
+        - category
+        - lastmod
+    categories:
+      - Organization
+      - Miner
+      - Exchange
+      - Walletprovider
+      - Marketplace
+      - Mixingservice
+  
 
 Please note that additional fields must also be considered in the schema
 definition (`./packs/schema_tagpacks.yaml`) when needed for further processing.
@@ -164,7 +164,7 @@ only be accepted if the following conditions are met:
 
 2.) All tags originate from public sources
 
-3.) All tags provide a dereferencable pointer to their origin
+3.) All tags provide a dereferenceable pointer to their origin
 
 TagPacks not fulfilling above criteria can be maintained in some private Git repositories.
 

@@ -30,7 +30,7 @@ cryptocurrency addresses.
 
 **Note**: certain types of transactions (e.g., CoinJoins, Mixing Services) can
 distort clustering results and lead to false, unreliable, or intentionally
-misplaced attribution tags could associate unrelated actors with a given
+misplaced attribution tags that could associate unrelated actors with a given
 cluster.
 
 ## What is a TagPack?
@@ -116,29 +116,29 @@ uniquely identified by their Git URI
 Additional permitted fields and categorization information can be defined by
 adding them to the configuration file (`config.yaml`) of a TagPack repository.
 
----
-baseURI: https://github.com/graphsense/graphsense-tagpacks
-targetKeyspace: tagpacks
-fields:
-  header:
-    - title
-    - creator
-    - description
-    - tags
-  tag:
-    - address
-    - label
-    - source
-    - currency
-    - category
-    - lastmod
-categories:
-  - Organization
-  - Miner
-  - Exchange
-  - Walletprovider
-  - Marketplace
-  - Mixingservice
+    ---
+    baseURI: https://github.com/graphsense/graphsense-tagpacks
+    targetKeyspace: tagpacks
+    fields:
+        header:
+            - title
+            - creator
+            - description
+            - tags
+        tag:
+            - address
+            - label
+            - source
+            - currency
+            - category
+            - lastmod
+        categories:
+            - Organization
+            - Miner
+            - Exchange
+            - Walletprovider
+            - Marketplace
+            - Mixingservice
 
 
 Please note that additional fields must also be considered in the schema

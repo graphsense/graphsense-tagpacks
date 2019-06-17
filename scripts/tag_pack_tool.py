@@ -11,7 +11,7 @@ import json
 from argparse import ArgumentParser
 
 from cassandra.cluster import Cluster
-
+import re
 
 CONFIG_FILE = "config.yaml"
 
@@ -68,6 +68,12 @@ def lastmod_to_timestamp(d):
     return d
 
 
+def label_to_labelnorm(label):
+    # Alphanumeric and lowercase only
+    pattern = re.compile('[\W_]+', re.UNICODE)
+    return pattern.sub('', label).lower()
+
+
 def verify_tag_pack(tag_pack):
     # Header should only contain header and generic body fields
     unknown_header = set(tag_pack.keys()) - \
@@ -91,7 +97,7 @@ def verify_tag_pack(tag_pack):
 
 def validate(args):
     tag_pack_files = args.tagpacks
-
+    print(tag_pack_files)
     try:
         for tag_pack_file in tag_pack_files:
             tag_pack = yaml.safe_load(open(tag_pack_file, 'r'))
@@ -133,12 +139,20 @@ def ingest(args):
         session.execute(cql_stmt)
 
         # Insert tags into tag_by_address table
+        cql_stmt = session.prepare('INSERT INTO tag_by_address JSON ?')
         for tag in extract_tags(tag_pack):
             tag['tagpack_uri'] = tag_pack_uri
             tag_json = json.dumps(tag)
-            cql_stmt = """INSERT INTO tag_by_address
-                          JSON '{}';""".format(tag_json)
-            session.execute(cql_stmt)
+            session.execute(cql_stmt, [tag_json])
+
+        # Insert tags into tag_by_label table
+        cql_stmt = session.prepare('INSERT INTO tag_by_label JSON ?')
+        for tag in extract_tags(tag_pack):
+            tag['label_norm'] = label_to_labelnorm(tag['label'])
+            tag['label_norm_prefix'] = tag['label_norm'][:3]
+            tag['tagpack_uri'] = tag_pack_uri
+            tag_json = json.dumps(tag)
+            session.execute(cql_stmt, [tag_json])
 
         print("Ingested TagPack {}".format(tag_pack_file))
 
@@ -172,4 +186,6 @@ def main():
 
 
 if __name__ == '__main__':
+    t0 = time.time()
     main()
+    print(time.time()-t0)

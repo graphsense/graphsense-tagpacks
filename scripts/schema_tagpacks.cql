@@ -23,3 +23,16 @@ CREATE TABLE tag_by_address (
     category        text,
     PRIMARY KEY (address, label, source, tagpack_uri)
 );
+
+CREATE TABLE tag_by_label (
+    label_norm_prefix           text,
+    label_norm           text,
+    label           text,
+    address         text,
+    source          text,
+    tagpack_uri     text,
+    currency        text,
+    lastmod         int,
+    category        text,
+    PRIMARY KEY (label_norm_prefix, label_norm, label, address, source, tagpack_uri)
+);

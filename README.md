@@ -151,7 +151,7 @@ definition (`./packs/schema_tagpacks.yaml`) when needed for further processing.
 
 **Step 2**: Add your TagPacks to the folder `packs`
 
-**Step 3**: Validate your TagPack `./scripts/tag_pack_tool.py validate packs/example.yaml`
+**Step 3**: Validate your TagPack `./scripts/tag_pack_tool.py validate packs/demo.yaml`
 
 **Step 4**: Contribute them to GraphSense public TagPack collection by submitting a [pull request](https://help.github.com/en/articles/about-pull-requests)
 
@@ -176,12 +176,12 @@ Ensure that there is a keyspace `tagPacks` in your local Cassandra instance.
 
 Validate a single TagPack or all TagPacks
 
-    ./scripts/tag_pack_tool.py validate packs/example.yaml
+    ./scripts/tag_pack_tool.py validate packs/demo.yaml
     ./scripts/tag_pack_tool.py validate packs/*.yaml
 
 Ingest a single TagPack or all TagPacks
 
-    ./scripts/tag_pack_tool.py ingest packs/example.yaml
+    ./scripts/tag_pack_tool.py ingest packs/demo.yaml
     ./scripts/tag_pack_tool.py ingest packs/*.yaml
 
 After ingesting new TagPacks you should re-run the

@@ -12,7 +12,6 @@ CREATE TABLE tagpack_by_uri (
     creator         text
 );
 
-
 CREATE TABLE tag_by_address (
     address         text,
     label           text,
@@ -21,7 +20,7 @@ CREATE TABLE tag_by_address (
     currency        text,
     lastmod         int,
     category        text,
-    PRIMARY KEY (address, label, source, tagpack_uri)
+    PRIMARY KEY (address, currency, label, source, tagpack_uri)
 );
 
 CREATE TABLE tag_by_label (
@@ -34,5 +33,5 @@ CREATE TABLE tag_by_label (
     currency        text,
     lastmod         int,
     category        text,
-    PRIMARY KEY (label_norm_prefix, label_norm, label, address, source, tagpack_uri)
+    PRIMARY KEY (label_norm_prefix, label_norm, label, address, currency, source, tagpack_uri)
 );

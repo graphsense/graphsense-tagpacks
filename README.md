@@ -82,16 +82,16 @@ property values:
     source: https://archive.org/donate/cryptocurrency
     category: Organization
     tags:
-        - address: 1Archive1n2C579dMsAu3iC6tWzuQJz8dN   
+        - address: 1Archive1n2C579dMsAu3iC6tWzuQJz8dN
           currency: BTC
-        - address: qrzeh0y2uv2rdmjmkfqcmd39h9yqjrqwmqzaztef9w
+        - address: 1K1rgZ1dz9w7dsR1HGS1drmzfUHMtqx1Tc
           currency: BCH
         - address: "0xFA8E3920daF271daB92Be9B87d9998DDd94FEF08"
           currency: ETH
         - address: rGeyCsqc6vKXuyTGF39WJxmTRemoV3c97h
           currency: XRP
         - address: t1ZmpK4QFcvyQZ3ghTgSboBW8b4HgiZHQF9
-          currency: ZSH
+          currency: ZEC
           lastmod: 2019-04-16
 
 
@@ -139,7 +139,7 @@ adding them to the configuration file (`config.yaml`) of a TagPack repository.
       - Walletprovider
       - Marketplace
       - Mixingservice
-  
+
 
 Please note that additional fields must also be considered in the schema
 definition (`./packs/schema_tagpacks.yaml`) when needed for further processing.

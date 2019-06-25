@@ -109,7 +109,7 @@ typically by different parties.
 
 Since TagPacks are essentially files pushed to some Git repository, they can be
 uniquely identified by their Git URI
-(e.g., `https://github.com/graphsense/graphsense-tagpacks/packs/demo.yaml`).
+(e.g., `https://github.com/graphsense/graphsense-tagpacks/blob/master/packs/demo.yaml`).
 
 ## How can I configure my local TagPack environment
 

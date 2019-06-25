@@ -1,5 +1,5 @@
 ---
-baseURI: https://github.com/graphsense/graphsense-tagpacks
+baseURI: https://github.com/graphsense/graphsense-tagpacks/blob/master
 targetKeyspace: tagpacks
 fields:
   header:

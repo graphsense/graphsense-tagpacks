@@ -73,7 +73,7 @@ def lastmod_to_timestamp(d):
 
 def label_to_labelnorm(label):
     # Alphanumeric and lowercase only
-    pattern = re.compile('[\W_]+', re.UNICODE)
+    pattern = re.compile(r'[\W_]+', re.UNICODE)
     return pattern.sub('', label).lower()
 
 

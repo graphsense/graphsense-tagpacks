@@ -4,67 +4,67 @@ description: Scraped tags from walletexplorer.com
 lastmod: 2019-06-18
 tags:
 - address: 38f8RHFQ8v6avZqCmaYTga5bTYiuhoM6fh
-  category: Exchanges
+  category: Exchange
   label: Bitstamp.net
   source: https://www.walletexplorer.com/address/38f8RHFQ8v6avZqCmaYTga5bTYiuhoM6fh
 - address: 14S2cUvnYig1rvejbPWqJDsFAhh1F13Kra
-  category: Exchanges
+  category: Exchange
   label: LocalBitcoins.com-old
   source: https://www.walletexplorer.com/address/14S2cUvnYig1rvejbPWqJDsFAhh1F13Kra
 - address: 1FtMAGbhsxRNc3GBUunKRk57e5hxdqYwV9
-  category: Exchanges
+  category: Exchange
   label: LocalBitcoins.com
   source: https://www.walletexplorer.com/address/1FtMAGbhsxRNc3GBUunKRk57e5hxdqYwV9
 - address: 17ac9tXHxu1nxdLgLu9WYk7vR8ggFN5GkH
-  category: Exchanges
+  category: Exchange
   label: Luno.com
   source: https://www.walletexplorer.com/address/17ac9tXHxu1nxdLgLu9WYk7vR8ggFN5GkH
 - address: 171LFo1rr4oSE6CDkV7NxyCfwX2sMXJZtP
-  category: Exchanges
+  category: Exchange
   label: BTC-e.com-old
   source: https://www.walletexplorer.com/address/171LFo1rr4oSE6CDkV7NxyCfwX2sMXJZtP
 - address: 1FsVcdeHbpvUVT3gjeuVR2ZSDnpcsJMsLL
-  category: Exchanges
+  category: Exchange
   label: BTC-e.com-output
   source: https://www.walletexplorer.com/address/1FsVcdeHbpvUVT3gjeuVR2ZSDnpcsJMsLL
 - address: 193JhFJVNzKjtnQgJgTG1h5hJdTtWtNfNT
-  category: Exchanges
+  category: Exchange
   label: BTC-e.com
   source: https://www.walletexplorer.com/address/193JhFJVNzKjtnQgJgTG1h5hJdTtWtNfNT
 - address: 17A16QmavnUfCW11DAApiJxp7ARnxN5pGX
-  category: Exchanges
+  category: Exchange
   label: Poloniex.com
   source: https://www.walletexplorer.com/address/17A16QmavnUfCW11DAApiJxp7ARnxN5pGX
 - address: 14cQRmViAzVKa277gZznByGZtnrVPQc8Lr
-  category: Exchanges
+  category: Exchange
   label: Bittrex.com
   source: https://www.walletexplorer.com/address/14cQRmViAzVKa277gZznByGZtnrVPQc8Lr
 - address: 1DTJTKsoCE8S4QeKpBDXmdbkSWSBvxRXL3
-  category: Exchanges
+  category: Exchange
   label: Huobi.com-2
   source: https://www.walletexplorer.com/address/1DTJTKsoCE8S4QeKpBDXmdbkSWSBvxRXL3
 - address: 19hx1B4pTDsBAYJJYYrj1t6bcVw1e9omuH
-  category: Exchanges
+  category: Exchange
   label: Huobi.com
   source: https://www.walletexplorer.com/address/19hx1B4pTDsBAYJJYYrj1t6bcVw1e9omuH
 - address: 1GNSmRooZUWj3TvWduYGDGjmmAnarSsYXb
-  category: Exchanges
+  category: Exchange
   label: Bter.com
   source: https://www.walletexplorer.com/address/1GNSmRooZUWj3TvWduYGDGjmmAnarSsYXb
 - address: 18uRuCuEsEA3LS7nGShr7ZbSUNwsbrYALf
-  category: Exchanges
+  category: Exchange
   label: MaiCoin.com
   source: https://www.walletexplorer.com/address/18uRuCuEsEA3LS7nGShr7ZbSUNwsbrYALf
 - address: 1AnwDVbwsLBVwRfqN2x9Eo4YEJSPXo2cwG
-  category: Exchanges
+  category: Exchange
   label: Kraken.com
   source: https://www.walletexplorer.com/address/1AnwDVbwsLBVwRfqN2x9Eo4YEJSPXo2cwG
 - address: 16jTAi7cB5uhi3En3Howq7XUdUM1mB2GH8
-  category: Exchanges
+  category: Exchange
   label: HitBtc.com-old
   source: https://www.walletexplorer.com/address/16jTAi7cB5uhi3En3Howq7XUdUM1mB2GH8
 - address: 3QGfWQoEcUCfJGAg5dYrHmuCU38xcZNWLu
-  category: Exchanges
+  category: Exchange
   label: HitBtc.com
   source: https://www.walletexplorer.com/address/3QGfWQoEcUCfJGAg5dYrHmuCU38xcZNWLu
 - address: 1CpVAEg4BgVzjiHshgeZfitZLV1t1zo6Qg
@@ -1032,503 +1032,503 @@ tags:
   label: Xapo.com
   source: https://www.walletexplorer.com/address/3LVDJtQFBDpqCPyKJPPaYs5vriAgPqWjYR
 - address: 1DXRoTT67mCbhdHHL1it4J1xsSZHHnFxYR
-  category: Pools
+  category: Miner
   label: Telco214
   source: https://www.walletexplorer.com/address/1DXRoTT67mCbhdHHL1it4J1xsSZHHnFxYR
 - address: 13pucx6gHP2vyBLc88QfcGivjkhK63PeVg
-  category: Pools
+  category: Miner
   label: Kano.is-old
   source: https://www.walletexplorer.com/address/13pucx6gHP2vyBLc88QfcGivjkhK63PeVg
 - address: 1N6LrEDiHuFwSyJYj2GedZM2FGk7kkLjn
-  category: Pools
+  category: Miner
   label: Kano.is
   source: https://www.walletexplorer.com/address/1N6LrEDiHuFwSyJYj2GedZM2FGk7kkLjn
 - address: 1JkT6EQMotCz6BFqPWFd3kFDQzU1qa119N
-  category: Pools
+  category: Miner
   label: Eligius.st
   source: https://www.walletexplorer.com/address/1JkT6EQMotCz6BFqPWFd3kFDQzU1qa119N
 - address: 1JLRXD8rjRgQtTS9MvfQALfHgGWau9L9ky
-  category: Pools
+  category: Miner
   label: BW.com
   source: https://www.walletexplorer.com/address/1JLRXD8rjRgQtTS9MvfQALfHgGWau9L9ky
 - address: 1FeDtFhARLxjKUPPkQqEBL78tisenc9znS
-  category: Pools
+  category: Miner
   label: Bitfury.org
   source: https://www.walletexplorer.com/address/1FeDtFhARLxjKUPPkQqEBL78tisenc9znS
 - address: 1H1sq6Msgt9HjRrBuz8ieZdThzWXS6oPVA
-  category: Pools
+  category: Miner
   label: KnCMiner.com
   source: https://www.walletexplorer.com/address/1H1sq6Msgt9HjRrBuz8ieZdThzWXS6oPVA
 - address: 1B55K4WuR1AQKCmF8WznDmhZNw6G1x8uEc
-  category: Pools
+  category: Miner
   label: EclipseMC.com-old3
   source: https://www.walletexplorer.com/address/1B55K4WuR1AQKCmF8WznDmhZNw6G1x8uEc
 - address: 187b1MZr73iuPGnABu6d4eSYmt2NQHkTqt
-  category: Pools
+  category: Miner
   label: EclipseMC.com-old2
   source: https://www.walletexplorer.com/address/187b1MZr73iuPGnABu6d4eSYmt2NQHkTqt
 - address: 1NfJfjsyfxJ9zoA1LPj4TdDHf8mSUvQ17r
-  category: Pools
+  category: Miner
   label: EclipseMC.com-old
   source: https://www.walletexplorer.com/address/1NfJfjsyfxJ9zoA1LPj4TdDHf8mSUvQ17r
 - address: 18M9o2mXNjNR96yKe7eyY6pfP6Nx4Nso3d
-  category: Pools
+  category: Miner
   label: EclipseMC.com
   source: https://www.walletexplorer.com/address/18M9o2mXNjNR96yKe7eyY6pfP6Nx4Nso3d
 - address: 19PkHafEN18mquJ9ChwZt5YEFoCdPP5vYB
-  category: Pools
+  category: Miner
   label: BitMinter.com
   source: https://www.walletexplorer.com/address/19PkHafEN18mquJ9ChwZt5YEFoCdPP5vYB
 - address: 1Mp3atombUR6iLLYoLEdN9uPfPscsKBXfi
-  category: Pools
+  category: Miner
   label: AntPool.com-old2
   source: https://www.walletexplorer.com/address/1Mp3atombUR6iLLYoLEdN9uPfPscsKBXfi
 - address: 1GuMujABuc8kvzDTyVJFpcf4vszPUgsjiU
-  category: Pools
+  category: Miner
   label: AntPool.com-old
   source: https://www.walletexplorer.com/address/1GuMujABuc8kvzDTyVJFpcf4vszPUgsjiU
 - address: 15urYnyeJe3gwbGJ74wcX89Tz7ZtsFDVew
-  category: Pools
+  category: Miner
   label: AntPool.com
   source: https://www.walletexplorer.com/address/15urYnyeJe3gwbGJ74wcX89Tz7ZtsFDVew
 - address: 1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC
-  category: Pools
+  category: Miner
   label: GHash.io
   source: https://www.walletexplorer.com/address/1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC
 - address: 1AqTMY7kmHZxBuLUR5wJjPFUvqGs23sesr
-  category: Pools
+  category: Miner
   label: SlushPool.com-old2
   source: https://www.walletexplorer.com/address/1AqTMY7kmHZxBuLUR5wJjPFUvqGs23sesr
 - address: 1Mining2pfZRiFxGBQ6Jw8YNheUkHhyMfn
-  category: Pools
+  category: Miner
   label: SlushPool.com-old
   source: https://www.walletexplorer.com/address/1Mining2pfZRiFxGBQ6Jw8YNheUkHhyMfn
 - address: 1CK6KHY6MHgYvmRQ4PAafKYDrg1ejbH1cE
-  category: Pools
+  category: Miner
   label: SlushPool.com
   source: https://www.walletexplorer.com/address/1CK6KHY6MHgYvmRQ4PAafKYDrg1ejbH1cE
 - address: 152f1muMCNa7goXYhYAQC61hxEgGacmncB
-  category: Pools
+  category: Miner
   label: BTCCPool
   source: https://www.walletexplorer.com/address/152f1muMCNa7goXYhYAQC61hxEgGacmncB
 - address: 1M5NczBKPQSyFP2DzouXGAHeqoAYDQv2WC
-  category: Exchanges
+  category: Exchange
   label: ExchangeMyCoins.com
   source: https://www.walletexplorer.com/address/1M5NczBKPQSyFP2DzouXGAHeqoAYDQv2WC
 - address: 15VbGLMQWCqEFhXFk9iaS3xLaURFYuxMvd
-  category: Exchanges
+  category: Exchange
   label: Coingi.com
   source: https://www.walletexplorer.com/address/15VbGLMQWCqEFhXFk9iaS3xLaURFYuxMvd
 - address: 1GqWeVySuv96nFybv27W7ULQ1rzDHeAi7a
-  category: Exchanges
+  category: Exchange
   label: 1Coin.com
   source: https://www.walletexplorer.com/address/1GqWeVySuv96nFybv27W7ULQ1rzDHeAi7a
 - address: 1Q85285KFsnWDkLxLc3dXwGHtFL3BhotWg
-  category: Exchanges
+  category: Exchange
   label: Zyado.com-old
   source: https://www.walletexplorer.com/address/1Q85285KFsnWDkLxLc3dXwGHtFL3BhotWg
 - address: 1Mb4JKCVaGkdF5NuxufwhFy2f8u1WUoVKc
-  category: Exchanges
+  category: Exchange
   label: Zyado.com
   source: https://www.walletexplorer.com/address/1Mb4JKCVaGkdF5NuxufwhFy2f8u1WUoVKc
 - address: 1PLjsBGtf7rJNuxaeWWReDhkLk9bZstGo
-  category: Exchanges
+  category: Exchange
   label: Coinbroker.io
   source: https://www.walletexplorer.com/address/1PLjsBGtf7rJNuxaeWWReDhkLk9bZstGo
 - address: 1QELiiEgw997EycjPu9wmFh9u7CRctk8J6
-  category: Exchanges
+  category: Exchange
   label: UseCryptos.com
   source: https://www.walletexplorer.com/address/1QELiiEgw997EycjPu9wmFh9u7CRctk8J6
 - address: 1MudcrRWzrjUgn1ugzh2ve4gpCpS8vWyHL
-  category: Exchanges
+  category: Exchange
   label: Ccedk.com
   source: https://www.walletexplorer.com/address/1MudcrRWzrjUgn1ugzh2ve4gpCpS8vWyHL
 - address: 123DvCXxfH24dM57qjGLixN3ENjnuEZwGe
-  category: Exchanges
+  category: Exchange
   label: EmpoEX.com
   source: https://www.walletexplorer.com/address/123DvCXxfH24dM57qjGLixN3ENjnuEZwGe
 - address: 1MLgaxVMmhscDAN3Mjg1wPYNvSAG4mMDbf
-  category: Exchanges
+  category: Exchange
   label: Coinimal.com
   source: https://www.walletexplorer.com/address/1MLgaxVMmhscDAN3Mjg1wPYNvSAG4mMDbf
 - address: 1DDwrxz5MC98Pfrjp4PcQiErx7wz6FJnRJ
-  category: Exchanges
+  category: Exchange
   label: Bitso.com
   source: https://www.walletexplorer.com/address/1DDwrxz5MC98Pfrjp4PcQiErx7wz6FJnRJ
 - address: 1Q7PTybd4ybhKAi8a9pph6NjVCEMVfUhBt
-  category: Exchanges
+  category: Exchange
   label: Exchange-Credit.ru
   source: https://www.walletexplorer.com/address/1Q7PTybd4ybhKAi8a9pph6NjVCEMVfUhBt
 - address: 164Bqayn7fuGssWTqfRQ5NcuepJpGWV24V
-  category: Exchanges
+  category: Exchange
   label: Cryptonit.net-old
   source: https://www.walletexplorer.com/address/164Bqayn7fuGssWTqfRQ5NcuepJpGWV24V
 - address: 1D1ZqQedv56GoasmmE5yaomNMJq6bsNjkz
-  category: Exchanges
+  category: Exchange
   label: Cryptonit.net
   source: https://www.walletexplorer.com/address/1D1ZqQedv56GoasmmE5yaomNMJq6bsNjkz
 - address: 1JnSk5wGTigae183N9TGZXHKJTtGA8DNfm
-  category: Exchanges
+  category: Exchange
   label: CoinChimp.com
   source: https://www.walletexplorer.com/address/1JnSk5wGTigae183N9TGZXHKJTtGA8DNfm
 - address: 15fQXokp2fr3ygHu2nzh3R4N7qtTnrmk66
-  category: Exchanges
+  category: Exchange
   label: BitcoinVietnam.com.vn
   source: https://www.walletexplorer.com/address/15fQXokp2fr3ygHu2nzh3R4N7qtTnrmk66
 - address: 1LX78tyJGCoDnYbYZcNU3rKVw4w3u4kmrp
-  category: Exchanges
+  category: Exchange
   label: CoinArch.com
   source: https://www.walletexplorer.com/address/1LX78tyJGCoDnYbYZcNU3rKVw4w3u4kmrp
 - address: 1LBuYdxJsDBxkgdjH7kyuD8dkWu1EMZEgP
-  category: Exchanges
+  category: Exchange
   label: Indacoin.com
   source: https://www.walletexplorer.com/address/1LBuYdxJsDBxkgdjH7kyuD8dkWu1EMZEgP
 - address: 195V4ePpHfNVUF19Bwv4v5gaepVAVuM36C
-  category: Exchanges
+  category: Exchange
   label: Gatecoin.com-2
   source: https://www.walletexplorer.com/address/195V4ePpHfNVUF19Bwv4v5gaepVAVuM36C
 - address: 1JqZh9eB7MbGks1x7PMj1Ksk9KBKvoGMZ2
-  category: Exchanges
+  category: Exchange
   label: Gatecoin.com
   source: https://www.walletexplorer.com/address/1JqZh9eB7MbGks1x7PMj1Ksk9KBKvoGMZ2
 - address: 1Ge6vrZiYyPX6CpDv2hKhkk6PLCHLuZYbB
-  category: Exchanges
+  category: Exchange
   label: CleverCoin.com
   source: https://www.walletexplorer.com/address/1Ge6vrZiYyPX6CpDv2hKhkk6PLCHLuZYbB
 - address: 18Wi7EMwnPmZeWHHHAhdJdTLEv23qhbcos
-  category: Exchanges
+  category: Exchange
   label: Banx.io-old2
   source: https://www.walletexplorer.com/address/18Wi7EMwnPmZeWHHHAhdJdTLEv23qhbcos
 - address: 1KfHkg7FBidcMk6W4HDd9m3wxHaKUkzdLN
-  category: Exchanges
+  category: Exchange
   label: Banx.io-old
   source: https://www.walletexplorer.com/address/1KfHkg7FBidcMk6W4HDd9m3wxHaKUkzdLN
 - address: 1FMvaN8SdDSsaDABVqETxeqf8BDD5gLrTu
-  category: Exchanges
+  category: Exchange
   label: Banx.io
   source: https://www.walletexplorer.com/address/1FMvaN8SdDSsaDABVqETxeqf8BDD5gLrTu
 - address: 1L5Duj4K7NxV8D9y2eWDdkYCeeBK3T53Ve
-  category: Exchanges
+  category: Exchange
   label: QuadrigaCX.com
   source: https://www.walletexplorer.com/address/1L5Duj4K7NxV8D9y2eWDdkYCeeBK3T53Ve
 - address: 1GEp9Fui9XmyVhszPzFazdW3WHyt1adLR6
-  category: Exchanges
+  category: Exchange
   label: BitKonan.com
   source: https://www.walletexplorer.com/address/1GEp9Fui9XmyVhszPzFazdW3WHyt1adLR6
 - address: 18etDe6HsVFWSGv8fbW9Qn7eBrSsYa32uh
-  category: Exchanges
+  category: Exchange
   label: LakeBTC.com
   source: https://www.walletexplorer.com/address/18etDe6HsVFWSGv8fbW9Qn7eBrSsYa32uh
 - address: 14QdBtAhexfupgR2pyhNULWVTwDKbethrm
-  category: Exchanges
+  category: Exchange
   label: OrderBook.net
   source: https://www.walletexplorer.com/address/14QdBtAhexfupgR2pyhNULWVTwDKbethrm
 - address: 14bYTf7fqMm3Eh12Y59T5DbfEmm8QrfWtu
-  category: Exchanges
+  category: Exchange
   label: Coinomat.com
   source: https://www.walletexplorer.com/address/14bYTf7fqMm3Eh12Y59T5DbfEmm8QrfWtu
 - address: 1EApiQihSg3DPVG8kmVCeq5kehLjXPm2Z1
-  category: Exchanges
+  category: Exchange
   label: MeXBT.com
   source: https://www.walletexplorer.com/address/1EApiQihSg3DPVG8kmVCeq5kehLjXPm2Z1
 - address: 14sPPzbuRdgXMTMAAvThciX7GSjsuGmc39
-  category: Exchanges
+  category: Exchange
   label: CoinCafe.com
   source: https://www.walletexplorer.com/address/14sPPzbuRdgXMTMAAvThciX7GSjsuGmc39
 - address: 1XYq2tLwNxM15sqEtbgpSph75HRgZkTFr
-  category: Exchanges
+  category: Exchange
   label: BTradeAustralia.com-incoming
   source: https://www.walletexplorer.com/address/1XYq2tLwNxM15sqEtbgpSph75HRgZkTFr
 - address: 1Nznb9Szo3Vx9njDUU5eVgqEe8YqiV5Uwx
-  category: Exchanges
+  category: Exchange
   label: BTradeAustralia.com
   source: https://www.walletexplorer.com/address/1Nznb9Szo3Vx9njDUU5eVgqEe8YqiV5Uwx
 - address: 17W4PZ2PS3KksDy5T6yE7FaJsgjmnYMXuP
-  category: Exchanges
+  category: Exchange
   label: UrduBit.com-cold
   source: https://www.walletexplorer.com/address/17W4PZ2PS3KksDy5T6yE7FaJsgjmnYMXuP
 - address: 1Go7vvmLfKeu88m2zRzbuztfkLDfxbLJk5
-  category: Exchanges
+  category: Exchange
   label: LiteBit.eu
   source: https://www.walletexplorer.com/address/1Go7vvmLfKeu88m2zRzbuztfkLDfxbLJk5
 - address: 1LLHYQsnQ7DGhFU4hPqgk8DfDwxvq3zxac
-  category: Exchanges
+  category: Exchange
   label: Coins-e.com
   source: https://www.walletexplorer.com/address/1LLHYQsnQ7DGhFU4hPqgk8DfDwxvq3zxac
 - address: 1H2QU8im5Ed1fkDuAUXwLDZnLF21NmUfFg
-  category: Exchanges
+  category: Exchange
   label: ChBtc.com
   source: https://www.walletexplorer.com/address/1H2QU8im5Ed1fkDuAUXwLDZnLF21NmUfFg
 - address: 1DhZK44qx7dFL4K5qYWjLefhZfdCcuzVnp
-  category: Exchanges
+  category: Exchange
   label: HappyCoins.com
   source: https://www.walletexplorer.com/address/1DhZK44qx7dFL4K5qYWjLefhZfdCcuzVnp
 - address: 1H8maQ7Xi7Fv1PBXwXLznjYJGdEhcSpqGY
-  category: Exchanges
+  category: Exchange
   label: BtcMarkets.net
   source: https://www.walletexplorer.com/address/1H8maQ7Xi7Fv1PBXwXLznjYJGdEhcSpqGY
 - address: 14EBC92evNCak2PqubXJshG5KPjnyajC3H
-  category: Exchanges
+  category: Exchange
   label: 796.com
   source: https://www.walletexplorer.com/address/14EBC92evNCak2PqubXJshG5KPjnyajC3H
 - address: 1227RVexDc3YX9FtbtKyJPF3RLT2z88g3v
-  category: Exchanges
+  category: Exchange
   label: Vaultoro.com
   source: https://www.walletexplorer.com/address/1227RVexDc3YX9FtbtKyJPF3RLT2z88g3v
 - address: 1Ks5aLkREyVUba3QiS64ZL5PPdcgXDXhBp
-  category: Exchanges
+  category: Exchange
   label: Exchanging.ir
   source: https://www.walletexplorer.com/address/1Ks5aLkREyVUba3QiS64ZL5PPdcgXDXhBp
 - address: 1GrCCd4mSvxLqKFzs8Pbny9qBqL65LFKJp
-  category: Exchanges
+  category: Exchange
   label: Korbit.co.kr
   source: https://www.walletexplorer.com/address/1GrCCd4mSvxLqKFzs8Pbny9qBqL65LFKJp
 - address: 1B79f7FHpvwxcpBGfaRnFeBkjtvfipj5vw
-  category: Exchanges
+  category: Exchange
   label: Coinmate.io
   source: https://www.walletexplorer.com/address/1B79f7FHpvwxcpBGfaRnFeBkjtvfipj5vw
 - address: 15ZZ98fghx6pRtTTULPkXbXwX2kZUD2Yp2
-  category: Exchanges
+  category: Exchange
   label: BlockTrades.us
   source: https://www.walletexplorer.com/address/15ZZ98fghx6pRtTTULPkXbXwX2kZUD2Yp2
 - address: 1CEXQdnhAoxYYWZRy7e3EBD46rnLba79KC
-  category: Exchanges
+  category: Exchange
   label: Bitcurex.com
   source: https://www.walletexplorer.com/address/1CEXQdnhAoxYYWZRy7e3EBD46rnLba79KC
 - address: 1HwMuq4Ch7HiMtQ7is4ea5d7wSJjxuJAZi
-  category: Exchanges
+  category: Exchange
   label: CoinTrader.net
   source: https://www.walletexplorer.com/address/1HwMuq4Ch7HiMtQ7is4ea5d7wSJjxuJAZi
 - address: 14xEYv1Ehv4doypfw48RGMmDkUMZrp8Fai
-  category: Exchanges
+  category: Exchange
   label: CampBX.com-old
   source: https://www.walletexplorer.com/address/14xEYv1Ehv4doypfw48RGMmDkUMZrp8Fai
 - address: 1FaoUMnUHHy495jKNViLuPDoVPNK3uK3PG
-  category: Exchanges
+  category: Exchange
   label: CampBX.com
   source: https://www.walletexplorer.com/address/1FaoUMnUHHy495jKNViLuPDoVPNK3uK3PG
 - address: 1FTo7d15fgenrJHAWN8TpixggocscterLC
-  category: Exchanges
+  category: Exchange
   label: FYBSG.com
   source: https://www.walletexplorer.com/address/1FTo7d15fgenrJHAWN8TpixggocscterLC
 - address: 1732nSxjfAj1Z9pBiaAgtk4ekA7Bm3Z9na
-  category: Exchanges
+  category: Exchange
   label: SimpleCoin.cz-old5
   source: https://www.walletexplorer.com/address/1732nSxjfAj1Z9pBiaAgtk4ekA7Bm3Z9na
 - address: 14hQAwFGRCNEmtsEYizbiSyMrhyr5VsNiw
-  category: Exchanges
+  category: Exchange
   label: SimpleCoin.cz-old4
   source: https://www.walletexplorer.com/address/14hQAwFGRCNEmtsEYizbiSyMrhyr5VsNiw
 - address: 1Bgytxtbvmj7B2DTEHYQmmNiwgdbvxjyQV
-  category: Exchanges
+  category: Exchange
   label: SimpleCoin.cz-old3
   source: https://www.walletexplorer.com/address/1Bgytxtbvmj7B2DTEHYQmmNiwgdbvxjyQV
 - address: 12xnb8qNjRGeL2J3rJoeFrqNBJwQFaMrkt
-  category: Exchanges
+  category: Exchange
   label: SimpleCoin.cz-old2
   source: https://www.walletexplorer.com/address/12xnb8qNjRGeL2J3rJoeFrqNBJwQFaMrkt
 - address: 1927zCBQXa6nG4ZaTDNtaek4ubHpEbJGxP
-  category: Exchanges
+  category: Exchange
   label: SimpleCoin.cz-old
   source: https://www.walletexplorer.com/address/1927zCBQXa6nG4ZaTDNtaek4ubHpEbJGxP
 - address: 13N69SPqEJTLNDH3v4d4Ux7nZsABRyhpur
-  category: Exchanges
+  category: Exchange
   label: SimpleCoin.cz
   source: https://www.walletexplorer.com/address/13N69SPqEJTLNDH3v4d4Ux7nZsABRyhpur
 - address: 16MCtYAHyUMPvLKWihBYG5TdQwRNfKoLLn
-  category: Exchanges
+  category: Exchange
   label: TheRockTrading.com-old
   source: https://www.walletexplorer.com/address/16MCtYAHyUMPvLKWihBYG5TdQwRNfKoLLn
 - address: 3HgVJYzT15Wpzotan77obCFvQwrGGX371Y
-  category: Exchanges
+  category: Exchange
   label: TheRockTrading.com
   source: https://www.walletexplorer.com/address/3HgVJYzT15Wpzotan77obCFvQwrGGX371Y
 - address: 1GS2inLB6jaqUuu7hpgVKociwPGEMMctkg
-  category: Exchanges
+  category: Exchange
   label: Igot.com
   source: https://www.walletexplorer.com/address/1GS2inLB6jaqUuu7hpgVKociwPGEMMctkg
 - address: 1Msdj4ivRDzWgqyY3MAWVLx9Mp1qQw7mto
-  category: Exchanges
+  category: Exchange
   label: CoinMotion.com
   source: https://www.walletexplorer.com/address/1Msdj4ivRDzWgqyY3MAWVLx9Mp1qQw7mto
 - address: 1CELa15H4DMzHtHnuz7LCpSFgFWf61Ra6A
-  category: Exchanges
+  category: Exchange
   label: Btc38.com
   source: https://www.walletexplorer.com/address/1CELa15H4DMzHtHnuz7LCpSFgFWf61Ra6A
 - address: 1MynxXAan9JWpwCXD5ZtY5UongLyRrimx9
-  category: Exchanges
+  category: Exchange
   label: Exmo.com
   source: https://www.walletexplorer.com/address/1MynxXAan9JWpwCXD5ZtY5UongLyRrimx9
 - address: 1Bzcrtsy3FjrTmTbB8dsvBmGGCsadnXPFW
-  category: Exchanges
+  category: Exchange
   label: BitVC.com
   source: https://www.walletexplorer.com/address/1Bzcrtsy3FjrTmTbB8dsvBmGGCsadnXPFW
 - address: 1HemKhiiRRhk6YVvUdcyJAWbHEwpGkUaYM
-  category: Exchanges
+  category: Exchange
   label: Vircurex.com
   source: https://www.walletexplorer.com/address/1HemKhiiRRhk6YVvUdcyJAWbHEwpGkUaYM
 - address: 3EKBC9BWM6LaZTt2YZm2QWPo7euvfE69tP
-  category: Exchanges
+  category: Exchange
   label: FoxBit.com.br-cold-old
   source: https://www.walletexplorer.com/address/3EKBC9BWM6LaZTt2YZm2QWPo7euvfE69tP
 - address: 3KAuEYkuJQw1Ad2GzWjfC7V5XoL2fCqjGN
-  category: Exchanges
+  category: Exchange
   label: FoxBit.com.br-cold
   source: https://www.walletexplorer.com/address/3KAuEYkuJQw1Ad2GzWjfC7V5XoL2fCqjGN
 - address: 19WpAEPtfxbzhndCSrwzXnUyMeSB6pdmWV
-  category: Exchanges
+  category: Exchange
   label: FoxBit.com.br-2
   source: https://www.walletexplorer.com/address/19WpAEPtfxbzhndCSrwzXnUyMeSB6pdmWV
 - address: 127LFXb94xZeDrn5Ch4GqcMrjzhBCpKcBu
-  category: Exchanges
+  category: Exchange
   label: FoxBit.com.br
   source: https://www.walletexplorer.com/address/127LFXb94xZeDrn5Ch4GqcMrjzhBCpKcBu
 - address: 383nfCpJQWsbHB9adJjjRL3YoZHuNFc7TR
-  category: Exchanges
+  category: Exchange
   label: CoinHako.com
   source: https://www.walletexplorer.com/address/383nfCpJQWsbHB9adJjjRL3YoZHuNFc7TR
 - address: 14ucsjZBmGKAZhJtG46AwhcjdDL9F2tc89
-  category: Exchanges
+  category: Exchange
   label: C-Cex.com-old
   source: https://www.walletexplorer.com/address/14ucsjZBmGKAZhJtG46AwhcjdDL9F2tc89
 - address: 1GFNZ8B1Ax1ft8yPy3qLiDvVafTCeM84gs
-  category: Exchanges
+  category: Exchange
   label: C-Cex.com
   source: https://www.walletexplorer.com/address/1GFNZ8B1Ax1ft8yPy3qLiDvVafTCeM84gs
 - address: 1AdVABFi77GTdPL6NBmT6LJSedwxXucB5N
-  category: Exchanges
+  category: Exchange
   label: Cavirtex.com
   source: https://www.walletexplorer.com/address/1AdVABFi77GTdPL6NBmT6LJSedwxXucB5N
 - address: 1NaHRVrrozEcQbymLHicXMXDXXEM4eK5W9
-  category: Exchanges
+  category: Exchange
   label: SpectroCoin.com
   source: https://www.walletexplorer.com/address/1NaHRVrrozEcQbymLHicXMXDXXEM4eK5W9
 - address: 13MZDNwKWCvyAW3Lqpp3A6q4gNXkB64sUp
-  category: Exchanges
+  category: Exchange
   label: BitBargain.co.uk
   source: https://www.walletexplorer.com/address/13MZDNwKWCvyAW3Lqpp3A6q4gNXkB64sUp
 - address: 1NysS6A4XaStAFt9RRnMZLoP6sVWxHQC7e
-  category: Exchanges
+  category: Exchange
   label: Paxful.com
   source: https://www.walletexplorer.com/address/1NysS6A4XaStAFt9RRnMZLoP6sVWxHQC7e
 - address: 1Gt2CptfVnE5ULfvDjsDVTNU7rqWaSsUMo
-  category: Exchanges
+  category: Exchange
   label: VirWoX.com
   source: https://www.walletexplorer.com/address/1Gt2CptfVnE5ULfvDjsDVTNU7rqWaSsUMo
 - address: 3ErW3bMinZtcRBbzD2HdypbcBzKzDGw6ij
-  category: Exchanges
+  category: Exchange
   label: Bit-x.com
   source: https://www.walletexplorer.com/address/3ErW3bMinZtcRBbzD2HdypbcBzKzDGw6ij
 - address: 1BZEV8YKTLZGDgSkyJjR4M9ZMA39Um6Srh
-  category: Exchanges
+  category: Exchange
   label: Matbea.com
   source: https://www.walletexplorer.com/address/1BZEV8YKTLZGDgSkyJjR4M9ZMA39Um6Srh
 - address: 15ebQxsrRRUwYFaqfmcgbC2hnYrq6Y72oM
-  category: Exchanges
+  category: Exchange
   label: Bitfinex.com-old2
   source: https://www.walletexplorer.com/address/15ebQxsrRRUwYFaqfmcgbC2hnYrq6Y72oM
 - address: 1M3xjgBs6ELSKRxJ2tj4M41LoRgXrhSCjN
-  category: Exchanges
+  category: Exchange
   label: Bitfinex.com-old
   source: https://www.walletexplorer.com/address/1M3xjgBs6ELSKRxJ2tj4M41LoRgXrhSCjN
 - address: 19VNw8EQWKTmN7u1X15hqyWHrymrCCVWdK
-  category: Exchanges
+  category: Exchange
   label: Bitfinex.com
   source: https://www.walletexplorer.com/address/19VNw8EQWKTmN7u1X15hqyWHrymrCCVWdK
 - address: 1F8bQguTws8P64d2otjMVXqxGmdgwymer6
-  category: Exchanges
+  category: Exchange
   label: Bleutrade.com
   source: https://www.walletexplorer.com/address/1F8bQguTws8P64d2otjMVXqxGmdgwymer6
 - address: 1JQCTbXa3BZVMqE41wuSW6GpfybdhZVxJn
-  category: Exchanges
+  category: Exchange
   label: CoinSpot.com.au
   source: https://www.walletexplorer.com/address/1JQCTbXa3BZVMqE41wuSW6GpfybdhZVxJn
 - address: 17sLQNY8UAPrGdC7F2iFHbJDYFdctdRKqb
-  category: Exchanges
+  category: Exchange
   label: AnxPro.com
   source: https://www.walletexplorer.com/address/17sLQNY8UAPrGdC7F2iFHbJDYFdctdRKqb
 - address: 3L676rAfFZ9JXRaEgFiwKuT6wgLkC23UWw
-  category: Exchanges
+  category: Exchange
   label: BitBay.net
   source: https://www.walletexplorer.com/address/3L676rAfFZ9JXRaEgFiwKuT6wgLkC23UWw
 - address: 185oYS2RwHWudHNQ5UM6gpyx7iNKTEtj3q
-  category: Exchanges
+  category: Exchange
   label: Hashnest.com
   source: https://www.walletexplorer.com/address/185oYS2RwHWudHNQ5UM6gpyx7iNKTEtj3q
 - address: 1NFeBp9s5aQ1iZ26uWyiK2AYUXHxs7bFmB
-  category: Exchanges
+  category: Exchange
   label: Bter.com-cold
   source: https://www.walletexplorer.com/address/1NFeBp9s5aQ1iZ26uWyiK2AYUXHxs7bFmB
 - address: 1KrnUjLNN6wmK9fB7En9kojuvJHB6sCVTJ
-  category: Exchanges
+  category: Exchange
   label: Bter.com-old3
   source: https://www.walletexplorer.com/address/1KrnUjLNN6wmK9fB7En9kojuvJHB6sCVTJ
 - address: 14kdQG5VxRKUEG1L8Qi6GKr1S8vKSGAnpx
-  category: Exchanges
+  category: Exchange
   label: Bter.com-old2
   source: https://www.walletexplorer.com/address/14kdQG5VxRKUEG1L8Qi6GKr1S8vKSGAnpx
 - address: 17cFV8dT7GJLdxp1meCWjFBTfHcBQZ1GQZ
-  category: Exchanges
+  category: Exchange
   label: Bter.com-old
   source: https://www.walletexplorer.com/address/17cFV8dT7GJLdxp1meCWjFBTfHcBQZ1GQZ
 - address: 1GturjXqM4hzM7HHp75wPdG4ezr1HtNpPt
-  category: Exchanges
+  category: Exchange
   label: BX.in.th
   source: https://www.walletexplorer.com/address/1GturjXqM4hzM7HHp75wPdG4ezr1HtNpPt
 - address: 1AUoThb9mXukzbjahmxa4EQpn2EFn4qPiP
-  category: Exchanges
+  category: Exchange
   label: BTCC.com-old2
   source: https://www.walletexplorer.com/address/1AUoThb9mXukzbjahmxa4EQpn2EFn4qPiP
 - address: 1KdTXCdP5t8xJ31zaSFktCjyxWWerU28eX
-  category: Exchanges
+  category: Exchange
   label: BTCC.com-old
   source: https://www.walletexplorer.com/address/1KdTXCdP5t8xJ31zaSFktCjyxWWerU28eX
 - address: 1KxPDLUDKstHbTKALuLH8MtzFaJsaBJhqi
-  category: Exchanges
+  category: Exchange
   label: BTCC.com
   source: https://www.walletexplorer.com/address/1KxPDLUDKstHbTKALuLH8MtzFaJsaBJhqi
 - address: 1L9xAUEPegUc7oB9mPWRiS4GEumetDjrdw
-  category: Exchanges
+  category: Exchange
   label: OKCoin.com-2
   source: https://www.walletexplorer.com/address/1L9xAUEPegUc7oB9mPWRiS4GEumetDjrdw
 - address: 1Mkpy74Gczz8TNTjg8xjjaEugn7FD5QhUf
-  category: Exchanges
+  category: Exchange
   label: OKCoin.com
   source: https://www.walletexplorer.com/address/1Mkpy74Gczz8TNTjg8xjjaEugn7FD5QhUf
 - address: 1FU2uVBCpAeGDmEjqmwEi9mzwe19vAsjhm
-  category: Exchanges
+  category: Exchange
   label: YoBit.net
   source: https://www.walletexplorer.com/address/1FU2uVBCpAeGDmEjqmwEi9mzwe19vAsjhm
 - address: 1AqirJrxm8iWnmxN3q8Nt9LHCVRRpwi76t
-  category: Exchanges
+  category: Exchange
   label: BtcTrade.com
   source: https://www.walletexplorer.com/address/1AqirJrxm8iWnmxN3q8Nt9LHCVRRpwi76t
 - address: 18b1GwzMpZYsSSrKVf4WYPuXULyoMf6Kwo
-  category: Exchanges
+  category: Exchange
   label: Cex.io
   source: https://www.walletexplorer.com/address/18b1GwzMpZYsSSrKVf4WYPuXULyoMf6Kwo
 - address: 1JGfZKnBkT8gbtp53wWZqQKUPBQHW86q1V
-  category: Exchanges
+  category: Exchange
   label: Bitcoin.de-old
   source: https://www.walletexplorer.com/address/1JGfZKnBkT8gbtp53wWZqQKUPBQHW86q1V
 - address: 13iMZjXxQuq8WpsrVrEARouGiwa7Ec41mz
-  category: Exchanges
+  category: Exchange
   label: Bitcoin.de
   source: https://www.walletexplorer.com/address/13iMZjXxQuq8WpsrVrEARouGiwa7Ec41mz
 - address: 1HpeCDwDxdB1Ad5Fx1QdSyPoWv2AUuuGoT
-  category: Exchanges
+  category: Exchange
   label: Cryptsy.com-old
   source: https://www.walletexplorer.com/address/1HpeCDwDxdB1Ad5Fx1QdSyPoWv2AUuuGoT
 - address: 18kKnQjFz9rfYSwJhsBF8y4fksXCnAkfg1
-  category: Exchanges
+  category: Exchange
   label: Cryptsy.com
   source: https://www.walletexplorer.com/address/18kKnQjFz9rfYSwJhsBF8y4fksXCnAkfg1
 - address: 3JkSwgHew9QBsFNufrw4qmMW5mAnQJZXeA
-  category: Exchanges
+  category: Exchange
   label: MercadoBitcoin.com.br
   source: https://www.walletexplorer.com/address/3JkSwgHew9QBsFNufrw4qmMW5mAnQJZXeA
 - address: 16PMJGm6TE2Se16wRf9xuGFYiJBnT1FVAN
-  category: Exchanges
+  category: Exchange
   label: Bitstamp.net-old
   source: https://www.walletexplorer.com/address/16PMJGm6TE2Se16wRf9xuGFYiJBnT1FVAN
 title: Wallet Explorer Tags

@@ -45,12 +45,17 @@ def extract_tags(tag_pack):
 
 def check_categories(d):
     for k, v in d.items():
+        print(k)
         if isinstance(v, dict):
             check_categories(v)
         else:
-            if k == 'categories' and v not in config_categories:
-                return(k, v)
-
+            if k == 'category':
+                if v not in config_categories:
+                    return k, v
+            if k == 'tags':
+                for el in v:
+                    if 'category' in el and el['category'] not in config_categories:
+                        return k, el['category']
 
 def lastmod_to_timestamp(d):
     for k, v in d.items():

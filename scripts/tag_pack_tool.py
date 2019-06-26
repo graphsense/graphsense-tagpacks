@@ -2,13 +2,14 @@
 
 import datetime
 import json
+import re
 import time
 from argparse import ArgumentParser
 
 import yaml
 from yaml.parser import ParserError
 from cassandra.cluster import Cluster
-import re
+
 
 CONFIG_FILE = "config.yaml"
 

@@ -1,22 +1,17 @@
-title: GraphSense Demo Binance
-creator: GraphSense User (SR) 
-description: Common Tag related to Binance hack 
+title: GraphSense Binance
+creator: GraphSense User (SR)
+currency: BTC
+description: Addresses related to Binance hack 
 lastmod: 2019-07-02
-label: Binance
+label: Binance hack
 source: https://www.theblockcrypto.com/tiny/binance-hacker-consolidates-the-stolen-bitcoin-into-just-seven-addresses/
 category: hack
 tags:
   - address: bc1q2rdpyt8ed9pm56u9t0zjf94zrdu6gufa47pf62    
-currency: BTC
   - address: bc1qx3628eh9tdnm0uzculu8k6r2ywfkc5zns2hp0k     
-currency: BTC
   - address: bc1qnf2ja3ffqzc3hskanjse6p8zag52fm6jgmmg9u    
-currency: BTC
   - address: bc1qw7g5uxxl750t0h2fh9xajwuxp4qt634yh3vg5q    
-currency: BTC
   - address: 16SMGihY94H8UjRcxwsLnDtxRt7cRLkvoC    
-currency: BTC
   - address: 1MNwMURYw1LkPnnpda2DQkkUsXXeKL9pmR    
-currency: BTC
   - address: bc1q3a5hd36jrqeseqa27nm40srkgxy8lk0v0tpjtp    
-currency: BTC
+

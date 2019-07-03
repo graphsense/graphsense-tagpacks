@@ -46,7 +46,6 @@ def extract_tags(tag_pack):
 
 def check_categories(d):
     for k, v in d.items():
-        print(k)
         if isinstance(v, dict):
             check_categories(v)
         else:

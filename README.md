@@ -136,9 +136,9 @@ adding them to the configuration file (`config.yaml`) of a TagPack repository.
       - Organization
       - Miner
       - Exchange
-      - Walletprovider
+      - Wallet Service
       - Marketplace
-      - Mixingservice
+      - Mixing Service
 
 
 Please note that additional fields must also be considered in the schema
@@ -177,12 +177,16 @@ Ensure that there is a keyspace `tagPacks` in your local Cassandra instance.
 Validate a single TagPack or all TagPacks
 
     ./scripts/tag_pack_tool.py validate packs/demo.yaml
-    ./scripts/tag_pack_tool.py validate packs/*.yaml
+    for f in packs/*yaml; do ./scripts/tag_pack_tool.py validate $f; done
 
 Ingest a single TagPack or all TagPacks
 
     ./scripts/tag_pack_tool.py ingest packs/demo.yaml
-    ./scripts/tag_pack_tool.py ingest packs/*.yaml
+    for f in packs/*yaml; do ./scripts/tag_pack_tool.py ingest $f; done
+
+
+## Additional help
+It may happen that different sources use different file formats, provide different names for the same entity or that some categories are not entirely correct. To facilitate checking and cleaning, there are two jupyter notebooks in the [scripts](scripts) folder, one for converting files into `yaml` format and one for data cleaning.
 
 After ingesting new TagPacks you should re-run the
 [graphsense-transformation](https://github.com/graphsense/graphsense-transformation)

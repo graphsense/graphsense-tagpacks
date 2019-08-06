@@ -1,9 +1,9 @@
 category: Sextortion
 creator: Talos Cisco
 currency: BTC
-description: Sextortion addresses
+description: Addresses related to Sextortion Spam discovered by Talos
 label: Sextortion Talos
-lastmod: 2019-07-10
+lastmod: 2019-08-06
 source: https://blog.talosintelligence.com/2018/10/anatomy-of-sextortion-scam.html
 tags:
 - address: 1121DWBuPTD7SuTxx7BivG6hyVJbhA3McT

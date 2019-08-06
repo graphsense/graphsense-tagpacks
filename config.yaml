@@ -1,18 +1,18 @@
 baseURI: https://github.com/graphsense/graphsense-tagpacks/blob/master
 categories:
-- Organization
-- Ponzi Scheme
-- Miner
-- Mixing Service
-- Hack
-- Service/Other
-- Ransomware
 - Scam
-- Marketplace
 - Sextortion
+- Marketplace
+- Mixing Service
 - Wallet Service
+- Hack
+- Ransomware
+- Ponzi Scheme
 - Exchange
+- Organization
 - Gambling
+- Miner
+- Service/Other
 fields:
   header:
   - title

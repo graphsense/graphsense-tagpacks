@@ -5,14 +5,14 @@ import json
 import re
 import time
 from argparse import ArgumentParser
-
 import yaml
 from yaml.parser import ParserError
 from cassandra.cluster import Cluster
+from cassandra.query import BatchStatement
 
 
 CONFIG_FILE = "config.yaml"
-
+BATCH_SIZE_LIMIT = 500
 
 config = yaml.safe_load(open(CONFIG_FILE, 'r'))
 
@@ -35,14 +35,15 @@ def extract_meta(tag_pack):
 
 def extract_tags(tag_pack):
     # Retrieve generic tag fields from tag pack header
+    tags = []
     generic_tag_fields = {k: v for k, v in tag_pack.items()
                           if k not in config_header_fields and k != "tags"}
     # Iterate each tag and enrich them with generic fields
     for tag in tag_pack['tags']:
         final_tag = generic_tag_fields.copy()
         final_tag.update(tag)
-        yield final_tag
-
+        tags.append(final_tag)
+    return tags
 
 def check_categories(d):
     for k, v in d.items():
@@ -111,11 +112,8 @@ def validate(args):
         print("Cannot parse YAML file:" + str(parser_error))
 
 
-def insert_tag_pack_meta(tag_pack_json):
-    pass
-
-
 def ingest(args):
+    batch_size = args.batch_size
     db_nodes = args.db_nodes
     if not isinstance(args.db_nodes, list):
         db_nodes = [args.db_nodes]
@@ -141,23 +139,49 @@ def ingest(args):
         session.execute(cql_stmt)
 
         # Insert tags into tag_by_address table
-        cql_stmt = session.prepare('INSERT INTO tag_by_address JSON ?')
-        for tag in extract_tags(tag_pack):
-            tag['tagpack_uri'] = tag_pack_uri
-            tag_json = json.dumps(tag)
-            session.execute(cql_stmt, [tag_json])
+        extracted_tags = extract_tags(tag_pack)
+        batch_size = min(batch_size, len(extracted_tags))
+        batch_stmt = BatchStatement()
 
-        # Insert tags into tag_by_label table
-        cql_stmt = session.prepare('INSERT INTO tag_by_label JSON ?')
-        for tag in extract_tags(tag_pack):
-            tag['label_norm'] = label_to_labelnorm(tag['label'])
-            tag['label_norm_prefix'] = tag['label_norm'][:3]
-            tag['tagpack_uri'] = tag_pack_uri
-            tag_json = json.dumps(tag)
-            session.execute(cql_stmt, [tag_json])
+        prepared_stmt = session.prepare('INSERT INTO tag_by_address JSON ?')
+        idx_start, idx_end = 0, len(extracted_tags)
 
-        print("Ingested TagPack {}".format(tag_pack_file))
+        print('Ingesting tags with batch size:', batch_size)
+        success = True
+        while not success and batch_size:
+            try:  # batch might be too large
+                for index in range(idx_start, idx_end, batch_size):
+                    curr_batch_size = min(batch_size, idx_end - index)
+                    for i in range(0, curr_batch_size):
+                        tag = extracted_tags[index + i]
+                        tag['tagpack_uri'] = tag_pack_uri
+                        tag_json = json.dumps(tag)
+                        batch_stmt.add(prepared_stmt, [tag_json])
+                    session.execute(batch_stmt)
+                    batch_stmt.clear()
 
+                # Insert tags into tag_by_label table
+                prepared_stmt = session.prepare('INSERT INTO tag_by_label JSON ?')
+                idx_start, idx_end = 0, len(extracted_tags)
+                for index in range(idx_start, idx_end, batch_size):
+                    curr_batch_size = min(batch_size, idx_end - index)
+                    for i in range(0, curr_batch_size):
+                        tag = extracted_tags[index + i]
+                        tag['label_norm'] = label_to_labelnorm(tag['label'])
+                        tag['label_norm_prefix'] = tag['label_norm'][:3]
+                        tag['tagpack_uri'] = tag_pack_uri
+                        tag_json = json.dumps(tag)
+                        batch_stmt.add(prepared_stmt, [tag_json])
+                    session.execute(batch_stmt)
+                    batch_stmt.clear()
+
+                success = True
+                print("Ingested TagPack {}".format(tag_pack_file))
+            except Exception as e:
+                print(e)
+                batch_size = BATCH_SIZE_LIMIT  # current limit
+                batch_stmt.clear()
+                print('Trying again with batch size:', batch_size)
     cluster.shutdown()
 
 
@@ -174,6 +198,9 @@ def main():
     parser_i.add_argument('-d', '--db_nodes', dest='db_nodes', nargs='+',
                           default='127.0.0.1', metavar='DB_NODE',
                           help='list of Cassandra nodes; default "localhost")')
+    parser_i.add_argument('-b', '--batch-size', dest='batch_size', nargs='+',
+                          default=BATCH_SIZE_LIMIT, metavar='BATCH_SIZE',
+                          help='batch size for inserting tags into Cassandra)')
     parser_i.set_defaults(func=ingest)
 
     # create parser for validate command

@@ -184,6 +184,7 @@ Ingest a single TagPack or all TagPacks
     ./scripts/tag_pack_tool.py ingest packs/demo.yaml
     for f in packs/*yaml; do ./scripts/tag_pack_tool.py ingest $f; done
 
+When ingesting TagPacks, you can specify the batch size to improve performances with the `-b` parameter (default is 500).
 
 ## Additional help
 It may happen that different sources use different file formats, provide different names for the same entity or that some categories are not entirely correct. To facilitate checking and cleaning, there are two jupyter notebooks in the [scripts](scripts) folder, one for converting files into `yaml` format and one for data cleaning.

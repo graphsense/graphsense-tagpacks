@@ -147,7 +147,7 @@ def ingest(args):
         idx_start, idx_end = 0, len(extracted_tags)
 
         print('Ingesting tags with batch size:', batch_size)
-        success = True
+        success = False
         while not success and batch_size:
             try:  # batch might be too large
                 for index in range(idx_start, idx_end, batch_size):
@@ -179,7 +179,7 @@ def ingest(args):
                 print("Ingested TagPack {}".format(tag_pack_file))
             except Exception as e:
                 print(e)
-                batch_size = BATCH_SIZE_LIMIT  # current limit
+                batch_size = min(int(batch_size/2), BATCH_SIZE_LIMIT)
                 batch_stmt.clear()
                 print('Trying again with batch size:', batch_size)
     cluster.shutdown()

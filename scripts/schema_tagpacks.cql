@@ -35,3 +35,15 @@ CREATE TABLE tag_by_label (
     category        text,
     PRIMARY KEY (label_norm_prefix, label_norm, label, address, currency, source, tagpack_uri)
 );
+
+CREATE TABLE tag_by_category (
+    category        text,
+    label_norm      text,
+    label           text,
+    address         text,
+    source          text,
+    tagpack_uri     text,
+    currency        text,
+    lastmod         int,
+    PRIMARY KEY (category, currency, source, tagpack_uri)
+);

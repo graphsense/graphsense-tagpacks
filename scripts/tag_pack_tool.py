@@ -45,6 +45,7 @@ def extract_tags(tag_pack):
         tags.append(final_tag)
     return tags
 
+
 def check_categories(d):
     for k, v in d.items():
         if isinstance(v, dict):
@@ -57,6 +58,7 @@ def check_categories(d):
                 for el in v:
                     if 'category' in el and el['category'] not in config_categories:
                         return k, el['category']
+
 
 def lastmod_to_timestamp(d):
     for k, v in d.items():
@@ -143,13 +145,12 @@ def ingest(args):
         batch_size = min(batch_size, len(extracted_tags))
         batch_stmt = BatchStatement()
 
-        prepared_stmt = session.prepare('INSERT INTO tag_by_address JSON ?')
-        idx_start, idx_end = 0, len(extracted_tags)
-
         print('Ingesting tags with batch size:', batch_size)
         success = False
         while not success and batch_size:
             try:  # batch might be too large
+                prepared_stmt = session.prepare('INSERT INTO tag_by_address JSON ?')
+                idx_start, idx_end = 0, len(extracted_tags)
                 for index in range(idx_start, idx_end, batch_size):
                     curr_batch_size = min(batch_size, idx_end - index)
                     for i in range(0, curr_batch_size):
@@ -159,7 +160,42 @@ def ingest(args):
                         batch_stmt.add(prepared_stmt, [tag_json])
                     session.execute(batch_stmt)
                     batch_stmt.clear()
+                success = True
+            except Exception as e:
+                print(e)
+                batch_size = min(int(batch_size/2), BATCH_SIZE_LIMIT)
+                batch_stmt.clear()
+                print('Trying again with batch size:', batch_size)
 
+        print('Ingesting tags with batch size:', batch_size)
+        success = False
+        while not success and batch_size:
+            try:
+                # Insert tags into tag_by_category table
+                prepared_stmt = session.prepare('INSERT INTO tag_by_category JSON ?')
+                idx_start, idx_end = 0, len(extracted_tags)
+                for index in range(idx_start, idx_end, batch_size):
+                    curr_batch_size = min(batch_size, idx_end - index)
+                    for i in range(0, curr_batch_size):
+                        tag = extracted_tags[index + i]
+                        tag['label_norm'] = label_to_labelnorm(tag['label'])
+                        tag['tagpack_uri'] = tag_pack_uri
+                        tag_json = json.dumps(tag)
+                        batch_stmt.add(prepared_stmt, [tag_json])
+                    session.execute(batch_stmt)
+                    batch_stmt.clear()
+                success = True
+                print("Ingested TagPack {}".format(tag_pack_file))
+            except Exception as e:
+                print(e)
+                batch_size = min(int(batch_size/2), BATCH_SIZE_LIMIT)
+                batch_stmt.clear()
+                print('Trying again with batch size:', batch_size)
+
+        print('Ingesting tags with batch size:', batch_size)
+        success = False
+        while not success and batch_size:
+            try:
                 # Insert tags into tag_by_label table
                 prepared_stmt = session.prepare('INSERT INTO tag_by_label JSON ?')
                 idx_start, idx_end = 0, len(extracted_tags)
@@ -174,7 +210,6 @@ def ingest(args):
                         batch_stmt.add(prepared_stmt, [tag_json])
                     session.execute(batch_stmt)
                     batch_stmt.clear()
-
                 success = True
                 print("Ingested TagPack {}".format(tag_pack_file))
             except Exception as e:
@@ -182,6 +217,7 @@ def ingest(args):
                 batch_size = min(int(batch_size/2), BATCH_SIZE_LIMIT)
                 batch_stmt.clear()
                 print('Trying again with batch size:', batch_size)
+
     cluster.shutdown()
 
 

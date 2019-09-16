@@ -47,3 +47,9 @@ CREATE TABLE tag_by_category (
     lastmod         int,
     PRIMARY KEY (category, currency, source, tagpack_uri)
 );
+
+CREATE TABLE categories (
+    category        text,
+    ID              int,
+    PRIMARY KEY (category)
+);

@@ -218,6 +218,12 @@ def ingest(args):
                 batch_stmt.clear()
                 print('Trying again with batch size:', batch_size)
 
+    # Insert categories
+    for i, c in enumerate(config_categories):
+        category_json = json.dumps({'category': c, 'ID': i})
+        cql_stmt = """INSERT INTO categories JSON '{}';""".format(category_json)
+        session.execute(cql_stmt)
+
     cluster.shutdown()
 
 

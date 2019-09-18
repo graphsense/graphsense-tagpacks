@@ -93,7 +93,7 @@ tags:
   source: https://bitcointalk.org/index.php?topic=576337
 - address: 1KuNvyWFqc5wBSWUCyJLDgv12vequwMMCS
   category: Service/Other
-  label: bitcoinica
+  label: bitcoinica.com
   source: https://bitcointalk.org/index.php?topic=576337
 - address: 182tGyiczhXSSCTciVujNRkkMw1zQxUVhp
   category: Hack
@@ -2481,23 +2481,23 @@ tags:
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - address: 1M2bv6sypZSp6uAEC9U4Gzvgp6jd29F87e
   category: Exchange
-  label: bter
+  label: bter.com
   source: https://www.coindesk.com/bter-bitcoin-stolen-cold-wallet-hack
 - address: 13sswj3bpfyFQby1oJbpjCUe18ZxUygKZt
   category: Exchange
-  label: bter
+  label: bter.com
   source: https://www.coindesk.com/bter-bitcoin-stolen-cold-wallet-hack
 - address: 1Ni8z1MbaF4ri8GGE67BWtLu66YnXj2BuW
   category: Exchange
-  label: bter
+  label: bter.com
   source: https://www.coindesk.com/bter-bitcoin-stolen-cold-wallet-hack
 - address: 1AeRVukQNG3qhd3i31pwFa7Z8qc6JnkYEs
   category: Exchange
-  label: bter
+  label: bter.com
   source: https://www.coindesk.com/bter-bitcoin-stolen-cold-wallet-hack
 - address: 1CZ6jGQ9TPBjixtRkNZ21PNR8gQe7YNydE
   category: Exchange
-  label: bter
+  label: bter.com
   source: https://www.coindesk.com/bter-bitcoin-stolen-cold-wallet-hack
 - address: 1Ni8z1MbaF4ri8GGE67BWtLu66YnXj2BuW
   category: Hack

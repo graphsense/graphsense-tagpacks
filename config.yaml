@@ -2,18 +2,18 @@ baseURI: https://github.com/graphsense/graphsense-tagpacks/blob/develop
 categories:
 - Exchange
 - Wallet Service
-- Service/Other
+- Other
 - Miner
 - Marketplace
 - Gambling
 - Mixing Service
-- Organization
+- ''
+abuses:
 - Scam
 - Sextortion
 - Hack
 - Ransomware
 - Ponzi Scheme
-- Unspecified
 fields:
   header:
   - title
@@ -27,4 +27,5 @@ fields:
   - currency
   - category
   - lastmod
+  - abuse
 targetKeyspace: tagpacks

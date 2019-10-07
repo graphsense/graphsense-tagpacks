@@ -94,7 +94,7 @@ tags:
   label: kraken
 - abuse: ''
   address: 16Yg6dREYfXYqLRbWWV8fuVupdCkpkBaWx
-  category: ''
+  category: 'Other'
   label: bitmain
 - abuse: ''
   address: 12fXB6sBJCGbmf7XhRvTXMDCu91329aven
@@ -114,7 +114,7 @@ tags:
   label: huobi.com
 - abuse: ''
   address: 18tFSYdTqXeE2w7KJ4rg7jWHR2zxUica4b
-  category: ''
+  category: 'Other'
   label: bitmain
 - abuse: ''
   address: 12gr1kbYQU2M81QBUQ5uAdwA9jKT6oDwx5

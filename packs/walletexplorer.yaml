@@ -105,7 +105,7 @@ tags:
   source: https://www.walletexplorer.com/address/1JxFfHNiadHuRnq2tLpQuyjwhV2DgjQMti
 - abuse: Ransomware
   address: 18iEz617DoDp8CNQUyyrjCcC7XCGDf5SVb
-  category: ''
+  category: 'Unspecified'
   label: cryptolocker
   source: https://www.walletexplorer.com/address/18iEz617DoDp8CNQUyyrjCcC7XCGDf5SVb
 - abuse: ''
@@ -150,7 +150,7 @@ tags:
   source: https://www.walletexplorer.com/address/1BaqXw9tWkcQvjqeQTzk7beUfF4NZURZtv
 - abuse: Scam
   address: 19zJxuWEZ6vGXaBDnbahH5xSE5DQBWko1j
-  category: ''
+  category: 'Unspecified'
   label: 10xbitco.in
   source: https://www.walletexplorer.com/address/19zJxuWEZ6vGXaBDnbahH5xSE5DQBWko1j
 - abuse: ''
@@ -190,7 +190,7 @@ tags:
   source: https://www.walletexplorer.com/address/1F7rkmXCouKbCuXF4DbpCwug9xBcsVvnQ5
 - abuse: Ponzi Scheme
   address: 15dKqW1oMzo8w7yJYXuRqTKeJExQuHeVwL
-  category: ''
+  category: 'Unspecified'
   label: ponzicoin.co
   source: https://www.walletexplorer.com/address/15dKqW1oMzo8w7yJYXuRqTKeJExQuHeVwL
 - abuse: ''
@@ -260,12 +260,12 @@ tags:
   source: https://www.walletexplorer.com/address/1Hwa7toTybK5sW3yVqA5ZULN1nd9hPjpvo
 - abuse: Scam
   address: 19TWwMYNDf4vdzud6KH8twHJeJ5P4NjWt6
-  category: ''
+  category: 'Unspecified'
   label: btcst.com-pirateat40
   source: https://www.walletexplorer.com/address/19TWwMYNDf4vdzud6KH8twHJeJ5P4NjWt6
 - abuse: Scam
   address: 12ZyTyamVXm21G8X5MBKUTLxe1Ma8AvfFy
-  category: ''
+  category: 'Unspecified'
   label: bitoomba.com
   source: https://www.walletexplorer.com/address/12ZyTyamVXm21G8X5MBKUTLxe1Ma8AvfFy
 - abuse: ''
@@ -400,7 +400,7 @@ tags:
   source: https://www.walletexplorer.com/address/15KSH7hL7dG7CNNGFChYzph4czXNjyq829
 - abuse: Scam
   address: 145SmDToAhtfcBQhNxfeM8hnS6CBeiRukY
-  category: ''
+  category: 'Unspecified'
   label: leancy
   source: https://www.walletexplorer.com/address/145SmDToAhtfcBQhNxfeM8hnS6CBeiRukY
 - abuse: ''
@@ -500,7 +500,7 @@ tags:
   source: https://www.walletexplorer.com/address/127SwMQuJjdkkaJrC5EcuTM59k8TcGjW2j
 - abuse: Scam
   address: 12uP57F6k2rSm6Esyck52FYTmeDChvg4Jn
-  category: ''
+  category: 'Unspecified'
   label: mcxnow.com
   source: https://www.walletexplorer.com/address/12uP57F6k2rSm6Esyck52FYTmeDChvg4Jn
 - abuse: ''
@@ -525,7 +525,7 @@ tags:
   source: https://www.walletexplorer.com/address/157kWwjWbXFGQHGMuAP9ZFu8xk7hMLZcdf
 - abuse: Scam
   address: 1H9dExCznw7S89Fi2SfkxQMCzpfimBUpPj
-  category: ''
+  category: 'Unspecified'
   label: mintpal.com
   source: https://www.walletexplorer.com/address/1H9dExCznw7S89Fi2SfkxQMCzpfimBUpPj
 - abuse: ''
@@ -895,7 +895,7 @@ tags:
   source: https://www.walletexplorer.com/address/1BrF8iYUJAzngDV2j2sU7dmnMhBmTB7NJs
 - abuse: Scam
   address: 1JMsrs5eUZGDrwhHNDHJuJiW3mazgjxRjk
-  category: ''
+  category: 'Unspecified'
   label: coinurl.com
   source: https://www.walletexplorer.com/address/1JMsrs5eUZGDrwhHNDHJuJiW3mazgjxRjk
 - abuse: ''

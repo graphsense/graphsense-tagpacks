@@ -240,9 +240,10 @@ def main():
     parser_i.add_argument('-d', '--db_nodes', dest='db_nodes', nargs='+',
                           default='127.0.0.1', metavar='DB_NODE',
                           help='list of Cassandra nodes; default "localhost")')
-    parser_i.add_argument('-b', '--batch-size', dest='batch_size', nargs='+',
+    parser_i.add_argument('-b', '--batch-size', dest='batch_size', nargs='?',
                           default=BATCH_SIZE_LIMIT, metavar='BATCH_SIZE',
                           help='batch size for inserting tags into Cassandra)')
+
     parser_i.set_defaults(func=ingest)
 
     # create parser for validate command

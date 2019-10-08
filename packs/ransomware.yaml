@@ -1,8 +1,9 @@
-abuse: Ransomware
-category: 'Unspecified'
+title: Ransomware Tagpack
 creator: Masarah Paquet-Clouston and Bernhard Haslhofer
-currency: BTC
 description: Ransomware addresses
+abuse: Ransomware
+category: Unspecified
+currency: BTC
 lastmod: 2019-06-24
 source: https://zenodo.org/record/1238041#.XLQwopMzZR4
 tags:
@@ -14654,4 +14655,3 @@ tags:
   label: xtplocker
 - address: 1GmGBH9ra2dqA8CgRg8a8Rngx4qHb2hLDW
   label: zyka
-title: Ransomware Tagpack

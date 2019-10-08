@@ -56,7 +56,8 @@ def check_categories(d):
                     return k, v
             if k == 'tags':
                 for el in v:
-                    if 'category' in el and el['category'] not in config_categories:
+                    if 'category' in el and el['category'] \
+                            not in config_categories:
                         return k, el['category']
 
 
@@ -149,7 +150,8 @@ def ingest(args):
         success = False
         while not success and batch_size:
             try:  # batch might be too large
-                prepared_stmt = session.prepare('INSERT INTO tag_by_address JSON ?')
+                prepared_stmt = session.prepare('INSERT INTO '
+                                                'tag_by_address JSON ?')
                 idx_start, idx_end = 0, len(extracted_tags)
                 for index in range(idx_start, idx_end, batch_size):
                     curr_batch_size = min(batch_size, idx_end - index)
@@ -172,7 +174,8 @@ def ingest(args):
         while not success and batch_size:
             try:
                 # Insert tags into tag_by_category table
-                prepared_stmt = session.prepare('INSERT INTO tag_by_category JSON ?')
+                prepared_stmt = session.prepare('INSERT INTO '
+                                                'tag_by_category JSON ?')
                 idx_start, idx_end = 0, len(extracted_tags)
                 for index in range(idx_start, idx_end, batch_size):
                     curr_batch_size = min(batch_size, idx_end - index)
@@ -197,7 +200,8 @@ def ingest(args):
         while not success and batch_size:
             try:
                 # Insert tags into tag_by_label table
-                prepared_stmt = session.prepare('INSERT INTO tag_by_label JSON ?')
+                prepared_stmt = session.prepare('INSERT INTO '
+                                                'tag_by_label JSON ?')
                 idx_start, idx_end = 0, len(extracted_tags)
                 for index in range(idx_start, idx_end, batch_size):
                     curr_batch_size = min(batch_size, idx_end - index)
@@ -221,7 +225,8 @@ def ingest(args):
     # Insert categories
     for i, c in enumerate(config_categories):
         category_json = json.dumps({'category': c, 'ID': i})
-        cql_stmt = """INSERT INTO categories JSON '{}';""".format(category_json)
+        cql_stmt = """INSERT INTO categories JSON '{}';"""\
+            .format(category_json)
         session.execute(cql_stmt)
 
     cluster.shutdown()

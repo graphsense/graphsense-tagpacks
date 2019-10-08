@@ -1,7 +1,7 @@
-abuse: ''
-category: Other
+title: GraphSense Demo TagPack
 creator: GraphSense Team
 description: A collection of tags commonly used for demonstrating GraphSense features
+category: Other
 label: internet archive
 lastmod: 2019-06-12
 source: https://archive.org/donate/cryptocurrency
@@ -16,4 +16,3 @@ tags:
   currency: XRP
 - address: t1ZmpK4QFcvyQZ3ghTgSboBW8b4HgiZHQF9
   currency: ZEC
-title: GraphSense Demo TagPack

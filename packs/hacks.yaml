@@ -1,3136 +1,2688 @@
+title: Hacks Tagpack
 creator: Graphsense Team
-currency: BTC
 description: Addresses related to hacked Exchanges and hackers
+currency: BTC
 lastmod: 2019-07-15
 tags:
-- abuse: ''
-  address: 1JoktQJhCzuCQkt3GnQ8Xddcq4mUgNyXEa
+- address: 1JoktQJhCzuCQkt3GnQ8Xddcq4mUgNyXEa
   category: Exchange
   label: bitstamp
   source: https://www.reddit.com/r/Bitcoin/comments/2rdvi7/bistamps_cold_storage_address/
-- abuse: ''
-  address: 3A1KUd5H4hBEHk4bZB4C3hGgvuXuVX7p7t
+- address: 3A1KUd5H4hBEHk4bZB4C3hGgvuXuVX7p7t
   category: Exchange
   label: bitstamp
   source: https://www.reddit.com/r/Bitcoin/comments/2rdvi7/bistamps_cold_storage_address/
-- abuse: ''
-  address: 113L62kchKukrSmA9ur7Xq9KorCV3u4dTG
+- address: 113L62kchKukrSmA9ur7Xq9KorCV3u4dTG
   category: Exchange
   label: bitstamp
   source: https://bitcointalk.org/index.php?topic=918981.0
-- abuse: ''
-  address: 16vXP31udcx67Xk9KZJNAq2JM6i4hFSGyh
+- address: 16vXP31udcx67Xk9KZJNAq2JM6i4hFSGyh
   category: Exchange
   label: bitstamp
   source: https://bitcointalk.org/index.php?topic=918981.0
-- abuse: ''
-  address: 1ABobw22YXGu4vKtysgX9AKRqz3fUFWv4E
+- address: 1ABobw22YXGu4vKtysgX9AKRqz3fUFWv4E
   category: Exchange
   label: bitstamp
   source: https://bitcointalk.org/index.php?topic=918981.0
-- abuse: ''
-  address: 1GuJf9YrV853Da9GouBvUq2zAjEdn8ej9d
+- address: 1GuJf9YrV853Da9GouBvUq2zAjEdn8ej9d
   category: Exchange
   label: bitstamp
   source: https://bitcointalk.org/index.php?topic=918981.0
-- abuse: ''
-  address: 1GVtpiTSEwC1vUe3UGFRBHjGTrWVFuiArs
+- address: 1GVtpiTSEwC1vUe3UGFRBHjGTrWVFuiArs
   category: Exchange
   label: bitstamp
   source: https://bitcointalk.org/index.php?topic=918981.0
-- abuse: ''
-  address: 1HNaQ8HWPQCW93aQzCHBr3EdqEqgfQV3ir
+- address: 1HNaQ8HWPQCW93aQzCHBr3EdqEqgfQV3ir
   category: Exchange
   label: bitstamp
   source: https://bitcointalk.org/index.php?topic=918981.0
-- abuse: ''
-  address: 1JEC8vYP9cEDSu6N6DXkkYd3RaeWAdsCqN
+- address: 1JEC8vYP9cEDSu6N6DXkkYd3RaeWAdsCqN
   category: Exchange
   label: bitstamp
   source: https://bitcointalk.org/index.php?topic=918981.0
-- abuse: ''
-  address: 1JYTUJZMTsJkqDfLzBG1bGcaBngLgSPAoQ
+- address: 1JYTUJZMTsJkqDfLzBG1bGcaBngLgSPAoQ
   category: Exchange
   label: bitstamp
   source: https://bitcointalk.org/index.php?topic=918981.0
-- abuse: ''
-  address: 1NaZM6vqvW14Q3P7XWUTB9Q6NWNESLbwEb
+- address: 1NaZM6vqvW14Q3P7XWUTB9Q6NWNESLbwEb
   category: Exchange
   label: bitstamp
   source: https://bitcointalk.org/index.php?topic=918981.0
-- abuse: ''
-  address: 1PuSoNughjE4zTdRQS2sDhLEFbVgkB3kS7
+- address: 1PuSoNughjE4zTdRQS2sDhLEFbVgkB3kS7
   category: Exchange
   label: bitstamp
   source: https://bitcointalk.org/index.php?topic=918981.0
-- abuse: ''
-  address: 1Lgnzb1p9YE3uKwGpspMQZ1NcAD1EMxzSh
+- address: 1Lgnzb1p9YE3uKwGpspMQZ1NcAD1EMxzSh
   category: Gambling
   label: betco.in
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1HVi6re6zDr5c5v9Sk2mmL9u7svEHfiBt4
-  category: 'Unspecified'
+  category: Unspecified
   label: betco.in hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 184VFd8519G6WPg78r8YTvkL2zQ8aLxw9Q
+- address: 184VFd8519G6WPg78r8YTvkL2zQ8aLxw9Q
   category: Gambling
   label: betco.in
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 18hzngAgi6F1bXQv1iJxFYwgY44WHhBVwj
-  category: 'Unspecified'
+  category: Unspecified
   label: betco.in hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1GkT8q9VbHuUZKeNoQpvwDPBP7oDqexmiz
+- address: 1GkT8q9VbHuUZKeNoQpvwDPBP7oDqexmiz
   category: Gambling
   label: betco.in
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1KPGDc6oHpvWoUSyssxqmRgwtUqsyyey2y
-  category: 'Unspecified'
+  category: Unspecified
   label: betco.in hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 13xsdhZFXhhayKV9YavWq6YGG3PpY66Jzc
+- address: 13xsdhZFXhhayKV9YavWq6YGG3PpY66Jzc
   category: Gambling
   label: betco.in
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1L4kz6BA8mzi8KLV9VQ2pYcW8QQFVihWLg
-  category: 'Unspecified'
+  category: Unspecified
   label: betco.in hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1FE71fnpTXYbVxZnRXZKxpPvsKBv5ZCJst
+- address: 1FE71fnpTXYbVxZnRXZKxpPvsKBv5ZCJst
   category: Gambling
   label: betco.in
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 17ihaorcJKrpMnniX6iy9RcZaocXmxtfTB
-  category: 'Unspecified'
+  category: Unspecified
   label: betco.in hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1KuNvyWFqc5wBSWUCyJLDgv12vequwMMCS
-  category: 'Unspecified'
+- address: 1KuNvyWFqc5wBSWUCyJLDgv12vequwMMCS
+  category: Unspecified
   label: bitcoinica.com
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 182tGyiczhXSSCTciVujNRkkMw1zQxUVhp
-  category: 'Unspecified'
+  category: Unspecified
   label: bitcoinica hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 14Cr68x1rkzuUHqBu2jr83Fcxk2vcEsd5T
+- address: 14Cr68x1rkzuUHqBu2jr83Fcxk2vcEsd5T
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 14wzvjQnZDqThSinFJc5JW2361PSMQ2V8u
-  category: 'Unspecified'
+  category: Unspecified
   label: mtgox hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1H6QDGhVoh44DjH2QZedwhk2h2FF8dfQKr
+- address: 1H6QDGhVoh44DjH2QZedwhk2h2FF8dfQKr
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 13HLqK2p7xwcxRQomKUyzXzsS2PCm1eAde
-  category: 'Unspecified'
+  category: Unspecified
   label: mtgox hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1GgdYwSKagPsXkS8aQAnqkiRRFfVEMyLx2
+- address: 1GgdYwSKagPsXkS8aQAnqkiRRFfVEMyLx2
   category: Exchange
   label: bitfloor
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 14YDm4f85Etz777Q8Ca79j9is9t6Cu7rPj
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfloor hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1FCa7mTPPxCEGQry8Ub9kpRxhHgSYx6vji
+- address: 1FCa7mTPPxCEGQry8Ub9kpRxhHgSYx6vji
   category: Exchange
   label: bitfloor
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1HWtDRYpo5p31squPsvWWfc2LEFcdChCKa
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfloor hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 15idcewGLqffDr88DsegYKQB83JWukiyaD
+- address: 15idcewGLqffDr88DsegYKQB83JWukiyaD
   category: Exchange
   label: bitfloor
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 12D5ytymtCW97NarFN61s81uM471LRf2W8
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfloor hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1CuHw3p5aAuBU3KGJe5ehdjYm4daWF2DKd
+- address: 1CuHw3p5aAuBU3KGJe5ehdjYm4daWF2DKd
   category: Exchange
   label: bitfloor
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1MFLM6Agt6ZokskBoTcF1VVkyMuqd82XBk
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfloor hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1HUQGUWJm8VDn2tQXYd1mdR7F9VojHJAAr
+- address: 1HUQGUWJm8VDn2tQXYd1mdR7F9VojHJAAr
   category: Exchange
   label: bitfloor
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1JkReEC6qDczSfmD5t2P9vCxcdj1Wotm9j
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfloor hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1HS32PTcVhMdSv34Uiv2MbZGvN651Jqhaj
+- address: 1HS32PTcVhMdSv34Uiv2MbZGvN651Jqhaj
   category: Exchange
   label: bitfloor
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 18ARVHSkQzr5egFZaCqmc2VFYXdpAinXbG
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfloor hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1AzmmNd6ygjLfnVheZnxCTjgazo9A7dmes
+- address: 1AzmmNd6ygjLfnVheZnxCTjgazo9A7dmes
   category: Exchange
   label: bitfloor
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 14wpEjfctvf6R31wqahYgtV8dqaX3YanY8
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfloor hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1HpPLHXsGuaMPaURBwp7Zd91fpLTMvhf96
+- address: 1HpPLHXsGuaMPaURBwp7Zd91fpLTMvhf96
   category: Exchange
   label: bitfloor
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 172Ztr7G4nRgvTjbtpMkUiNFnSNJy3vybJ
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfloor hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1NBTDZJFpzECeufo3uSDJYtuWsrVr9pb5v
+- address: 1NBTDZJFpzECeufo3uSDJYtuWsrVr9pb5v
   category: Exchange
   label: bitfloor
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1GU88GyRcxPTKdXbXEubsgPrrrt2c32Z4F
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfloor hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1AbY3D7VFRemePM2NgUTquQmAjXLKPg7XH
+- address: 1AbY3D7VFRemePM2NgUTquQmAjXLKPg7XH
   category: Miner
   label: 50btc
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1PJHvJWKLH9qwaRKeyVS2rC5gfZMr344LB
-  category: 'Unspecified'
+  category: Unspecified
   label: 50btc hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1FyVmocPa9wWwY5WjKtzHwrU8r1NkFE8h9
+- address: 1FyVmocPa9wWwY5WjKtzHwrU8r1NkFE8h9
   category: Miner
   label: 50btc
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 17CXPwB382VrEzTxtD3Qmy3HAKdbu7gQqe
-  category: 'Unspecified'
+  category: Unspecified
   label: 50btc hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1HJ2U8ckG24UADWF1M6DEfnuUmMgcsURot
+- address: 1HJ2U8ckG24UADWF1M6DEfnuUmMgcsURot
   category: Miner
   label: 50btc
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1KGxAeHHALMnJPzGbSb6A6BxRLyrmhmgkQ
-  category: 'Unspecified'
+  category: Unspecified
   label: 50btc hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1ApkrEjJ5ByihAQZrJxqeau5P19HF8wPSw
+- address: 1ApkrEjJ5ByihAQZrJxqeau5P19HF8wPSw
   category: Miner
   label: 50btc
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1Pu6uF7A2DfuAsaxM637j3H1wtFKAGB2BV
-  category: 'Unspecified'
+  category: Unspecified
   label: 50btc hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 14oByZkGE9TxPMTeYZYzeNakJuSk7xWXa2
+- address: 14oByZkGE9TxPMTeYZYzeNakJuSk7xWXa2
   category: Miner
   label: 50btc
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1A7SukLsFZDNezR2BX4LhJo73HJdBkH6Ua
-  category: 'Unspecified'
+  category: Unspecified
   label: 50btc hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1AgAwktDcsZQny2DjoBRfFhhxpUuHgL6u6
+- address: 1AgAwktDcsZQny2DjoBRfFhhxpUuHgL6u6
   category: Exchange
   label: vircurex.com
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 17gPdCyzEMRXdNTBpHrUhsM4FaiWMHhx2Q
-  category: 'Unspecified'
+  category: Unspecified
   label: vircurex hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 13Gb5gGQgVVDeL4dfibBt8MGQf6q5ZmzVm
+- address: 13Gb5gGQgVVDeL4dfibBt8MGQf6q5ZmzVm
   category: Exchange
   label: vircurex.com
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1FDzcx53mZsSpyRqD9g6Pn3TqkQyeGjXEQ
-  category: 'Unspecified'
+  category: Unspecified
   label: vircurex hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1BV7FJwqXVhp7MMmz5MaQZgp4qtxgFygMP
+- address: 1BV7FJwqXVhp7MMmz5MaQZgp4qtxgFygMP
   category: Exchange
   label: vircurex.com
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1PWQJu9AskoXEBYMod1KqPE6TTG4VYNz1P
-  category: 'Unspecified'
+  category: Unspecified
   label: vircurex hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 189zeNXLJLrXEAJnYH99ChJ8e6NvMKdxPq
+- address: 189zeNXLJLrXEAJnYH99ChJ8e6NvMKdxPq
   category: Exchange
   label: vircurex.com
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1CzMSWwDa8XjnrVWCKNpUZn7T1VTEdL4sU
-  category: 'Unspecified'
+  category: Unspecified
   label: vircurex hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 19NXYce4udWqeW9U1KgVoLzDVa26v6SbGz
+- address: 19NXYce4udWqeW9U1KgVoLzDVa26v6SbGz
   category: Wallet Service
   label: inputs.io
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1EMztWbGCBBrUAHquVeNjWpJKcB8gBzAFx
-  category: 'Unspecified'
+  category: Unspecified
   label: inputs.io hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1ALD5AbNHMjB571LeAKZPPJHiysAqM3bwt
+- address: 1ALD5AbNHMjB571LeAKZPPJHiysAqM3bwt
   category: Wallet Service
   label: inputs.io
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1Acj4bQBSh385WLzZKv9s1cwrYmUwUgdYg
-  category: 'Unspecified'
+  category: Unspecified
   label: inputs.io hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1GrEziNH1eVtf24AuJEoyAaAzApfCEXSmJ
-  category: 'Unspecified'
+- address: 1GrEziNH1eVtf24AuJEoyAaAzApfCEXSmJ
+  category: Unspecified
   label: bitcash.cz
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1JDSo74MRSznFanDW5sJnsip4j78d9D6ES
-  category: 'Unspecified'
+  category: Unspecified
   label: bitcash.cz hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 14JizTjyVKc53uD4k5C9JaTkfAqgEDh9Xo
-  category: 'Unspecified'
+- address: 14JizTjyVKc53uD4k5C9JaTkfAqgEDh9Xo
+  category: Unspecified
   label: bitcash.cz
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1Dxvnp7HuBC4g3L199q2up9o6H21PUkZLQ
-  category: 'Unspecified'
+  category: Unspecified
   label: bitcash.cz hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1DV3X4bbUix4YSD8WTNfW3J7raSnpmgPc7
-  category: 'Unspecified'
+- address: 1DV3X4bbUix4YSD8WTNfW3J7raSnpmgPc7
+  category: Unspecified
   label: bips
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1LuG91tcSQxKj32BsCoRkX7yQLfj9LtkCs
-  category: 'Unspecified'
+  category: Unspecified
   label: bips hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1PLuTgrJRNo2jYzG6hEgVwf8cimXNkVsc8
-  category: 'Unspecified'
+- address: 1PLuTgrJRNo2jYzG6hEgVwf8cimXNkVsc8
+  category: Unspecified
   label: bips
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1Grk9mDQpWhwikQbLin1PZseyQD2vvtXGn
-  category: 'Unspecified'
+  category: Unspecified
   label: bips hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 19t7RxwXdfiwQMyQ3JVB16e9HgV7omijSs
+- address: 19t7RxwXdfiwQMyQ3JVB16e9HgV7omijSs
   category: Exchange
   label: picostocks
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 12RAM7r4EraZ5ESU5QJwe8sS3gj3YYEgpF
-  category: 'Unspecified'
+  category: Unspecified
   label: picostocks hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1BeuGbJZoFt9xP2C1RSTUNK9qKPXbPnuCj
+- address: 1BeuGbJZoFt9xP2C1RSTUNK9qKPXbPnuCj
   category: Exchange
   label: picostocks
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1NzM1bdTKuK9z3pQUCc1raXPezYUenSNWj
-  category: 'Unspecified'
+  category: Unspecified
   label: picostocks hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 15TDob9hdsh2xKomM9H8rWFQWJM26rLF5b
+- address: 15TDob9hdsh2xKomM9H8rWFQWJM26rLF5b
   category: Wallet Service
   label: flexcoin
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1DssS2srnAra8ghUpgEHsEARswej4SMgd3
-  category: 'Unspecified'
+  category: Unspecified
   label: flexcoin hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1Dbt4sVZLMsztyqTeDAow19NvobSnA3YJ4
+- address: 1Dbt4sVZLMsztyqTeDAow19NvobSnA3YJ4
   category: Wallet Service
   label: flexcoin
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1NDkevapt4SWYFEmquCDBSf7DLMTNVggdu
-  category: 'Unspecified'
+  category: Unspecified
   label: flexcoin hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1DssS2srnAra8ghUpgEHsEARswej4SMgd3
+- address: 1DssS2srnAra8ghUpgEHsEARswej4SMgd3
   category: Wallet Service
   label: flexcoin
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1KEHEBtoczmboK1wwMfyfETdj4kaKEbHPh
-  category: 'Unspecified'
+  category: Unspecified
   label: flexcoin hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1PbMV8H6rxybwvBKYAaz19e4AyWFVj5SrZ
+- address: 1PbMV8H6rxybwvBKYAaz19e4AyWFVj5SrZ
   category: Wallet Service
   label: flexcoin
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1HbEfchoAtf1w4u6tt35NtBnrgNV83fjk5
-  category: 'Unspecified'
+  category: Unspecified
   label: flexcoin hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1A8HCB6bPHXnJxGR6pFYc83vgyMmFD9Vnj
+- address: 1A8HCB6bPHXnJxGR6pFYc83vgyMmFD9Vnj
   category: Wallet Service
   label: flexcoin
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 17fabmvK6mNNbstG1sAz5BuTTwm89puWru
-  category: 'Unspecified'
+  category: Unspecified
   label: flexcoin hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 18QFB7ERMxA7CnBSiwysxxZzN4Ghqaquek
+- address: 18QFB7ERMxA7CnBSiwysxxZzN4Ghqaquek
   category: Wallet Service
   label: flexcoin
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1AXxRoMHrEbbk43dciTmuTiouprHtRTATi
-  category: 'Unspecified'
+  category: Unspecified
   label: flexcoin hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1JhZyxZHZS9ViGLv8aAHsZcjA9bmbDWXxM
+- address: 1JhZyxZHZS9ViGLv8aAHsZcjA9bmbDWXxM
   category: Wallet Service
   label: flexcoin
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1qWxCe9sj17XCadDDXt8VvhfwREFoobCk
-  category: 'Unspecified'
+  category: Unspecified
   label: flexcoin hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1Bn5dhVnEMuYJpRFXucoSJ4tcbrvb2LPt2
+- address: 1Bn5dhVnEMuYJpRFXucoSJ4tcbrvb2LPt2
   category: Wallet Service
   label: flexcoin
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 16f49J8g94yMFW2ejDcxfW2iM8FF6FFnnV
-  category: 'Unspecified'
+  category: Unspecified
   label: flexcoin hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 19Zz2pC8HeDq5o9zubg9Lq9Xj6W5L3va1C
+- address: 19Zz2pC8HeDq5o9zubg9Lq9Xj6W5L3va1C
   category: Wallet Service
   label: flexcoin
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 15WEuUbg9zUmNMjQ6p8KJowowVCByegoHG
-  category: 'Unspecified'
+  category: Unspecified
   label: flexcoin hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1GEhfbjbUaCVYBa6Av6zwRqnwkrq9vNozE
+- address: 1GEhfbjbUaCVYBa6Av6zwRqnwkrq9vNozE
   category: Wallet Service
   label: flexcoin
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1QFcC5JitGwpFKqRDd9QNH3eGN56dCNgy6
-  category: 'Unspecified'
+  category: Unspecified
   label: flexcoin hack
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 16J2GkjkpgdAGz15FgwvYk2PSsCnDjNUKY
+- address: 16J2GkjkpgdAGz15FgwvYk2PSsCnDjNUKY
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 15Wqv9Nfwn3tDghHC7yMXc6cG65QYu3XPE
+- address: 15Wqv9Nfwn3tDghHC7yMXc6cG65QYu3XPE
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1G41yFGd4LCBVbZkH4QuVpX5kPBuwS9bgV
+- address: 1G41yFGd4LCBVbZkH4QuVpX5kPBuwS9bgV
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1wdDJbdMR2pNLYh7zdRj7NpsfBwgJNT8r
+- address: 1wdDJbdMR2pNLYh7zdRj7NpsfBwgJNT8r
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1Q7vn9P6VAR4Pwswi1EJE2yWPpoqM7gEYq
+- address: 1Q7vn9P6VAR4Pwswi1EJE2yWPpoqM7gEYq
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1zYDt5xgHdKZnX3hDVuwVaY5uudCcv8Gf
+- address: 1zYDt5xgHdKZnX3hDVuwVaY5uudCcv8Gf
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1CKR8ZoaRW8Zrx9H1bf1K6fjo3PJGiQoBP
+- address: 1CKR8ZoaRW8Zrx9H1bf1K6fjo3PJGiQoBP
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 14YLdcQWeuZWTszEKf6ARVU1acCkmptJWP
+- address: 14YLdcQWeuZWTszEKf6ARVU1acCkmptJWP
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1PntZFXRkfeqwDJopwDS6bvS4bUhQvjPwP
+- address: 1PntZFXRkfeqwDJopwDS6bvS4bUhQvjPwP
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1HKcDkcoY2ErkvUsx38wawRWyG7x8jaz6B
+- address: 1HKcDkcoY2ErkvUsx38wawRWyG7x8jaz6B
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1CDsnsjN5sV4kgFncTJ8esWMyCUejy7e73
+- address: 1CDsnsjN5sV4kgFncTJ8esWMyCUejy7e73
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1BJhbpn3acqY9Yij4Ui463k9eSmyjY4uKz
+- address: 1BJhbpn3acqY9Yij4Ui463k9eSmyjY4uKz
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1CtrLrJnrg7PKpi8Nhz5GSn7kf5A9MT8b6
+- address: 1CtrLrJnrg7PKpi8Nhz5GSn7kf5A9MT8b6
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1LqUkUrc9vgaUu7CR8mg5CAqtQX8e25cwT
+- address: 1LqUkUrc9vgaUu7CR8mg5CAqtQX8e25cwT
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1GH1qNbhKKnYGpAfF6g1EKBsmmvjiwaEeP
+- address: 1GH1qNbhKKnYGpAfF6g1EKBsmmvjiwaEeP
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1B5NBEWKY4gnKGT3JRX97ifArAMQFMzMJ1
+- address: 1B5NBEWKY4gnKGT3JRX97ifArAMQFMzMJ1
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1917ZKJ4g5r2xn7yKhoMm9PcztMfLQH2b1
+- address: 1917ZKJ4g5r2xn7yKhoMm9PcztMfLQH2b1
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1Agfu6U7cnhz5mTb8wmSMWBgMup1pdWeuB
+- address: 1Agfu6U7cnhz5mTb8wmSMWBgMup1pdWeuB
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 17ofbcvjzFvTHaoaRiLsxSxuBAmcquUSUt
+- address: 17ofbcvjzFvTHaoaRiLsxSxuBAmcquUSUt
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1FXkRcYtwDeKTYerrTtXQAsh8BGZjQzJYc
+- address: 1FXkRcYtwDeKTYerrTtXQAsh8BGZjQzJYc
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 12EPNDjNJxtJjSYSqoMjChCysAjyA9BfE7
+- address: 12EPNDjNJxtJjSYSqoMjChCysAjyA9BfE7
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 14ob8LrK6BfJTsEzbjzoebQCtjZu2M9PHr
+- address: 14ob8LrK6BfJTsEzbjzoebQCtjZu2M9PHr
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1CX5xS4cq6miKPshH4inZ1c4JKjHZ7Dby5
+- address: 1CX5xS4cq6miKPshH4inZ1c4JKjHZ7Dby5
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1AqHvi9FzDM23qhsjdBePt8H6Ft2CEWJvs
+- address: 1AqHvi9FzDM23qhsjdBePt8H6Ft2CEWJvs
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1P3bCpZStfwWPphgJtpSSaY4jiv6o6wzZd
+- address: 1P3bCpZStfwWPphgJtpSSaY4jiv6o6wzZd
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1NvK5WfAVisni5UUjCK9aQuvqj3ioruM9N
+- address: 1NvK5WfAVisni5UUjCK9aQuvqj3ioruM9N
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 17mPxdR2h8qPJAMVFeT3MyVN1SLoq85i9E
+- address: 17mPxdR2h8qPJAMVFeT3MyVN1SLoq85i9E
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 13DpQXztm51vS15KkGPWMf5YbtTLFQuDTd
+- address: 13DpQXztm51vS15KkGPWMf5YbtTLFQuDTd
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1Ncq7FVBwxiqit2Wbdgc65PuYbUFsi2T3N
+- address: 1Ncq7FVBwxiqit2Wbdgc65PuYbUFsi2T3N
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1PppQsf6VDat8N88kM5ai5yakS2wAg1JeQ
+- address: 1PppQsf6VDat8N88kM5ai5yakS2wAg1JeQ
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1BsphgQfKDmu9q6B1xGuT7krawTGXYjauD
+- address: 1BsphgQfKDmu9q6B1xGuT7krawTGXYjauD
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 18GaiPZPmZUkKi99QnQ7icZrvVVc1TLiNw
+- address: 18GaiPZPmZUkKi99QnQ7icZrvVVc1TLiNw
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1C2N6BZumTet59fT6TyuaeMYi43BFY36kq
+- address: 1C2N6BZumTet59fT6TyuaeMYi43BFY36kq
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 17hiVEPrCVMsx3YwpDJtPMeYu4Eg295LUB
+- address: 17hiVEPrCVMsx3YwpDJtPMeYu4Eg295LUB
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1HGgkBTC63CTdgxAsXZ6nDfbK3ENkTpFTc
+- address: 1HGgkBTC63CTdgxAsXZ6nDfbK3ENkTpFTc
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1Jm9x7mTcZZ2UAo5Ut3h9hZbvFdkpMJrwR
+- address: 1Jm9x7mTcZZ2UAo5Ut3h9hZbvFdkpMJrwR
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1L5JeconNUKAo8N74Qz3porVs61WAWmBUf
+- address: 1L5JeconNUKAo8N74Qz3porVs61WAWmBUf
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 16HhGwwLyugCYKv6KtSGFumhJu6REfeeBx
+- address: 16HhGwwLyugCYKv6KtSGFumhJu6REfeeBx
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1AY4QbBv6LBBS2zsMLkxjZTZEyG3gFkrn7
+- address: 1AY4QbBv6LBBS2zsMLkxjZTZEyG3gFkrn7
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1DRVGJK95pWMB39qCHmt8QvkAnSHSSqon9
+- address: 1DRVGJK95pWMB39qCHmt8QvkAnSHSSqon9
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 12KnVQB9GVP4DtYyB2TrpoRYwg1gdnVTnx
+- address: 12KnVQB9GVP4DtYyB2TrpoRYwg1gdnVTnx
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1HKC8uHDQHFgEmHUzKqKtPKfZ5kzq294qu
+- address: 1HKC8uHDQHFgEmHUzKqKtPKfZ5kzq294qu
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1JfMjGhDpFg5o1V1Sy1e9BGAf4EWwwjMt4
+- address: 1JfMjGhDpFg5o1V1Sy1e9BGAf4EWwwjMt4
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 14wS6F8su3jXy6gPDpkBYvC1uqTskpLJGa
+- address: 14wS6F8su3jXy6gPDpkBYvC1uqTskpLJGa
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1A4uUtzo9KAsx5XNKPvMNpXHaS5UfsxVFs
+- address: 1A4uUtzo9KAsx5XNKPvMNpXHaS5UfsxVFs
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 146q3aJeZzmFTiJwictgrVsAVFBVidMxiX
+- address: 146q3aJeZzmFTiJwictgrVsAVFBVidMxiX
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1Gp5pDkGfQiE5feN1BA6e7Dbq7fB9QfKZk
+- address: 1Gp5pDkGfQiE5feN1BA6e7Dbq7fB9QfKZk
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1DoChJ2kmc1eHRRSosbYLmBsvan3oSxYkK
+- address: 1DoChJ2kmc1eHRRSosbYLmBsvan3oSxYkK
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 174pEpF2d3gahKRJkiPfxPJWjMAdiTV4c
+- address: 174pEpF2d3gahKRJkiPfxPJWjMAdiTV4c
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 16CyTRPq1jDnbUYzWEvjb8WVckQvqt51MF
+- address: 16CyTRPq1jDnbUYzWEvjb8WVckQvqt51MF
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1KyzznvEnSJPe5zzTpP7xGqf6GMbeJdPP1
+- address: 1KyzznvEnSJPe5zzTpP7xGqf6GMbeJdPP1
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 17ZQd4kGwhoStiT9jKhtPBNpfVTJVqwDCe
+- address: 17ZQd4kGwhoStiT9jKhtPBNpfVTJVqwDCe
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 16mX2uZHUgVWArmZoPMPSEr1LVSeuB6Qc
+- address: 16mX2uZHUgVWArmZoPMPSEr1LVSeuB6Qc
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1L85RxZQnZ6MeFQi5sByDixUn71cgmV7Hi
+- address: 1L85RxZQnZ6MeFQi5sByDixUn71cgmV7Hi
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 18DdiX3dmCi4jbbvgqQDavdpqVo8r2yeFq
+- address: 18DdiX3dmCi4jbbvgqQDavdpqVo8r2yeFq
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1EGnLyaTWmJfy4Cr51GgmrGLWuTU3HdWNd
+- address: 1EGnLyaTWmJfy4Cr51GgmrGLWuTU3HdWNd
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 12nkGr3F9ByJnRXSFn36GwkeU6Twxn7er8
+- address: 12nkGr3F9ByJnRXSFn36GwkeU6Twxn7er8
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 15FJf4GnjJTyw4jLUrdF9Z1CtT7iV2oi4u
+- address: 15FJf4GnjJTyw4jLUrdF9Z1CtT7iV2oi4u
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 1CEGFg2V9nUdVk8RLwg5g98Ytr2VRtepAU
+- address: 1CEGFg2V9nUdVk8RLwg5g98Ytr2VRtepAU
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
-- abuse: ''
-  address: 187rQSc1EKND2qnu8WU1PHexTZrPXUjvfW
+- address: 187rQSc1EKND2qnu8WU1PHexTZrPXUjvfW
   category: Exchange
   label: mtgox
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 15GyGHvCUoG1KTPtycoVcqATGu4Ex4DVXo
-  category: 'Unspecified'
+  category: Unspecified
   label: trojan hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 14vPCtREb6oJxA6Ch6hCyG3yPJWr3ksWxu
-  category: 'Unspecified'
+  category: Unspecified
   label: trojan hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1FZVJD95CaDAheHCP6R9PiA2Jb4ojVhBSx
-  category: 'Unspecified'
+  category: Unspecified
   label: trojan hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1Pkio2icGqKkghPHYREinMFFcuDN14s8A8
-  category: 'Unspecified'
+  category: Unspecified
   label: trojan hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1CMpywEPKTBBsWxccWkTk5tzizteyRG1WZ
-  category: 'Unspecified'
+  category: Unspecified
   label: trojan hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1JoTxrqZAhWXTDFPoChKFk7hqDfmkC6tUG
-  category: 'Unspecified'
+  category: Unspecified
   label: trojan hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1HV2sYHjAZEueYe5fF14CBEwQJ9Fawnaqo
-  category: 'Unspecified'
+  category: Unspecified
   label: trojan hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 168NqBEoGjWbUwxhKXeCiALiGU8suxW1Ue
-  category: 'Unspecified'
+  category: Unspecified
   label: trojan hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 17CLN16PvCdgTYzWKyuc3FjSu1nhGFtFEf
-  category: 'Unspecified'
+  category: Unspecified
   label: trojan hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 17Vk6E3mNzfyTmZKpRWquKZGR51T7HEXiu
-  category: 'Unspecified'
+  category: Unspecified
   label: trojan hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1Ff3XukPtmVtk9JFr8JVyRZ7rWKoKEY5TV
-  category: 'Unspecified'
+  category: Unspecified
   label: trojan hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 15yk8fiyuAXDTqGL8ekPCsNN7vX6dV6ALf
-  category: 'Unspecified'
+  category: Unspecified
   label: trojan hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1Q3KFL7Z1BTpUboDaU6Qj3t9xCXWpzNntS
-  category: 'Unspecified'
+  category: Unspecified
   label: trojan hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 14FSCmXntye2Hm9FGXnbBXiGiziKD41Zzb
-  category: 'Unspecified'
+  category: Unspecified
   label: trojan hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1978kFf3WKYiZsy89WX6qJ8vxWAbRWFGLq
-  category: 'Unspecified'
+  category: Unspecified
   label: linode hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1BoVMxw6LFiPyzaskB4ojEpAVrYEqZU6tV
-  category: 'Unspecified'
+  category: Unspecified
   label: linode hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 14xpJvJD8G3PBPWaT8AdBWuZUpsdV5j8RH
-  category: 'Unspecified'
+  category: Unspecified
   label: linode hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 19aSNhp1YE8h8m9h7SCGx9acCsixDFK91
-  category: 'Unspecified'
+  category: Unspecified
   label: linode hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1F3czt4VGUGdmrXW4qbh8hbQZ1hcHpwFGT
-  category: 'Unspecified'
+  category: Unspecified
   label: linode hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1MXg8M3t2C64PMn5UZw1LEZyLdvtPTbC5W
-  category: 'Unspecified'
+  category: Unspecified
   label: linode hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1JL7vc2Ecn8QeeBYdpAP22pVpaSP6Cni3J
-  category: 'Unspecified'
+  category: Unspecified
   label: linode hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 15WoJ7L4AUfGHWdGj45NY9rFNiwU48woX2
-  category: 'Unspecified'
+  category: Unspecified
   label: linode hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 15dcNmArcsmhhRD55ShhRU8tgcJCRsu1DZ
-  category: 'Unspecified'
+  category: Unspecified
   label: linode hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1AaXeH5DuP6FpPxdCn9RGXKWhSG4r9Hq9q
-  category: 'Unspecified'
+  category: Unspecified
   label: linode hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1NRy8GbX56MymBhDYMyqsNKwW9VupqKVG7
-  category: 'Unspecified'
+  category: Unspecified
   label: linode hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1DMuVKe9PKpx3dbs2b2MnXuVmLfA4drHif
-  category: 'Unspecified'
+  category: Unspecified
   label: linode hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1KEuuxuUMPySnGw1WPxzGcXcL1zBm3k7Tq
-  category: 'Unspecified'
+  category: Unspecified
   label: linode hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 13CmJpbAueuWiPKw3UYU4vXEcZ4WzP6nxt
-  category: 'Unspecified'
+  category: Unspecified
   label: linode hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 1LmyEU8KHVLj7rpE2zowZ5Je6WWtCJMhG
-  category: 'Unspecified'
+  category: Unspecified
   label: linode hack
   source: https://bitcointalk.org/index.php?topic=576337
 - abuse: Hack
   address: 3BorUkWNFECFDoX877BSd2aPdRbPjPj45C
-  category: 'Unspecified'
+  category: Unspecified
   label: dragonex hack
   source: https://blog.saturn.network/list-of-documented-exchange-hacks/
-- abuse: ''
-  address: 131oVmmougbyqdzJbBbuH3rZ2H8jnibtew
+- address: 131oVmmougbyqdzJbBbuH3rZ2H8jnibtew
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 13mZDxXPwNYBJGpL7PKvUGDqYuvSfCSDWZ
+- address: 13mZDxXPwNYBJGpL7PKvUGDqYuvSfCSDWZ
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 13SNYvAHPhQRJQ5YAscozFfHpPC8Zv9uhZ
+- address: 13SNYvAHPhQRJQ5YAscozFfHpPC8Zv9uhZ
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 13VeCuWGfADhZ6BsT8AEcAHC8XfDUQXJGg
+- address: 13VeCuWGfADhZ6BsT8AEcAHC8XfDUQXJGg
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 15VjS4phKXggkBha4fBuwASXNh3DEhSfX4
+- address: 15VjS4phKXggkBha4fBuwASXNh3DEhSfX4
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 16aydFi1nxYZ3CJJSxRZyCYdGMSN3Rqgaj
+- address: 16aydFi1nxYZ3CJJSxRZyCYdGMSN3Rqgaj
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 16DpJ3yYU9U6ftbx2yVNzVDLjiADkNHKHN
+- address: 16DpJ3yYU9U6ftbx2yVNzVDLjiADkNHKHN
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 16DpJ3yYU9U6ftbx2yVNzVDLjiADkNHKHN
+- address: 16DpJ3yYU9U6ftbx2yVNzVDLjiADkNHKHN
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 16DpJ3yYU9U6ftbx2yVNzVDLjiADkNHKHN
+- address: 16DpJ3yYU9U6ftbx2yVNzVDLjiADkNHKHN
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 16hDAtVwWAgw5mB7VWgw2HjjrVXHnAdLNb
+- address: 16hDAtVwWAgw5mB7VWgw2HjjrVXHnAdLNb
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 16LjNwfewj6hNRiftMRLmhMvoKui4WvTRk
+- address: 16LjNwfewj6hNRiftMRLmhMvoKui4WvTRk
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 16QXvHKmMNLEhxQhZxbvFKTpvdMmG1mXbt
+- address: 16QXvHKmMNLEhxQhZxbvFKTpvdMmG1mXbt
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 16VU8XG3AHcMcnRZuzyL3oayEr8tyrh1er
+- address: 16VU8XG3AHcMcnRZuzyL3oayEr8tyrh1er
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 16VU8XG3AHcMcnRZuzyL3oayEr8tyrh1er
+- address: 16VU8XG3AHcMcnRZuzyL3oayEr8tyrh1er
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 17TDx276QnvgtnnYK13FaBxhyvqzL7R97U
+- address: 17TDx276QnvgtnnYK13FaBxhyvqzL7R97U
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 17xoqTXiQqDDiHeqmo2SzCrcLEW4owdUMb
+- address: 17xoqTXiQqDDiHeqmo2SzCrcLEW4owdUMb
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 18QXQMSR9KN6Q7zVzTjyMWFNVLyguqAMRi
+- address: 18QXQMSR9KN6Q7zVzTjyMWFNVLyguqAMRi
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 18uBZFj3kn8sMSo6oXXprVnxzkFhJRXpyu
+- address: 18uBZFj3kn8sMSo6oXXprVnxzkFhJRXpyu
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 194HyHzPZdsfTMHhHZA18LEbPXqz6rdtxS
+- address: 194HyHzPZdsfTMHhHZA18LEbPXqz6rdtxS
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 194HyHzPZdsfTMHhHZA18LEbPXqz6rdtxS
+- address: 194HyHzPZdsfTMHhHZA18LEbPXqz6rdtxS
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 194HyHzPZdsfTMHhHZA18LEbPXqz6rdtxS
+- address: 194HyHzPZdsfTMHhHZA18LEbPXqz6rdtxS
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 19h8YyKXrkNmxN5yeiNzrLf3HjC6eSXkPb
+- address: 19h8YyKXrkNmxN5yeiNzrLf3HjC6eSXkPb
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 19j5v1Mj3FZdsCGCXQDoc6FAaJqREp8fn1
+- address: 19j5v1Mj3FZdsCGCXQDoc6FAaJqREp8fn1
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1ANgC9K3BaFaqSftvV1BttNEAYx3wCzJ93
+- address: 1ANgC9K3BaFaqSftvV1BttNEAYx3wCzJ93
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1Ayy13r2r4yx4xdUWxKi4jiSV38oFrTj2A
+- address: 1Ayy13r2r4yx4xdUWxKi4jiSV38oFrTj2A
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1Ayy13r2r4yx4xdUWxKi4jiSV38oFrTj2A
+- address: 1Ayy13r2r4yx4xdUWxKi4jiSV38oFrTj2A
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1Bd2AgYQkLWU3h9PiUZU8qQ67B66iSPbtd
+- address: 1Bd2AgYQkLWU3h9PiUZU8qQ67B66iSPbtd
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1BezeEEZmUDWP35GtXKPqvC1uHp2rENmTx
+- address: 1BezeEEZmUDWP35GtXKPqvC1uHp2rENmTx
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1BMuFEGxNxCsUSwcNsLTnwgTMhzj9G97EX
+- address: 1BMuFEGxNxCsUSwcNsLTnwgTMhzj9G97EX
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1BRqM3xrTbhwSCKKyuMdWYWBG2BMWWDCpj
+- address: 1BRqM3xrTbhwSCKKyuMdWYWBG2BMWWDCpj
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1BSkWsx3zRT2Nh4qVLtnsgKayNsSFu5gCP
+- address: 1BSkWsx3zRT2Nh4qVLtnsgKayNsSFu5gCP
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1C2cA9VpBi5j9GHV7mtQerbsBmTMTPMzke
+- address: 1C2cA9VpBi5j9GHV7mtQerbsBmTMTPMzke
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1CoywkKVnwAwJU3Yo33a2sJA4iNCG42dvQ
+- address: 1CoywkKVnwAwJU3Yo33a2sJA4iNCG42dvQ
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1DgP9WKNfuFAzn4NLcueQqxkoNitwyy2B1
+- address: 1DgP9WKNfuFAzn4NLcueQqxkoNitwyy2B1
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1DHGK3udunLJADv37rSUYSi8qGq2vCcukj
+- address: 1DHGK3udunLJADv37rSUYSi8qGq2vCcukj
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1Dm5xUUaLj3MMord32nbLEqqXoamcVPnSa
+- address: 1Dm5xUUaLj3MMord32nbLEqqXoamcVPnSa
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1E6ss2ujcgieuTauN4NwZ3o1mXesKuDRxC
+- address: 1E6ss2ujcgieuTauN4NwZ3o1mXesKuDRxC
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1ExDFZJRQRthskuAxhKjffWyqSsRcMbNym
+- address: 1ExDFZJRQRthskuAxhKjffWyqSsRcMbNym
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1FGGLoAohjLgsrU5wtwV3h7QqWfmAPGGRE
+- address: 1FGGLoAohjLgsrU5wtwV3h7QqWfmAPGGRE
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1FQbtziij4j7bt1aANKagtNZf9V2ErcLUQ
+- address: 1FQbtziij4j7bt1aANKagtNZf9V2ErcLUQ
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1G1AY74wkwUm2rh5EV2BntpSn867GtpqTg
+- address: 1G1AY74wkwUm2rh5EV2BntpSn867GtpqTg
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1GHvk2145Q9T73bdjGGeCiCdbFe6RTYnbD
+- address: 1GHvk2145Q9T73bdjGGeCiCdbFe6RTYnbD
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1GkAXNSCzfDxnw93tAqj6i3ofKzCf12zDJ
+- address: 1GkAXNSCzfDxnw93tAqj6i3ofKzCf12zDJ
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1GkAXNSCzfDxnw93tAqj6i3ofKzCf12zDJ
+- address: 1GkAXNSCzfDxnw93tAqj6i3ofKzCf12zDJ
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1GLsqb6rMERLLeSQibaaCjwmLsiTy5rEqk
+- address: 1GLsqb6rMERLLeSQibaaCjwmLsiTy5rEqk
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1GwWv6W7yaqPTnnCLaH8aB3bnCjYpLvrgm
+- address: 1GwWv6W7yaqPTnnCLaH8aB3bnCjYpLvrgm
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1GwWv6W7yaqPTnnCLaH8aB3bnCjYpLvrgm
+- address: 1GwWv6W7yaqPTnnCLaH8aB3bnCjYpLvrgm
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1GwWv6W7yaqPTnnCLaH8aB3bnCjYpLvrgm
+- address: 1GwWv6W7yaqPTnnCLaH8aB3bnCjYpLvrgm
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1GwWv6W7yaqPTnnCLaH8aB3bnCjYpLvrgm
+- address: 1GwWv6W7yaqPTnnCLaH8aB3bnCjYpLvrgm
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1GxkYqhxV4R6i118T3fbtLt3yEg7AqWmxF
+- address: 1GxkYqhxV4R6i118T3fbtLt3yEg7AqWmxF
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1H3AL19bUYShrzuRAmjkYGPFqMhAuu2cDq
+- address: 1H3AL19bUYShrzuRAmjkYGPFqMhAuu2cDq
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1H4pZTm3Kf2moYsEEtZJ9sTfxKPzchq8oj
+- address: 1H4pZTm3Kf2moYsEEtZJ9sTfxKPzchq8oj
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1JbaTD7YpLWd3sktDUAEEhTG7yWkPnLMjs
+- address: 1JbaTD7YpLWd3sktDUAEEhTG7yWkPnLMjs
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1JqX7UCZ7BXT91sasnkHnvYz36E4RKCQ5U
+- address: 1JqX7UCZ7BXT91sasnkHnvYz36E4RKCQ5U
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1JZxzRF9TcwPEwsXabfnHs6urkoWLNW4ny
+- address: 1JZxzRF9TcwPEwsXabfnHs6urkoWLNW4ny
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1KkeRqHSftnDcoHKoZ7aDKcpiVvCSVYCwa
+- address: 1KkeRqHSftnDcoHKoZ7aDKcpiVvCSVYCwa
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1KTZGEpfkpuMHsBjV3eK9Cc5gtx8BXtnk
+- address: 1KTZGEpfkpuMHsBjV3eK9Cc5gtx8BXtnk
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1KwihZq5PrpSG8hQUjr5XnMNW7kw4xrnJy
+- address: 1KwihZq5PrpSG8hQUjr5XnMNW7kw4xrnJy
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1L14nGZbBdVrmh1barkxnkg3CR9G9msbnb
+- address: 1L14nGZbBdVrmh1barkxnkg3CR9G9msbnb
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1LnNsUycA3iAWhqKj1L3vEH1GV6nJE5NtF
+- address: 1LnNsUycA3iAWhqKj1L3vEH1GV6nJE5NtF
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1LSzUeGejzgfoT2oF4LQ32simvJjoQuA2U
+- address: 1LSzUeGejzgfoT2oF4LQ32simvJjoQuA2U
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1MAxnF9SWFjCKDTrMnKhAxMCTPmRStQwpb
+- address: 1MAxnF9SWFjCKDTrMnKhAxMCTPmRStQwpb
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1Mn2idx4ApBMUpqBUfn93581NmMANwkcV7
+- address: 1Mn2idx4ApBMUpqBUfn93581NmMANwkcV7
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1MWzyk74rLJdnDxHA2PAU3yVsqRvdQRrWf
+- address: 1MWzyk74rLJdnDxHA2PAU3yVsqRvdQRrWf
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1Np4JZSyfWJ2AnwhA45V2J3RFsH3S9xBAK
+- address: 1Np4JZSyfWJ2AnwhA45V2J3RFsH3S9xBAK
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1Np4JZSyfWJ2AnwhA45V2J3RFsH3S9xBAK
+- address: 1Np4JZSyfWJ2AnwhA45V2J3RFsH3S9xBAK
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1Np4JZSyfWJ2AnwhA45V2J3RFsH3S9xBAK
+- address: 1Np4JZSyfWJ2AnwhA45V2J3RFsH3S9xBAK
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1Np4JZSyfWJ2AnwhA45V2J3RFsH3S9xBAK
+- address: 1Np4JZSyfWJ2AnwhA45V2J3RFsH3S9xBAK
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1Np4JZSyfWJ2AnwhA45V2J3RFsH3S9xBAK
+- address: 1Np4JZSyfWJ2AnwhA45V2J3RFsH3S9xBAK
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1Np4JZSyfWJ2AnwhA45V2J3RFsH3S9xBAK
+- address: 1Np4JZSyfWJ2AnwhA45V2J3RFsH3S9xBAK
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1NtfZA9xEVghmzZgWSyuBVUfSfBaiRYoV3
+- address: 1NtfZA9xEVghmzZgWSyuBVUfSfBaiRYoV3
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1pM6f66bHpvfCWwMLgrPfW63JyWXJZVyT
+- address: 1pM6f66bHpvfCWwMLgrPfW63JyWXJZVyT
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1PU5RKTFCWqT5xQhDkPxr5g56fgMj1gWM7
+- address: 1PU5RKTFCWqT5xQhDkPxr5g56fgMj1gWM7
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1Q7jMKLTAcpfNEWJ8Z4GD9bg8YGMtPVppY
+- address: 1Q7jMKLTAcpfNEWJ8Z4GD9bg8YGMtPVppY
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 1QBuBCo2LCrJ1d3zG4mtK485EYjQsf4gAa
+- address: 1QBuBCo2LCrJ1d3zG4mtK485EYjQsf4gAa
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 31oEYybpBgU87xv7kU8pgSHLDkvLDM3xtA
+- address: 31oEYybpBgU87xv7kU8pgSHLDkvLDM3xtA
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 31wfy6T29y54QvjXyrmXRG7BXuXrLjmLpS
+- address: 31wfy6T29y54QvjXyrmXRG7BXuXrLjmLpS
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 31wfy6T29y54QvjXyrmXRG7BXuXrLjmLpS
+- address: 31wfy6T29y54QvjXyrmXRG7BXuXrLjmLpS
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 31wfy6T29y54QvjXyrmXRG7BXuXrLjmLpS
+- address: 31wfy6T29y54QvjXyrmXRG7BXuXrLjmLpS
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 31wfy6T29y54QvjXyrmXRG7BXuXrLjmLpS
+- address: 31wfy6T29y54QvjXyrmXRG7BXuXrLjmLpS
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 32DZbXx2cBeeeEC4KujjRmmV2wTG1CfLUs
+- address: 32DZbXx2cBeeeEC4KujjRmmV2wTG1CfLUs
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 34B9vDx9jSrsoYKSSYaLA6fciroDHqcG9n
+- address: 34B9vDx9jSrsoYKSSYaLA6fciroDHqcG9n
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 356CyPqPwutSwX8Wc5oBTGAy3thjY1nP7q
+- address: 356CyPqPwutSwX8Wc5oBTGAy3thjY1nP7q
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 35BqV8BRzzw1ECHxRrKJ2k2NcbW8ujL5ua
+- address: 35BqV8BRzzw1ECHxRrKJ2k2NcbW8ujL5ua
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 35KC4BTntz2rHF4MmiGYEFYHcRSH9vi672
+- address: 35KC4BTntz2rHF4MmiGYEFYHcRSH9vi672
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 35pTdgB4UUCDdw4LCgzcXdAvJVxDRLtut1
+- address: 35pTdgB4UUCDdw4LCgzcXdAvJVxDRLtut1
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 36KfH6x7GJmawgZoyHogtnW58aPE1tSBJ1
+- address: 36KfH6x7GJmawgZoyHogtnW58aPE1tSBJ1
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 37iDJGnikXmnXMHhkSQznfk63uwGpeafRR
+- address: 37iDJGnikXmnXMHhkSQznfk63uwGpeafRR
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 37RdavSBDBee9wNeUSsPQbvVx2tsieWHtR
+- address: 37RdavSBDBee9wNeUSsPQbvVx2tsieWHtR
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 387L3RdiSK8ux5rNic4neTvTF1NAmEpo85
+- address: 387L3RdiSK8ux5rNic4neTvTF1NAmEpo85
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 38SKE9TmxYVuZv2kbSoxFwcYdgJvEVgZqZ
+- address: 38SKE9TmxYVuZv2kbSoxFwcYdgJvEVgZqZ
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 38vexwwQpdJ7orhadKWT6ZTKYSg7sNXVaV
+- address: 38vexwwQpdJ7orhadKWT6ZTKYSg7sNXVaV
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3937Q5S4dFpnN6VfeLkyfYmnxsiAiUZBPZ
+- address: 3937Q5S4dFpnN6VfeLkyfYmnxsiAiUZBPZ
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 393gdv8vSUBqzKoCnx4iqZBsjgzyQ4dfy2
+- address: 393gdv8vSUBqzKoCnx4iqZBsjgzyQ4dfy2
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 39fPYu6CVjP8BYMpfD86zH6ZHGFPttHAwo
+- address: 39fPYu6CVjP8BYMpfD86zH6ZHGFPttHAwo
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3A1Md7V4XStZK8uRqnF6C9SJSxELAiAuax
+- address: 3A1Md7V4XStZK8uRqnF6C9SJSxELAiAuax
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3AiU6z6kVew8uKoddQJZ7w7fV7ai1aCtyD
+- address: 3AiU6z6kVew8uKoddQJZ7w7fV7ai1aCtyD
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3Ak2Vyy9eEvJmAUktENeVhp6oZkmDPA3UN
+- address: 3Ak2Vyy9eEvJmAUktENeVhp6oZkmDPA3UN
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3BKpkuENWmEFsE6tsHwXCD2RMgPKjFmDUj
+- address: 3BKpkuENWmEFsE6tsHwXCD2RMgPKjFmDUj
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3BtF9mgr2iRnrSKFgUHvrDoAoHudejWVrv
+- address: 3BtF9mgr2iRnrSKFgUHvrDoAoHudejWVrv
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3BxqiQi65kAzqtXNKLZq9eh6YHJXSLNvoB
+- address: 3BxqiQi65kAzqtXNKLZq9eh6YHJXSLNvoB
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3BzsZYXQ8yEdNXD4xEXq2fdCX6dmx4cuNF
+- address: 3BzsZYXQ8yEdNXD4xEXq2fdCX6dmx4cuNF
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3CUvNo4Tst8xB1foEeu438b9JPvSRmpbGW
+- address: 3CUvNo4Tst8xB1foEeu438b9JPvSRmpbGW
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3Dr7qs73iQzFSgnNS5B85mfekGh2xJBKjw
+- address: 3Dr7qs73iQzFSgnNS5B85mfekGh2xJBKjw
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3EbFTtBuSuUJhZ5YhsRfnXRKsm38H1XaYQ
+- address: 3EbFTtBuSuUJhZ5YhsRfnXRKsm38H1XaYQ
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3ETiHHYuMLSBbftCXbw1UTmBHwh8ggyXR2
+- address: 3ETiHHYuMLSBbftCXbw1UTmBHwh8ggyXR2
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3FaNiXdeUbgnngvcTXMaHqvJoFCaNCxPPU
+- address: 3FaNiXdeUbgnngvcTXMaHqvJoFCaNCxPPU
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3GL9ctF6r3YdfCUonAsqoLVE5m3sAqe6tE
+- address: 3GL9ctF6r3YdfCUonAsqoLVE5m3sAqe6tE
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3GPi2ZWFtrJjuz8pnVNWxFis6a4LJzLpbL
+- address: 3GPi2ZWFtrJjuz8pnVNWxFis6a4LJzLpbL
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3H4vhcm6SKkHnBM833yGE8YnPCsCu5dkMY
+- address: 3H4vhcm6SKkHnBM833yGE8YnPCsCu5dkMY
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3HsEuSvvNroP39HDT5QtLpNs2KjL3ZFMYo
+- address: 3HsEuSvvNroP39HDT5QtLpNs2KjL3ZFMYo
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3J1MZwMAUBwmAY1UcVARt3x8WvYAf1m8ZV
+- address: 3J1MZwMAUBwmAY1UcVARt3x8WvYAf1m8ZV
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3J3V2uHvP2ZhDa9AnKNyJS3qS3Q28UEYQM
+- address: 3J3V2uHvP2ZhDa9AnKNyJS3qS3Q28UEYQM
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3J4RfQdVinW2QrgLSx8P9Q2Skcz41rVJ4E
+- address: 3J4RfQdVinW2QrgLSx8P9Q2Skcz41rVJ4E
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3JaXQLUwHFPEs89dRG8GWqBMXQqQidYEVf
+- address: 3JaXQLUwHFPEs89dRG8GWqBMXQqQidYEVf
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3JHamN2o7FViXQjNEDhMMoFDqCndhQ6t6W
+- address: 3JHamN2o7FViXQjNEDhMMoFDqCndhQ6t6W
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3JRsCPCVfkF9HNgjz1Qy7az6fpEkZYbeWD
+- address: 3JRsCPCVfkF9HNgjz1Qy7az6fpEkZYbeWD
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3KoW3gShTvXRWZjwNyHhs8FfUgkWWT7vji
+- address: 3KoW3gShTvXRWZjwNyHhs8FfUgkWWT7vji
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3KYJje7Bkin6wG3MNXtywyYwHLEcpt355k
+- address: 3KYJje7Bkin6wG3MNXtywyYwHLEcpt355k
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3L3m2y5QsMK3sk8N2TTUipLe6jExMGeR3Q
+- address: 3L3m2y5QsMK3sk8N2TTUipLe6jExMGeR3Q
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3LR4XvWPXL954EN84RSNCz7ztEedDw7YYt
+- address: 3LR4XvWPXL954EN84RSNCz7ztEedDw7YYt
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3LybaskwqhYWy2DZYL3TK8i6xQMgfRYk3j
+- address: 3LybaskwqhYWy2DZYL3TK8i6xQMgfRYk3j
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3LZMQMyuUtD3RGVok4aiGcwxT6wyuukT1o
+- address: 3LZMQMyuUtD3RGVok4aiGcwxT6wyuukT1o
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3M7GoR67gfjKYtnj5n14ooupnMWT8KuneG
+- address: 3M7GoR67gfjKYtnj5n14ooupnMWT8KuneG
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3Mefi5wzbj6KjQYawmwpuyajo713iFuT3T
+- address: 3Mefi5wzbj6KjQYawmwpuyajo713iFuT3T
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3MovG6357NUfDTZfAX9nkGd9tixMCYu2MP
+- address: 3MovG6357NUfDTZfAX9nkGd9tixMCYu2MP
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3MX45Bej9jRtJgz55dT2qV4p56gfY51kri
+- address: 3MX45Bej9jRtJgz55dT2qV4p56gfY51kri
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3NPYQdi2tB1eZs2c7vJnwhTy6YWR136XuH
+- address: 3NPYQdi2tB1eZs2c7vJnwhTy6YWR136XuH
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3PnTWht62c2WEqXkA4QnaaBTbd2Yzpc8VV
+- address: 3PnTWht62c2WEqXkA4QnaaBTbd2Yzpc8VV
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3QpH5iMCz3vvphcKXqbZcNicaCkMwGXiUz
+- address: 3QpH5iMCz3vvphcKXqbZcNicaCkMwGXiUz
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
-- abuse: ''
-  address: 3QSkYAMUtrRdRoF8mFeZSWAcYf9PDQnjco
+- address: 3QSkYAMUtrRdRoF8mFeZSWAcYf9PDQnjco
   category: Exchange
   label: zaif
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
 - abuse: Hack
   address: 1FmwHh6pgkf4meCMoqo8fHH3GNRF571f9w
-  category: 'Unspecified'
+  category: Unspecified
   label: zaif hack
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
 - abuse: Hack
   address: 3AQUApGQrgmpkrdWbPJJfJusZQYin5q68Z
-  category: 'Unspecified'
+  category: Unspecified
   label: zaif hack
   source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
 - abuse: Hack
   address: 1EnJHhq8Jq8vDuZA5ahVh6H4t6jh1mB4rq
-  category: 'Unspecified'
+  category: Unspecified
   label: nicehash hack
   source: https://www.reddit.com/r/NiceHash/comments/7i0s6o/official_press_release_statement_by_nicehash/
-- abuse: ''
-  address: 1NZcj9Gqtj21q4XPdZYMx43HhJyPjE6GqM
+- address: 1NZcj9Gqtj21q4XPdZYMx43HhJyPjE6GqM
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 144GDgUDzXaJ21N2PEPc5p5MoC93HRxMnP
+- address: 144GDgUDzXaJ21N2PEPc5p5MoC93HRxMnP
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1263CRwhYA4Zr3cWcGhpgrZ7NxBXtJckYH
+- address: 1263CRwhYA4Zr3cWcGhpgrZ7NxBXtJckYH
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 15TDuCRg8WDtTRgAJ7qDbZ6Ti2Xfuo6uHY
+- address: 15TDuCRg8WDtTRgAJ7qDbZ6Ti2Xfuo6uHY
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1N3KQgjiFJvXgBxuFVYHAHZucGi2E4GjGG
+- address: 1N3KQgjiFJvXgBxuFVYHAHZucGi2E4GjGG
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1MfSReRd9cFqgjQokaBd4orVumTtkofNCM
+- address: 1MfSReRd9cFqgjQokaBd4orVumTtkofNCM
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1J9MmJRT7V1J2aDrRASeHjQ4ZjdNkFr6nC
+- address: 1J9MmJRT7V1J2aDrRASeHjQ4ZjdNkFr6nC
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1FuQJJnaB86xwdvq1Ym1ZoQ9QMd2Jp3k7L
+- address: 1FuQJJnaB86xwdvq1Ym1ZoQ9QMd2Jp3k7L
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1EQx3uFJ2mjUbRYXctLGAjyVgyjG1HUoe6
+- address: 1EQx3uFJ2mjUbRYXctLGAjyVgyjG1HUoe6
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1J5MsCwT5YKoHAuqHVWb14VE1t1xHTnDoD
+- address: 1J5MsCwT5YKoHAuqHVWb14VE1t1xHTnDoD
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 129PwdRGQFMR5gukoYxg6tC39Pt4pbkJmW
+- address: 129PwdRGQFMR5gukoYxg6tC39Pt4pbkJmW
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1BU5HnbJPcnPQe7UwtwDUVgBP6ZHw4igBd
+- address: 1BU5HnbJPcnPQe7UwtwDUVgBP6ZHw4igBd
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1FEEqQD5ywT8Zc18sn83fmyjoJ4b6Px39D
+- address: 1FEEqQD5ywT8Zc18sn83fmyjoJ4b6Px39D
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1LuEiKiAeG9C63nYFHeL1qmF4axpNC4UpL
+- address: 1LuEiKiAeG9C63nYFHeL1qmF4axpNC4UpL
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1N8bJ6TtE78p4Ndb4mhaUDbPfdWN5R1C9U
+- address: 1N8bJ6TtE78p4Ndb4mhaUDbPfdWN5R1C9U
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 16Kk6VcnaQ8egMCd14kj1uoNYgr7sYA8Uc
+- address: 16Kk6VcnaQ8egMCd14kj1uoNYgr7sYA8Uc
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1JN1Wh8ZRXhXLRUd4G3DRPdB2ENUxjgybN
+- address: 1JN1Wh8ZRXhXLRUd4G3DRPdB2ENUxjgybN
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 182zWc6esnddFziXKYSghtfudBjWCMw3R4
+- address: 182zWc6esnddFziXKYSghtfudBjWCMw3R4
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 17EWHhgADrrmp72uFDAPVq2Uq8tjtfZA4D
+- address: 17EWHhgADrrmp72uFDAPVq2Uq8tjtfZA4D
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1H38LeQyeMTYzQ7EB8dk93JSbRHpk3BTnv
+- address: 1H38LeQyeMTYzQ7EB8dk93JSbRHpk3BTnv
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 183AQLFgcd9BzL7FWq5zG2VTqxY9Kwrd6X
+- address: 183AQLFgcd9BzL7FWq5zG2VTqxY9Kwrd6X
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1PhaGG5G4rQehbQ3ADPDafzb4k1Rqc8Vxv
+- address: 1PhaGG5G4rQehbQ3ADPDafzb4k1Rqc8Vxv
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 12naiaUEEUxxTqNHiWQzEGw6rZw2jxEwM2
+- address: 12naiaUEEUxxTqNHiWQzEGw6rZw2jxEwM2
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1Hg1UQa4YPfjg2fJfRFPJaga4oQDPbp2Aa
+- address: 1Hg1UQa4YPfjg2fJfRFPJaga4oQDPbp2Aa
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 19ST9AzbVGUYWDEeXVokjZuL1CGqSD3Tky
+- address: 19ST9AzbVGUYWDEeXVokjZuL1CGqSD3Tky
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1DXzLBVorDzKcs62WSfnT82FNiVDpTzK5w
+- address: 1DXzLBVorDzKcs62WSfnT82FNiVDpTzK5w
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1M16QJirV8Bh6CJZzchd4MJTNV1yoJypom
+- address: 1M16QJirV8Bh6CJZzchd4MJTNV1yoJypom
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 16wKtMtDd2VonNMBWWNadpbKzYwLFxQBk5
+- address: 16wKtMtDd2VonNMBWWNadpbKzYwLFxQBk5
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1Dg3w4dTeGQyaB3YFRGcJXNGGmBCineJ9W
+- address: 1Dg3w4dTeGQyaB3YFRGcJXNGGmBCineJ9W
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1ijgcG1TbVzUrrEeDh7NebgqD4dMZ6HNH
+- address: 1ijgcG1TbVzUrrEeDh7NebgqD4dMZ6HNH
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1L1tsMoGWSa7aXsgCLYAkjhcF9x7gTUdfu
+- address: 1L1tsMoGWSa7aXsgCLYAkjhcF9x7gTUdfu
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1LjAgCpGgH8pgVAXG9ducGkqscksmtbKpf
+- address: 1LjAgCpGgH8pgVAXG9ducGkqscksmtbKpf
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 17BNXWntqr33wxnahfhyibVojGwR4pwosA
+- address: 17BNXWntqr33wxnahfhyibVojGwR4pwosA
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 16etdj8TEq8ULNmHuEbTRCn6nUzpLBmJ72
+- address: 16etdj8TEq8ULNmHuEbTRCn6nUzpLBmJ72
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1FtBzZXwv79n6imv2ZYCVitHP9cUAvcFst
+- address: 1FtBzZXwv79n6imv2ZYCVitHP9cUAvcFst
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 121WemtSLVnUw9x56j551eWrFSMYkfwDsi
+- address: 121WemtSLVnUw9x56j551eWrFSMYkfwDsi
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 129kpgKfDhZoPhHWxvxHWbmdspSE3cymrL
+- address: 129kpgKfDhZoPhHWxvxHWbmdspSE3cymrL
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 19WyjFkW7Dr5MEStCZvjKKuZpDKn5uvKA6
+- address: 19WyjFkW7Dr5MEStCZvjKKuZpDKn5uvKA6
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 13q4QLxY6FUtfF4iKF3ob91E98vp33wi5k
+- address: 13q4QLxY6FUtfF4iKF3ob91E98vp33wi5k
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1D47azPbPQgZ8o8UHHm93HoN9TUKTi6XJT
+- address: 1D47azPbPQgZ8o8UHHm93HoN9TUKTi6XJT
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1CVFgQicRdQJXJXNpjqv3n1rMM68nYzJKM
+- address: 1CVFgQicRdQJXJXNpjqv3n1rMM68nYzJKM
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1FTCqXQXWxrimMdMz7G6TcTLPEbhrSmppR
+- address: 1FTCqXQXWxrimMdMz7G6TcTLPEbhrSmppR
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 16cpxrn1rqLKHFU3eSfvzbJ9x46C3EJSCT
+- address: 16cpxrn1rqLKHFU3eSfvzbJ9x46C3EJSCT
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 16Ui18tTrtrDqBRCwJHVGYEJcCJ3nYLhsq
+- address: 16Ui18tTrtrDqBRCwJHVGYEJcCJ3nYLhsq
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 13NMmG8LAxv9zeLMqfPd5FUMStqBnmYnRb
+- address: 13NMmG8LAxv9zeLMqfPd5FUMStqBnmYnRb
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 19Hy6b1y5BzqeUWsWtFYBEWmngjHUsDuLg
+- address: 19Hy6b1y5BzqeUWsWtFYBEWmngjHUsDuLg
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1A1oMLxK2U5YWUVHsGbG6XNki93Z9Ma3EP
+- address: 1A1oMLxK2U5YWUVHsGbG6XNki93Z9Ma3EP
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1Ks86zFM9vaJCKyaFzEDVLpDQnQsb4JZp1
+- address: 1Ks86zFM9vaJCKyaFzEDVLpDQnQsb4JZp1
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1MtoL23AkRqATW2P7m1D9Zvq4ZyZbK2W4y
+- address: 1MtoL23AkRqATW2P7m1D9Zvq4ZyZbK2W4y
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1PzDcKHymNVrrrZSgTWjah5xxn46cF1N2e
+- address: 1PzDcKHymNVrrrZSgTWjah5xxn46cF1N2e
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 142YzyKDvkK45UhZhYSJUrMpuYDpvExnXh
+- address: 142YzyKDvkK45UhZhYSJUrMpuYDpvExnXh
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1BMxeo4P9igtD1FmrcxobozHqCQ3vumMxv
+- address: 1BMxeo4P9igtD1FmrcxobozHqCQ3vumMxv
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1Ka4ymoXhQn5gEJf25w4CHVpW8kKSgMSzv
+- address: 1Ka4ymoXhQn5gEJf25w4CHVpW8kKSgMSzv
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 185kDcyhwAdjSK7bEiEtEwy9oDE3NdLgrz
+- address: 185kDcyhwAdjSK7bEiEtEwy9oDE3NdLgrz
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 15s2FhAARJmvefbs4wQfsZ5AWnA86oBdgC
+- address: 15s2FhAARJmvefbs4wQfsZ5AWnA86oBdgC
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 157KT7K9YiRiykyLwfaYuLhswTUQGJ3e9m
+- address: 157KT7K9YiRiykyLwfaYuLhswTUQGJ3e9m
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1PDhmGT9DcPSHCSbjWogALd2aa9jf3h9xw
+- address: 1PDhmGT9DcPSHCSbjWogALd2aa9jf3h9xw
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 17Mvfow7Lg2eV6gJEqYnqAZWgD1Wuhmr1h
+- address: 17Mvfow7Lg2eV6gJEqYnqAZWgD1Wuhmr1h
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1CWXx5GSy8LtLYxG5oDf2ksCJct8pAPZwx
+- address: 1CWXx5GSy8LtLYxG5oDf2ksCJct8pAPZwx
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1CLkuUHe2horwSASH2NXH6ZkE46vGzLqDS
+- address: 1CLkuUHe2horwSASH2NXH6ZkE46vGzLqDS
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1PaQAQDotHSLDPDNYb4sz2E51fzV2wD9v4
+- address: 1PaQAQDotHSLDPDNYb4sz2E51fzV2wD9v4
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1HM4ZTVKgQWAMsjY7EpAbaDu1xkvvMJb2k
+- address: 1HM4ZTVKgQWAMsjY7EpAbaDu1xkvvMJb2k
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 12cehAd1GW2WtWf13CMFkJmrPkmNbmk1HQ
+- address: 12cehAd1GW2WtWf13CMFkJmrPkmNbmk1HQ
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1e3c2gTsHJae1H2SMaX61DATyb4GJuvht
+- address: 1e3c2gTsHJae1H2SMaX61DATyb4GJuvht
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1DqyCfpSWypezz6K1hR5q4J88kmVdfuosg
+- address: 1DqyCfpSWypezz6K1hR5q4J88kmVdfuosg
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1EHEaMS3kcBU5TAmZeY4TPhSJvN7zA1C3R
+- address: 1EHEaMS3kcBU5TAmZeY4TPhSJvN7zA1C3R
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1DB4oPzgbZPc7HxEDBbU7n7nPAuzTs4UdR
+- address: 1DB4oPzgbZPc7HxEDBbU7n7nPAuzTs4UdR
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1C43o77tt79Uvk4m4GNgjXFepugUAo6ucy
+- address: 1C43o77tt79Uvk4m4GNgjXFepugUAo6ucy
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1exnxRTBvNLkgAqzDhr3imv3nDf3cnc4d
+- address: 1exnxRTBvNLkgAqzDhr3imv3nDf3cnc4d
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1AgBJFiKa5h2bqLsPzjiqamms8FZuoW5Np
+- address: 1AgBJFiKa5h2bqLsPzjiqamms8FZuoW5Np
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1N2PtLHdqX72LZG9mdrUQUJeBeB9cyhwWu
+- address: 1N2PtLHdqX72LZG9mdrUQUJeBeB9cyhwWu
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 12ttX3cgAPNaVR2dvvaidVuBoQwUTVTGBf
+- address: 12ttX3cgAPNaVR2dvvaidVuBoQwUTVTGBf
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1FrrnuxxEsLBmQuH2kddq8qiDJYqgoNsHn
+- address: 1FrrnuxxEsLBmQuH2kddq8qiDJYqgoNsHn
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 17NNUM6F1SBDuyT7QWQ95UPExSiw1Bu176
+- address: 17NNUM6F1SBDuyT7QWQ95UPExSiw1Bu176
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1H1xCcPu6mecQuj56bdkPcMrXw8unkczBm
+- address: 1H1xCcPu6mecQuj56bdkPcMrXw8unkczBm
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1AAtwiQXh65tznUyCVKXgz7At2Txd7pfbz
+- address: 1AAtwiQXh65tznUyCVKXgz7At2Txd7pfbz
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 126VVSWbUJLSzoTucVhgZcyVceSQVedNFH
+- address: 126VVSWbUJLSzoTucVhgZcyVceSQVedNFH
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 17AUH9DLNsnwU6iVSg9sZiKjz6Wj1BRRdB
+- address: 17AUH9DLNsnwU6iVSg9sZiKjz6Wj1BRRdB
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1CoRrwRq26AVyVdkSL85pugRPMtUqYu4Xw
+- address: 1CoRrwRq26AVyVdkSL85pugRPMtUqYu4Xw
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1CsUoqhahrjohiDfP1BRpbWS8NP7XK8vBU
+- address: 1CsUoqhahrjohiDfP1BRpbWS8NP7XK8vBU
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1Q4TVaCiaPmZGycEU36TCeW1P5EcepvwVX
+- address: 1Q4TVaCiaPmZGycEU36TCeW1P5EcepvwVX
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1BL2M7WfLQaZh9jMr6YHWGJSR3TS9UF43U
+- address: 1BL2M7WfLQaZh9jMr6YHWGJSR3TS9UF43U
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1CKKkHeHCPuSP95ZuoRPb5zYSFXvZaTr6u
+- address: 1CKKkHeHCPuSP95ZuoRPb5zYSFXvZaTr6u
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 19qWt3hDWQ5Yz2GFRqPoSox1wpUFFWr9HV
+- address: 19qWt3hDWQ5Yz2GFRqPoSox1wpUFFWr9HV
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 15juA3e4gPAQnyEHfpBod6at268gBK5YDp
+- address: 15juA3e4gPAQnyEHfpBod6at268gBK5YDp
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1HCavJtzjeywHFtTBUTmPRtmy77ijpLzLJ
+- address: 1HCavJtzjeywHFtTBUTmPRtmy77ijpLzLJ
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1JckXAHkfP46EWC2Ch812qyuJWh2RMEfGS
+- address: 1JckXAHkfP46EWC2Ch812qyuJWh2RMEfGS
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1ByesZydmHHUEdPypEhozQUhEc1HCqFp6C
+- address: 1ByesZydmHHUEdPypEhozQUhEc1HCqFp6C
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1JCdovKuuHCBEYX7sAZaWH91PrYerncR2E
+- address: 1JCdovKuuHCBEYX7sAZaWH91PrYerncR2E
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1KnmcaS4LgvuVGqXctS4NmH4a8Y3WidFXK
+- address: 1KnmcaS4LgvuVGqXctS4NmH4a8Y3WidFXK
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1PYJ6RAQ3QjCHc66Bh5HmuA7CvsXvZbFyX
+- address: 1PYJ6RAQ3QjCHc66Bh5HmuA7CvsXvZbFyX
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 19iKwBrEaXd5jt5BpUhfZBP8xkRVWniUft
+- address: 19iKwBrEaXd5jt5BpUhfZBP8xkRVWniUft
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1LNJCSjcUSYddHTKNXeYbVEcj4Us84QVsA
+- address: 1LNJCSjcUSYddHTKNXeYbVEcj4Us84QVsA
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1MP4G9qDpCCkkpx4vLSJtKbPQiC3DSHZKf
+- address: 1MP4G9qDpCCkkpx4vLSJtKbPQiC3DSHZKf
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 17hiFN2AX4no86Nmug8rXupq6WmRsadBYJ
+- address: 17hiFN2AX4no86Nmug8rXupq6WmRsadBYJ
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1PYXEJi9jVtBLLF19vWeZ3mWxw6ebDHm9u
+- address: 1PYXEJi9jVtBLLF19vWeZ3mWxw6ebDHm9u
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 14YNXDsvQeEPsLtnH1QdvfzCTEk7Zag9U6
+- address: 14YNXDsvQeEPsLtnH1QdvfzCTEk7Zag9U6
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1LFCStWP4Ei9bWFTaTsGw6bQAaJQipaMGJ
+- address: 1LFCStWP4Ei9bWFTaTsGw6bQAaJQipaMGJ
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1J31KGfUEY6w4ipbGgvUmA9e3Gbn2YHB1p
+- address: 1J31KGfUEY6w4ipbGgvUmA9e3Gbn2YHB1p
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1k24fFuhjzHbaRQJ1kFRyoQ1tEBHgCcQJ
+- address: 1k24fFuhjzHbaRQJ1kFRyoQ1tEBHgCcQJ
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1Ho9TGLQNRs8RyhWDLEUhJyGjL5YzSm3K8
+- address: 1Ho9TGLQNRs8RyhWDLEUhJyGjL5YzSm3K8
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1BY3eVyj46FWaYnk96QrWeewjjfxeRSHBG
+- address: 1BY3eVyj46FWaYnk96QrWeewjjfxeRSHBG
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1DubPhHnnT3wBWCqcCms9sAnkf2R2rhx9K
+- address: 1DubPhHnnT3wBWCqcCms9sAnkf2R2rhx9K
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1LFtSKP5r6Cew5T8vE57c4J2fgDwxYYMGJ
+- address: 1LFtSKP5r6Cew5T8vE57c4J2fgDwxYYMGJ
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 16VzuNA9V2qoUUpC3ezY6J9EvzeEfpfk65
+- address: 16VzuNA9V2qoUUpC3ezY6J9EvzeEfpfk65
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1Gj3zQSQFhJDhZ9RB4Ahxu3EaNzhAKyAKM
+- address: 1Gj3zQSQFhJDhZ9RB4Ahxu3EaNzhAKyAKM
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 13Zn8xTmUxniBn7Gi7icFn3Jb3gDcQoceC
+- address: 13Zn8xTmUxniBn7Gi7icFn3Jb3gDcQoceC
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 184znXx6GyUpgez7fCuVWGbrrC4wnu5DMH
+- address: 184znXx6GyUpgez7fCuVWGbrrC4wnu5DMH
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1DioF2aNptVyLzhQLCdavXrDSZ5S8RDHV9
+- address: 1DioF2aNptVyLzhQLCdavXrDSZ5S8RDHV9
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 14eWmAjkWXKttXnZXjjvreXywKaWeTBYN8
+- address: 14eWmAjkWXKttXnZXjjvreXywKaWeTBYN8
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 12adZPDwoZKD98kohtW7xgBtjewyYm9RE2
+- address: 12adZPDwoZKD98kohtW7xgBtjewyYm9RE2
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1HbkEBGwybr4yV747GtfBjGuuiCuMV5xKQ
+- address: 1HbkEBGwybr4yV747GtfBjGuuiCuMV5xKQ
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 15gLUJE9z6UvJX31PSvGeGDUfWapkAhrFT
+- address: 15gLUJE9z6UvJX31PSvGeGDUfWapkAhrFT
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1862zZxRs9wpXzWvgmooL9JD7mEB76NzAQ
+- address: 1862zZxRs9wpXzWvgmooL9JD7mEB76NzAQ
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 15zqqz4WFirpgJbkLba1LVZQubNPartGoL
+- address: 15zqqz4WFirpgJbkLba1LVZQubNPartGoL
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 12ukF8dAh8GDRvSXfWrewox9bfonkyeou7
+- address: 12ukF8dAh8GDRvSXfWrewox9bfonkyeou7
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1DFe1uK76K6PgicwL76AimLohhPRkUJKpj
+- address: 1DFe1uK76K6PgicwL76AimLohhPRkUJKpj
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1N5KJzAkDMCxU2qtLnhtMnfMNEqWofUE7x
+- address: 1N5KJzAkDMCxU2qtLnhtMnfMNEqWofUE7x
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1NysMuDppRGeJY6RbNJTiR78Gx7ADGCNvQ
+- address: 1NysMuDppRGeJY6RbNJTiR78Gx7ADGCNvQ
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1LAVtHeeGHx8bjbWUHBGfhgpwarXc9zpNW
+- address: 1LAVtHeeGHx8bjbWUHBGfhgpwarXc9zpNW
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1fTRMysWAZAb7Eqqc7EdYVZXKk2zbmzfo
+- address: 1fTRMysWAZAb7Eqqc7EdYVZXKk2zbmzfo
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1L17D2pq7a36jhNg4dTz4sqpYmHxRP4Yu4
+- address: 1L17D2pq7a36jhNg4dTz4sqpYmHxRP4Yu4
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1DgLTarkLdNS3JE6oGGhqoc6vG4HDWruhQ
+- address: 1DgLTarkLdNS3JE6oGGhqoc6vG4HDWruhQ
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1ERArwhkckiozU5yTN1u9Xuy51G6Sa1kXE
+- address: 1ERArwhkckiozU5yTN1u9Xuy51G6Sa1kXE
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1ASEVw8VpQvfTqWbErwgVdSeww1K51xwsT
+- address: 1ASEVw8VpQvfTqWbErwgVdSeww1K51xwsT
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1NuevjUqphnsjdztEN61paidcEU2xc3M4J
+- address: 1NuevjUqphnsjdztEN61paidcEU2xc3M4J
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 17vr8WnJTN9bp4uk67SsUEYzU2tEqsSwa4
+- address: 17vr8WnJTN9bp4uk67SsUEYzU2tEqsSwa4
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1KPMcuF5iEjivtHk6bEedUK63JGZ7ujASS
+- address: 1KPMcuF5iEjivtHk6bEedUK63JGZ7ujASS
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 19rHnx3qygVLfkpMefx2BfehXHvE9TV9KJ
+- address: 19rHnx3qygVLfkpMefx2BfehXHvE9TV9KJ
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1CbQo6BgHp2YRvedGHnV9Ssr863g4VFQCn
+- address: 1CbQo6BgHp2YRvedGHnV9Ssr863g4VFQCn
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1FxJCskkNgz2s5TufoMszxfx2muxNtEiZr
+- address: 1FxJCskkNgz2s5TufoMszxfx2muxNtEiZr
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1AiRf2s8gUdjPyjg4Y5FFu4JrP8XXrNBd5
+- address: 1AiRf2s8gUdjPyjg4Y5FFu4JrP8XXrNBd5
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 15QiwVLN4NfoPgeZf9yopsnmDfUANdoxpi
+- address: 15QiwVLN4NfoPgeZf9yopsnmDfUANdoxpi
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 17gTzvD7FPv61eZ5ybrHNshNUP6U5cykwC
+- address: 17gTzvD7FPv61eZ5ybrHNshNUP6U5cykwC
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1K1ab9XDTixnqNkfdXaoQazUuSvRxkqXJr
+- address: 1K1ab9XDTixnqNkfdXaoQazUuSvRxkqXJr
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 12YX6i81muMVf8fDEE5Tx77haVhSQkMHNy
+- address: 12YX6i81muMVf8fDEE5Tx77haVhSQkMHNy
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 13TZ8We6NjvANccJVcGkNvURG84fHAfRX3
+- address: 13TZ8We6NjvANccJVcGkNvURG84fHAfRX3
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1DHh2zHNiNuNgDP9CeQaJVitG83Zq14Rxu
+- address: 1DHh2zHNiNuNgDP9CeQaJVitG83Zq14Rxu
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 16yNpApF9cZKTjoex3gu1MvJDPi7McB9Xf
+- address: 16yNpApF9cZKTjoex3gu1MvJDPi7McB9Xf
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1EfNL9w5muYTMnssACcQ9icwx2CahWfP7V
+- address: 1EfNL9w5muYTMnssACcQ9icwx2CahWfP7V
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1NE7VBEjotVAhy36tfVFi5LfLucHeYJJtt
+- address: 1NE7VBEjotVAhy36tfVFi5LfLucHeYJJtt
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1KrJGJgxh33aV5nw9tJVeCbUY3iqRqoamN
+- address: 1KrJGJgxh33aV5nw9tJVeCbUY3iqRqoamN
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 128agFAEZLNBpxWFpARTW4U9acpu2HdzBY
+- address: 128agFAEZLNBpxWFpARTW4U9acpu2HdzBY
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 12qpoVE88H5dmwKtRmZoFrU9mkNqf2dmsH
+- address: 12qpoVE88H5dmwKtRmZoFrU9mkNqf2dmsH
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 17tNyb5j1M4i2x4DFruHDJDr873Lsf5Hve
+- address: 17tNyb5j1M4i2x4DFruHDJDr873Lsf5Hve
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1NTfDT1Q6qgbp6oigGiMwF95AC3nvAb4A7
+- address: 1NTfDT1Q6qgbp6oigGiMwF95AC3nvAb4A7
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1GjTGLUHRwitCgWhJgvuhFdZ3vatTzrTcV
+- address: 1GjTGLUHRwitCgWhJgvuhFdZ3vatTzrTcV
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1FkVJcKQBSUcJJ1SVUgz3dbSMewr8jGECm
+- address: 1FkVJcKQBSUcJJ1SVUgz3dbSMewr8jGECm
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1JicMZi9e4NkE4Q8JpZAwaE84kBam9ngrQ
+- address: 1JicMZi9e4NkE4Q8JpZAwaE84kBam9ngrQ
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1L4PfJjiWdCPLGM3guum2KajMmUhFCcRzf
+- address: 1L4PfJjiWdCPLGM3guum2KajMmUhFCcRzf
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1ARhg5p1JguLdUMm4cWBYVMrbd7yEeVtFy
+- address: 1ARhg5p1JguLdUMm4cWBYVMrbd7yEeVtFy
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1Ejk5Ltvx2YtKS4NqsuNSV9RWV4fAx4w6B
+- address: 1Ejk5Ltvx2YtKS4NqsuNSV9RWV4fAx4w6B
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1JSKhXoH6SV8tyVKX8jerPaXuvhTeUMksD
+- address: 1JSKhXoH6SV8tyVKX8jerPaXuvhTeUMksD
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1HA2JTcDYbMQZaUVAtCAky9xyVkAATjpZp
+- address: 1HA2JTcDYbMQZaUVAtCAky9xyVkAATjpZp
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1GxHCeGD9zxhEbAu58uQKxVNigbwPmreN6
+- address: 1GxHCeGD9zxhEbAu58uQKxVNigbwPmreN6
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1CQibCFdCBdcLEnc8AR49H9rgf8uzRkuZB
+- address: 1CQibCFdCBdcLEnc8AR49H9rgf8uzRkuZB
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 17W2UxzwiPGGBRPKzTu3ynnPZTXdqwCmck
+- address: 17W2UxzwiPGGBRPKzTu3ynnPZTXdqwCmck
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1FxdLjJkjTZMr2UXMkgFutXnSbBfwBLsKx
+- address: 1FxdLjJkjTZMr2UXMkgFutXnSbBfwBLsKx
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 13Ws7zuLBkBaaJzYhfR2f2WJNgCVZk5dxp
+- address: 13Ws7zuLBkBaaJzYhfR2f2WJNgCVZk5dxp
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1NfDDzQ7QttznSt6E1N5Jm9UyQfG7HL7Ln
+- address: 1NfDDzQ7QttznSt6E1N5Jm9UyQfG7HL7Ln
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 17WXs3xaJv5L1bWx61Nqk5pSAjqvHob9CL
+- address: 17WXs3xaJv5L1bWx61Nqk5pSAjqvHob9CL
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1NvGwNTrGcZWzRja7RMU6qGRcxbPC4ovK2
+- address: 1NvGwNTrGcZWzRja7RMU6qGRcxbPC4ovK2
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 169AA1RnR6PBiDHkEeFrboZFqRwTBGdkS9
+- address: 169AA1RnR6PBiDHkEeFrboZFqRwTBGdkS9
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1541WECECozj4peyN6Esqz4fVu1rN1qFM4
+- address: 1541WECECozj4peyN6Esqz4fVu1rN1qFM4
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1PsxciwvwDG3eZ5VWH1YuCuxhcRTrLMrrr
+- address: 1PsxciwvwDG3eZ5VWH1YuCuxhcRTrLMrrr
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1BgjGbtDxsu9G2egPTH2Yityfq1eNF4MB8
+- address: 1BgjGbtDxsu9G2egPTH2Yityfq1eNF4MB8
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1kJ7FTUePvfx8M9SXJ5gc8XsnkxDp8EBo
+- address: 1kJ7FTUePvfx8M9SXJ5gc8XsnkxDp8EBo
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1o15R16qHnFNexJuuu2SdZ6Y4it4MWGKB
+- address: 1o15R16qHnFNexJuuu2SdZ6Y4it4MWGKB
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 12F6RngSvTzobG76BXTAuX1RACNudzXUqD
+- address: 12F6RngSvTzobG76BXTAuX1RACNudzXUqD
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1LMBSCzFWLaTDCWsUb2FuG4wHyLJmN3Wa3
+- address: 1LMBSCzFWLaTDCWsUb2FuG4wHyLJmN3Wa3
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 19KxFLNogkWPDWvWwBA1htTbaK5e712we8
+- address: 19KxFLNogkWPDWvWwBA1htTbaK5e712we8
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 13y98SsufXgLGUovtQ7oipzP7sqNngjWNV
+- address: 13y98SsufXgLGUovtQ7oipzP7sqNngjWNV
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1FTFDURdKijYom5koKBBGNG6nEFTjiz4wa
+- address: 1FTFDURdKijYom5koKBBGNG6nEFTjiz4wa
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1Ag7ZQK95tTw2HGuYqTTkVG82TkghKa4A4
+- address: 1Ag7ZQK95tTw2HGuYqTTkVG82TkghKa4A4
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1EAc9bxCJHvrmMDayucidsEe656G8qHKbv
+- address: 1EAc9bxCJHvrmMDayucidsEe656G8qHKbv
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1AFptmpkPBUR6V1p87PAjuA1KQmAVTXaVW
+- address: 1AFptmpkPBUR6V1p87PAjuA1KQmAVTXaVW
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 13NLGNFZAibyRyuyAVwTkFmeVTySBmMsfe
+- address: 13NLGNFZAibyRyuyAVwTkFmeVTySBmMsfe
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1AQmmdBGciv3RHaA6xbktB8Z6ytEJwCzbj
+- address: 1AQmmdBGciv3RHaA6xbktB8Z6ytEJwCzbj
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 17BG2GupGLJwjPfNNkwz7yoZXBuG6kyVWk
+- address: 17BG2GupGLJwjPfNNkwz7yoZXBuG6kyVWk
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 137A6MoS6qxSsb1GrgM53NaMA1eDsRPhom
+- address: 137A6MoS6qxSsb1GrgM53NaMA1eDsRPhom
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1CXZdWtP3NSZ2dGk7DJTjWkGbGYJedRS51
+- address: 1CXZdWtP3NSZ2dGk7DJTjWkGbGYJedRS51
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 19nnzyCeWcxffiHfHhjFZGsqyBaACsyKeT
+- address: 19nnzyCeWcxffiHfHhjFZGsqyBaACsyKeT
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1H4RSxSrgXoaNiKTdPXounwCnQu1nrHKoP
+- address: 1H4RSxSrgXoaNiKTdPXounwCnQu1nrHKoP
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1xcq9N3f2Ut9jatUTuxkDn78trHADC2UK
+- address: 1xcq9N3f2Ut9jatUTuxkDn78trHADC2UK
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1N1yKLRHKPR5uaD6U3M3BjPunPMm1zCKsK
+- address: 1N1yKLRHKPR5uaD6U3M3BjPunPMm1zCKsK
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1P5UgiUdXEXmp6mvkT3EhbLZVWA6ywqBpu
+- address: 1P5UgiUdXEXmp6mvkT3EhbLZVWA6ywqBpu
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1CuSApc3o2Yut1MjVDHysyQkJxkY2Fv3oQ
+- address: 1CuSApc3o2Yut1MjVDHysyQkJxkY2Fv3oQ
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1HebExk6qm3yH7cSpm4fzT6p5zk7xex863
+- address: 1HebExk6qm3yH7cSpm4fzT6p5zk7xex863
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1LhjxEXf5SWYrzK92ps57MxR5Ubbszg4T6
+- address: 1LhjxEXf5SWYrzK92ps57MxR5Ubbszg4T6
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 13bHasKchp1zjmHPowr3WQwJDqyFQKmfam
+- address: 13bHasKchp1zjmHPowr3WQwJDqyFQKmfam
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1Pyyeb7EAvRY4nPSRW4mXZQHGnoLsUUYVB
+- address: 1Pyyeb7EAvRY4nPSRW4mXZQHGnoLsUUYVB
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 18jUaE1Bqa3KSRcV3S5Nq5svuMc9XhomgP
+- address: 18jUaE1Bqa3KSRcV3S5Nq5svuMc9XhomgP
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1EL9HsFtzjifaEqCNZqD1mt1rqZKveLMSj
+- address: 1EL9HsFtzjifaEqCNZqD1mt1rqZKveLMSj
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1aU9uozzAFhmetqNE9oKDiTEgniiYNFvB
+- address: 1aU9uozzAFhmetqNE9oKDiTEgniiYNFvB
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1BmMgNxG4J7Fg7iCcsE5dKpW9sHi66zGZo
+- address: 1BmMgNxG4J7Fg7iCcsE5dKpW9sHi66zGZo
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 14RRVvQtCwPDTc4ARaJaBQLW3Deo7xDA6m
+- address: 14RRVvQtCwPDTc4ARaJaBQLW3Deo7xDA6m
   category: Exchange
   label: bitfinex
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1LY2Y3mL64bxPJmzEa1e6hwK42ojfXnQ5E
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1JueqU9KmCHcCLzYa37QcRsSmJNNzNCTgZ
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1NGRjbawvDUoqCFFURqryPVvb2npvfh3jz
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1G8oebXXdZ7zjhLxdWchLgjxsK1fpwE7nJ
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1G7A7RTmoBVG8v3KXAxJDEGAuorLv1NKmK
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 12GLE7MGrDuMr6WuhZp6USPz1wB8t6nhEL
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1DysBqEjU9P4n3kz6qWsUqoPkkN5XyiuaS
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 172gmUnva3vF1XsPwjkzJmwD8iFkbiqZse
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1FE8NsPmwN8Be1WcLeD2noKsNCJoiDZmzZ
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1H8Xuc8MzL8sMpnPT1xkSb2C6ZxG8eG4br
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1HaDia6bh1VrvzgDZNrCQzJp7jkKgzwXgo
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 15yRUjAYzHSpEhWciN2fydfozmn2Q5BY4Y
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1QBr8VhFSxbA6KRBZnQkjGaXERDub6vfsH
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 126qENHoEuwfQTRA2ZPjSsPe3wk1kemzWe
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1CZMRaNNEL1CLC2KjAECBBxeavnBri6XVe
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1PSjzLf7QY7aTYos7AuTSVVNG8yyx6PNfk
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1JCaoW6NJxUeKzntRVYug2MqFp2dvAno77
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1MN42ydYbxsEkAMCm6oLCuCXKnBEJ7oCim
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1CJ847F53tkfW1RzXUuL1MSjnUAE9ijsqp
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 12vTF74yUsXrhLRqGGsWhWnomn8jyFpQLH
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 13yCmaZjjpMLzRC1MXtRxdaacxCdNSomoD
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 15djTif4McPeSQjV1gTp69Yhc7pw66XKVy
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1JfYJxBhaXvRzd9GuRZwxkXk8cn2nWjrV
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1CHt1bJbJUV9cueJf1B59XW1LjmciNGnCx
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 12BJv7j6dn32VVNULn9ejTosumauACJzSg
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1NYKBghB2XL7fvjttKcRit7DFXJEaSaGfz
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 11XgsFNfg8k1AuEwEDy5YiBBXAvc8hhS2
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 19HcjChJmWV3UegyGNVfu9TVCCLaFgdftX
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 15iZuUHSSmkmtDioEPteTAJ3Xvgb8D7Mv1
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1GUEk6zFWFK4q4uFsqEZFb9KS9LvkVcNEz
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 15zJdzPpoVkAuUYh1tTQf1xRafaj7MJS6q
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1DVsVWx5CbMJPqLoyCN7emd2qPgMRKbNv1
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1ZMeEoUqooBtwZwczjNPtkJznkpD1CxG1
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1d8kmdn6TSQpkfcaU6r2fiXz5RCiagmVL
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1KK85vi9NEedRK24Cbb7XbrzGm9hdxnM9L
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 15pAd3TbQMh7pgjba4meK8pgLHUaPrvJdJ
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1P3VS5QUHmBGYrmLGo2MCUNDQHQQfCT5Qc
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 129vhqY8daYM2FuwhzgZ1jdu3476FoFt7b
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1Nig5AyrosTzuZf7ohrawzsbttby1hRy5L
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1KXhENHNm9dRSFgeGuW5gzMpQmu3MJLFvb
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1JTbCPGiNd2CxQA1ksvPHUnULRXXfTJB9T
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1D38A8TJHAQfEGdoirE1WpXPEh7NMNHT5L
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 15RDbnXTpUeHqdK8S4CCVeukQseYs6kEBK
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1Kx2WY1EwQzXXHD3wAXhFGzLg9SW7x8S46
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1AwSTiU6BJoCXW5iaovCdZgyvcFeaNP3bg
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1N4nt5izzyyRdaU6UcsWUgoLG9LL854bsF
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1NH71TnJHVqXGdm3Bg5bRnZ7P6u8HAh5wm
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1ACJf6LuKSFVLg7WutZhE4meSpcSBmixqn
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 19RdWUBbfSnkRmqwvy3jH5FsebVGkYDHMU
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1PcnS872jdFRApRw7zm1Cu6fWcx3cu3GLM
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 15ZF8VbkCiYfk4sMAiuegLieTVKENvz8ch
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1VGHbZYU2JXM78Up4voyzco8NR9pqMYYm
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1G6n9fayEV1b99LARuyWMm8B6qNTBhaDgu
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1D1LKbyLcWSsayaQwZYpE81Wnguhfgx14i
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 172yoXEyudU3vYHNYoXJu3TDi8HxY274G7
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1KnDWqMk5mTvbcUkLUpSyyLR8GceZTy2Gm
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 166ZhgtsKhVekMBcBpGAdgHJPxLG39FPua
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1FJdASDHPZHd84RHDSNz7KM9EtkYdczz1j
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1nL6u6dyeF5cp2vTvsG2jjfMqxQm1Z3fb
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1HpaHr2pQmVPuFWwNKm7hqjndQPMULNYz5
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1k8nYYaXYS51Kp9L5XuWseCrEZKJkoY6r
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1HfXRJKFXeQLqtPB9JE5rBLgz2fXEZZZSb
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1PuB4mjLxGtDc7ZuUfdznKNbLCKRSFjo5o
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1HaQbNXKuad7FEj4Yuosho3ZxKGtroYehc
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1BAjMYnjMLPG1KYg7FotbigDy6LzaKPD9h
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 19nCCh8i8XS7FohsXEoxDRH4MicqDTXXer
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1BPZaKFVDYkcXGNHzrNkdFoyh1XnJCQnqH
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1K9LuRMAczW74PQFpB7SrrXtKnvWBRMxaT
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1NoAt9Y5xkFNkjFnnZDnBAmRHUuEQfpKn4
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 15vrWRtHMaqhE54yPucDFZHs8a4BZVKVMn
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 16t35Fhe2HqKN5XT2ocEd9Fe3eKm5UhRcm
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1EK7xu7AKtNwm9b63NucCaQU84SCDEeB8W
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 14KBEixioiuRyFNPLaXJ7cvoYtE2kbrtW6
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1J5fP2e7o5iUNjniSZmjUx8CPLhmatHXBo
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1MfAQ5AupmgAqwUJebD7HaKiJ7hrxLJwnF
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1LKn2AUmimmvVxQSZq722vvKb7ZnvLXhMQ
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1JMXr5ZaMCar1VGJtHa84mJSRiSUBWuqFp
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 12ELAYhatdbqQmoQRbs9uunwGKGvcvCXZM
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 14cyp4tSUfaarhdau9BB6jFmF25kg5VbMr
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 16WNRBcgrahtcnCtfeor3az8TXBJCEDwEV
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1N5Xu9k4yLxwMu1rTnYFxuZPzPUC1fwmYC
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1MrDzd74ZiCKmatgVChCcAuqhhLXcSNZqL
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1HYBCTLQ9EPsaJ4hJqS5puE5yoTDDEANA3
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 12dpT8HTBokFm7ZBJYJyL6LgXimjKsym2M
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1BW2bCuES9cq1P22FXtL9Rqb1HmiH1SaC
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 16cETFnCKfaHxkvt9GhuLywRA8xhH7tdP9
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1Hxv2FAfByLM3qH5mbtJa5bED1iLkgwv3f
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 16pt3mppoSKJnmM6ndHgpT94YesKbrekmK
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 172Z9XsWVZNtMbapqwMArbLNqUMMVm6HKG
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1JNVWDgaFLR3hfHS6e5PwJWhgqx5DNoszy
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1CUvRF1inUt8gDtFELCeMykD1VRj2RTjrf
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1HFYcUHHBqqZKftMpMxxwCda9wQz36TKoQ
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1LmLrcjGBRJ3UudEzN13onF5dnQtpbwZ1z
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1MUAv1hmMr5UdJT2JbBk5KRXykpg1qEyFG
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1LCC74BqJmjcKuWZDGbQBCfQ9dDZcQohfp
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1LbeaSmAW82KmEiRx77uWT4daScitLQ8Tj
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1KVhW4Qq52y1n9qyK8M1BpQRJf6LwhwuSV
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 1J5mvtr8GNcuNeQV8tkW3XKkNJiFK8dsS2
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
 - abuse: Hack
   address: 17TYJUtktEuCiTizo3j9ijPK9uU2U3yKUc
-  category: 'Unspecified'
+  category: Unspecified
   label: bitfinex hack
   source: https://gist.github.com/MrChrisJ/4a959a51a0d2be356cc2e89566fc1d87
-- abuse: ''
-  address: 1M2bv6sypZSp6uAEC9U4Gzvgp6jd29F87e
+- address: 1M2bv6sypZSp6uAEC9U4Gzvgp6jd29F87e
   category: Exchange
   label: bter.com
   source: https://www.coindesk.com/bter-bitcoin-stolen-cold-wallet-hack
-- abuse: ''
-  address: 13sswj3bpfyFQby1oJbpjCUe18ZxUygKZt
+- address: 13sswj3bpfyFQby1oJbpjCUe18ZxUygKZt
   category: Exchange
   label: bter.com
   source: https://www.coindesk.com/bter-bitcoin-stolen-cold-wallet-hack
-- abuse: ''
-  address: 1Ni8z1MbaF4ri8GGE67BWtLu66YnXj2BuW
+- address: 1Ni8z1MbaF4ri8GGE67BWtLu66YnXj2BuW
   category: Exchange
   label: bter.com
   source: https://www.coindesk.com/bter-bitcoin-stolen-cold-wallet-hack
-- abuse: ''
-  address: 1AeRVukQNG3qhd3i31pwFa7Z8qc6JnkYEs
+- address: 1AeRVukQNG3qhd3i31pwFa7Z8qc6JnkYEs
   category: Exchange
   label: bter.com
   source: https://www.coindesk.com/bter-bitcoin-stolen-cold-wallet-hack
-- abuse: ''
-  address: 1CZ6jGQ9TPBjixtRkNZ21PNR8gQe7YNydE
+- address: 1CZ6jGQ9TPBjixtRkNZ21PNR8gQe7YNydE
   category: Exchange
   label: bter.com
   source: https://www.coindesk.com/bter-bitcoin-stolen-cold-wallet-hack
 - abuse: Hack
   address: 1Ni8z1MbaF4ri8GGE67BWtLu66YnXj2BuW
-  category: 'Unspecified'
+  category: Unspecified
   label: bter hack
   source: https://www.coindesk.com/bter-bitcoin-stolen-cold-wallet-hack
 - abuse: Hack
   address: 18ywz63JuUjsQ9kWyKs48dnRd2w1Hix7FY
-  category: 'Unspecified'
+  category: Unspecified
   label: bter hack
   source: https://www.coindesk.com/bter-bitcoin-stolen-cold-wallet-hack
-title: Hacks Tagpack

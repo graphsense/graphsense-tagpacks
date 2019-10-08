@@ -2,11 +2,11 @@ baseURI: https://github.com/graphsense/graphsense-tagpacks/blob/develop
 categories:
 - Exchange
 - Wallet Service
-- Other
 - Miner
 - Marketplace
 - Gambling
 - Mixing Service
+- Other
 - Unspecified
 abuses:
 - Scam

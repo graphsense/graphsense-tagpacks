@@ -1,8 +1,9 @@
-abuse: Hack
-category: 'Unspecified'
+title: GraphSense Binance
 creator: GraphSense User (SR)
-currency: BTC
 description: Addresses related to Binance hack
+abuse: Hack
+category: Unspecified
+currency: BTC
 label: binance hack
 lastmod: 2019-07-03
 source: https://www.coindesk.com/hackers-steal-40-7-million-in-bitcoin-from-crypto-exchange-binance
@@ -51,4 +52,3 @@ tags:
 - address: bc1qvr2jxlmvckap7cg2l6mdgh5fa8glkhe4s88sax
 - address: bc1qvstwzsrfml43jrclsp68220l4lx5lw3kwf7dp0
 - address: bc1qyv4zv0wjn299kx4yz6g7v6g6400wqgzcqgw9vx
-title: GraphSense Binance

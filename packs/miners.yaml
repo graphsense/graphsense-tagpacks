@@ -1,8 +1,8 @@
-abuse: ''
-category: Miner
+title: Miners TagPack
 creator: Matteo Romiti
-currency: BTC
 description: Tags related to mining entities
+category: Miner
+currency: BTC
 lastmod: 2019-06-13
 source: https://github.com/MatteoRomiti/Deep_Dive_BTC_Mining_Pools/blob/master/dataset/miners.json
 tags:
@@ -74888,4 +74888,3 @@ tags:
   label: okminer
 - address: 1GQHQ3oD2GW5o8pd9xzCKFHYSYSuRcF6LQ
   label: okminer
-title: Miners TagPack

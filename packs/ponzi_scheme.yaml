@@ -1,8 +1,9 @@
-abuse: Ponzi Scheme
-category: 'Unspecified'
+title: Ponzi Scheme Tagpack
 creator: Matteo Romiti
-currency: BTC
 description: Addresses related to Ponzi Schemes
+abuse: Ponzi Scheme
+category: Unspecified
+currency: BTC
 lastmod: 2019-07-11
 source: https://arxiv.org/abs/1803.00646
 tags:
@@ -110,4 +111,3 @@ tags:
   label: clearhash.net
 - address: 19g9exzmtJ2sQbBBB3x2PiY9pReVCm8HqA
   label: clearhash.net
-title: Ponzi Scheme Tagpack

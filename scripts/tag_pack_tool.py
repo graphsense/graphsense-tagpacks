@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import datetime
+from os import listdir, path
 import json
 import re
 import time
@@ -12,15 +13,16 @@ from cassandra.query import BatchStatement
 
 
 CONFIG_FILE = "config.yaml"
+SCHEMA_FILE = "schema.yaml"
+PACKS_FOLDER = 'packs/'
 BATCH_SIZE_LIMIT = 500
-
-config = yaml.safe_load(open(CONFIG_FILE, 'r'))
-
-config_baseURI = config['baseURI']
-config_tagpacks = config['targetKeyspace']
-config_header_fields = config['fields']['header']
-config_tag_fields = config['fields']['tag']
-config_categories = config['categories']
+root_folder = None
+config_baseURI = None
+config_tagpacks = None
+schema = yaml.safe_load(open(SCHEMA_FILE, 'r'))
+schema_header_fields = schema['fields']['header']
+schema_tag_fields = schema['fields']['tag']
+schema_categories = schema['categories']
 
 
 class TagPackException(Exception):
@@ -29,7 +31,7 @@ class TagPackException(Exception):
 
 def extract_meta(tag_pack):
     tag_pack_meta = {k: v for k, v in tag_pack.items()
-                     if k in config_header_fields and k != "tags"}
+                     if k in schema_header_fields and k != "tags"}
     return tag_pack_meta
 
 
@@ -37,7 +39,7 @@ def extract_tags(tag_pack):
     # Retrieve generic tag fields from tag pack header
     tags = []
     generic_tag_fields = {k: v for k, v in tag_pack.items()
-                          if k not in config_header_fields and k != "tags"}
+                          if k not in schema_header_fields and k != "tags"}
     # Iterate each tag and enrich them with generic fields
     for tag in tag_pack['tags']:
         final_tag = generic_tag_fields.copy()
@@ -52,12 +54,12 @@ def check_categories(d):
             check_categories(v)
         else:
             if k == 'category':
-                if v not in config_categories:
+                if v not in schema_categories:
                     return k, v
             if k == 'tags':
                 for el in v:
                     if 'category' in el and el['category'] \
-                            not in config_categories:
+                            not in schema_categories:
                         return k, el['category']
 
 
@@ -74,22 +76,23 @@ def lastmod_to_timestamp(d):
     return d
 
 
-def label_to_labelnorm(label):
+def normalize_label(label):
     # Alphanumeric and lowercase only
     pattern = re.compile(r'[\W_]+', re.UNICODE)
     return pattern.sub('', label).lower()
 
 
 def verify_tag_pack(tag_pack):
+    global schema_tag_fields, schema_header_fields
     # Header should only contain header and generic body fields
     unknown_header = set(tag_pack.keys()) - \
-        set(config_header_fields) - set(config_tag_fields)
+        set(schema_header_fields) - set(schema_tag_fields)
     if unknown_header:
         raise TagPackException(
             'Found unknown header field: {}.'.format(unknown_header))
     # Tags should only contain body fields
     for tag in tag_pack['tags']:
-        unknown_tag_field = set(tag.keys()) - set(config_tag_fields)
+        unknown_tag_field = set(tag.keys()) - set(schema_tag_fields)
         if unknown_tag_field:
             raise TagPackException(
                 'Found unknown tag field {} assigned with tag {}.'
@@ -102,13 +105,15 @@ def verify_tag_pack(tag_pack):
 
 
 def validate(args):
-    tag_pack_files = args.tagpacks
-    print(tag_pack_files)
+    global root_folder
+    packs_path = path.join(root_folder, PACKS_FOLDER)
     try:
-        for tag_pack_file in tag_pack_files:
-            tag_pack = yaml.safe_load(open(tag_pack_file, 'r'))
-            verify_tag_pack(tag_pack)
-            print("TagPack {} looks fine".format(tag_pack_file))
+        for tag_pack_file in listdir(packs_path):
+            if tag_pack_file[-4:] == 'yaml':
+                tag_pack_path = path.join(packs_path, tag_pack_file)
+                tag_pack = yaml.safe_load(open(tag_pack_path, 'r'))
+                verify_tag_pack(tag_pack)
+                print("TagPack {} looks fine".format(tag_pack_file))
     except TagPackException as tagpack_error:
         print("Please check field usage:" + str(tagpack_error))
     except ParserError as parser_error:
@@ -116,7 +121,7 @@ def validate(args):
 
 
 def ingest(args):
-    batch_size = args.batch_size
+    global root_folder, schema_categories
     db_nodes = args.db_nodes
     if not isinstance(args.db_nodes, list):
         db_nodes = [args.db_nodes]
@@ -124,106 +129,109 @@ def ingest(args):
     session = cluster.connect(config_tagpacks)
     session.default_timeout = 60
 
-    tag_pack_files = args.tagpacks
+    packs_path = path.join(root_folder, PACKS_FOLDER)
+    for tag_pack_file in listdir(packs_path):
+        if tag_pack_file[-4:] == 'yaml':
+            batch_size = args.batch_size
+            print('Ingesting', tag_pack_file)
+            tag_pack_path = path.join(packs_path, tag_pack_file)
+            tag_pack = yaml.safe_load(open(tag_pack_path, 'r'))
+            tag_pack_uri = config_baseURI + '/' + tag_pack_file
 
-    for tag_pack_file in tag_pack_files:
-        tag_pack = yaml.safe_load(open(tag_pack_file, 'r'))
-        tag_pack_uri = config_baseURI + '/' + tag_pack_file
+            # Convert lastmod values from datetime to UNIX timestamp
+            tag_pack = lastmod_to_timestamp(tag_pack)
 
-        # Convert lastmod values from datetime to UNIX timestamp
-        tag_pack = lastmod_to_timestamp(tag_pack)
+            # Insert metadata into tagpack_by_uri table
+            tag_pack_meta = extract_meta(tag_pack)
+            tag_pack_meta['uri'] = tag_pack_uri
+            tag_pack_meta_json = json.dumps(tag_pack_meta)
+            cql_stmt = """INSERT INTO tagpack_by_uri
+                          JSON '{}';""".format(tag_pack_meta_json)
+            session.execute(cql_stmt)
 
-        # Insert metadata into tagpack_by_uri table
-        tag_pack_meta = extract_meta(tag_pack)
-        tag_pack_meta['uri'] = tag_pack_uri
-        tag_pack_meta_json = json.dumps(tag_pack_meta)
-        cql_stmt = """INSERT INTO tagpack_by_uri
-                      JSON '{}';""".format(tag_pack_meta_json)
-        session.execute(cql_stmt)
+            # Insert tags into tag_by_address table
+            extracted_tags = extract_tags(tag_pack)
+            batch_size = min(batch_size, len(extracted_tags))
+            batch_stmt = BatchStatement()
 
-        # Insert tags into tag_by_address table
-        extracted_tags = extract_tags(tag_pack)
-        batch_size = min(batch_size, len(extracted_tags))
-        batch_stmt = BatchStatement()
-
-        print('Ingesting tags with batch size:', batch_size)
-        success = False
-        while not success and batch_size:
-            try:  # batch might be too large
-                prepared_stmt = session.prepare('INSERT INTO '
-                                                'tag_by_address JSON ?')
-                idx_start, idx_end = 0, len(extracted_tags)
-                for index in range(idx_start, idx_end, batch_size):
-                    curr_batch_size = min(batch_size, idx_end - index)
-                    for i in range(0, curr_batch_size):
-                        tag = extracted_tags[index + i]
-                        tag['tagpack_uri'] = tag_pack_uri
-                        tag_json = json.dumps(tag)
-                        batch_stmt.add(prepared_stmt, [tag_json])
-                    session.execute(batch_stmt)
+            print('Ingesting tags with batch size:', batch_size)
+            success = False
+            while not success and batch_size:
+                try:  # batch might be too large
+                    prepared_stmt = session.prepare('INSERT INTO '
+                                                    'tag_by_address JSON ?')
+                    idx_start, idx_end = 0, len(extracted_tags)
+                    for index in range(idx_start, idx_end, batch_size):
+                        curr_batch_size = min(batch_size, idx_end - index)
+                        for i in range(0, curr_batch_size):
+                            tag = extracted_tags[index + i]
+                            tag['tagpack_uri'] = tag_pack_uri
+                            tag_json = json.dumps(tag)
+                            batch_stmt.add(prepared_stmt, [tag_json])
+                        session.execute(batch_stmt)
+                        batch_stmt.clear()
+                    success = True
+                except Exception as e:
+                    print(e)
+                    batch_size = min(int(batch_size/2), BATCH_SIZE_LIMIT)
                     batch_stmt.clear()
-                success = True
-            except Exception as e:
-                print(e)
-                batch_size = min(int(batch_size/2), BATCH_SIZE_LIMIT)
-                batch_stmt.clear()
-                print('Trying again with batch size:', batch_size)
+                    print('Trying again with batch size:', batch_size)
 
-        print('Ingesting tags with batch size:', batch_size)
-        success = False
-        while not success and batch_size:
-            try:
-                # Insert tags into tag_by_category table
-                prepared_stmt = session.prepare('INSERT INTO '
-                                                'tag_by_category JSON ?')
-                idx_start, idx_end = 0, len(extracted_tags)
-                for index in range(idx_start, idx_end, batch_size):
-                    curr_batch_size = min(batch_size, idx_end - index)
-                    for i in range(0, curr_batch_size):
-                        tag = extracted_tags[index + i]
-                        tag['label_norm'] = label_to_labelnorm(tag['label'])
-                        tag['tagpack_uri'] = tag_pack_uri
-                        tag_json = json.dumps(tag)
-                        batch_stmt.add(prepared_stmt, [tag_json])
-                    session.execute(batch_stmt)
+            print('Ingesting tags with batch size:', batch_size)
+            success = False
+            while not success and batch_size:
+                try:
+                    # Insert tags into tag_by_category table
+                    prepared_stmt = session.prepare('INSERT INTO '
+                                                    'tag_by_category JSON ?')
+                    idx_start, idx_end = 0, len(extracted_tags)
+                    for index in range(idx_start, idx_end, batch_size):
+                        curr_batch_size = min(batch_size, idx_end - index)
+                        for i in range(0, curr_batch_size):
+                            tag = extracted_tags[index + i]
+                            tag['label_norm'] = normalize_label(tag['label'])
+                            tag['tagpack_uri'] = tag_pack_uri
+                            tag_json = json.dumps(tag)
+                            batch_stmt.add(prepared_stmt, [tag_json])
+                        session.execute(batch_stmt)
+                        batch_stmt.clear()
+                    success = True
+                    print("Ingested TagPack {} [1/2]".format(tag_pack_file))
+                except Exception as e:
+                    print(e)
+                    batch_size = min(int(batch_size/2), BATCH_SIZE_LIMIT)
                     batch_stmt.clear()
-                success = True
-                print("Ingested TagPack {}".format(tag_pack_file))
-            except Exception as e:
-                print(e)
-                batch_size = min(int(batch_size/2), BATCH_SIZE_LIMIT)
-                batch_stmt.clear()
-                print('Trying again with batch size:', batch_size)
+                    print('Trying again with batch size:', batch_size)
 
-        print('Ingesting tags with batch size:', batch_size)
-        success = False
-        while not success and batch_size:
-            try:
-                # Insert tags into tag_by_label table
-                prepared_stmt = session.prepare('INSERT INTO '
-                                                'tag_by_label JSON ?')
-                idx_start, idx_end = 0, len(extracted_tags)
-                for index in range(idx_start, idx_end, batch_size):
-                    curr_batch_size = min(batch_size, idx_end - index)
-                    for i in range(0, curr_batch_size):
-                        tag = extracted_tags[index + i]
-                        tag['label_norm'] = label_to_labelnorm(tag['label'])
-                        tag['label_norm_prefix'] = tag['label_norm'][:3]
-                        tag['tagpack_uri'] = tag_pack_uri
-                        tag_json = json.dumps(tag)
-                        batch_stmt.add(prepared_stmt, [tag_json])
-                    session.execute(batch_stmt)
+            print('Ingesting tags with batch size:', batch_size)
+            success = False
+            while not success and batch_size:
+                try:
+                    # Insert tags into tag_by_label table
+                    prepared_stmt = session.prepare('INSERT INTO '
+                                                    'tag_by_label JSON ?')
+                    idx_start, idx_end = 0, len(extracted_tags)
+                    for index in range(idx_start, idx_end, batch_size):
+                        curr_batch_size = min(batch_size, idx_end - index)
+                        for i in range(0, curr_batch_size):
+                            tag = extracted_tags[index + i]
+                            tag['label_norm'] = normalize_label(tag['label'])
+                            tag['label_norm_prefix'] = tag['label_norm'][:3]
+                            tag['tagpack_uri'] = tag_pack_uri
+                            tag_json = json.dumps(tag)
+                            batch_stmt.add(prepared_stmt, [tag_json])
+                        session.execute(batch_stmt)
+                        batch_stmt.clear()
+                    success = True
+                    print("Ingested TagPack {} [2/2]".format(tag_pack_file))
+                except Exception as e:
+                    print(e)
+                    batch_size = min(int(batch_size/2), BATCH_SIZE_LIMIT)
                     batch_stmt.clear()
-                success = True
-                print("Ingested TagPack {}".format(tag_pack_file))
-            except Exception as e:
-                print(e)
-                batch_size = min(int(batch_size/2), BATCH_SIZE_LIMIT)
-                batch_stmt.clear()
-                print('Trying again with batch size:', batch_size)
+                    print('Trying again with batch size:', batch_size)
 
     # Insert categories
-    for i, c in enumerate(config_categories):
+    for i, c in enumerate(schema_categories):
         category_json = json.dumps({'category': c, 'ID': i})
         cql_stmt = """INSERT INTO categories JSON '{}';"""\
             .format(category_json)
@@ -233,6 +241,8 @@ def ingest(args):
 
 
 def main():
+    global schema_categories, schema_header_fields, schema_tag_fields, \
+        root_folder, config_baseURI, config_tagpacks
     parser = ArgumentParser(description='TagPack utility',
                             epilog='GraphSense - http://graphsense.info')
     subparsers = parser.add_subparsers(title='subcommands',
@@ -255,10 +265,17 @@ def main():
     parser_v = subparsers.add_parser("validate", help="Validate TagPacks")
     parser_v.set_defaults(func=validate)
 
-    parser.add_argument("tagpacks", metavar='TAGPACK_FILE(s)',
-                        type=str, nargs='+', help="TagPacks to be processed")
+    parser.add_argument("root", metavar='ROOT', type=str, nargs='+',
+                        default='./', help="root folder containing packs, "
+                                           "schema and config")
 
     args = parser.parse_args()
+
+    root_folder = args.root[0]
+    config = yaml.safe_load(open(path.join(root_folder, CONFIG_FILE), 'r'))
+    config_baseURI = config['baseURI']
+    config_tagpacks = config['targetKeyspace']
+
     args.func(args)
 
 

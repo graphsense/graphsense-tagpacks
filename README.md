@@ -114,11 +114,8 @@ uniquely identified by their Git URI
 ## How can I configure my local TagPack environment
 
 Additional permitted fields and categorization information can be defined by
-adding them to the configuration file (`config.yaml`) of a TagPack repository.
+adding them to the schema file (`schema.yaml`) of a TagPack repository.
 
-    ---
-    baseURI: https://github.com/graphsense/graphsense-tagpacks
-    targetKeyspace: tagpacks
     fields:
       header:
         - title
@@ -144,6 +141,11 @@ adding them to the configuration file (`config.yaml`) of a TagPack repository.
 Please note that additional fields must also be considered in the schema
 definition (`./packs/schema_tagpacks.yaml`) when needed for further processing.
 
+In `config.yaml`, the base URI and the Cassandra keyspace are specified:
+
+    baseURI: https://github.com/graphsense/graphsense-tagpacks
+    targetKeyspace: tagpacks
+
 
 ## How can I contribute TagPacks to this repository?
 
@@ -166,28 +168,25 @@ only be accepted if the following conditions are met:
 
 3.) All tags provide a dereferenceable pointer to their origin
 
-TagPacks not fulfilling above criteria can be maintained in some private Git repositories.
+TagPacks not fulfilling above criteria can be maintained in some private
+ Git repositories.
 
 ## How can I ingest TagPacks into my local GraphSense instance
 
-Ensure that there is a keyspace `tagPacks` in your local Cassandra instance.
+Ensure that there is a keyspace `tagpacks` in your local Cassandra instance.
 
     ./scripts/create_tagpack_schema.sh
 
-Validate a single TagPack or all TagPacks
+Put your TagPacks in the `packs` subfolder and validate and ingest them:
 
-    ./scripts/tag_pack_tool.py validate packs/demo.yaml
-    for f in packs/*yaml; do ./scripts/tag_pack_tool.py validate $f; done
+    ./scripts/tag_pack_tool.py validate <root_folder>
+    ./scripts/tag_pack_tool.py ingest <root_folder>
 
-Ingest a single TagPack or all TagPacks
+The argument `<root_folder>` is by default the current folder, but it can be 
+set to another TagPack folder with different `config.yaml` and `packs`.
 
-    ./scripts/tag_pack_tool.py ingest packs/demo.yaml
-    for f in packs/*yaml; do ./scripts/tag_pack_tool.py ingest $f; done
-
-When ingesting TagPacks, you can specify the batch size to improve performances with the `-b` parameter (default is 500).
-
-## Additional help
-It may happen that different sources use different file formats, provide different names for the same entity or that some categories are not entirely correct. To facilitate checking and cleaning, there are two jupyter notebooks in the [scripts](scripts) folder, one for converting files into `yaml` format and one for data cleaning.
+When ingesting TagPacks, you can specify the batch size to improve performances 
+with the `-b` parameter (default is 500).
 
 After ingesting new TagPacks you should re-run the
 [graphsense-transformation](https://github.com/graphsense/graphsense-transformation)

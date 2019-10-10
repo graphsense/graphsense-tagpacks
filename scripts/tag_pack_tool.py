@@ -173,7 +173,7 @@ def ingest(args):
                     success = True
                 except Exception as e:
                     print(e)
-                    batch_size = min(int(batch_size/2), BATCH_SIZE_LIMIT)
+                    batch_size = min(int(batch_size / 2), BATCH_SIZE_LIMIT)
                     batch_stmt.clear()
                     print('Trying again with batch size:', batch_size)
 
@@ -199,7 +199,7 @@ def ingest(args):
                     print("Ingested TagPack {} [1/2]".format(tag_pack_file))
                 except Exception as e:
                     print(e)
-                    batch_size = min(int(batch_size/2), BATCH_SIZE_LIMIT)
+                    batch_size = min(int(batch_size / 2), BATCH_SIZE_LIMIT)
                     batch_stmt.clear()
                     print('Trying again with batch size:', batch_size)
 
@@ -226,7 +226,7 @@ def ingest(args):
                     print("Ingested TagPack {} [2/2]".format(tag_pack_file))
                 except Exception as e:
                     print(e)
-                    batch_size = min(int(batch_size/2), BATCH_SIZE_LIMIT)
+                    batch_size = min(int(batch_size / 2), BATCH_SIZE_LIMIT)
                     batch_stmt.clear()
                     print('Trying again with batch size:', batch_size)
 
@@ -282,4 +282,4 @@ def main():
 if __name__ == '__main__':
     t0 = time.time()
     main()
-    print(time.time()-t0)
+    print(time.time() - t0)

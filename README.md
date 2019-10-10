@@ -111,10 +111,21 @@ Since TagPacks are essentially files pushed to some Git repository, they can be
 uniquely identified by their Git URI
 (e.g., `https://github.com/graphsense/graphsense-tagpacks/blob/master/packs/demo.yaml`).
 
+The URI identifier of a TagPack is set in `config.yaml` in the root folder of each TagPack.
+
 ## How can I configure my local TagPack environment
 
-Additional permitted fields and categorization information can be defined by
+In `config.yaml`, the base URI and the Cassandra keyspace are specified:
+
+    baseURI: https://github.com/graphsense/graphsense-tagpacks
+    targetKeyspace: tagpacks
+
+## Which fields and categories can be used?
+
+Permitted fields and categorization information can be defined by
 adding them to the schema file (`schema.yaml`) of a TagPack repository.
+
+That file also defines supported categories and possible forms of abuses.
 
     fields:
       header:
@@ -129,22 +140,25 @@ adding them to the schema file (`schema.yaml`) of a TagPack repository.
         - currency
         - category
         - lastmod
-    categories:
-      - Organization
-      - Miner
-      - Exchange
-      - Wallet Service
-      - Marketplace
-      - Mixing Service
-
+        - abuse
+      categories:
+        - Exchange
+        - Wallet Service
+        - Miner
+        - Marketplace
+        - Gambling
+        - Mixing Service
+        - Other
+        - Unspecified
+      abuses:
+        - Scam
+        - Sextortion
+        - Hack
+        - Ransomware
+        - Ponzi Scheme
 
 Please note that additional fields must also be considered in the schema
 definition (`./packs/schema_tagpacks.yaml`) when needed for further processing.
-
-In `config.yaml`, the base URI and the Cassandra keyspace are specified:
-
-    baseURI: https://github.com/graphsense/graphsense-tagpacks
-    targetKeyspace: tagpacks
 
 
 ## How can I contribute TagPacks to this repository?

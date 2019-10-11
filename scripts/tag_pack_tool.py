@@ -16,9 +16,6 @@ CONFIG_FILE = "config.yaml"
 SCHEMA_FILE = "schema.yaml"
 PACKS_FOLDER = 'packs/'
 BATCH_SIZE_LIMIT = 500
-root_folder = None
-config_baseURI = None
-config_tagpacks = None
 schema = yaml.safe_load(open(SCHEMA_FILE, 'r'))
 schema_header_fields = schema['fields']['header']
 schema_tag_fields = schema['fields']['tag']
@@ -105,34 +102,41 @@ def verify_tag_pack(tag_pack):
 
 
 def validate(args):
-    global root_folder
-    packs_path = path.join(root_folder, PACKS_FOLDER)
-    try:
-        for tag_pack_file in listdir(packs_path):
-            if tag_pack_file[-4:] == 'yaml':
-                tag_pack_path = path.join(packs_path, tag_pack_file)
-                tag_pack = yaml.safe_load(open(tag_pack_path, 'r'))
-                verify_tag_pack(tag_pack)
-                print("TagPack {} looks fine".format(tag_pack_file))
-    except TagPackException as tagpack_error:
-        print("Please check field usage:" + str(tagpack_error))
-    except ParserError as parser_error:
-        print("Cannot parse YAML file:" + str(parser_error))
+    for root_folder in args.folders:
+        packs_path = path.join(root_folder, PACKS_FOLDER)
+        try:
+            for tag_pack_file in listdir(packs_path):
+                if tag_pack_file[-4:] == 'yaml':
+                    tag_pack_path = path.join(packs_path, tag_pack_file)
+                    tag_pack = yaml.safe_load(open(tag_pack_path, 'r'))
+                    verify_tag_pack(tag_pack)
+                    print("TagPack {} looks fine".format(tag_pack_file))
+        except TagPackException as tagpack_error:
+            print("Please check field usage:" + str(tagpack_error))
+        except ParserError as parser_error:
+            print("Cannot parse YAML file:" + str(parser_error))
 
 
 def ingest(args):
-    global root_folder, schema_categories
     db_nodes = args.db_nodes
     if not isinstance(args.db_nodes, list):
         db_nodes = [args.db_nodes]
     cluster = Cluster(db_nodes)
+    for root_folder in args.folders:
+        ingest_folder(root_folder, cluster, args.batch_size)
+
+
+def ingest_folder(root_folder, cluster, initial_batch_size):
+    config = yaml.safe_load(open(path.join(root_folder, CONFIG_FILE), 'r'))
+    config_baseURI = config['baseURI']
+    config_tagpacks = config['targetKeyspace']
     session = cluster.connect(config_tagpacks)
     session.default_timeout = 60
 
     packs_path = path.join(root_folder, PACKS_FOLDER)
     for tag_pack_file in listdir(packs_path):
         if tag_pack_file[-4:] == 'yaml':
-            batch_size = args.batch_size
+            batch_size = initial_batch_size
             print('Ingesting', tag_pack_file)
             tag_pack_path = path.join(packs_path, tag_pack_file)
             tag_pack = yaml.safe_load(open(tag_pack_path, 'r'))
@@ -145,8 +149,8 @@ def ingest(args):
             tag_pack_meta = extract_meta(tag_pack)
             tag_pack_meta['uri'] = tag_pack_uri
             tag_pack_meta_json = json.dumps(tag_pack_meta)
-            cql_stmt = """INSERT INTO tagpack_by_uri
-                          JSON '{}';""".format(tag_pack_meta_json)
+            cql_stmt = """INSERT INTO tagpack_by_uri JSON '{}';"""\
+                .format(tag_pack_meta_json)
             session.execute(cql_stmt)
 
             # Insert tags into tag_by_address table
@@ -241,8 +245,6 @@ def ingest(args):
 
 
 def main():
-    global schema_categories, schema_header_fields, schema_tag_fields, \
-        root_folder, config_baseURI, config_tagpacks
     parser = ArgumentParser(description='TagPack utility',
                             epilog='GraphSense - http://graphsense.info')
     subparsers = parser.add_subparsers(title='subcommands',
@@ -252,29 +254,23 @@ def main():
     # create parser for ingest command
     parser_i = subparsers.add_parser("ingest",
                                      help="Ingest TagPacks into GraphSense")
-    parser_i.add_argument('-d', '--db_nodes', dest='db_nodes', nargs='+',
-                          default='127.0.0.1', metavar='DB_NODE',
+    parser_i.add_argument('folders', nargs='+', metavar='FOLDER',
+                          help='TagPacks folder with packs and config file')
+    parser_i.add_argument('-d', '--db_nodes', nargs='+', default='127.0.0.1',
+                          metavar='DB_NODE',
                           help='list of Cassandra nodes; default "localhost")')
-    parser_i.add_argument('-b', '--batch-size', dest='batch_size', nargs='?',
-                          default=BATCH_SIZE_LIMIT, metavar='BATCH_SIZE',
+    parser_i.add_argument('-b', '--batch_size', nargs='?',
+                          default=BATCH_SIZE_LIMIT,
                           help='batch size for inserting tags into Cassandra)')
-
     parser_i.set_defaults(func=ingest)
 
     # create parser for validate command
     parser_v = subparsers.add_parser("validate", help="Validate TagPacks")
+    parser_v.add_argument('folders', nargs='+', metavar='FOLDER',
+                          help='TagPacks folder with packs and config file')
     parser_v.set_defaults(func=validate)
 
-    parser.add_argument("root", metavar='ROOT', type=str, nargs='+',
-                        default='./', help="root folder containing packs, "
-                                           "schema and config")
-
     args = parser.parse_args()
-
-    root_folder = args.root[0]
-    config = yaml.safe_load(open(path.join(root_folder, CONFIG_FILE), 'r'))
-    config_baseURI = config['baseURI']
-    config_tagpacks = config['targetKeyspace']
 
     args.func(args)
 

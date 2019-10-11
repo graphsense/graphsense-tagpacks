@@ -278,4 +278,4 @@ def main():
 if __name__ == '__main__':
     t0 = time.time()
     main()
-    print(time.time() - t0)
+    print('Total time:', time.time() - t0)

@@ -193,11 +193,13 @@ Ensure that there is a keyspace `tagpacks` in your local Cassandra instance.
 
 Put your TagPacks in the `packs` subfolder and validate and ingest them:
 
-    ./scripts/tag_pack_tool.py validate <root_folder>
-    ./scripts/tag_pack_tool.py ingest <root_folder>
+    ./scripts/tag_pack_tool.py validate -f <root_folder1> [<root_folder2> ...]
+    ./scripts/tag_pack_tool.py ingest -f <root_folder1> [<root_folder2> ...]
 
-The argument `<root_folder>` is by default the current folder, but it can be 
-set to another TagPack folder with different `config.yaml` and `packs`.
+`<root_folder1>` is your TagPack folder (default: this folder), but it 
+can be set to another TagPack folder with different `config.yaml` and `packs` 
+(e.g., private data). A list of arguments is also supported, in case 
+multiple TagPacks folders need to be validated and ingested.
 
 When ingesting TagPacks, you can specify the batch size to improve performances 
 with the `-b` parameter (default is 500).

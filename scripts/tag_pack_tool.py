@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import datetime
-from os import listdir, path
+from os import listdir, path, getcwd
 import json
 import re
 import time
@@ -14,7 +14,7 @@ from cassandra.query import BatchStatement
 
 CONFIG_FILE = "config.yaml"
 SCHEMA_FILE = "schema.yaml"
-PACKS_FOLDER = 'packs/'
+PACKS_FOLDER = 'packs'
 BATCH_SIZE_LIMIT = 500
 schema = yaml.safe_load(open(SCHEMA_FILE, 'r'))
 schema_header_fields = schema['fields']['header']
@@ -121,15 +121,15 @@ def ingest(args):
     db_nodes = args.db_nodes
     if not isinstance(args.db_nodes, list):
         db_nodes = [args.db_nodes]
-    cluster = Cluster(db_nodes)
     for root_folder in args.folders:
-        ingest_folder(root_folder, cluster, args.batch_size)
+        ingest_folder(root_folder, args.batch_size, db_nodes)
 
 
-def ingest_folder(root_folder, cluster, initial_batch_size):
+def ingest_folder(root_folder, initial_batch_size, db_nodes):
     config = yaml.safe_load(open(path.join(root_folder, CONFIG_FILE), 'r'))
     config_baseURI = config['baseURI']
     config_tagpacks = config['targetKeyspace']
+    cluster = Cluster(db_nodes)
     session = cluster.connect(config_tagpacks)
     session.default_timeout = 60
 
@@ -140,7 +140,7 @@ def ingest_folder(root_folder, cluster, initial_batch_size):
             print('Ingesting', tag_pack_file)
             tag_pack_path = path.join(packs_path, tag_pack_file)
             tag_pack = yaml.safe_load(open(tag_pack_path, 'r'))
-            tag_pack_uri = config_baseURI + '/' + tag_pack_file
+            tag_pack_uri = path.join(config_baseURI, tag_pack_file)
 
             # Convert lastmod values from datetime to UNIX timestamp
             tag_pack = lastmod_to_timestamp(tag_pack)
@@ -254,8 +254,9 @@ def main():
     # create parser for ingest command
     parser_i = subparsers.add_parser("ingest",
                                      help="Ingest TagPacks into GraphSense")
-    parser_i.add_argument('folders', nargs='+', metavar='FOLDER',
-                          help='TagPacks folder with packs and config file')
+    parser_i.add_argument('-f', '--folders', nargs='+', metavar='FOLDER',
+                          default=[getcwd()],
+                          help='TagPacks root folder; default "./"')
     parser_i.add_argument('-d', '--db_nodes', nargs='+', default='127.0.0.1',
                           metavar='DB_NODE',
                           help='list of Cassandra nodes; default "localhost")')
@@ -266,12 +267,12 @@ def main():
 
     # create parser for validate command
     parser_v = subparsers.add_parser("validate", help="Validate TagPacks")
-    parser_v.add_argument('folders', nargs='+', metavar='FOLDER',
-                          help='TagPacks folder with packs and config file')
+    parser_v.add_argument('-f', '--folders', nargs='+', metavar='FOLDER',
+                          default=[getcwd()],
+                          help='TagPacks root folder; default "./"')
     parser_v.set_defaults(func=validate)
 
     args = parser.parse_args()
-
     args.func(args)
 
 

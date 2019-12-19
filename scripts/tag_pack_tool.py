@@ -140,7 +140,7 @@ def ingest_folder(root_folder, initial_batch_size, db_nodes):
             print('Ingesting', tag_pack_file)
             tag_pack_path = path.join(packs_path, tag_pack_file)
             tag_pack = yaml.safe_load(open(tag_pack_path, 'r'))
-            tag_pack_uri = path.join(config_baseURI, tag_pack_file)
+            tag_pack_uri = path.join(config_baseURI, path.join(PACKS_FOLDER, tag_pack_file))
 
             # Convert lastmod values from datetime to UNIX timestamp
             tag_pack = lastmod_to_timestamp(tag_pack)

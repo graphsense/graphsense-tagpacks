@@ -1,5 +1,18 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.4.2] - 2019-12-19
+### Added
+- New tagpacks
+- Abuses field
+
+### Changed
+- Splitted config from schema
+- Improved argparse
+- Renaming categories
+
+### Removed
+- Jupyter notebooks
+
 ## [0.4.1] - 2019-06-28
 ### Added
 - Tagpacks: walletexplorer, ransomware, sextortion (Talos), miners

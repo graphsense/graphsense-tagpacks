@@ -111,14 +111,22 @@ Since TagPacks are essentially files pushed to some Git repository, they can be
 uniquely identified by their Git URI
 (e.g., `https://github.com/graphsense/graphsense-tagpacks/blob/master/packs/demo.yaml`).
 
+The URI identifier of a TagPack is set in `config.yaml` in the root folder of each TagPack.
+
 ## How can I configure my local TagPack environment
 
-Additional permitted fields and categorization information can be defined by
-adding them to the configuration file (`config.yaml`) of a TagPack repository.
+In `config.yaml`, the base URI and the Cassandra keyspace are specified:
 
-    ---
     baseURI: https://github.com/graphsense/graphsense-tagpacks
     targetKeyspace: tagpacks
+
+## Which fields and categories can be used?
+
+Permitted fields and categorization information can be defined by
+adding them to the schema file (`schema.yaml`) of a TagPack repository.
+
+That file also defines supported categories and possible forms of abuses.
+
     fields:
       header:
         - title
@@ -132,14 +140,22 @@ adding them to the configuration file (`config.yaml`) of a TagPack repository.
         - currency
         - category
         - lastmod
-    categories:
-      - Organization
-      - Miner
-      - Exchange
-      - Walletprovider
-      - Marketplace
-      - Mixingservice
-
+        - abuse
+      categories:
+        - Exchange
+        - Wallet Service
+        - Miner
+        - Marketplace
+        - Gambling
+        - Mixing Service
+        - Other
+        - Unspecified
+      abuses:
+        - Scam
+        - Sextortion
+        - Hack
+        - Ransomware
+        - Ponzi Scheme
 
 Please note that additional fields must also be considered in the schema
 definition (`./packs/schema_tagpacks.yaml`) when needed for further processing.
@@ -166,23 +182,27 @@ only be accepted if the following conditions are met:
 
 3.) All tags provide a dereferenceable pointer to their origin
 
-TagPacks not fulfilling above criteria can be maintained in some private Git repositories.
+TagPacks not fulfilling above criteria can be maintained in some private
+ Git repositories.
 
 ## How can I ingest TagPacks into my local GraphSense instance
 
-Ensure that there is a keyspace `tagPacks` in your local Cassandra instance.
+Ensure that there is a keyspace `tagpacks` in your local Cassandra instance.
 
     ./scripts/create_tagpack_schema.sh
 
-Validate a single TagPack or all TagPacks
+Put your TagPacks in the `packs` subfolder and validate and ingest them:
 
-    ./scripts/tag_pack_tool.py validate packs/demo.yaml
-    ./scripts/tag_pack_tool.py validate packs/*.yaml
+    ./scripts/tag_pack_tool.py validate -f <root_folder1> [<root_folder2> ...]
+    ./scripts/tag_pack_tool.py ingest -f <root_folder1> [<root_folder2> ...]
 
-Ingest a single TagPack or all TagPacks
+`<root_folder1>` is your TagPack folder (default: this folder), but it 
+can be set to another TagPack folder with different `config.yaml` and `packs` 
+(e.g., private data). A list of arguments is also supported, in case 
+multiple TagPacks folders need to be validated and ingested.
 
-    ./scripts/tag_pack_tool.py ingest packs/demo.yaml
-    ./scripts/tag_pack_tool.py ingest packs/*.yaml
+When ingesting TagPacks, you can specify the batch size to improve performances 
+with the `-b` parameter (default is 500).
 
 After ingesting new TagPacks you should re-run the
 [graphsense-transformation](https://github.com/graphsense/graphsense-transformation)

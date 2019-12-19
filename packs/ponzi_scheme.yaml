@@ -1,0 +1,113 @@
+title: Ponzi Scheme Tagpack
+creator: Matteo Romiti
+description: Addresses related to Ponzi Schemes
+abuse: Ponzi Scheme
+category: Unspecified
+currency: BTC
+lastmod: 2019-07-11
+source: https://arxiv.org/abs/1803.00646
+tags:
+- address: 1Ee9ZiZkmygAXUiyeYKRSA3tLe4vNYEAgA
+  label: nanoindustryinv.com
+- address: 1MzNQ7HV8dQ6XQ52zBGYkCZkkWv2Pd3VG6
+  label: grandagofinance
+- address: 1FyedPPk923wRfmVphV1CLt3bVLGxHZXpK
+  label: cryptory
+- address: 145SmDToAhtfcBQhNxfeM8hnS6CBeiRukY
+  label: leancy
+- address: 1FuypAdeC7mSmYBsQLbG9XV261bnfgWbgB
+  label: minimalism10
+- address: 1F8ZKpjMDpnpF79mZ1pxZRoNKZgXm4Tf1d
+  label: miniponzicoin
+- address: 1E5MCTtXn7n2svpZ1bDHZXndY9K7qQeqZP
+  label: 120cycle
+- address: 1BtcBoSSnqe8mFJCUEyCNmo3EcF8Yzhpnc
+  label: 10percentbtc
+- address: 1PayoutRrC8wxxZ9ygmeaRj3qTPug8tDYu
+  label: btcgains
+- address: 1ponziUjuCVdB167ZmTWH48AURW1vE64q
+  label: ponzi.io
+- address: 1LaxoTrQy51LnB289VmoSAgN6J6UrJbfL9
+  label: laxotrade
+- address: 1BmZW65ZoeLa1kbL9MPFLfkS818mqFUSma
+  label: openponzi
+- address: 1AQp51H22WHDzLgK64NoUo3Bg3T183QR22
+  label: btc-doubler.us
+- address: 178BzARKjkszrTyx4TxBKHhzGLZijdE26e
+  label: btc-doubler.com
+- address: 1CpVAEg4BgVzjiHshgeZfitZLV1t1zo6Qg
+  label: investorbitcoin.com
+- address: 12PoNZiEtabwkCU4YFffshWNF1cRiAk5nq
+  label: ponzi120
+- address: 139eeGkMGR6F9EuJQ3qYoXebfkBbNAsLtV
+  label: rockwellpartners
+- address: 114Ap9G5nu78vESC648amPwSeqUorPtV5L
+  label: twelverized
+- address: 19YZYfMB3mfX8AixzV7aLqXuViDcntrfcK
+  label: cryptosx2
+- address: 1BsjsaHST2Qohs8ZHxNHeZ1UfWhtxoKHEN
+  label: 1hourbtc.pw
+- address: 1FNtgGsHhymmEUMXrMiFeMtZbuagnnS59c
+  label: bitcoindoubler.fund
+- address: 1zmeu5BeWBprWyPv5ntNZKR7uThXaG9ic
+  label: doublebitcoin.life
+- address: 1EaSVdRuzcz4yjnTmibabyyrczvaQS8hAJ
+  label: bitcoincopy.site123.me
+- address: 1AXTqWYz1Bd3LZnq1Zf9vsgFBpqrKkHopx
+  label: bitcoinprofit2
+- address: 1PZ8E5oT7EUVgEVz1Ggc7bjXe2byxr7wxG
+  label: invest4profit
+- address: 1GetPaiDxjEuWN3KJTnY9Cbqv9QcR8zcME
+  label: 1getpaid.me
+- address: 14ji9KmegNHhTchf4ftkt3J1ywmijGjd6M
+  label: ponzi.io
+- address: 1AQxcdPgMTTQghPXt1EXHU8vEjSn2kYrPQ
+  label: igjam.com
+- address: 195o79saDhUNHJ4DeMBYMekLmrQ848APxA
+  label: 7dayponzi
+- address: 1A88teD6QqXRHBMCyCkoxxBQHpJAztUz6e
+  label: world-btc.online
+- address: 13NZxtAnKk5mbCUHpxHqKwWTDJzFHMGHLh
+  label: bestdoubler.eu
+- address: 18Smkvyf3gJN4z59FhjJsCu6NhSYmZkNvG
+  label: bitcoindoubler.prv.pl
+- address: 1MnuUkqvsyZdwd3xyM354kqVoPBhfBGE78
+  label: longtermpaying
+- address: 1LkT3qubANxtSHvxokZ8Nkrv6k7EFi6F1
+  label: ebitinvest.com
+- address: 1NcHirWVDfUAngWLjBzmPCQaeZaMPCceHC
+  label: ponzicoin
+- address: 15vr3X25cgfMBXpX8PQP3M6bQViFgqrm6U
+  label: coindouble
+- address: 1AA4A7cbVf3wMtG1RrhDoPkjAX2C1RJMjW
+  label: coindouble
+- address: 1NNSgNDU52W79QbXHGSBYHW874nQYb7oms
+  label: coindouble
+- address: 1P5rm8YmufwfNdqg6Dy47boaeBCXvEDjUP
+  label: cryptosplit
+- address: 147MddkTvgHR2kEoEpj5fjx7MK71va54y5
+  label: cryptosplit
+- address: 1NWdUDU4X91JTKEFJRKgmW4yYsUhWnaMJH
+  label: trusted business investments
+- address: 133ySbYkiA7BTtau2v3Hs4GLoDgGZFNDbD
+  label: smallprofit
+- address: 1Bb4JG51DizK6iSn4w4RqhRNXPUpkhacHx
+  label: smallprofit
+- address: 1QLbGuc3WGKKKpLs4pBp9H6jiQ2MgPkXRp
+  label: magic bitcoin doubler
+- address: 18Xiqg52FfgA43rqCyCU5iqq6KNBgjTBj8
+  label: coin-generator.net
+- address: 1MxA5W1TKcMwLNh6EYL9QwAMLXtifHnxwb
+  label: mmm global
+- address: 1CjGx5ujxvzdbZqzzhPREXqvxoYSgDoAgd
+  label: btc-flow
+- address: 1CHJArco4Qv6cmTZNF7Km7cuATCD1Z1NSu
+  label: weeklyponzi
+- address: 1LWadswFVXwCoVSKAeo3tuxWKqKr1EWFxR
+  label: doublebot
+- address: 1AFjgfnUhAYp4eh2GhbbLkCXY5xK25qJmQ
+  label: clearhash.net
+- address: 1DXxLzocfWXTHVYv4MTai4LLtXZgcJDknZ
+  label: clearhash.net
+- address: 19g9exzmtJ2sQbBBB3x2PiY9pReVCm8HqA
+  label: clearhash.net

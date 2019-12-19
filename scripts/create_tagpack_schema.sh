@@ -1,4 +1,9 @@
 #!/bin/bash
 
-echo "Creating target keyspace in Cassandra"
-cqlsh localhost -f ./scripts/schema_tagpacks.cql
+host=localhost 
+if [ -n "$1" ] ; then
+    host="$1"
+fi
+
+echo "Creating Cassandra target keyspace on $host"
+cqlsh "$host" -f ./scripts/schema_tagpacks.cql

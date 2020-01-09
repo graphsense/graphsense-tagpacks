@@ -140,7 +140,8 @@ def ingest_folder(root_folder, initial_batch_size, db_nodes):
             print('Ingesting', tag_pack_file)
             tag_pack_path = path.join(packs_path, tag_pack_file)
             tag_pack = yaml.safe_load(open(tag_pack_path, 'r'))
-            tag_pack_uri = path.join(config_baseURI, path.join(PACKS_FOLDER, tag_pack_file))
+            tag_pack_uri = path.join(config_baseURI, path.join(PACKS_FOLDER,
+                                                               tag_pack_file))
 
             # Convert lastmod values from datetime to UNIX timestamp
             tag_pack = lastmod_to_timestamp(tag_pack)
@@ -193,6 +194,8 @@ def ingest_folder(root_folder, initial_batch_size, db_nodes):
                         curr_batch_size = min(batch_size, idx_end - index)
                         for i in range(0, curr_batch_size):
                             tag = extracted_tags[index + i]
+                            if 'category' not in tag:
+                                continue
                             tag['label_norm'] = normalize_label(tag['label'])
                             tag['tagpack_uri'] = tag_pack_uri
                             tag_json = json.dumps(tag)

@@ -1,9 +1,9 @@
 title: Electrum Phishing Tagpack
 creator: Graphsense Team
-description: Addresses related to Electrum wallet phising attack
+description: Addresses related to Electrum wallet phishing attack
 lastmod: 2020-02-03
-label: Electrum phising
-abuse: Phising
+label: Electrum phishing
+abuse: Phishing
 - address: bc1q92md7868uun8vplp9te0vaecmxyc5rrphdyvxg
   currency: BTC
   source: https://blog.malwarebytes.com/detections/osx-electrumstealer/

@@ -167,7 +167,7 @@ definition (`./packs/schema_tagpacks.yaml`) when needed for further processing.
 
 **Step 2**: Add your TagPacks to the folder `packs`
 
-**Step 3**: Validate your TagPack `./scripts/tag_pack_tool.py validate packs/demo.yaml`
+**Step 3**: Validate your TagPack
 
 **Step 4**: Contribute them to GraphSense public TagPack collection by submitting a [pull request](https://help.github.com/en/articles/about-pull-requests)
 

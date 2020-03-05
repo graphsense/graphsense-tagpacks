@@ -14,8 +14,6 @@ tags:
   label: alphabet
 - address: 1NEcE8ffNZqAucBtp42a5YXMMUSLY7YfEP
   label: angleware
-- address: 2cX4MWcTFbmKgPQX1irMiDsU84dXB6LFBv
-  label: apt
 - address: 377CY1m8W2qbQQX5HHjziimdh2faGjDeLv
   label: apt
 - address: 19zvMSm7qSQgFXCckXBjstdVdbT99ZuWBP
@@ -26,8 +24,6 @@ tags:
   label: badencrypt
 - address: 1C25YQEAMFJAj2TaUkxGhgvwicKzWhXDQy
   label: blackfeather
-- address: 2cUaG3dRVoUVQEf9rJNhPxdyfYfDuxPeQy
-  label: btcware
 - address: 1MfVk1utxgvGjMFV3K3CzXsDRDZznj5tey
   label: bucbi
 - address: 1AoNMLZfhw7cbMCKAhaKHiveMdwFyVUGeA
@@ -37,8 +33,6 @@ tags:
 - address: 1JHxr5sbXDoZuDsx624TmZ2MWyDdD9ag8K
   label: chimera
 - address: 1HssDyDTZj1hVdwhdpF49wLKLPQoCRJB9T
-  label: comradecircle
-- address: 2cTivRoWe5eXdZAt8PqxTJ6tqaQwoaNt6t
   label: comradecircle
 - address: 1KG8rWYWRYHfvjVe8ddEyJNCg6HxVWYSQm
   label: cryptconsole
@@ -118,8 +112,6 @@ tags:
   label: exotic
 - address: 1HqcdC83mPWV5B5Y4KSqQFH6ec7eQn6LwV
   label: fakeglobe
-- address: 2cUhQ3orPHtcCKvk2iwCeJnmbSeKLLHdog
-  label: fantom
 - address: 1H91foPkEGFqurFdq5zek4frCshzPZbq9V
   label: firecrypt
 - address: 1P29xxkwy6wvLxJVA2cLoXBri2hZzaweSV
@@ -130,25 +122,17 @@ tags:
   label: globe
 - address: 1MBwkTssJkqRvXmAFcSEZ3xTD39A9rkyYA
   label: globe
-- address: 2cXdsnLQNvAVCLZCjiW6t1gm1mWaD4nwbn
-  label: globe
 - address: 1AM7Pmsdq5dViz9xkvpAQuCcFfdXz8eUza
   label: globe
 - address: 1EDG61uWUrsHQYUrBJABHHDCXv2MLJWiWs
   label: globe
 - address: 1Lc7xTpPQaH8sWcZ1JpqR3daewdhPDzDdK
   label: globe
-- address: 2cWpwwPT9bqLv7D1VMSFUNJZgQ1mKBRgxK
-  label: globe
-- address: 2cX6ReWXub4kFgq6wPXcTBrNB1cd6Z8XXU
-  label: globe
 - address: 18prjukrWtNRdKXtZLwL7bUgk6J5kkVWMH
   label: globe
 - address: 1DMBSsLZr7hh3LQhzFjX15xPzSz4aXa5ZT
   label: globe
 - address: 1GvgRRnLpUP7KsLZLE23ridD45MUxHoAJ4
-  label: globeimposter
-- address: 2cXpCihgsVxB31uLjALsCzAwt5xyxr467U
   label: globeimposter
 - address: 1EQ13omDCKRieCGvRoD62UkC9T2ZvZSFvM
   label: globeimposter
@@ -167,10 +151,6 @@ tags:
 - address: 1DWNbQW5HvXde4tU4ZdFQmc8Gp7paMpvNu
   label: globe
 - address: 1EQiMGLApzDdPYLWoDMyUo27q5ashMXdQ
-  label: globe
-- address: 2cW9MdWLopQaLuFMEPUKppWQ3x55Q69iPp
-  label: globe
-- address: 2cWueiDqKeajosJ4edtA7pdNY2n2ccK2uq
   label: globe
 - address: 15fbyNgDnqYQR5vSHJ8PTAEJbKy4dwNBCZ
   label: jigsaw
@@ -14298,8 +14278,6 @@ tags:
   label: phoenix
 - address: 1LEiPgvh6S9VEXWV2dZTytSRd7e9B1bWt3
   label: popcorntime
-- address: NBazWh9xNVf2SgmvLv8pc3Uc9CCXtXMu
-  label: random6
 - address: 36QLSBTuBvK5rKD6PsM9tTFaacrjHCSNGd
   label: ransomplus
 - address: 1HXQ5fs6PNhSuQurU7Ccy9HCRnULs1aa2v
@@ -14478,8 +14456,6 @@ tags:
   label: unknown ransomware
 - address: 1MMA6YD99vAfzKqhrb3dY91KpSZV6TMd2x
   label: unknown ransomware
-- address: 1NHrbhXmSzzCa8VhWqsza82NaUynxs
-  label: unknown ransomware
 - address: 1NVLhvfTexSW1CB9vR7o6c4wY8HyHeYoh
   label: unknown ransomware
 - address: 1Pbcnf7zPELLYZiVjfGF9CSyKYtgma1LiA
@@ -14615,8 +14591,6 @@ tags:
 - address: 1qCTcfdVGric8aEKXR2AuMzWd9fMohUQD
   label: unknown ransomware
 - address: 1Doho93x24sbs4jyPw6wn87xjQSuFS8wrt
-  label: unknown ransomware
-- address: 1CrycrywtDdncryN4kQMhcry69gHSAd3R
   label: unknown ransomware
 - address: 1EpXBS26YdbgLDCX3pPQ8qMBqVCWE2iryq
   label: unknown ransomware

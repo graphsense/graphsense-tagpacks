@@ -1,3 +1,4 @@
 packs/interpol-real_services.yaml filter=lfs diff=lfs merge=lfs -text
 packs/interpol_scenario.yaml filter=lfs diff=lfs merge=lfs -text
 packs/chaininfo.yaml filter=lfs diff=lfs merge=lfs -text
+packs/wasabi.yaml filter=lfs diff=lfs merge=lfs -text

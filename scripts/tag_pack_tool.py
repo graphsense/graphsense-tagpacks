@@ -20,6 +20,7 @@ schema = yaml.safe_load(open(SCHEMA_FILE, 'r'))
 schema_header_fields = schema['fields']['header']
 schema_tag_fields = schema['fields']['tag']
 schema_categories = schema['categories']
+schema_abuses = schema['abuses']
 
 
 class TagPackException(Exception):
@@ -242,6 +243,13 @@ def ingest_folder(root_folder, initial_batch_size, db_nodes):
         category_json = json.dumps({'category': c, 'ID': i})
         cql_stmt = """INSERT INTO categories JSON '{}';"""\
             .format(category_json)
+        session.execute(cql_stmt)
+
+    # Insert abuses
+    for i, c in enumerate(schema_abuses):
+        abuses_json = json.dumps({'abuse': c, 'ID': i})
+        cql_stmt = """INSERT INTO abuses JSON '{}';"""\
+            .format(abuses_json)
         session.execute(cql_stmt)
 
     cluster.shutdown()

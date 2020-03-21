@@ -56,3 +56,9 @@ CREATE TABLE categories (
     ID              int,
     PRIMARY KEY (category)
 );
+
+CREATE TABLE abuses (
+    abuse        text,
+    ID              int,
+    PRIMARY KEY (abuse)
+);

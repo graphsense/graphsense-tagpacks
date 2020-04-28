@@ -2,12 +2,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [0.4.3] - Ongoing
 ### Changed
-- Refactored scripts into TagPack Management tool
-- Re-implemented validation and ingest procedures
-
-### Added
-- Support for ingestion / validation of remote taxonomy concepts
-
+- Separated TagPack public repository from TagPack Management tool
 
 ## [0.4.2] - 2019-12-19
 ### Added

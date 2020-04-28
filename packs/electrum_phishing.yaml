@@ -3,7 +3,7 @@ creator: Graphsense Team
 description: Addresses related to Electrum wallet phishing attack
 lastmod: 2020-02-03
 label: Electrum phishing
-abuse: Phishing
+abuse: phishing
 tags:
 - address: bc1q92md7868uun8vplp9te0vaecmxyc5rrphdyvxg
   currency: BTC

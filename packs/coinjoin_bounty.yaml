@@ -1,9 +1,8 @@
 title: Coinjoin Bounty Tagpack
 creator: GraphSense Team
 description: MultiSig escrow address
-category: Other
 currency: BTC
-label: coinjoin bounty
+label: Coinjoin Bounty
 lastmod: 2020-02-04
 source: https://bitcointalk.org/index.php?topic=279249.0
 tags:

@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:41e49368fd3cb2627015d4388ee1b335dd6e2a9418c94c9e7baf817ddca46177
-size 365
+title: Wasabi Tagpack
+creator: GraphSense Team
+description: Address used by Wasabi for collecing CoinJoin coordination fees
+category: mixing_service
+currency: BTC
+label: Wasabi Fee
+lastmod: 2019-11-18
+source: https://github.com/nopara73/WasabiVsSamourai/blob/master/WasabiVsSamourai/CoinJoinIndexer.cs#L24
+tags:
+- address: bc1qs604c7jv6amk4cxqlnvuxv26hv3e48cds4m0ew
+- address: bc1qa24tsgchvuxsaccp8vrnkfd85hrcpafg20kmjw

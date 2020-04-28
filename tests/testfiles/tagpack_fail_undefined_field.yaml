@@ -1,0 +1,9 @@
+title: Test TagPack
+creator: GraphSense Test User
+failfield: This should fail
+lastmod: 2019-07-03
+tags:
+- address: 1bacdeddg32dsfk5692dmn23
+  label: sometag
+- address: 3bacadsfg3sdfafd2deddg32
+  label: othertag

@@ -1,2 +1,6 @@
-pyyaml==5.1.1
-cassandra-driver==3.18.0
+requests==2.23.0
+pyyaml==5.3.1
+tabulate==0.8.7
+cassandra-driver==3.23.0
+pytest==5.4.1
+coverage==5.1

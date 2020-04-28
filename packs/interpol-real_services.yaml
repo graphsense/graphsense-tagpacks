@@ -1,3 +1,46 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4553c39d18c6c24142a534d2c667a6e40c8d315cac25fb82a01ac7049c8f56d8
-size 1386
+creator: INTERPOL CNTL
+title: INTERPOL TagPack
+description: Services positively identified by INTERPOL CNTL
+lastmod: 2019-10-24
+source: https://www.interpol.int
+tags:
+- address: 3QyUSB4eRYePHcvpS6k6YDMBUDGXRSSMPc
+  label: bitcoinbon.at - Unique sending out address
+  currency: BTC
+  category: exchange
+- address: 3L48QW2MVd49fj997S6J5NBm7MrsvhpEmg
+  label: sideshift.ai
+  currency: BTC
+  category: mixing_service
+- address: 324mNGWxUKvM2TSrPPGRJeF6yB2ShFrp9C
+  label: sideshift.ai
+  category: mixing_service
+  currency: BTC
+- address: 3PXwDybGf1KRZXRmiDXrLwjeN2xUFmWsGn
+  label: sideshift.ai
+  category: mixing_service
+  currency: BTC
+- address: 3QZaqvX46RnEzHyajQm58dvF9bSbPRV9Zn
+  label: sideshift.ai
+  category: mixing_service
+  currency: BTC
+- address: 35fZ5MkMjiNMT4QwvWt1oYfQsUBuHk7R88
+  label: sideshift.ai
+  category: mixing_service
+  currency: BTC
+- address: 35mWWqXc5dAswpQaTMD5TsRHuQxQyAwrCH
+  label: sideshift.ai
+  category: mixing_service
+  currency: BTC
+- address: "0xD7f0E24Bd353404752F61c16EFed0847998B1205"
+  label: sideshift.ai - Random receiving address
+  category: mixing_service
+  currency: ETH
+- address: "0x87ef9c733296fF2E6Aae8d1023C0C4a53909a40f"
+  label: sideshift.ai - Random receiving address
+  category: mixing_service
+  currency: ETH
+- address: "0xcDd37Ada79F589c15bD4f8fD2083dc88E34A2af2"
+  label: sideshift.ai - Unique sending out address
+  category: mixing_service
+  currency: ETH

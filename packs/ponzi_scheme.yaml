@@ -1,7 +1,7 @@
 title: Ponzi Scheme Tagpack
 creator: Matteo Romiti
 description: Addresses related to Ponzi Schemes
-abuse: Ponzi Scheme
+abuse: ponzi_scheme
 currency: BTC
 lastmod: 2019-07-11
 source: https://arxiv.org/abs/1803.00646

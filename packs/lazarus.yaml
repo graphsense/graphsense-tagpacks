@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3aef72de78a99bed86f88f35c0d7709efcc628b89a70568435faf661108ad624
-size 1689
+title: OFAC Tagpack
+creator: Graphsense Team
+description: Addresses related to Lazarus Group members
+currency: BTC
+lastmod: 2020-03-23
+source: https://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/20200302.aspx
+abuse: service_hack
+tags:
+- address: 134r8iHv69xdT6p5qVKTsHrcUEuBVZAYak
+  label: Yinyin Tian Lazarus Group
+- address: 15YK647qtoZQDzNrvY6HJL6QwXduLHfT28
+  label: Yinyin Tian Lazarus Group
+- address: 1PfwHNxUnkpfkK9MKjMqzR3Xq3KCtq9u17
+  label: Yinyin Tian Lazarus Group
+- address: 14kqryJUxM3a7aEi117KX9hoLUw592WsMR
+  label: Yinyin Tian Lazarus Group
+- address: 1F2Gdug9ib9NQMhKMGGJczzMk5SuENoqrp
+  label: Yinyin Tian Lazarus Group
+- address: 3F2sZ4jbhvDKQdGbHYPC6ZxFXEau2m5Lqj
+  label: Yinyin Tian Lazarus Group
+- address: 1AXUTu9y3H8w4wYx4BjyFWgRhZKDhmcMrn
+  label: Yinyin Tian Lazarus Group
+- address: 1Hn9ErTCPRP6j5UDBeuXPGuq5RtRjFJxJQ
+  label: Yinyin Tian Lazarus Group
+- address: 1EfMVkxQQuZfBdocpJu6RUsCJvenQWbQyE
+  label: Jiadong Li
+- address: 17UVSMegvrzfobKC82dHXpZLtLcqzW9stF
+  label: Jiadong Li
+- address: 39eboeqYNFe2VoLC3mUGx4dh6GNhLB3D2q
+  label: Jiadong Li
+- address: 39fhoB2DohisGBbHvvfmkdPdShT75CNHdX
+  label: Jiadong Li
+- address: 3E6rY4dSCDW6y2bzJNwrjvTtdmMQjB6yeh
+  label: Jiadong Li
+- address: 3EeR8FbcPbkcGj77D6ttneJxmsr3Nu7KGV
+  label: Jiadong Li
+- address: 3HQRveQzPifZorZLDXHernc5zjoZax8U9f
+  label: Jiadong Li
+- address: 3JXKQ81JzBqVbB8VHdV9Jtd7auWokkdPgY
+  label: Jiadong Li
+- address: 3KHfXU24Bt3YD5Ef4J7uNp2buCuhrxfGen
+  label: Jiadong Li
+- address: 3LbDu1rUXHNyiz4i8eb3KwkSSBMf7C583D
+  label: Jiadong Li
+- address: 3MN8nYo1tt5hLxMwMbxDkXWd7Xu522hb9P
+  label: Jiadong Li
+- address: 3N6WeZ6i34taX8Ditser6LKWBcXmt2XXL4
+  label: Jiadong Li

@@ -1,0 +1,37 @@
+  header:
+    title:
+      type: text
+      mandatory: true
+    creator:
+      type: text
+      mandatory: true
+    description:
+      type: text
+      mandatory: false
+    tags:
+      type: list
+      mandatory: true
+  tag:
+    address:
+      type: text
+      mandatory: true
+    label:
+      type: text
+      mandatory: true
+    source:
+      type: text
+      mandatory: true    
+    currency:
+      type: text
+      mandatory: true    
+    lastmod:
+      type: datetime
+      mandatory: false    
+    category:
+      type: text
+      mandatory: false
+      taxonomy: entity
+    abuse:
+      type: text
+      mandatory: false
+      taxonomy: abuse

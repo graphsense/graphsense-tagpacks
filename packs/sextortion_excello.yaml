@@ -1,9 +1,9 @@
 title: Talos Sextortion Tagpack
 creator: Paquet-Clouston et al.
 description: Addresses related to Sextortion Spam
-abuse: Sextortion
+abuse: sextortion
 currency: BTC
-label: sextortion excello
+label: Sextortion Spam
 lastmod: 2020-01-21
 source: https://github.com/MatteoRomiti/Sextortion_Spam_Bitcoin
 tags:

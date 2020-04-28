@@ -1,0 +1,304 @@
+#!/usr/bin/env python
+from argparse import ArgumentParser
+import glob
+import os
+import time
+import sys
+import yaml
+
+from tabulate import tabulate
+
+from tagpack import __version__ as version
+from tagpack.cassandra import Cassandra, CONCURRENCY, StorageError
+from tagpack.taxonomy import Taxonomy
+from tagpack.tagpack import TagPack, TagPackFileError
+from tagpack.tagpack_schema import TagPackSchema, ValidationError
+from tagpack.cmd_utils import print_line, print_info, print_fail, print_success
+
+CONFIG_FILE = "config.yaml"
+
+DEFAULT_KEYSPACE = "tagpacks"
+
+
+def remote_load_taxonomies():
+    taxonomies = {}
+    for key in CONFIG['taxonomies']:
+        taxonomy = remote_load_taxonomy(key)
+        taxonomies[key] = taxonomy
+    return taxonomies
+
+
+def remote_load_taxonomy(key):
+    uri = CONFIG['taxonomies'][key]
+    taxonomy = Taxonomy(key, uri)
+    taxonomy.load_from_remote()
+    return taxonomy
+
+
+def list_taxonomies(args=None):
+    print_line("Show configured taxonomies")
+    print(f"Configuration: {CONFIG_FILE}\n")
+    count = 0
+    for key, value in CONFIG['taxonomies'].items():
+        print_info(key, end='\t| ')
+        print(value)
+        count += 1
+    print_line(f"{count} configured taxonomies", 'success')
+
+
+def show_taxonomy_concepts(args):
+    print_line("Showing concepts of taxonomy {}".format(args.taxonomy))
+    print("Remote URI: ", CONFIG['taxonomies'][args.taxonomy], "\n")
+    taxonomy = remote_load_taxonomy(args.taxonomy)
+    if args.verbose:
+        headers = ['Id', 'Label', 'Uri', 'Description']
+        table = [[c.id, c.label, c.uri, c.description]
+                 for c in taxonomy.concepts]
+    else:
+        headers = ['Id', 'Label']
+        table = [[c.id, c.label] for c in taxonomy.concepts]
+
+    print(tabulate(table, headers=headers))
+    print_line(f"{len(taxonomy.concepts)} taxonomy concepts", 'success')
+
+
+def insert_taxonomy(args):
+    t0 = time.time()
+    print_line("Taxonomy insert starts")
+    print(f"Taxonomy: {args.taxonomy}")
+
+    print(f"Cassandra nodes: {args.db_nodes}")
+    print(f"Cassandra keyspace: {args.keyspace}\n")
+
+    cassandra = Cassandra(args.db_nodes)
+    try:
+        cassandra.connect()
+        if args.setup_keyspace:
+            print_info(f"Setup keyspace {args.keyspace} in {args.db_nodes}")
+            cassandra.setup_keyspace(args.keyspace)
+        if not cassandra.has_keyspace(args.keyspace):
+            print(f"Keyspace {args.keyspace} does not exist. \
+                  Please create manually first")
+            sys.exit()
+
+        taxonomy = remote_load_taxonomy(args.taxonomy)
+        cassandra.insert_taxonomy(taxonomy, args.keyspace)
+
+        print(f"{taxonomy.key} | {taxonomy.uri}:", end=' ')
+        print_success(f"INSERTED")
+
+        duration = round(time.time() - t0, 2)
+        print_line(
+            f"Inserted {len(taxonomy.concepts)} concepts in {duration}s",
+            'success')
+    except StorageError as e:
+        print_fail(e)
+        print_line("Aborted insert", 'fail')
+    finally:
+        cassandra.close()
+        sys.exit()
+
+
+def load_config():
+    if not os.path.isfile(CONFIG_FILE):
+        sys.exit("This program requires a repository config file in {}"
+                 .format(os.getcwd()))
+    return yaml.safe_load(open(CONFIG_FILE, 'r'))
+
+
+def show_config(args):
+    print("Config File:", os.path.abspath(CONFIG_FILE))
+    if args.verbose:
+        print("BaseURI:", CONFIG['baseURI'])
+        list_taxonomies()
+
+
+def collect_tagpacks(paths):
+    """Collect Tagpack YAML files from given paths"""
+    tagpacks = []
+    for path in paths:
+        if os.path.isdir(path):
+            files = glob.glob(path + '/**/*.yaml', recursive=True)
+            tagpacks = tagpacks + files
+        elif os.path.isfile(path):
+            tagpacks.append(path)
+    return tagpacks
+
+
+def validate_tagpack(args):
+    t0 = time.time()
+    print_line("TagPack validation starts")
+    print(f"Path: {args.path}")
+
+    taxonomies = remote_load_taxonomies()
+    taxonomy_keys = [key for key in taxonomies.keys()]
+    print(f"Loaded taxonomies: {taxonomy_keys}")
+
+    schema = schema = TagPackSchema()
+    print(f"Loaded schema: {schema.definition}")
+
+    tagpacks = collect_tagpacks(args.path)
+    print_info(f"Collected TagPacks: {len(tagpacks)}\n")
+
+    no_passed = 0
+    for tagpack in tagpacks:
+        tagPack = TagPack(CONFIG['baseURI'], tagpack, schema)
+        print(f'{tagpack}: ', end='')
+        try:
+            schema.validate(tagPack, taxonomies)
+            print_success("PASSED")
+            no_passed += 1
+        except (ValidationError, TagPackFileError) as e:
+            print_fail("FAILED", e)
+
+    status = 'fail' if no_passed < len(tagpacks) else 'success'
+
+    duration = round(time.time() - t0, 2)
+    print_line("{}/{} TagPacks passed in {}s"
+               .format(no_passed, len(tagpacks), duration), status)
+
+
+def insert_tagpack(args):
+    t0 = time.time()
+    print_line("TagPack insert starts")
+    print(f"Path: {args.path}")
+
+    print(f"Cassandra nodes: {args.db_nodes}")
+    print(f"Cassandra keyspace: {args.keyspace}")
+    cassandra = Cassandra(args.db_nodes)
+    try:
+        cassandra.connect()
+        if args.setup_keyspace:
+            print_info(f"Setup keyspace {args.keyspace} in {args.db_nodes}")
+            cassandra.setup_keyspace(args.keyspace)
+        if not cassandra.has_keyspace(args.keyspace):
+            print(f"Keyspace {args.keyspace} does not exist. \
+                  Please create manually first")
+            sys.exit()
+    except StorageError as e:
+        print_fail(e)
+        cassandra.close()
+        print_line("Aborted ingest", 'fail')
+        sys.exit()
+
+    schema = schema = TagPackSchema()
+    print_info(f"Loaded TagPack schema definition: {schema.definition}")
+
+    tagpacks = collect_tagpacks(args.path)
+    print_info(f"Collected TagPacks: {len(tagpacks)}\n")
+
+    no_passed = 0
+    no_tags = 0
+    for tagpack_file in tagpacks:
+        tagpack = TagPack(CONFIG['baseURI'], tagpack_file, schema)
+        print(f'{tagpack_file}: ', end='')
+        try:
+            cassandra.insert_tagpack(tagpack, args.keyspace, args.concurrency)
+            print_success(f"INSERTED {len(tagpack.tags)} Tags")
+            no_passed += 1
+            no_tags = no_tags + len(tagpack.tags)
+        except StorageError as e:
+            print_fail("FAILED", e)
+
+    cassandra.close()
+
+    status = 'fail' if no_passed < len(tagpacks) else 'success'
+
+    duration = round(time.time() - t0, 2)
+    print_line("Inserted {}/{} TagPacks with {} Tags in {}s"
+               .format(no_passed, len(tagpacks), no_tags, duration), status)
+
+
+def show_version():
+    return "TagPack management tool v" + version
+
+
+def main():
+    parser = ArgumentParser(
+        description='TagPack validation and ingest tool',
+        epilog='GraphSense TagPack Tool v{}- https://graphsense.info'
+        .format(version))
+    parser.add_argument('-v', '--version', action='version',
+                        version=show_version())
+
+    subparsers = parser.add_subparsers(title='Commands')
+
+    # parser for taxonomy command
+    parser_t = subparsers.add_parser("taxonomy",
+                                     help="show taxonomy concepts")
+    parser_t.set_defaults(func=list_taxonomies)
+
+    parser_t_subparsers = parser_t.add_subparsers(title='Taxonomy commands')
+
+    # parser for taxonomy insert command
+    parser_t_i = parser_t_subparsers.add_parser(
+        'insert', help='insert taxonomy into GraphSense')
+    parser_t_i.add_argument('taxonomy', metavar='TAXONOMY_KEY',
+                            help='the selected taxonomy')
+    parser_t_i.add_argument('-d', '--db_nodes',
+                            default=['localhost'], metavar='DB_NODE',
+                            help='Cassandra nodes; default "localhost")')
+    parser_t_i.add_argument('-k', '--keyspace',
+                            default=DEFAULT_KEYSPACE, metavar='KEYSPACE',
+                            help="Cassandra keyspace for taxonomy tables")
+    parser_t_i.add_argument('-s', '--setup-keyspace', action='store_true',
+                            help="(Re-create) keyspace for TagPacks")
+    parser_t_i.set_defaults(func=insert_taxonomy)
+
+    # parser for taxonomy show command
+    parser_t_s = parser_t_subparsers.add_parser(
+        'show', help='show taxonomy concepts')
+    parser_t_s.add_argument('taxonomy', metavar='TAXONOMY_KEY',
+                            help='the selected taxonomy')
+    parser_t_s.add_argument('-v', '--verbose', action='store_true',
+                            help="verbose concepts")
+    parser_t_s.set_defaults(func=show_taxonomy_concepts)
+
+    # parser for config command
+    parser_c = subparsers.add_parser("config",
+                                     help="show TagPack Repository config")
+    parser_c.add_argument('-v', '--verbose', action='store_true',
+                          help='verbose configuration')
+    parser_c.set_defaults(func=show_config)
+
+    # parser for insert command
+    parser_i = subparsers.add_parser("insert",
+                                     help="insert TagPacks into GraphSense")
+    parser_i.add_argument('path', nargs='+', metavar='PATH',
+                          default=[os.getcwd()],
+                          help='TagPacks file or folder root path')
+    parser_i.add_argument('-d', '--db_nodes',
+                          default=['localhost'], metavar='DB_NODE',
+                          help='Cassandra nodes; default "localhost")')
+    parser_i.add_argument('-k', '--keyspace',
+                          default=DEFAULT_KEYSPACE, metavar='KEYSPACE',
+                          help="Cassandra keyspace for taxonomy tables")
+    parser_i.add_argument('-c', '--concurrency', nargs='?', type=int,
+                          default=CONCURRENCY,
+                          help='Concurrent execution threshold)')
+    parser_i.add_argument('-s', '--setup-keyspace', action='store_true',
+                          help="(Re-create) keyspace for TagPacks")
+    parser_i.set_defaults(func=insert_tagpack)
+
+    # parser for validate command
+    parser_v = subparsers.add_parser("validate", help="validate TagPacks")
+    parser_v.add_argument('path', nargs='+', metavar='PATH',
+                          default=[os.getcwd()],
+                          help='TagPacks file or folder root path')
+    parser_v.set_defaults(func=validate_tagpack)
+
+    if len(sys.argv) == 1:
+        parser.print_help(sys.stderr)
+        sys.exit(1)
+
+    args = parser.parse_args()
+    args.func(args)
+
+
+if __name__ == '__main__':
+    if (sys.version_info < (3, 6)):
+        sys.exit("This program requires python version 3.6 or later")
+
+    global CONFIG
+    CONFIG = load_config()
+    main()

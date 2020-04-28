@@ -1,15 +1,20 @@
+[![Build Status](https://travis-ci.org/graphsense/graphsense-tagpacks.svg?branch=dn-vc-taxonomy )](https://travis-ci.org/graphsense/graphsense-tagpacks)
+
 # GraphSense TagPacks
 
-A TagPack is a collection of cryptocurrency attribution tags with associated
-provenance and categorization metadata. This repository defines a common
-structure for TagPacks, provides the Git infrastructure for collaboratively
-collecting TagPacks with detailed provenance information, and the necessary
-scripts for ingesting TagPacks into GraphSense for further processing.
+A TagPack is a collection of cryptoasset attribution tags with associated
+provenance and categorization metadata. This repository
 
-## What is an attribution tag?
+* defines a common structure (schema) for TagPacks
+* provides a curated collecting of TagPacks collect from public sources
+* a tool for validating and ingesting TagPacks into [Apache Cassandra][cassandra]
+
+## TagPack
+
+### What is an attribution tag?
 
 An attribution tag is any form of context information that can be attributed to
-a cryptocurrency address. The following example attributes a Bitcoin address to
+a cryptoasset address. The following example attributes a Bitcoin address to
 the Internet Archive, which is, according to
 [this source](https://archive.org/donate/cryptocurrency/), the holder of that
 address:
@@ -18,10 +23,10 @@ address:
     address: 1Archive1n2C579dMsAu3iC6tWzuQJz8dN
     source: https://archive.org/donate/cryptocurrency/
 
-## Why are attribution tags important?
+### Why are attribution tags important?
 
-Cryptocurrency analytics relies on two complementary techniques: **address
-clustering heuristics**, which are used to group multiple addresses into
+Cryptoasset analytics relies on two complementary techniques: **address
+clustering**, which relies on heuristics to group multiple addresses into
 maximal subsets that can likely be assigned to the same real-world actor, and
 **attribution tags** as shown above. The strength lies in the combination of
 these techniques: a tag attributed to a single address belonging to a larger
@@ -33,22 +38,98 @@ distort clustering results and lead to false, unreliable, or intentionally
 misplaced attribution tags that could associate unrelated actors with a given
 cluster.
 
-## What is a TagPack?
+### How does a TagPack look like?
 
 A TagPack defines a structure for collecting and packaging attribution tags
-with additional provenance information (e.g., creator, last modification
-datetime, etc.). TagPacks can be shared via some Git-Service (Github in this
-case), which enables version control and recording of modifications.
+with additional provenance metadata (e.g., title, creator, etc.).
 
-TagPacks are represented as [YAML](https://yaml.org/) files, which can easily
-be created by hand or exported automatically from other systems. A tag pack
-defines a **header** with a number of mandatory and optional fields and a
-**body** containing a list of tags.
+TagPacks are represented as [YAML][yaml] files, which can easily
+be created by hand or exported automatically from other systems.
 
 Here is a minimal TagPack example with mandatory properties:
 
     ---
     title: First TagPack Example
+    creator: John Doe
+    tags:
+        - label: Internet Archive
+          address: 1Archive1n2C579dMsAu3iC6tWzuQJz8dN
+          source: https://archive.org/donate/cryptocurrency/
+          lastmod: 2019-03-15
+          currency: BTC
+        - label: Example
+          address: 1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2
+          source: https://example.com
+          lastmod: 2019-03-15
+          currency: BTC
+
+TagPacks can be shared via some Git-Service (Github in this case), which enables
+version control and fine-grained recording of modifications.
+
+#### TagPack properties
+
+A TagPack defines a **header** with a number of mandatory and optional fields and a
+**body** containing a list of tags. In the above example, `title` and `creator` are
+part of the TagPack header, the list of `tags` represent the body.
+
+Please note that allowed properties are defined in the TagPack schema, which defines
+**mandatory** and **optional** fields for the TagPack header and body. In the above
+example, `label`, `address`, and `source` are mandatory properties as they
+describes where a certain piece of information is coming from (either in the form
+of a URI or a textual description).
+
+The range of defined properties is defined in `tagpack/conf/tagpack_schema.yaml` and looks
+like this:
+
+    header:
+      title:
+        type: text
+        mandatory: true
+      creator:
+        type: text
+        mandatory: true
+      description:
+        type: text
+        mandatory: false
+      tags:
+        type: list
+        mandatory: true
+    tag:
+      address:
+        type: text
+        mandatory: true
+      label:
+        type: text
+        mandatory: true
+      source:
+        type: text
+        mandatory: true    
+      currency:
+        type: text
+        mandatory: true    
+      lastmod:
+        type: datetime
+        mandatory: false    
+      category:
+        type: text
+        mandatory: false
+        taxonomy: entity
+      abuse:
+        type: text
+        mandatory: false
+        taxonomy: abuse
+
+#### Property inheritance
+
+In the above example, the same `lastmod` and `currency` property values are repeated
+for both tags, which represents an unnecessary repetition of the same information.
+
+To avoid this, body fields can also be added to the header and then apply to all
+tags in the body. Thus, they are *abstracted* into the header and then inherited by all
+body elements, as shown in the following example.
+
+    ---
+    title: Second TagPack Example
     creator: John Doe
     lastmod: 2019-03-15
     currency: BTC
@@ -60,21 +141,20 @@ Here is a minimal TagPack example with mandatory properties:
           address: 1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2
           source: https://example.com
 
-Body fields placed within a TagPack header (in the above example: `lastmod`,
-`currency`) apply to all tags in the body and are automatically inherited by
-each tag. Thus, in the above example `John Doe` is the creator of two tags that
-assign human-readable labels to Bitcoin (BTC) addresses.
+#### Property override
 
-Please note that next to the `label` and `address` fields, the `source`
-property is mandatory as it describes where a certain piece of information is
-coming from (either in the form of a URI or a textual description). Thus it
-must either appear in the header or as part of a single tag.
+It is also possible to override abstracted fields in the body. This could be relevant if
+someone creates a TagPacks comprising several tags and then adds additional tags later
+on, which then, of course, have different `lastmod` property values.
 
-TagPack properties can also be associated on the tag-level and overwrite header
-property values:
+The following example shows several tags associating addresses from various
+cryptocurrencies with the label `Internet Archive`. Most of them were collected
+at the same time (2019-03-15), except the Zcash tag that has been collected
+and added later (2019-03-20).
+
 
     ---
-    title: Second TagPack Example
+    title: Third TagPack Example
     creator: John Doe
     description: A collection of tags commonly used for demonstrating GraphSense features
     lastmod: 2019-03-15
@@ -95,115 +175,160 @@ property values:
           lastmod: 2019-04-16
 
 
-Above example shows several tags associating addresses from various
-cryptocurrencies with the label `Internet Archive`. Most of them were collected
-at the same time (2019-03-15), except the Zcash tag that has been collected
-and added later (2019-03-20).
+#### Identification and Uniqueness of TagPacks and Tags
 
-## How are Tags and TagPacks identified
-
-A tag is treated as a first-class object and is unique across TagPacks. That
-implies that the same label (e.g., `Internet Archive`) can be assigned several
-times to the same address (e.g., `1Archive1n2C579dMsAu3iC6tWzuQJz8dN`),
-typically by different parties.
+TagPacks are uniquely identified by a URI.
 
 Since TagPacks are essentially files pushed to some Git repository, they can be
 uniquely identified by their Git URI
 (e.g., `https://github.com/graphsense/graphsense-tagpacks/blob/master/packs/demo.yaml`).
 
-The URI identifier of a TagPack is set in `config.yaml` in the root folder of each TagPack.
+Within a TagPack, tags are treated as **first-class objects** that are identified by
+the combination the mandatory body fields `address`, `label`, `source`.
 
-## How can I configure my local TagPack environment
+That implies that the same label (e.g., `Internet Archive`) can be assigned several
+times to the same address (e.g., `1Archive1n2C579dMsAu3iC6tWzuQJz8dN`),
+typically by different parties.
 
-In `config.yaml`, the base URI and the Cassandra keyspace are specified:
+#### Using Concepts from Public Taxonomies
+
+The use of a common terminology is essential for data sharing and establishing interoperability
+across tools. Therefore, the TagPack schema defines two properties that take concepts from
+agreed upon taxonomies as values:
+
+* `category`: defines the type of real-world entity that is control of a given address. Possible
+concepts (e.g., Exchange, Marketplace) are defined in the
+[INTERPOL Darkweb and Cryptoassets Entity Taxonomy][dw-va].
+
+* `abuse`: if an address was involved in some abusive behavior, this property's value defines the
+type of abuse and can take values from the [INTERPOL Darkweb and Cryptoassets Abuse Taxonomy][dw-va].
+
+#### TagPack Repository Configuration
+
+TagPacks are stored in some Git repository - a so called **TagPack Repository**.
+
+Each TagPack repository must have a file `config.yaml`, which defines the TagPacks'
+`baseURI` as well as pointers to used taxonomies.
 
     baseURI: https://github.com/graphsense/graphsense-tagpacks
-    targetKeyspace: tagpacks
+    taxonomies:
+      entity: https://interpol-innovation-centre.github.io/DW-CC-Taxonomy/assets/data/entities.csv
+      abuse: https://interpol-innovation-centre.github.io/DW-CC-Taxonomy/assets/data/abuses.csv
 
-## Which fields and categories can be used?
+#### Collaborative Collection and Sharing TagPacks
 
-Permitted fields and categorization information can be defined by
-adding them to the schema file (`schema.yaml`) of a TagPack repository.
+This repository also provides a curated collection of TagPacks, which have been
+collected from **public sources** either by the GraphSense team or from other
+contributors.
 
-That file also defines supported categories and possible forms of abuses.
-
-    fields:
-      header:
-        - title
-        - creator
-        - description
-        - tags
-      tag:
-        - address
-        - label
-        - source
-        - currency
-        - category
-        - lastmod
-        - abuse
-      categories:
-        - Exchange
-        - Wallet Service
-        - Miner
-        - Marketplace
-        - Gambling
-        - Mixing Service
-        - Other
-        - Unspecified
-      abuses:
-        - Scam
-        - Sextortion
-        - Hack
-        - Ransomware
-        - Ponzi Scheme
-
-Please note that additional fields must also be considered in the schema
-definition (`./packs/schema_tagpacks.yaml`) when needed for further processing.
-
-
-## How can I contribute TagPacks to this repository?
-
-**Step 1**: [Fork](https://help.github.com/en/articles/fork-a-repo) this repository
-
-**Step 2**: Add your TagPacks to the folder `packs`
-
-**Step 3**: Validate your TagPack
-
-**Step 4**: Contribute them to GraphSense public TagPack collection by submitting a [pull request](https://help.github.com/en/articles/about-pull-requests)
-
-## What kind of tags will be accepted in the public GraphSense TagPack repository?
-
-All pull requests will be reviewed by the GraphSense core development team and
-only be accepted if the following conditions are met:
+All TagPacks in this repository must fulfill the following criteria:
 
 1.) None of the tags contains personally identifiable information (PII)
 
 2.) All tags originate from public sources
 
-3.) All tags provide a dereferenceable pointer to their origin
+3.) All tags provide a dereferenceable pointer (link) to their origin
 
-TagPacks not fulfilling above criteria can be maintained in some private
- Git repositories.
+If someone wants to create TagPacks not fulfilling these criteria, it is of course
+possible to store them privately, e.g., on the local filesystem or a local
+Git instance.
 
-## How can I ingest TagPacks into my local GraphSense instance
+#### How can I contribute TagPacks to this repository?
 
-Ensure that there is a keyspace `tagpacks` in your local Cassandra instance.
+**Step 1**: [Fork](https://help.github.com/en/articles/fork-a-repo) this repository
 
-    ./scripts/create_tagpack_schema.sh
+**Step 2**: Add your TagPacks to the folder `packs`
 
-Put your TagPacks in the `packs` subfolder and validate and ingest them:
+**Step 3**: Validate your TagPack using the TagPack Management Tool (see below)
 
-    ./scripts/tag_pack_tool.py validate -f <root_folder1> [<root_folder2> ...]
-    ./scripts/tag_pack_tool.py ingest -f <root_folder1> [<root_folder2> ...]
+**Step 4**: Contribute them to GraphSense public TagPack collection by submitting a [pull request](https://help.github.com/en/articles/about-pull-requests)
 
-`<root_folder1>` is your TagPack folder (default: this folder), but it 
-can be set to another TagPack folder with different `config.yaml` and `packs` 
-(e.g., private data). A list of arguments is also supported, in case 
-multiple TagPacks folders need to be validated and ingested.
 
-When ingesting TagPacks, you can specify the batch size to improve performances 
-with the `-b` parameter (default is 500).
+## TagPack Management Tool
 
-After ingesting new TagPacks you should re-run the
-[graphsense-transformation](https://github.com/graphsense/graphsense-transformation)
-job in order to propagate newly added tags over all computation steps.
+The TagPack management tools supports validation of TagPacks and ingestion into
+an [Apache Cassandra database][cassandra], which is required before running
+the [graphsense-transformation](https://github.com/graphsense/graphsense-transformation)
+pipeline.
+
+It is made available as a Python package.
+
+### Local Installation
+
+Create and activate a python environment for required dependencies
+
+    python3 -m venv venv
+    . venv/bin/activate
+
+Install package and dependencies in local environment
+
+    pip install .
+
+
+### Handling Taxonomies
+
+List configured taxonomy keys and URIs
+
+    tagpack taxonomy
+
+Fetch and show concepts of a specific remote taxonomy (referenced by key)
+
+    tagpack taxonomy show entity
+
+Insert concepts from a remote taxonomy into Cassandra
+
+    tagpack taxonomy insert abuse
+
+Use the `-s / --setup-keyspace` (and `-k`) option to (re-)create the keyspace
+
+    tagpack taxonomy insert -s -k my_keyspace abuse
+
+### Validate a TagPack
+
+Validate a single TagPack file
+
+    tagpack validate packs/demo.yaml
+
+Recursively validate all TagPacks in (a) given folder(s).
+
+    tagpack validate packs/
+
+## Insert a TagPack into Cassandra
+
+Insert a single TagPack file or all TagPacks from a given folder
+
+    tagpack insert packs/demo.yaml
+    tagpack insert packs/
+
+Create a keyspace and insert all TagPacks from a given folder
+
+    tagpack insert -s -k dummy_keyspace packs/
+
+Optionally, you can specify the level of `concurrency` (default: 100) by using the `-c` parameter.
+
+    tagpack insert -c 500 -s -k dummy_keyspace packs/
+    
+## Development / Testing
+
+Use the `-e` option for linking package to sources (for development purposes)
+
+    pip install -e .
+
+OR install packages via `requirements.txt`
+
+    pip install -r requirements.txt
+
+Run tests
+
+    pytest
+
+Check test coverage
+
+    coverage run -m pytest
+    coverage report
+
+[cassandra]: https://cassandra.apache.org/
+[yaml]: [https://yaml.org/]
+[dw-va]: https://github.com/INTERPOL-Innovation-Centre/DW-VA-Taxonomy
+
+

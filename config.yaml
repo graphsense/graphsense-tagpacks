@@ -1,2 +1,4 @@
 baseURI: https://github.com/graphsense/graphsense-tagpacks/blob/develop
-targetKeyspace: tagpacks
+taxonomies:
+  entity: https://interpol-innovation-centre.github.io/DW-VA-Taxonomy/assets/data/entities.csv
+  abuse: https://interpol-innovation-centre.github.io/DW-VA-Taxonomy/assets/data/abuses.csv

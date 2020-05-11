@@ -1,5 +1,12 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.4.3] - 2020-05-11
+### Added
+- New tagpacks
+
+### Changed
+- Separated TagPack public repository from TagPack Management tool
+
 ## [0.4.2] - 2019-12-19
 ### Added
 - New tagpacks

@@ -1,10 +1,9 @@
 title: Talos Sextortion Tagpack
 creator: Talos Cisco
 description: Addresses related to Sextortion Spam discovered by Talos
-abuse: Sextortion
-category: Unspecified
+abuse: sextortion
 currency: BTC
-label: sextortion talos
+label: Sextortion Spam
 lastmod: 2019-08-06
 source: https://blog.talosintelligence.com/2018/10/anatomy-of-sextortion-scam.html
 tags:
@@ -10781,7 +10780,6 @@ tags:
 - address: 16DTB2vE2W18w7dszcQ8buVrZKw9a1s3wZ
 - address: 16DU43eeEQ2sj7S7oUC9RcHVqZ3rFzC56A
 - address: 16DXwbD8kQ1cwhXiJuq3264QdhbXxBJtd1
-- address: 16DXwbD8kQ1cwhXiJuq3264QdhbxBJtd1
 - address: 16DYfsgaCs6WJ9XVHjCwMEKTiP8bMiobCA
 - address: 16DYiqbiYdCpxeY13dyRS7Z5igz49nXQtu
 - address: 16DYyxpaAncGDPPfogm6AZqktge3J8XnUA
@@ -17826,7 +17824,6 @@ tags:
 - address: 18zr3brzdbfeT8Ds16T5wx7xpS9m13NZS6
 - address: 18zuKVA2eTwmu3bozFe6D7jbkGsHmdcnFD
 - address: 18zzPvBhmScwEBK1fbsZgtz9FLxq7bm8Jb
-- address: '19'
 - address: 1911AdrKrypAsfGXsB9hFsVcZBXoixtsMK
 - address: 1913Ghh9X8pmSPAde1ezz5xJa9Y3fTctEV
 - address: 1918AcyPEFuo8ebDdujBScQGC8wrNNxvRG
@@ -28001,7 +27998,6 @@ tags:
 - address: 1D1x6XjoqCdpQMrxrdCwZjYk5AYpRJzmdj
 - address: 1D1xFSSvbCvFNBGrEJZwnuuwVLCnJVfwrZ
 - address: 1D1xXqGCNkqyMjFfJAY921VtwrnzVhYxKP
-- address: 1D1xqGCNkqyMjFfJAY921VtwrnzVhYxKP
 - address: 1D1y6mzRqT9kyPYkoLMXxFYdEAGbP3qJoj
 - address: 1D22BFToTnL4yiB1UczoQnhuQx6W5HJ76w
 - address: 1D22YCDp4qQPY4XHqHaVz38igfHCAq5x78
@@ -33024,7 +33020,6 @@ tags:
 - address: 1ExZwcZijrY4GZpC9wgJSiNXQR8fRnN5Sg
 - address: 1ExbU4hYc2xopcYrsxZn4fjar5JYzQTDgM
 - address: 1ExbWCtP6TmJXZTth9ikoqDtPUSxqSr4Cv
-- address: 1ExbkzmBzKDsQYuvCiezMVzguZekuArtN
 - address: 1ExdgQHspS3i2ASNWsLd6JR1472BvL39W9
 - address: 1ExfSWnxX9MosmEtjTk6tKUGaUu92jTyBc
 - address: 1ExfxqqYYYhPjLvutghyo6dLwaksowRzan
@@ -34673,7 +34668,6 @@ tags:
 - address: 1FayRzU8QD6akUsopxFQuZbHXwuPCjvZtJ
 - address: 1Fb1GU9SUWRn8wc3BgzANzzZcBSrWNrDLG
 - address: 1Fb1shLjMBewbsL2ymZS2uB2x7ao2VxAXF
-- address: 1Fb4nWFiF1TQxsgy4cQ7tbGxAs6HKXnZG
 - address: 1Fb4nWFiF1TQxsgy4cQ7tbGxXAs6HKXnZG
 - address: 1Fb6DXikDDC6kTjJaXRNey7MvJbzyBaie4
 - address: 1Fb6pATRBjLjWy5QHD5LfaKZ16qzibpX8U

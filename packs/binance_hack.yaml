@@ -1,8 +1,7 @@
 title: GraphSense Binance
 creator: GraphSense User (SR)
 description: Addresses related to Binance hack
-abuse: Hack
-category: Unspecified
+abuse: service_hack
 currency: BTC
 label: binance hack
 lastmod: 2019-07-03

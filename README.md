@@ -1,3 +1,5 @@
+![Validate TagPacks](https://github.com/graphsense/graphsense-tagpacks/workflows/Validate%20TagPacks/badge.svg)
+
 # GraphSense Public TagPacks
 
 This repository also provides a curated collection of TagPacks, which have been

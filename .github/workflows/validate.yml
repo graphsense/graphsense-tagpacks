@@ -1,4 +1,4 @@
-name: Validate Tagpacks
+name: Validate TagPacks
 
 on:
   push:

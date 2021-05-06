@@ -3,7 +3,7 @@
 # GraphSense TagPacks
 
 A TagPack is a collection of attribution tags, which associate cryptoasset
-addresses with real-world actors such as exchanges. 
+addresses or GraphSense entities with real-world actors such as exchanges. 
 
 This repository provides a curated collection of TagPacks, which have been
 collected from **public sources** either by the GraphSense team or from other
@@ -43,13 +43,21 @@ environment, e.g., on the local filesystem or a local Git instance.
 ### What is an attribution tag?
 
 An attribution tag is any form of context information that can be attributed to
-a cryptoasset address. The following example attributes a Bitcoin address to the
+a cryptoasset address or to a GraphSense entity, which represents a set of addresses.
+
+The following example attributes a Bitcoin address to the
 Internet Archive, which is, according to [this source](https://archive.org/donate/cryptocurrency/),
 the holder of that address:
 
     label: Internet Archive
     address: 1Archive1n2C579dMsAu3iC6tWzuQJz8dN
     source: https://archive.org/donate/cryptocurrency/
+
+It is also possible to attribute entire GraphSense clusters, which is shown in this example:
+
+    label: Huobi.com
+    entity: 19180422
+    source: https://www.walletexplorer.com/wallet/Huobi.com
 
 ### What is a TagPack?
 
@@ -59,25 +67,39 @@ additional provenance metadata (e.g., title, creator, etc.).
 TagPacks are represented as [YAML][yaml] files, which can easily be created by
 hand or exported automatically from other systems.
 
-Here is a minimal TagPack example with mandatory properties:
+Here is a minimal TagPack example containing address tags with mandatory properties:
 
     ---
-    title: First TagPack Example
+    title: First Address Tag Example
     creator: John Doe
     tags:
-        - label: Internet Archive
-          address: 1Archive1n2C579dMsAu3iC6tWzuQJz8dN
+        - address: 1Archive1n2C579dMsAu3iC6tWzuQJz8dN
+          label: Internet Archive
           source: https://archive.org/donate/cryptocurrency/
           lastmod: 2019-03-15
           currency: BTC
-        - label: Example
-          address: 1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2
+        - address: 1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2
+          label: Example
           source: https://example.com
           lastmod: 2019-03-15
           currency: BTC
 
-TagPacks can be shared via some Git-Service (Github in this case), which enables
-version control and fine-grained recording of modifications.
+The following example associates tags directly with GraphSense entities and therefore with all addresses controlled by that entity:
+
+    ---
+    title: First Entity Tag Example
+    creator: John Doe
+    tags:
+        - entity: 17642138
+          label: Internet Archive
+          source: https://archive.org/donate/cryptocurrency/
+          lastmod: 2019-03-15
+          currency: BTC
+
+TagPacks can be shared among users using any communication channel (e.g., email).
+
+They can also be managed using some Git-Service (Github in this case), which enables
+version control and fine-grained recording of modifications, thus full provenance.
 
 ### Why are attribution tags important?
 
@@ -110,7 +132,7 @@ In the above example, `label`, `address`, and `source` are mandatory properties
 as they describes where a certain piece of information is coming from (either
 in the form of a URI or a textual description).
 
-The range of defined properties is defined [here](https://github.com/graphsense/graphsense-tagpack-tool/blob/develop/tagpack/conf/tagpack_schema.yaml) and looks like this:
+The range of defined properties is defined [here](https://github.com/graphsense/graphsense-tagpack-tool/blob/develop/tagpack/conf/tagpack_schema.yaml) and looks as follows:
 
     header:
       title:
@@ -125,10 +147,7 @@ The range of defined properties is defined [here](https://github.com/graphsense/
       tags:
         type: list
         mandatory: true
-    tag:
-      address:
-        type: text
-        mandatory: true
+    generic_tag:
       label:
         type: text
         mandatory: true
@@ -148,7 +167,16 @@ The range of defined properties is defined [here](https://github.com/graphsense/
       abuse:
         type: text
         mandatory: false
-        taxonomy: abuse
+        taxonomy: abuse  
+    address_tag:
+      address:
+        type: text
+        mandatory: true
+    entity_tag:
+      entity:
+        type: int
+        mandatory: true
+
 
 ### Property inheritance
 

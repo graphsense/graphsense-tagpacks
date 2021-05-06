@@ -14,8 +14,9 @@ jobs:
         python-version: [3.8]
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Checkout tools repo
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Checkout TagPack tools
       uses: actions/checkout@v2
       with:
         repository: graphsense/graphsense-tagpack-tool
@@ -32,4 +33,4 @@ jobs:
         pip install -e tagpack-tool
     - name: Validate tagpacks
       run: |
-        tagpack validate packs
+        tagpack-tool validate packs

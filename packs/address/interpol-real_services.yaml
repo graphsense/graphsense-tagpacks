@@ -32,15 +32,15 @@ tags:
   label: sideshift.ai
   category: mixing_service
   currency: BTC
-- address: "0xD7f0E24Bd353404752F61c16EFed0847998B1205"
+- address: '0xD7f0E24Bd353404752F61c16EFed0847998B1205'
   label: sideshift.ai - Random receiving address
   category: mixing_service
   currency: ETH
-- address: "0x87ef9c733296fF2E6Aae8d1023C0C4a53909a40f"
+- address: '0x87ef9c733296fF2E6Aae8d1023C0C4a53909a40f'
   label: sideshift.ai - Random receiving address
   category: mixing_service
   currency: ETH
-- address: "0xcDd37Ada79F589c15bD4f8fD2083dc88E34A2af2"
+- address: '0xcDd37Ada79F589c15bD4f8fD2083dc88E34A2af2'
   label: sideshift.ai - Unique sending out address
   category: mixing_service
   currency: ETH

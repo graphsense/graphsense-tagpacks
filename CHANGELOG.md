@@ -1,5 +1,12 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.5.0] 2021-05-31
+### Changed
+- add WalletExplorer address and entity tags
+- update documentation for Entity Tags
+- added EtherScan word cloud TagPack
+- moved TagPack documentation from tagpack tool to tagpack collection
+
 ## [0.4.5] - 2020-11-16
 ### Added
 - New tagpacks

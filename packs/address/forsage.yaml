@@ -1,10 +1,13 @@
 title: Forsage Pyramid Scheme
-creator: GraphSense Team
+creator: GraphSense Core Team
 description: Addresses related to the Forsage Pyramid Scheme
 category: service
 abuse: pyramid_scheme
 currency: ETH
-lastmod: 2021-05-27
+created: 2021-05-27
+lastmod: 2021-11-15
+is_cluster_definer: true
+confidence: 20
 source: https://arxiv.org/abs/2105.04380
 tags:
 - address: "0x5acc84a3e955Bdd76467d3348077d003f00fFB97"

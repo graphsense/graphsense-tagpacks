@@ -1,5 +1,17 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.5.1] TBD
+### Added
+- additional entity tagpacks
+- new schema fields to existing address TagPacks
+### Changed
+- outdated concepts links
+- taxonomy endpoints from Interpol to GraphSense Github repo
+- schema documentation
+
+### Removed
+- tagpack with fake examples
+
 ## [0.5.0] 2021-05-31
 ### Changed
 - add WalletExplorer address and entity tags

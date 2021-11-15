@@ -6,7 +6,7 @@ A TagPack is a collection of attribution tags, which associate cryptoasset
 addresses or GraphSense entities with real-world actors such as exchanges. 
 
 This repository provides a curated collection of TagPacks, which have been
-collected from **public sources** either by the GraphSense team or from other
+collected from **public sources** either by the GraphSense core team or by other
 contributors.
 
 TagPacks make use of the [INTERPOL Dark Web and Virtual Assets Taxonomy][dw-va]
@@ -116,20 +116,20 @@ distort clustering results and lead to false, unreliable, or intentionally
 misplaced attribution tags that could associate unrelated actors with a given
 cluster.
 
-For further details and an explanation why we are hosting TagPacks on Github,
+For further details and an explanation of why we are hosting TagPacks on Github,
 we refer to our paper [Safeguarding the evidential value of forensic
 cryptocurrency investigations](https://www.sciencedirect.com/science/article/pii/S1742287619302567).
 
 ### TagPack properties
 
-A TagPack defines a **header** with a number of mandatory and optional fields
+A TagPack defines a **header** with several mandatory and optional fields
 and a **body** containing a list of tags. In the above example, `title` and
-`creator` are part of the TagPack header, the list of `tags` represents the body.
+`creator` are part of the TagPack header; the list of `tags` represents the body.
 
 Please note that allowed properties are defined in the TagPack schema, which
 defines **mandatory** and **optional** fields for the TagPack header and body.
 In the above example, `label`, `address`, and `source` are mandatory properties
-as they describes where a certain piece of information is coming from (either
+as they describe where a certain piece of information is coming from (either
 in the form of a URI or a textual description).
 
 The range of defined properties is defined [here](https://github.com/graphsense/graphsense-tagpack-tool/blob/develop/tagpack/conf/tagpack_schema.yaml) and looks as follows:
@@ -141,8 +141,14 @@ The range of defined properties is defined [here](https://github.com/graphsense/
       creator:
         type: text
         mandatory: true
+      owner:
+        type: text
+        mandatory: false
       description:
         type: text
+        mandatory: false
+      is_public:
+        type: boolean
         mandatory: false
       tags:
         type: list
@@ -153,13 +159,25 @@ The range of defined properties is defined [here](https://github.com/graphsense/
         mandatory: true
       source:
         type: text
-        mandatory: true    
+        mandatory: true
       currency:
         type: text
-        mandatory: true    
+        mandatory: true
+      context:
+        type: text
+        mandatory: false
+      confidence:
+        type: int
+        mandatory: false
+      is_cluster_definer:
+        type: boolean
+        mandatory: false
+      created:
+        type: datetime
+        mandatory: false
       lastmod:
         type: datetime
-        mandatory: false    
+        mandatory: false
       category:
         type: text
         mandatory: false
@@ -167,7 +185,7 @@ The range of defined properties is defined [here](https://github.com/graphsense/
       abuse:
         type: text
         mandatory: false
-        taxonomy: abuse  
+        taxonomy: abuse
     address_tag:
       address:
         type: text
@@ -184,9 +202,7 @@ In the above example, the same `lastmod` and `currency` property values are
 repeated for both tags, which represents an unnecessary repetition of the same
 information.
 
-To avoid this, body fields can also be added to the header and then apply to all
-tags in the body. Thus, they are *abstracted* into the header and then inherited
-by all body elements, as shown in the following example.
+To avoid repeating fields for all tags, one can add body fields to the header and thereby apply them to all tags in the body. Thus, they are *abstracted* into the header and then inherited by all body elements, as shown in the following example.
 
     ---
     title: Second TagPack Example
@@ -210,7 +226,7 @@ property values.
 
 The following example shows several tags associating addresses from various
 cryptocurrencies with the label `Internet Archive`. Most of them were collected
-at the same time (2019-03-15), except the Zcash tag that has been collected and
+at the same time (2019-03-15), except the Zcash tag that was collected and
 added later (2019-03-20).
 
     ---
@@ -238,12 +254,12 @@ added later (2019-03-20).
 
 TagPacks are uniquely identified by a URI.
 
-Since TagPacks are essentially files pushed to some Git repository, they can be
+Since TagPacks are files pushed to some Git repository, they can be
 uniquely identified by their Git URI
 (e.g., `https://github.com/graphsense/graphsense-tagpacks/blob/master/packs/demo.yaml`).
 
 Within a TagPack, tags are treated as **first-class objects** that are
-identified by the combination the mandatory body fields `address`, `label`,
+identified by the combination of the mandatory body fields `address`, `label`,
 `source`.
 
 That implies that the same label (e.g., `Internet Archive`) can be assigned
@@ -252,9 +268,9 @@ typically by different parties.
 
 ### Using Concepts from Public Taxonomies
 
-The use of a common terminology is essential for data sharing and establishing
+The use of common terminology is essential for data sharing and establishing
 interoperability across tools. Therefore, the TagPack schema defines two
-properties that take concepts from agreed upon taxonomies as values:
+properties that take concepts from agreed-upon taxonomies as values:
 
 * `category`: defines the type of real-world entity that is in control of a
 given address. Possible concepts (e.g., Exchange, Marketplace) are defined in
@@ -264,17 +280,50 @@ the [INTERPOL Darkweb and Cryptoassets Entity Taxonomy][dw-va].
 value defines the type of abuse and can take values from the
 [INTERPOL Darkweb and Cryptoassets Abuse Taxonomy][dw-va].
 
+### Attribution Tag confidence score
+
+Attribution tags originate from distinct sources, which have various confidence levels. E.g., Bitcoin addresses retrieved via a Web crawl are less trustworthy than a Bitcoin address with proven private key ownership. Therefore, the TagPack creator can assign one of the following confidence scores:
+
+| Score | Label | Description |
+| ---: | :--- | :--- |
+| 100 | Proven address ownership | Creator knows address private keys |
+| 90  | Trusted transaction | Creator transferred funds from known service x to known service y | 
+| 80  | Service API | Creator retrieves addresses from a trusted service API |
+| 60  | Authority data | Creator retrieves attribution tags from public authorities (e.g., OFAC) |
+| 50  | Trusted data providers | Creator retrieved attribution tags from trusted third parties |
+| 50  | Forensic reports | Creator retrieved data attribution data from somehow trusted reports (e.g., Academic papers) |
+| 40  | Untrusted transaction | A third party transferred funds from known service x to known service y |
+| 20  | Web crawls | Data retrieved from crawling the Web or other data dumps |
+
+The chosen score range provides some flexibility for additional entries in the future.
+
+### Mapping Address Tags to Clusters
+
+An attribution tag assigned to an address could our could not apply to the entire cluster. This decision depends very much on the context of a TagPack, must be decided on an individual basis, and must be flagged using the specific field ``is_cluster_definer``, which can be ``true`` or ``false``.
+
+As a generic rule-of-them, we consider the following generic aspects when doing the mapping.
+
+  1. If an address maps to a cluster that already carries a tag with higher confidence, then the address tag does not define the cluster, i.e., `is_cluster_definer: false`.
+
+  2. If an address maps to a cluster of size 1, then the address tag also defines the entity, i.e., `is_cluster_definer: true`
+
+  3. If an address is not a service address (e.g., exchange) and maps to a large unknown cluster, then it might be some form of custodial wallet, ie., `is_cluster_definer: true`
+
+One can finally end up with several address tags, which are mapped to a single cluster and carry the flat `is_cluster_definer: true`. In such cases, we select the one with the higher
+`confidence` value. In case of conflicts, address tags mappings must be revised as part of an attribution tag curation workflow.
+
+
 ### TagPack Repository Configuration
 
-TagPacks are stored in some Git repository - a so called **TagPack Repository**.
+TagPacks are stored in some Git repository - a so-called **TagPack Repository**.
 
 Each TagPack repository must have a file `config.yaml`, which defines the TagPacks'
 `baseURI` as well as pointers to used taxonomies.
 
     baseURI: https://github.com/graphsense/graphsense-tagpacks
     taxonomies:
-      entity: https://interpol-innovation-centre.github.io/DW-CC-Taxonomy/assets/data/entities.csv
-      abuse: https://interpol-innovation-centre.github.io/DW-CC-Taxonomy/assets/data/abuses.csv
+      entity: https://graphsense.info/DW-VA-Taxonomy/assets/data/entities.csv
+      abuse: https://graphsense.info/DW-VA-Taxonomy/assets/data/abuses.csv
 
-[dw-va]: https://interpol-innovation-centre.github.io/DW-VA-Taxonomy/
+[dw-va]: https://graphsense.info/DW-VA-Taxonomy/
 [tagpack-tool]: (https://github.com/graphsense/graphsense-tagpack-tool)

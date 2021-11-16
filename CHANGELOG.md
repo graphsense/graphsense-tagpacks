@@ -2,6 +2,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [0.5.1] TBD
 ### Added
+- Etherscamdb tagpack
 - OFAC tagpack
 - mapped entity tagpacks
 - new schema fields to existing address TagPacks

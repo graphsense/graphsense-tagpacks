@@ -327,3 +327,4 @@ Each TagPack repository must have a file `config.yaml`, which defines the TagPac
 
 [dw-va]: https://graphsense.info/DW-VA-Taxonomy/
 [tagpack-tool]: (https://github.com/graphsense/graphsense-tagpack-tool)
+[yaml]: https://yaml.org/

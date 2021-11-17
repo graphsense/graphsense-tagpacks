@@ -1,9 +1,12 @@
 title: Samourai Wallet Tagpack
-creator: GraphSense Team
+creator: GraphSense Core Team
 currency: BTC
 description: Addresses performing coinjoins using Samourai Wallet
+is_cluster_definer: true
+category: coinjoin
 label: Samourai Wallet
-lastmod: 2020-05-04
+created: 2020-05-04
+lastmod: 2021-11-14
 source: https://github.com/nopara73/WasabiVsSamourai/blob/master/WasabiVsSamourai/SamouraiCoinJoins.txt
 tags:
 - address: bc1qnfu52l5vgg0gf2hw98epfvupveepnq7tg5l75h

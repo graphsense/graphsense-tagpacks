@@ -1,6 +1,6 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [0.5.1] TBD
+## [0.5.1] 2021-11-17
 ### Added
 - Etherscamdb tagpack
 - OFAC tagpack

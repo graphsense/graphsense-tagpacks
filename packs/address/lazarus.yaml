@@ -2,9 +2,12 @@ title: OFAC Tagpack
 creator: Graphsense Team
 description: Addresses related to Lazarus Group members
 currency: BTC
-lastmod: 2020-03-23
+confidence: 60
+is_cluster_definer: false
+category: user
+lastmod: 2021-11-12
 source: https://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/20200302.aspx
-abuse: service_hack
+abuse: sanction
 tags:
 - address: 134r8iHv69xdT6p5qVKTsHrcUEuBVZAYak
   label: Yinyin Tian Lazarus Group

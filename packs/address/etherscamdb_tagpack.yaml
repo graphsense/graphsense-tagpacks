@@ -1884,7 +1884,11 @@ tags:
   label: Campaigntoken.blogspot.de
   is_cluster_definer: false
 - address: 1AfroW44dzHkjgbLEMLB3EvGDFegfkRewM
-  currency: ETH
+  currency: BTC
+  label: Cryptongram.org
+  is_cluster_definer: false
+- address: 1AfroW44dzHkjgbLEMLB3EvGDFegfkRewM
+  currency: BCH
   label: Cryptongram.org
   is_cluster_definer: false
 - address: '0x40949225c4a1745a9946F6AAf763241c082cb9ac'

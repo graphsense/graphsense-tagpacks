@@ -12720,7 +12720,11 @@ tags:
   label: Xrp-ripple.org
   is_cluster_definer: false
 - address: 3E8XidwZPe4BPym7CjqmNPvehetsRV326W
-  currency: LTC
+  currency: BTC
+  label: Get-ltc-now.online
+  is_cluster_definer: false
+- address: 3E8XidwZPe4BPym7CjqmNPvehetsRV326W
+  currency: BCH
   label: Get-ltc-now.online
   is_cluster_definer: false
 - address: '0x80f43E67169c917c68391F823FcFf41b9B786D69'

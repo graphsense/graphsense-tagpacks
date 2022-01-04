@@ -326,4 +326,5 @@ Each TagPack repository must have a file `config.yaml`, which defines the TagPac
       abuse: https://graphsense.info/DW-VA-Taxonomy/assets/data/abuses.csv
 
 [dw-va]: https://graphsense.info/DW-VA-Taxonomy/
-[tagpack-tool]: (https://github.com/graphsense/graphsense-tagpack-tool)
+[tagpack-tool]: https://github.com/graphsense/graphsense-tagpack-tool
+[yaml]: https://yaml.org/

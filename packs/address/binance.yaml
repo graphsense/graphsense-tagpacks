@@ -1,7 +1,7 @@
 title: GraphSense Binance
 creator: GraphSense Core Team
 is_cluster_definer: true
-confidence: 50
+confidence: service_data
 description: Addresses related to Binance
 category: exchange
 currency: BTC

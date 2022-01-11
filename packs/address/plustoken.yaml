@@ -1,6 +1,6 @@
 title: Plus Token Scam Tagpack
 creator: GraphSense Core Team
-confidence: 40
+confidence: untrusted_transaction
 description: Addresses used for scam related to Plus Token
 abuse: scam
 currency: BTC

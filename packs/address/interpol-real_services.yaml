@@ -1,7 +1,7 @@
 creator: INTERPOL CNTL
 title: INTERPOL TagPack
 description: Services positively identified by INTERPOL CNTL
-confidence: 50
+confidence: authority_data
 is_cluster_definer: true
 lastmod: 2021-11-12
 source: https://www.interpol.int

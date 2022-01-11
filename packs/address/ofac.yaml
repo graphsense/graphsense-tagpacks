@@ -6,6 +6,7 @@ created: 2021-11-15
 category: user
 label: OFAC Sanctions List
 source: https://www.treasury.gov/ofac/downloads/sdnlist.txt
+confidence: authority_data
 tags:
 - address: 17a5bpKvEp1j1Trs4qTbcNZrby53JbaS9C
   currency: BTC

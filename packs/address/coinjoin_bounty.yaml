@@ -1,6 +1,6 @@
 title: Coinjoin Bounty Tagpack
 creator: GraphSense Core Team
-confidence: 40
+confidence: untrusted_transaction
 is_cluster_definer: true
 description: MultiSig escrow address
 currency: BTC

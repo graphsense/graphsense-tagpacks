@@ -5,7 +5,7 @@ description: Scraped from the EtherScan Label Word Cloud
 created: 2020-05-29
 lastmod: 2021-11-04
 is_cluster_definer: true
-confidence: 20
+confidence: web_crawl
 source: https://etherscan.io/labelcloud
 tags:
 - address: '0x4572f2554421bd64bef1c22c8a81840e8d496bea'

@@ -2,7 +2,7 @@ title: Wasabi Fee Collector Addresses
 creator: GraphSense Core Team
 description: Addresses used by Wasabi for collecing CoinJoin coordination fees
 category: mixer
-confidence: 50
+confidence: forensic
 is_cluster_definer: true
 currency: BTC
 label: Wasabi Fee

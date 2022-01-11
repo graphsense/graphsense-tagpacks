@@ -1,6 +1,6 @@
 title: Electrum Phishing Tagpack
 creator: GraphSense Core Team
-confidence: 50
+confidence: forensic
 description: Addresses related to Electrum wallet phishing attack
 lastmod: 2021-11-12
 label: Electrum phishing

@@ -1,6 +1,6 @@
 title: Cold Wallets Tagpack
 creator: GraphSense Core Team
-confidence: 50
+confidence: service_data
 is_cluster_definer: true
 description: Known cold wallets
 category: exchange

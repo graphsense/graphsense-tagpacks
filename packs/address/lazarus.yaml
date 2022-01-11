@@ -2,7 +2,7 @@ title: OFAC Tagpack
 creator: Graphsense Team
 description: Addresses related to Lazarus Group members
 currency: BTC
-confidence: 60
+confidence: authority_data
 is_cluster_definer: false
 category: user
 lastmod: 2021-11-12

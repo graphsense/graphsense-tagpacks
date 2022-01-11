@@ -8,6 +8,7 @@ label: Samourai Wallet
 created: 2020-05-04
 lastmod: 2021-11-14
 source: https://github.com/nopara73/WasabiVsSamourai/blob/master/WasabiVsSamourai/SamouraiCoinJoins.txt
+confidence: forensic
 tags:
 - address: bc1qnfu52l5vgg0gf2hw98epfvupveepnq7tg5l75h
 - address: bc1qq9kx0l25whaysd36e8ldfynzsg3azfwafa5pq2

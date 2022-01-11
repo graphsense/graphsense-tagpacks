@@ -2,7 +2,7 @@ title: WalletExplorer Tag Pack
 creator: GraphSense Core Team
 currency: BTC
 is_cluster_definer: true
-confidence: 50
+confidence: service_data
 lastmod: 2021-11-11
 tags:
 - address: 1vdXJDiDSzeUAoM7eAcWZPhM9wEKmH8dG

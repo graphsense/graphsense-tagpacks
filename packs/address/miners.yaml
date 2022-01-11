@@ -5,7 +5,7 @@ category: miner
 currency: BTC
 created: 2019-06-13
 lastmod: 2021-11-15
-confidence: 50
+confidence: forensic
 source: https://github.com/MatteoRomiti/Deep_Dive_BTC_Mining_Pools/blob/master/dataset/miners.json
 tags:
 - address: 1NFw6R8ySoyzCvRrKGK2jWDuVUcq8ECggP

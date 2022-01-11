@@ -7,7 +7,7 @@ currency: ETH
 created: 2021-05-27
 lastmod: 2021-11-15
 is_cluster_definer: true
-confidence: 20
+confidence: web_crawl
 source: https://arxiv.org/abs/2105.04380
 tags:
 - address: "0x5acc84a3e955Bdd76467d3348077d003f00fFB97"

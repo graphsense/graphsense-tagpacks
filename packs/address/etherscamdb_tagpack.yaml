@@ -10316,7 +10316,7 @@ tags:
   label: Bnbethereumairdropp.com
   is_cluster_definer: false
 - address: '0xcd39300c31776AB6303fC64B930c1109c008eA0A'
-  currency: BTC
+  currency: ETH
   label: Airdrop-event.com
   is_cluster_definer: false
 - address: '0x5123BC9D86E99EA6b6C67c7Ba66507f5b4356D7C'

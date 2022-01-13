@@ -18648,12 +18648,6 @@ tags:
   label: Btc.top
   is_cluster_definer: true
 - address: 147SwRQdpCfj5p8PnfsXV2SsVVpVcz3aPq
-  label: Btc.top
-  is_cluster_definer: true
-- address: 147SwRQdpCfj5p8PnfsXV2SsVVpVcz3aPq
-  label: Canoe
-  is_cluster_definer: true
-- address: 147SwRQdpCfj5p8PnfsXV2SsVVpVcz3aPq
   label: Canoe
   is_cluster_definer: true
 - address: 1GRdbh7jraSjxekTVPiVLdLcirPRXC4QV4
@@ -18676,12 +18670,6 @@ tags:
   is_cluster_definer: true
 - address: 1FLH1SoLv4U68yUERhDiWzrJn5TggMqkaZ
   label: Btc.com
-  is_cluster_definer: true
-- address: 1FLH1SoLv4U68yUERhDiWzrJn5TggMqkaZ
-  label: Btc.com
-  is_cluster_definer: true
-- address: 1FLH1SoLv4U68yUERhDiWzrJn5TggMqkaZ
-  label: Waterhole
   is_cluster_definer: true
 - address: 1FLH1SoLv4U68yUERhDiWzrJn5TggMqkaZ
   label: Waterhole

@@ -39,10 +39,6 @@ tags:
   currency: ETH
   label: Ethereumchamber.net
   is_cluster_definer: true
-- address: '0x379ce20c018fb6301c1872c429ec7270ffa4dc5b'
-  currency: ETH
-  label: Ethereumchamber.net
-  is_cluster_definer: true
 - address: '0x2b065809f6ec6df32878bcd26711a0e2bcf59c26'
   currency: ETH
   label: Myetherwallet.com.de
@@ -107,10 +103,6 @@ tags:
   currency: ETH
   label: Myetherwallet.in
   is_cluster_definer: false
-- address: '0x379ce20c018fb6301c1872c429ec7270ffa4dc5b'
-  currency: ETH
-  label: Myetherwallet.io
-  is_cluster_definer: true
 - address: '0x379ce20c018fb6301c1872c429ec7270ffa4dc5b'
   currency: ETH
   label: Myetherwallet.io
@@ -238,14 +230,6 @@ tags:
 - address: '0x3fcb2d173389b7cd8079ef8b439dbd92e7e0ae28'
   currency: ETH
   label: Aventus.group
-  is_cluster_definer: true
-- address: '0x3fcb2d173389b7cd8079ef8b439dbd92e7e0ae28'
-  currency: ETH
-  label: Aventus.group
-  is_cluster_definer: true
-- address: '0x3fcb2d173389b7cd8079ef8b439dbd92e7e0ae28'
-  currency: ETH
-  label: Atlant.solutions
   is_cluster_definer: true
 - address: '0x3fcb2d173389b7cd8079ef8b439dbd92e7e0ae28'
   currency: ETH
@@ -395,23 +379,7 @@ tags:
   currency: ETH
   label: Omisegotoken.com
   is_cluster_definer: true
-- address: '0x29e225d888cf11c5e67613bffd30bcf071eb3d4a'
-  currency: ETH
-  label: Omisegotoken.com
-  is_cluster_definer: true
-- address: '0x29e225d888cf11c5e67613bffd30bcf071eb3d4a'
-  currency: ETH
-  label: Omisegotoken.com
-  is_cluster_definer: true
 - address: '0x6d0b90ea2951ca5ad3abdb606e4146e9765f1ee4'
-  currency: ETH
-  label: Omisegotoken.com
-  is_cluster_definer: true
-- address: '0x6d0b90ea2951ca5ad3abdb606e4146e9765f1ee4'
-  currency: ETH
-  label: Omisegotoken.com
-  is_cluster_definer: true
-- address: '0x64f3502c4b6b7e7f106e7ab1f175a4e2c2fde45f'
   currency: ETH
   label: Omisegotoken.com
   is_cluster_definer: true
@@ -707,14 +675,6 @@ tags:
   currency: ETH
   label: Omise-go.tech
   is_cluster_definer: true
-- address: '0x29e225d888cf11c5e67613bffd30bcf071eb3d4a'
-  currency: ETH
-  label: Omise-go.tech
-  is_cluster_definer: true
-- address: '0x29e225d888cf11c5e67613bffd30bcf071eb3d4a'
-  currency: ETH
-  label: Omise-go.tech
-  is_cluster_definer: true
 - address: '0xA3e52a23060cCDfE186822b52BF60A07451e094e'
   currency: ETH
   label: Stormtoken.eu
@@ -915,19 +875,7 @@ tags:
   currency: ETH
   label: Tronlab.co
   is_cluster_definer: true
-- address: '0x6d0b90ea2951ca5ad3abdb606e4146e9765f1ee4'
-  currency: ETH
-  label: Tronlab.co
-  is_cluster_definer: true
 - address: '0x64f3502c4b6b7e7f106e7ab1f175a4e2c2fde45f'
-  currency: ETH
-  label: Tronlab.co
-  is_cluster_definer: true
-- address: '0x64f3502c4b6b7e7f106e7ab1f175a4e2c2fde45f'
-  currency: ETH
-  label: Tronlab.co
-  is_cluster_definer: true
-- address: '0x660d30d1fbafdc88a1951370cbe2b3094dbf224b'
   currency: ETH
   label: Tronlab.co
   is_cluster_definer: true
@@ -939,14 +887,6 @@ tags:
   currency: ETH
   label: Sirin-labs.org
   is_cluster_definer: false
-- address: '0x29e225d888cf11c5e67613bffd30bcf071eb3d4a'
-  currency: ETH
-  label: Wabicoin.co
-  is_cluster_definer: true
-- address: '0x29e225d888cf11c5e67613bffd30bcf071eb3d4a'
-  currency: ETH
-  label: Wabicoin.co
-  is_cluster_definer: true
 - address: '0x29e225d888cf11c5e67613bffd30bcf071eb3d4a'
   currency: ETH
   label: Wabicoin.co
@@ -1025,14 +965,6 @@ tags:
   is_cluster_definer: true
 - address: '0x58a166f9a6ff996e2349eea90d42cc198529a037'
   currency: ETH
-  label: Xn--os-g7s.com
-  is_cluster_definer: true
-- address: '0x58a166f9a6ff996e2349eea90d42cc198529a037'
-  currency: ETH
-  label: Xn--myeherwalet-ns8exy.com
-  is_cluster_definer: true
-- address: '0x58a166f9a6ff996e2349eea90d42cc198529a037'
-  currency: ETH
   label: Xn--myeherwalet-ns8exy.com
   is_cluster_definer: true
 - address: '0x0059b14e35daB1b4EEe1e2926C7A5660dA66F747'
@@ -1087,10 +1019,6 @@ tags:
   currency: ETH
   label: Icoselfkey.org
   is_cluster_definer: false
-- address: '0x660d30d1fbafdc88a1951370cbe2b3094dbf224b'
-  currency: ETH
-  label: Waltontoken.org
-  is_cluster_definer: true
 - address: '0x660d30d1fbafdc88a1951370cbe2b3094dbf224b'
   currency: ETH
   label: Waltontoken.org
@@ -1347,10 +1275,6 @@ tags:
   currency: ETH
   label: Sparc.pro
   is_cluster_definer: false
-- address: '0x7bb386c33486fe345168d0af94bef03897e16022'
-  currency: ETH
-  label: Twitter.com/vltalkbuterin
-  is_cluster_definer: true
 - address: '0x7bb386c33486fe345168d0af94bef03897e16022'
   currency: ETH
   label: Twitter.com/vltalkbuterin
@@ -1827,10 +1751,6 @@ tags:
   currency: ETH
   label: Icoeth.tk
   is_cluster_definer: true
-- address: '0x7bb386c33486fe345168d0af94bef03897e16022'
-  currency: ETH
-  label: Icoeth.tk
-  is_cluster_definer: true
 - address: '0xb65DB9F684F3BFa45Ad3fB4CDc4120618Ad81f00'
   currency: ETH
   label: Eth-giveaway.com
@@ -1883,11 +1803,11 @@ tags:
   currency: ETH
   label: Campaigntoken.blogspot.de
   is_cluster_definer: false
-- address: 1AfroW44dzHkjgbLEMLB3EvGDFegfkRewM
+- address: '1AfroW44dzHkjgbLEMLB3EvGDFegfkRewM'
   currency: BTC
   label: Cryptongram.org
   is_cluster_definer: false
-- address: 1AfroW44dzHkjgbLEMLB3EvGDFegfkRewM
+- address: '1AfroW44dzHkjgbLEMLB3EvGDFegfkRewM'
   currency: BCH
   label: Cryptongram.org
   is_cluster_definer: false
@@ -1959,10 +1879,6 @@ tags:
   currency: ETH
   label: Trust-cryptopayment.com
   is_cluster_definer: true
-- address: '0x97b20481241fe3cb9cc9ba50609d377b2506cdaa'
-  currency: ETH
-  label: Trust-cryptopayment.com
-  is_cluster_definer: true
 - address: '0x44ce1DE2379Aa6d6d4ad46c3531b9EEbB71f7F54'
   currency: ETH
   label: Binance-promo.net
@@ -2003,30 +1919,6 @@ tags:
   currency: ETH
   label: Giveaway-payment-add.bitballoon.com
   is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Giveaway-payment-add.bitballoon.com
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Giveaway-payment-add.bitballoon.com
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Giveaway-payment-add.bitballoon.com
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Giveaway-payment-add.bitballoon.com
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Giveaway-payment-add.bitballoon.com
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Giveaway-payment-add.bitballoon.com
-  is_cluster_definer: true
 - address: '0xa746d613d9b3A267Ad470E5CE980dBC12473247C'
   currency: ETH
   label: Secure-s28h3h2j54jehdh43jh3k5h42l4h23hk6l49sjxvsatoshilite.bitballoon.com
@@ -2043,30 +1935,6 @@ tags:
   currency: ETH
   label: Eth-promo.com
   is_cluster_definer: false
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Eth-giveaway-vote.bitballoon.com
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Eth-giveaway-vote.bitballoon.com
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Eth-giveaway-vote.bitballoon.com
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Eth-giveaway-vote.bitballoon.com
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Eth-giveaway-vote.bitballoon.com
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Eth-giveaway-vote.bitballoon.com
-  is_cluster_definer: true
 - address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
   currency: ETH
   label: Eth-giveaway-vote.bitballoon.com
@@ -2227,10 +2095,6 @@ tags:
   currency: ETH
   label: Auctuss.org
   is_cluster_definer: true
-- address: '0x4ae9971e28d7f422b406ee1f3bb38e1b96637239'
-  currency: ETH
-  label: Auctuss.org
-  is_cluster_definer: true
 - address: '0x0EeE28Fc966585B5848F9D65980Cb1621F9b3f8A'
   currency: ETH
   label: Auctus.network
@@ -2293,7 +2157,7 @@ tags:
   is_cluster_definer: false
 - address: '0x9f4562c9be26c7020909b50ccde3447f1b8c4b21'
   currency: ETH
-  label: Mailto:nsdmilea@gmail.com
+  label: 'Mailto:nsdmilea@gmail.com'
   is_cluster_definer: true
 - address: '0xAba9897C9422b1C30733169D3dA7Ff83D7f23044'
   currency: ETH
@@ -2367,14 +2231,6 @@ tags:
   currency: ETH
   label: Etherpromo.org
   is_cluster_definer: true
-- address: '0xf985aa8117999fa3f0f9e71a20d0fe7b88b9d706'
-  currency: ETH
-  label: Etherpromo.org
-  is_cluster_definer: true
-- address: '0xf985aa8117999fa3f0f9e71a20d0fe7b88b9d706'
-  currency: ETH
-  label: Etherpromo.org
-  is_cluster_definer: true
 - address: '0x4c6Bad785Ffcf6c0746F53DBcAC9c5e877F75bfa'
   currency: ETH
   label: Ethn.vu
@@ -2391,10 +2247,6 @@ tags:
   currency: ETH
   label: Ethereums-promo.bitballoon.com
   is_cluster_definer: false
-- address: '0x4ae9971e28d7f422b406ee1f3bb38e1b96637239'
-  currency: ETH
-  label: Eth-gifting.site
-  is_cluster_definer: true
 - address: '0x4ae9971e28d7f422b406ee1f3bb38e1b96637239'
   currency: ETH
   label: Eth-gifting.site
@@ -2467,14 +2319,6 @@ tags:
   currency: ETH
   label: Hederahashgraph.tokencrowdsale.info
   is_cluster_definer: false
-- address: '0xf985aa8117999fa3f0f9e71a20d0fe7b88b9d706'
-  currency: ETH
-  label: 5000eth.info
-  is_cluster_definer: true
-- address: '0xf985aa8117999fa3f0f9e71a20d0fe7b88b9d706'
-  currency: ETH
-  label: 5000eth.info
-  is_cluster_definer: true
 - address: '0xf985aa8117999fa3f0f9e71a20d0fe7b88b9d706'
   currency: ETH
   label: 5000eth.info
@@ -2559,14 +2403,6 @@ tags:
   currency: ETH
   label: Ethgive.info
   is_cluster_definer: true
-- address: '0xf985aa8117999fa3f0f9e71a20d0fe7b88b9d706'
-  currency: ETH
-  label: Ethgive.info
-  is_cluster_definer: true
-- address: '0xf985aa8117999fa3f0f9e71a20d0fe7b88b9d706'
-  currency: ETH
-  label: Ethgive.info
-  is_cluster_definer: true
 - address: '0xD996BF1D2f9E0fE8Fac4D83A0696102Fe87C9eB9'
   currency: ETH
   label: Ethgiveaway.online
@@ -2575,10 +2411,6 @@ tags:
   currency: ETH
   label: Ethsend.online
   is_cluster_definer: false
-- address: '0x2cc762c27a50d18e50efcd3bee9e3154e3bb094d'
-  currency: ETH
-  label: Ethtransaction.unaux.com
-  is_cluster_definer: true
 - address: '0x2cc762c27a50d18e50efcd3bee9e3154e3bb094d'
   currency: ETH
   label: Ethtransaction.unaux.com
@@ -2627,30 +2459,6 @@ tags:
   currency: ETH
   label: Ethereum-give.byethost16.com
   is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Ethereum-give.byethost16.com
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Ethereum-give.byethost16.com
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Ethereum-give.byethost16.com
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Ethereum-give.byethost16.com
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Ethereum-give.byethost16.com
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Ethereum-give.byethost16.com
-  is_cluster_definer: true
 - address: '0xeE83bf55194787ACC44D6316623998c1876AED8A'
   currency: ETH
   label: Ethereum-giveaway.kissr.com
@@ -2663,30 +2471,6 @@ tags:
   currency: ETH
   label: Ethsafe.trade
   is_cluster_definer: false
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Ethereum-giveaway.com
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Ethereum-giveaway.com
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Ethereum-giveaway.com
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Ethereum-giveaway.com
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Ethereum-giveaway.com
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Ethereum-giveaway.com
-  is_cluster_definer: true
 - address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
   currency: ETH
   label: Ethereum-giveaway.com
@@ -2755,39 +2539,7 @@ tags:
   currency: ETH
   label: Eth-private-key.webz.cz
   is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Eth-private-key.webz.cz
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Eth-private-key.webz.cz
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Eth-private-key.webz.cz
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Eth-private-key.webz.cz
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Eth-private-key.webz.cz
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Eth-private-key.webz.cz
-  is_cluster_definer: true
 - address: '0x6c20ef21e604028c649247c581e8e49fda6191ca'
-  currency: ETH
-  label: Tokentelegram.net
-  is_cluster_definer: true
-- address: '0x6c20ef21e604028c649247c581e8e49fda6191ca'
-  currency: ETH
-  label: Tokentelegram.net
-  is_cluster_definer: true
-- address: '0xf94b8e0ceba6dcd1b888fe02141dd9d0b8e67715'
   currency: ETH
   label: Tokentelegram.net
   is_cluster_definer: true
@@ -2802,34 +2554,6 @@ tags:
 - address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
   currency: ETH
   label: Eth-give.org
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Eth-give.org
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Eth-give.org
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Eth-give.org
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Eth-give.org
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Eth-give.org
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Eth-give.org
-  is_cluster_definer: true
-- address: '0x2cc762c27a50d18e50efcd3bee9e3154e3bb094d'
-  currency: ETH
-  label: Ethtransaction.ezyro.com
   is_cluster_definer: true
 - address: '0x2cc762c27a50d18e50efcd3bee9e3154e3bb094d'
   currency: ETH
@@ -3127,30 +2851,6 @@ tags:
   currency: ETH
   label: Ethereum-give.czweb.org
   is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Ethereum-give.czweb.org
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Ethereum-give.czweb.org
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Ethereum-give.czweb.org
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Ethereum-give.czweb.org
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Ethereum-give.czweb.org
-  is_cluster_definer: true
-- address: '0xe00e1f7117a69c34694ac1815177c93491fc448f'
-  currency: ETH
-  label: Ethereum-give.czweb.org
-  is_cluster_definer: true
 - address: '0xd52fcaf53cd3eFd7E1d484fd9cd2dd21355063e5'
   currency: ETH
   label: Get-ethereum.gift
@@ -3163,10 +2863,6 @@ tags:
   currency: ETH
   label: Tokentelegram.live
   is_cluster_definer: false
-- address: '0x6c20ef21e604028c649247c581e8e49fda6191ca'
-  currency: ETH
-  label: Tokentelegram.info
-  is_cluster_definer: true
 - address: '0x6c20ef21e604028c649247c581e8e49fda6191ca'
   currency: ETH
   label: Tokentelegram.info
@@ -3303,10 +2999,6 @@ tags:
   currency: ETH
   label: Giveaway-eth.com
   is_cluster_definer: false
-- address: '0x97b20481241fe3cb9cc9ba50609d377b2506cdaa'
-  currency: ETH
-  label: Bitfinex.eu
-  is_cluster_definer: true
 - address: '0x97b20481241fe3cb9cc9ba50609d377b2506cdaa'
   currency: ETH
   label: Bitfinex.eu
@@ -3955,10 +3647,6 @@ tags:
   currency: ETH
   label: Tron-block.info
   is_cluster_definer: true
-- address: '0xdd1db171b110fb857311fde3236217894e7e9ab8'
-  currency: ETH
-  label: Tron-block.info
-  is_cluster_definer: true
 - address: '0x3d9D797B15Dfe68d5010fE9C9e8a1AAb1F040932'
   currency: ETH
   label: Klareol5.ru
@@ -4015,10 +3703,6 @@ tags:
   currency: ETH
   label: Eth4everyone.com
   is_cluster_definer: false
-- address: '0xdd1db171b110fb857311fde3236217894e7e9ab8'
-  currency: ETH
-  label: Tron-block.com
-  is_cluster_definer: true
 - address: '0xdd1db171b110fb857311fde3236217894e7e9ab8'
   currency: ETH
   label: Tron-block.com
@@ -4395,14 +4079,6 @@ tags:
   currency: ETH
   label: Tronfoundation.gift
   is_cluster_definer: true
-- address: '0x73f7b2257c688677ff9cc7bdd2d05e5076e0ae42'
-  currency: ETH
-  label: Tronfoundation.gift
-  is_cluster_definer: true
-- address: '0x73f7b2257c688677ff9cc7bdd2d05e5076e0ae42'
-  currency: ETH
-  label: Tronfoundation.gift
-  is_cluster_definer: true
 - address: '0x73f7B2257C688677fF9Cc7BDd2D05e5076E0AE42'
   currency: ETH
   label: Ethn.gift
@@ -4411,14 +4087,6 @@ tags:
   currency: ETH
   label: Geth.fyi
   is_cluster_definer: false
-- address: '0x73f7b2257c688677ff9cc7bdd2d05e5076e0ae42'
-  currency: ETH
-  label: Ethc.live
-  is_cluster_definer: true
-- address: '0x73f7b2257c688677ff9cc7bdd2d05e5076e0ae42'
-  currency: ETH
-  label: Ethc.live
-  is_cluster_definer: true
 - address: '0x73f7b2257c688677ff9cc7bdd2d05e5076e0ae42'
   currency: ETH
   label: Ethc.live
@@ -4435,14 +4103,6 @@ tags:
   currency: ETH
   label: Gate1.eths.vu
   is_cluster_definer: false
-- address: '0x73f7b2257c688677ff9cc7bdd2d05e5076e0ae42'
-  currency: ETH
-  label: Ethc.cash
-  is_cluster_definer: true
-- address: '0x73f7b2257c688677ff9cc7bdd2d05e5076e0ae42'
-  currency: ETH
-  label: Ethc.cash
-  is_cluster_definer: true
 - address: '0x73f7b2257c688677ff9cc7bdd2d05e5076e0ae42'
   currency: ETH
   label: Ethc.cash
@@ -5355,10 +5015,6 @@ tags:
   currency: ETH
   label: Ether-give.live
   is_cluster_definer: true
-- address: '0x11608c87d514d55e28eb94984bdbacd3fd38b182'
-  currency: ETH
-  label: Ether-give.live
-  is_cluster_definer: true
 - address: '0xC0095047d767857Bb40CC77EF54569d4124984C3'
   currency: ETH
   label: Get.ethsupport.net
@@ -5423,10 +5079,6 @@ tags:
   currency: ETH
   label: Ethers-free.org
   is_cluster_definer: true
-- address: '0x11608c87d514d55e28eb94984bdbacd3fd38b182'
-  currency: ETH
-  label: Ethers-free.org
-  is_cluster_definer: true
 - address: '0x9044Bca784ff17dD05Bd157f47C9cecb2dbcFFa5'
   currency: ETH
   label: Claimethers.org
@@ -5447,34 +5099,6 @@ tags:
   currency: ETH
   label: Ethextra.net
   is_cluster_definer: false
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Ethe.mediumblog.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Ethe.mediumblog.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Ethe.mediumblog.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Ethe.mediumblog.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Ethe.mediumblog.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Ethe.mediumblog.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Ethe.mediumblog.top
-  is_cluster_definer: true
 - address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
   currency: ETH
   label: Ethe.mediumblog.top
@@ -5783,34 +5407,6 @@ tags:
   currency: ETH
   label: Swdwd.ethers444.online
   is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Swdwd.ethers444.online
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Swdwd.ethers444.online
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Swdwd.ethers444.online
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Swdwd.ethers444.online
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Swdwd.ethers444.online
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Swdwd.ethers444.online
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Swdwd.ethers444.online
-  is_cluster_definer: true
 - address: '0x40949225c4a1745a9946F6AAf763241c082cb9ac'
   currency: ETH
   label: Claim2.ethers444.online
@@ -5991,34 +5587,6 @@ tags:
   currency: ETH
   label: Claim.ether33.online
   is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Claim.ether33.online
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Claim.ether33.online
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Claim.ether33.online
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Claim.ether33.online
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Claim.ether33.online
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Claim.ether33.online
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Claim.ether33.online
-  is_cluster_definer: true
 - address: '0x5208d7f63A089906889A5A9CAed81E9C889E64F8'
   currency: ETH
   label: Mediumblog.org
@@ -6026,62 +5594,6 @@ tags:
 - address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
   currency: ETH
   label: Swswd.ether33.online
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Swswd.ether33.online
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Swswd.ether33.online
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Swswd.ether33.online
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Swswd.ether33.online
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Swswd.ether33.online
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Swswd.ether33.online
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Swswd.ether33.online
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Eth22.mediumblog.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Eth22.mediumblog.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Eth22.mediumblog.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Eth22.mediumblog.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Eth22.mediumblog.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Eth22.mediumblog.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Eth22.mediumblog.top
   is_cluster_definer: true
 - address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
   currency: ETH
@@ -6165,7 +5677,7 @@ tags:
   is_cluster_definer: false
 - address: '0x2D791afb30B48a0AC39e6b416d2f46Aa095B1704'
   currency: ETH
-  label: Https://docs.google.com/forms/d/e/1faipqlsdyupulj1mjvg9kku-cmhyilljwfiofrtuqbiqp1fbzotsxna/formresponse
+  label: 'Https://docs.google.com/forms/d/e/1faipqlsdyupulj1mjvg9kku-cmhyilljwfiofrtuqbiqp1fbzotsxna/formresponse'
   is_cluster_definer: false
 - address: '0xD93A9ebA0b33896C629a7FEBfa2503f7aC0fa3af'
   currency: ETH
@@ -6195,22 +5707,6 @@ tags:
   currency: ETH
   label: Buterineth.org
   is_cluster_definer: false
-- address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
-  currency: ETH
-  label: Ethereum-promo.website
-  is_cluster_definer: true
-- address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
-  currency: ETH
-  label: Ethereum-promo.website
-  is_cluster_definer: true
-- address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
-  currency: ETH
-  label: Ethereum-promo.website
-  is_cluster_definer: true
-- address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
-  currency: ETH
-  label: Ethereum-promo.website
-  is_cluster_definer: true
 - address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
   currency: ETH
   label: Ethereum-promo.website
@@ -6251,22 +5747,6 @@ tags:
   currency: ETH
   label: Ethereum-gift.website
   is_cluster_definer: true
-- address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
-  currency: ETH
-  label: Ethereum-gift.website
-  is_cluster_definer: true
-- address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
-  currency: ETH
-  label: Ethereum-gift.website
-  is_cluster_definer: true
-- address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
-  currency: ETH
-  label: Ethereum-gift.website
-  is_cluster_definer: true
-- address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
-  currency: ETH
-  label: Ethereum-gift.website
-  is_cluster_definer: true
 - address: '0x4BC69a335D353dce4De09399b24079aEd48F7865'
   currency: ETH
   label: Binance.promoting.world
@@ -6287,22 +5767,6 @@ tags:
   currency: ETH
   label: Ether-foundation.website
   is_cluster_definer: true
-- address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
-  currency: ETH
-  label: Ether-foundation.website
-  is_cluster_definer: true
-- address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
-  currency: ETH
-  label: Ether-foundation.website
-  is_cluster_definer: true
-- address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
-  currency: ETH
-  label: Ether-foundation.website
-  is_cluster_definer: true
-- address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
-  currency: ETH
-  label: Ether-foundation.website
-  is_cluster_definer: true
 - address: '0x3bD330F121c493dB91e59d9125968D3Df090A66F'
   currency: ETH
   label: Ethofficial.net
@@ -6311,34 +5775,6 @@ tags:
   currency: ETH
   label: Etherclaim.net
   is_cluster_definer: false
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Medium.ethereumfoundation.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Medium.ethereumfoundation.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Medium.ethereumfoundation.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Medium.ethereumfoundation.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Medium.ethereumfoundation.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Medium.ethereumfoundation.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Medium.ethereumfoundation.top
-  is_cluster_definer: true
 - address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
   currency: ETH
   label: Medium.ethereumfoundation.top
@@ -6407,34 +5843,6 @@ tags:
   currency: ETH
   label: Officialmcafee.github.io
   is_cluster_definer: false
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Etherclaims22.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Etherclaims22.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Etherclaims22.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Etherclaims22.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Etherclaims22.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Etherclaims22.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Etherclaims22.top
-  is_cluster_definer: true
 - address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
   currency: ETH
   label: Etherclaims22.top
@@ -6535,14 +5943,6 @@ tags:
   currency: ETH
   label: Mediumpost.ga
   is_cluster_definer: true
-- address: '0xff8e6af02d41a576a0c82f7835535193e1a6bccc'
-  currency: ETH
-  label: Mediumpost.ga
-  is_cluster_definer: true
-- address: '0xff8e6af02d41a576a0c82f7835535193e1a6bccc'
-  currency: ETH
-  label: Mediumpost.ga
-  is_cluster_definer: true
 - address: '0xe575D2262f516a392E018BD5Db9AFBC6ae656C92'
   currency: ETH
   label: Event-eth.com
@@ -6563,34 +5963,6 @@ tags:
   currency: ETH
   label: Limited-promo.org
   is_cluster_definer: false
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Ethpays99.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Ethpays99.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Ethpays99.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Ethpays99.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Ethpays99.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Ethpays99.top
-  is_cluster_definer: true
-- address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
-  currency: ETH
-  label: Ethpays99.top
-  is_cluster_definer: true
 - address: '0x336a3f0c4d40b1e39cee72e2e59330daf484848c'
   currency: ETH
   label: Ethpays99.top
@@ -6727,18 +6099,6 @@ tags:
   currency: ETH
   label: Eth60.getmyeth.top
   is_cluster_definer: true
-- address: '0xab7ec7596fc05bc55afc07008cc06c1193ed6f9a'
-  currency: ETH
-  label: Eth60.getmyeth.top
-  is_cluster_definer: true
-- address: '0xab7ec7596fc05bc55afc07008cc06c1193ed6f9a'
-  currency: ETH
-  label: Eth60.getmyeth.top
-  is_cluster_definer: true
-- address: '0xab7ec7596fc05bc55afc07008cc06c1193ed6f9a'
-  currency: ETH
-  label: Eth60.getmyeth.top
-  is_cluster_definer: true
 - address: '0x3C924CbbD8Ffb34b3da99C1501AFB9bB3Cf5E4f4'
   currency: ETH
   label: Musk-official-giveaway.com
@@ -6803,18 +6163,6 @@ tags:
   currency: ETH
   label: Eth60.top
   is_cluster_definer: true
-- address: '0xab7ec7596fc05bc55afc07008cc06c1193ed6f9a'
-  currency: ETH
-  label: Eth60.top
-  is_cluster_definer: true
-- address: '0xab7ec7596fc05bc55afc07008cc06c1193ed6f9a'
-  currency: ETH
-  label: Eth60.top
-  is_cluster_definer: true
-- address: '0xab7ec7596fc05bc55afc07008cc06c1193ed6f9a'
-  currency: ETH
-  label: Eth60.top
-  is_cluster_definer: true
 - address: '0x2B1C266E2a39a7a30aED472Fad47d6b6AB953F7e'
   currency: ETH
   label: Getfree-eth.org
@@ -6863,22 +6211,6 @@ tags:
   currency: ETH
   label: Freecoindrop.com
   is_cluster_definer: false
-- address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
-  currency: ETH
-  label: Ether-gift.website
-  is_cluster_definer: true
-- address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
-  currency: ETH
-  label: Ether-gift.website
-  is_cluster_definer: true
-- address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
-  currency: ETH
-  label: Ether-gift.website
-  is_cluster_definer: true
-- address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
-  currency: ETH
-  label: Ether-gift.website
-  is_cluster_definer: true
 - address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
   currency: ETH
   label: Ether-gift.website
@@ -6975,7 +6307,7 @@ tags:
   currency: ETH
   label: Binance-claims.com
   is_cluster_definer: false
-- address: 1J75vF5koGVgKXNewrZkcMBS1eJkyLcdcC
+- address: '1J75vF5koGVgKXNewrZkcMBS1eJkyLcdcC'
   currency: ETH
   label: Binance-claims.com
   is_cluster_definer: false
@@ -7219,10 +6551,6 @@ tags:
   currency: ETH
   label: Take-eth.website
   is_cluster_definer: true
-- address: '0xc77a77d24bb7cd50eec19cc1ce72ed090d841ddd'
-  currency: ETH
-  label: Take-eth.website
-  is_cluster_definer: true
 - address: '0x09f8b64A3992aB516FC34de1157d2b4a39D45301'
   currency: ETH
   label: Safe.earnethnow.com
@@ -7263,18 +6591,6 @@ tags:
   currency: ETH
   label: Ethpromos.info
   is_cluster_definer: false
-- address: '0xab7ec7596fc05bc55afc07008cc06c1193ed6f9a'
-  currency: ETH
-  label: Mediumblogs.top
-  is_cluster_definer: true
-- address: '0xab7ec7596fc05bc55afc07008cc06c1193ed6f9a'
-  currency: ETH
-  label: Mediumblogs.top
-  is_cluster_definer: true
-- address: '0xab7ec7596fc05bc55afc07008cc06c1193ed6f9a'
-  currency: ETH
-  label: Mediumblogs.top
-  is_cluster_definer: true
 - address: '0xab7ec7596fc05bc55afc07008cc06c1193ed6f9a'
   currency: ETH
   label: Mediumblogs.top
@@ -7335,14 +6651,6 @@ tags:
   currency: ETH
   label: Getbesteth.com
   is_cluster_definer: false
-- address: '0xff8e6af02d41a576a0c82f7835535193e1a6bccc'
-  currency: ETH
-  label: Mediumblogsot.top
-  is_cluster_definer: true
-- address: '0xff8e6af02d41a576a0c82f7835535193e1a6bccc'
-  currency: ETH
-  label: Mediumblogsot.top
-  is_cluster_definer: true
 - address: '0xff8e6af02d41a576a0c82f7835535193e1a6bccc'
   currency: ETH
   label: Mediumblogsot.top
@@ -7459,14 +6767,6 @@ tags:
   currency: ETH
   label: Ethereum-promotion.website
   is_cluster_definer: true
-- address: '0x31fca2139b07c2a97287de51f0219a34f4181710'
-  currency: ETH
-  label: Ethereum-promotion.website
-  is_cluster_definer: true
-- address: '0x31fca2139b07c2a97287de51f0219a34f4181710'
-  currency: ETH
-  label: Ethereum-promotion.website
-  is_cluster_definer: true
 - address: '0xA2C7736ddDF5CF870896c96E3017A78bC7BB6Ef0'
   currency: ETH
   label: Noweth.top
@@ -7515,22 +6815,6 @@ tags:
   currency: ETH
   label: Giftofeth.info
   is_cluster_definer: false
-- address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
-  currency: ETH
-  label: Crypto-promo.website
-  is_cluster_definer: true
-- address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
-  currency: ETH
-  label: Crypto-promo.website
-  is_cluster_definer: true
-- address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
-  currency: ETH
-  label: Crypto-promo.website
-  is_cluster_definer: true
-- address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
-  currency: ETH
-  label: Crypto-promo.website
-  is_cluster_definer: true
 - address: '0x52b949fb4678c20873135ce6b3727949432af1d7'
   currency: ETH
   label: Crypto-promo.website
@@ -7747,14 +7031,6 @@ tags:
   currency: ETH
   label: Airdrop-token.website
   is_cluster_definer: true
-- address: '0xe889b0d59fd4181857edb19f5fecafa8510f2fad'
-  currency: ETH
-  label: Airdrop-token.website
-  is_cluster_definer: true
-- address: '0xe889b0d59fd4181857edb19f5fecafa8510f2fad'
-  currency: ETH
-  label: Airdrop-token.website
-  is_cluster_definer: true
 - address: '0x335E40277f127c620560FaF1cfa001E5899864ad'
   currency: ETH
   label: Ethvent.net
@@ -7883,14 +7159,6 @@ tags:
   currency: ETH
   label: Ethereum-airdrop-promo.czweb.org
   is_cluster_definer: true
-- address: '0xe889b0d59fd4181857edb19f5fecafa8510f2fad'
-  currency: ETH
-  label: Ethereum-airdrop-promo.czweb.org
-  is_cluster_definer: true
-- address: '0xe889b0d59fd4181857edb19f5fecafa8510f2fad'
-  currency: ETH
-  label: Ethereum-airdrop-promo.czweb.org
-  is_cluster_definer: true
 - address: '0x74c38Bf0C506EB5Ee22cdD8827c109B0C91e0D77'
   currency: ETH
   label: Safe.ethtreasury.com
@@ -7950,26 +7218,6 @@ tags:
 - address: '0xff8e6af02d41a576a0c82f7835535193e1a6bccc'
   currency: ETH
   label: Coinbasespromo.tumblr.com
-  is_cluster_definer: true
-- address: '0xff8e6af02d41a576a0c82f7835535193e1a6bccc'
-  currency: ETH
-  label: Coinbasespromo.tumblr.com
-  is_cluster_definer: true
-- address: '0xff8e6af02d41a576a0c82f7835535193e1a6bccc'
-  currency: ETH
-  label: Coinbasespromo.tumblr.com
-  is_cluster_definer: true
-- address: '0xab7ec7596fc05bc55afc07008cc06c1193ed6f9a'
-  currency: ETH
-  label: Cryptoyodas.tumblr.com
-  is_cluster_definer: true
-- address: '0xab7ec7596fc05bc55afc07008cc06c1193ed6f9a'
-  currency: ETH
-  label: Cryptoyodas.tumblr.com
-  is_cluster_definer: true
-- address: '0xab7ec7596fc05bc55afc07008cc06c1193ed6f9a'
-  currency: ETH
-  label: Cryptoyodas.tumblr.com
   is_cluster_definer: true
 - address: '0xab7ec7596fc05bc55afc07008cc06c1193ed6f9a'
   currency: ETH
@@ -8099,14 +7347,6 @@ tags:
   currency: ETH
   label: Giveaway.xf.cz
   is_cluster_definer: true
-- address: '0xe889b0d59fd4181857edb19f5fecafa8510f2fad'
-  currency: ETH
-  label: Giveaway.xf.cz
-  is_cluster_definer: true
-- address: '0xe889b0d59fd4181857edb19f5fecafa8510f2fad'
-  currency: ETH
-  label: Giveaway.xf.cz
-  is_cluster_definer: true
 - address: '0x0F23430D929F24b86CB3Bf375B94d96361d0420a'
   currency: ETH
   label: Eth-club.club
@@ -8183,14 +7423,6 @@ tags:
   currency: ETH
   label: Crypto-promo.czweb.org
   is_cluster_definer: true
-- address: '0x31fca2139b07c2a97287de51f0219a34f4181710'
-  currency: ETH
-  label: Crypto-promo.czweb.org
-  is_cluster_definer: true
-- address: '0x31fca2139b07c2a97287de51f0219a34f4181710'
-  currency: ETH
-  label: Crypto-promo.czweb.org
-  is_cluster_definer: true
 - address: '0x72696cE345abB71398384e42CfbF6C9A995246c0'
   currency: ETH
   label: Musk-air.org
@@ -8199,10 +7431,6 @@ tags:
   currency: ETH
   label: Musk-air.org
   is_cluster_definer: false
-- address: '0x6a9c2ec4f4888d7338fc1b28584aaafeb01e6db3'
-  currency: ETH
-  label: Safe-claims.info
-  is_cluster_definer: true
 - address: '0x6a9c2ec4f4888d7338fc1b28584aaafeb01e6db3'
   currency: ETH
   label: Safe-claims.info
@@ -8387,14 +7615,6 @@ tags:
   currency: ETH
   label: Ethereum-giveaway.czweb.org
   is_cluster_definer: true
-- address: '0x31fca2139b07c2a97287de51f0219a34f4181710'
-  currency: ETH
-  label: Ethereum-giveaway.czweb.org
-  is_cluster_definer: true
-- address: '0x31fca2139b07c2a97287de51f0219a34f4181710'
-  currency: ETH
-  label: Ethereum-giveaway.czweb.org
-  is_cluster_definer: true
 - address: '0xA9A53dCD4C6BC74Ae56cC52CE48390D85BE98c80'
   currency: ETH
   label: Ethshift.website
@@ -8411,10 +7631,6 @@ tags:
   currency: ETH
   label: Ethpromo-give.info
   is_cluster_definer: false
-- address: '0x6a9c2ec4f4888d7338fc1b28584aaafeb01e6db3'
-  currency: ETH
-  label: Elonmusk.racing
-  is_cluster_definer: true
 - address: '0x6a9c2ec4f4888d7338fc1b28584aaafeb01e6db3'
   currency: ETH
   label: Elonmusk.racing
@@ -9155,10 +8371,6 @@ tags:
   currency: ETH
   label: Eth-promo.borec.cz
   is_cluster_definer: true
-- address: '0xc77a77d24bb7cd50eec19cc1ce72ed090d841ddd'
-  currency: ETH
-  label: Eth-promo.borec.cz
-  is_cluster_definer: true
 - address: '0xbA3CF9C7ad2DB61EA72CceaF73CfcB2bfdeddCe0'
   currency: ETH
   label: Ether-take.org
@@ -9303,7 +8515,7 @@ tags:
   currency: ETH
   label: Crypto-giveaway.xyz
   is_cluster_definer: false
-- address: 1LfmegbyxqufhZQA5eBR6P6YZ2VF54K1kK
+- address: '1LfmegbyxqufhZQA5eBR6P6YZ2VF54K1kK'
   currency: ETH
   label: Crypto-giveaway.xyz
   is_cluster_definer: false
@@ -10067,10 +9279,6 @@ tags:
   currency: ETH
   label: Gramnetwork.net
   is_cluster_definer: true
-- address: '0xf94b8e0ceba6dcd1b888fe02141dd9d0b8e67715'
-  currency: ETH
-  label: Gramnetwork.net
-  is_cluster_definer: true
 - address: '0x362f1d7C705f0d8f38786b4D6eFd6eCC54199be6'
   currency: ETH
   label: Goodaction.eu
@@ -10467,7 +9675,7 @@ tags:
   currency: ETH
   label: Youtube.com/watch?v=mpv-xq0fyae
   is_cluster_definer: false
-- address: 15r1s7ggDSRKQJpCsyvPnSJzCsgcGgJcuy
+- address: '15r1s7ggDSRKQJpCsyvPnSJzCsgcGgJcuy'
   currency: BTC
   label: Supportbinance.890m.com
   is_cluster_definer: true
@@ -10475,15 +9683,15 @@ tags:
   currency: ETH
   label: Xgivex.blogspot.com
   is_cluster_definer: false
-- address: TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r
+- address: 'TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r'
   currency: ETH
   label: Xgivex.blogspot.com
   is_cluster_definer: false
-- address: LaXXasBpGtqnzi7AMywnujYeD3BFD1NFv2
+- address: 'LaXXasBpGtqnzi7AMywnujYeD3BFD1NFv2'
   currency: ETH
   label: Xgivex.blogspot.com
   is_cluster_definer: false
-- address: TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r
+- address: 'TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r'
   currency: TRX
   label: Xtrony.blogspot.com
   is_cluster_definer: false
@@ -10507,7 +9715,7 @@ tags:
   currency: ETH
   label: Claim-ethers.com
   is_cluster_definer: false
-- address: TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r
+- address: 'TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r'
   currency: TRX
   label: Givetrx.blogspot.com.au
   is_cluster_definer: false
@@ -10539,7 +9747,7 @@ tags:
   currency: ETH
   label: Cryponium.info
   is_cluster_definer: false
-- address: 39zg8emyzGmKYqsuv3suYCyqX2CAJDJqgw
+- address: '39zg8emyzGmKYqsuv3suYCyqX2CAJDJqgw'
   currency: BTC
   label: Airdrop.systems
   is_cluster_definer: true
@@ -10547,7 +9755,7 @@ tags:
   currency: BTC
   label: Airdrop.systems
   is_cluster_definer: false
-- address: 1JxPXfxTb1uMD3Am6Joufug5bjfxojuYGq
+- address: '1JxPXfxTb1uMD3Am6Joufug5bjfxojuYGq'
   currency: ETH
   label: Simbatools.com
   is_cluster_definer: false
@@ -10571,7 +9779,7 @@ tags:
   currency: ETH
   label: Bigcoingift.club
   is_cluster_definer: false
-- address: 39cJxzTFFkspde9Nxd3kK2HyiuxTtteQfk
+- address: '39cJxzTFFkspde9Nxd3kK2HyiuxTtteQfk'
   currency: ETH
   label: Cryptogive.rf.gd
   is_cluster_definer: false
@@ -10579,7 +9787,7 @@ tags:
   currency: ETH
   label: Cryptogive.rf.gd
   is_cluster_definer: false
-- address: 1HzaAJgzszt6eMTZwDuD8SAeUfbJzDHYui
+- address: '1HzaAJgzszt6eMTZwDuD8SAeUfbJzDHYui'
   currency: ETH
   label: Musk-cryptocurrency.info
   is_cluster_definer: false
@@ -10587,7 +9795,7 @@ tags:
   currency: ETH
   label: Musk-cryptocurrency.info
   is_cluster_definer: false
-- address: 3MiVdUaMJZBFZTbdBgtzBDHS5ezrJ8k7PT
+- address: '3MiVdUaMJZBFZTbdBgtzBDHS5ezrJ8k7PT'
   currency: BTC
   label: Dexchainevent.info
   is_cluster_definer: false
@@ -10607,7 +9815,7 @@ tags:
   currency: ETH
   label: Transfer.getmore.host
   is_cluster_definer: false
-- address: ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf
+- address: 'ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf'
   currency: NEO
   label: Give-neo.blogspot.com
   is_cluster_definer: false
@@ -10651,27 +9859,11 @@ tags:
   currency: ETH
   label: Bonus.ethereum-giveaway.net
   is_cluster_definer: false
-- address: 1KAGE12gtYVfizicQSDQmnPHYfA29bu8Da
+- address: '1KAGE12gtYVfizicQSDQmnPHYfA29bu8Da'
   currency: BTC
   label: Musk.plus
   is_cluster_definer: true
-- address: 1KAGE12gtYVfizicQSDQmnPHYfA29bu8Da
-  currency: BTC
-  label: Musk.plus
-  is_cluster_definer: true
-- address: 1KAGE12gtYVfizicQSDQmnPHYfA29bu8Da
-  currency: BTC
-  label: Musk.plus
-  is_cluster_definer: true
-- address: 1KAGE12gtYVfizicQSDQmnPHYfA29bu8Da
-  currency: BTC
-  label: Spacex.plus
-  is_cluster_definer: true
-- address: 1KAGE12gtYVfizicQSDQmnPHYfA29bu8Da
-  currency: BTC
-  label: Spacex.plus
-  is_cluster_definer: true
-- address: 1KAGE12gtYVfizicQSDQmnPHYfA29bu8Da
+- address: '1KAGE12gtYVfizicQSDQmnPHYfA29bu8Da'
   currency: BTC
   label: Spacex.plus
   is_cluster_definer: true
@@ -10679,15 +9871,7 @@ tags:
   currency: ETH
   label: Elongift.space
   is_cluster_definer: false
-- address: 1KAGE12gtYVfizicQSDQmnPHYfA29bu8Da
-  currency: BTC
-  label: Musk.fund
-  is_cluster_definer: true
-- address: 1KAGE12gtYVfizicQSDQmnPHYfA29bu8Da
-  currency: BTC
-  label: Musk.fund
-  is_cluster_definer: true
-- address: 1KAGE12gtYVfizicQSDQmnPHYfA29bu8Da
+- address: '1KAGE12gtYVfizicQSDQmnPHYfA29bu8Da'
   currency: BTC
   label: Musk.fund
   is_cluster_definer: true
@@ -10699,7 +9883,7 @@ tags:
   currency: ETH
   label: Paxosbounty.com
   is_cluster_definer: false
-- address: 1K5P32Z8Md4rio8PPdw18Tp3Xx5WHmg2ES
+- address: '1K5P32Z8Md4rio8PPdw18Tp3Xx5WHmg2ES'
   currency: BTC
   label: Spacex.to
   is_cluster_definer: true
@@ -10715,7 +9899,7 @@ tags:
   currency: ETH
   label: Get-10000-ethereum.org
   is_cluster_definer: false
-- address: 1GiJEkXQevPAoeuLALo2cVh2WPFxQfu21E
+- address: '1GiJEkXQevPAoeuLALo2cVh2WPFxQfu21E'
   currency: BTC
   label: Btc-crypto.me
   is_cluster_definer: true
@@ -10727,15 +9911,15 @@ tags:
   currency: ETH
   label: Dexbnb.net
   is_cluster_definer: false
-- address: 1BCyeBSRemVWFPrd4SQFnDYFTuTdxmhd7W
+- address: '1BCyeBSRemVWFPrd4SQFnDYFTuTdxmhd7W'
   currency: BTC
   label: Btc-gift.net
   is_cluster_definer: true
-- address: 1D9KrhmwLXfnfK4pUQ3fvyurEgTk53eXha
+- address: '1D9KrhmwLXfnfK4pUQ3fvyurEgTk53eXha'
   currency: BTC
   label: Btc-gift.net
   is_cluster_definer: true
-- address: 1DQme49mAdEz3XsE8fYhAYLQpT5SGpcLpJ
+- address: '1DQme49mAdEz3XsE8fYhAYLQpT5SGpcLpJ'
   currency: BTC
   label: Btc-gift.net
   is_cluster_definer: true
@@ -10743,7 +9927,7 @@ tags:
   currency: ETH
   label: Xfreecrypto.blogspot.co.nz
   is_cluster_definer: false
-- address: ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf
+- address: 'ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf'
   currency: NEO
   label: Xfreeneo.blogspot.com
   is_cluster_definer: false
@@ -10755,11 +9939,11 @@ tags:
   currency: ETH
   label: Dexbinancebeta.org
   is_cluster_definer: false
-- address: TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r
+- address: 'TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r'
   currency: TRX
   label: Dcontestd.blogspot.com
   is_cluster_definer: false
-- address: 1CoJN2ZDKtm7ARdFyxKdokSzKp4UCgTzS7
+- address: '1CoJN2ZDKtm7ARdFyxKdokSzKp4UCgTzS7'
   currency: ETH
   label: Fastcryptogiveaway.website
   is_cluster_definer: false
@@ -10767,11 +9951,11 @@ tags:
   currency: ETH
   label: Fastcryptogiveaway.website
   is_cluster_definer: false
-- address: TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r
+- address: 'TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r'
   currency: TRX
   label: Bcryptob.blogspot.com
   is_cluster_definer: false
-- address: TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r
+- address: 'TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r'
   currency: TRX
   label: Acontesta.blogspot.com
   is_cluster_definer: false
@@ -10779,11 +9963,11 @@ tags:
   currency: ETH
   label: Elon.gift
   is_cluster_definer: false
-- address: 1J9zUbQQxKSv3Lr2expFZD8bMZSC1VAihu
+- address: '1J9zUbQQxKSv3Lr2expFZD8bMZSC1VAihu'
   currency: ETH
   label: Elon.gift
   is_cluster_definer: false
-- address: ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf
+- address: 'ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf'
   currency: NEO
   label: Contestc.blogspot.com
   is_cluster_definer: false
@@ -10791,7 +9975,7 @@ tags:
   currency: ETH
   label: Ethereum-generator.cf
   is_cluster_definer: false
-- address: 3HcX7kMQnn5QpaRvKyCgPSGa8MLfDYT2Sm
+- address: '3HcX7kMQnn5QpaRvKyCgPSGa8MLfDYT2Sm'
   currency: BTC
   label: Dexairdropevent.com
   is_cluster_definer: false
@@ -10799,27 +9983,15 @@ tags:
   currency: ETH
   label: Eth.tronnetwork.pw
   is_cluster_definer: false
-- address: 1EBp8h9BGh4pJ4ZcE17Fo5pp7CRDd48y9u
+- address: '1EBp8h9BGh4pJ4ZcE17Fo5pp7CRDd48y9u'
   currency: BTC
   label: Btc.tronnetwork.pw
   is_cluster_definer: false
-- address: ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf
+- address: 'ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf'
   currency: NEO
   label: Pool-neo.blogspot.com
   is_cluster_definer: false
-- address: 1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX
-  currency: BTC
-  label: Binance-giveaways.com
-  is_cluster_definer: true
-- address: 1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX
-  currency: BTC
-  label: Binance-giveaways.com
-  is_cluster_definer: true
-- address: 1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX
-  currency: BTC
-  label: Binance-giveaways.com
-  is_cluster_definer: true
-- address: 1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX
+- address: '1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX'
   currency: BTC
   label: Binance-giveaways.com
   is_cluster_definer: true
@@ -10835,11 +10007,11 @@ tags:
   currency: ETH
   label: Btc-verified.com
   is_cluster_definer: false
-- address: 1Gq42JugPnFzwxqTJMqTN1cmQT6wsLVCbq
+- address: '1Gq42JugPnFzwxqTJMqTN1cmQT6wsLVCbq'
   currency: ETH
   label: Btc-verified.com
   is_cluster_definer: false
-- address: 1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX
+- address: '1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX'
   currency: ETH
   label: Crypto-giveaways.com
   is_cluster_definer: false
@@ -10847,27 +10019,7 @@ tags:
   currency: ETH
   label: Crypto-giveaways.com
   is_cluster_definer: false
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-official-giveaway.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-official-giveaway.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-official-giveaway.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-official-giveaway.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-official-giveaway.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
+- address: '15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ'
   currency: BTC
   label: Elon-official-giveaway.com
   is_cluster_definer: true
@@ -10875,51 +10027,11 @@ tags:
   currency: BTC
   label: Elon-official-giveaway.com
   is_cluster_definer: false
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
+- address: '1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW'
   currency: BTC
   label: Elon-official-giveaway.com
   is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-official-giveaway.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-official-giveaway.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-official-giveaway.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-official-giveaway.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-official-giveaway.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-official-promo.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-official-promo.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-official-promo.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-official-promo.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-official-promo.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
+- address: '15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ'
   currency: BTC
   label: Elon-official-promo.com
   is_cluster_definer: true
@@ -10927,27 +10039,7 @@ tags:
   currency: BTC
   label: Elon-official-promo.com
   is_cluster_definer: false
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-official-promo.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-official-promo.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-official-promo.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-official-promo.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-official-promo.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
+- address: '1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW'
   currency: BTC
   label: Elon-official-promo.com
   is_cluster_definer: true
@@ -10955,27 +10047,7 @@ tags:
   currency: BTC
   label: Elon-party.com
   is_cluster_definer: false
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-party.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-party.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-party.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-party.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-party.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
+- address: '15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ'
   currency: BTC
   label: Elon-party.com
   is_cluster_definer: true
@@ -10983,51 +10055,11 @@ tags:
   currency: BTC
   label: Elon-party.com
   is_cluster_definer: false
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
+- address: '1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW'
   currency: BTC
   label: Elon-party.com
   is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-party.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-party.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-party.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-party.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-party.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-presents.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-presents.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-presents.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-presents.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-presents.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
+- address: '15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ'
   currency: BTC
   label: Elon-presents.com
   is_cluster_definer: true
@@ -11035,51 +10067,11 @@ tags:
   currency: BTC
   label: Elon-presents.com
   is_cluster_definer: false
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
+- address: '1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW'
   currency: BTC
   label: Elon-presents.com
   is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-presents.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-presents.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-presents.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-presents.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-presents.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-promotion.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-promotion.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-promotion.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-promotion.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-promotion.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
+- address: '15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ'
   currency: BTC
   label: Elon-promotion.com
   is_cluster_definer: true
@@ -11087,51 +10079,11 @@ tags:
   currency: BTC
   label: Elon-promotion.com
   is_cluster_definer: false
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
+- address: '1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW'
   currency: BTC
   label: Elon-promotion.com
   is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-promotion.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-promotion.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-promotion.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-promotion.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-promotion.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-surprise.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-surprise.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-surprise.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-surprise.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
-  currency: BTC
-  label: Elon-surprise.com
-  is_cluster_definer: true
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
+- address: '15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ'
   currency: BTC
   label: Elon-surprise.com
   is_cluster_definer: true
@@ -11139,43 +10091,11 @@ tags:
   currency: BTC
   label: Elon-surprise.com
   is_cluster_definer: false
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
+- address: '1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW'
   currency: BTC
   label: Elon-surprise.com
   is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-surprise.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-surprise.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-surprise.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-surprise.com
-  is_cluster_definer: true
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
-  currency: BTC
-  label: Elon-surprise.com
-  is_cluster_definer: true
-- address: 1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX
-  currency: BTC
-  label: Ethereums-giveaway.com
-  is_cluster_definer: true
-- address: 1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX
-  currency: BTC
-  label: Ethereums-giveaway.com
-  is_cluster_definer: true
-- address: 1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX
-  currency: BTC
-  label: Ethereums-giveaway.com
-  is_cluster_definer: true
-- address: 1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX
+- address: '1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX'
   currency: BTC
   label: Ethereums-giveaway.com
   is_cluster_definer: true
@@ -11183,19 +10103,7 @@ tags:
   currency: BTC
   label: Ethereums-giveaway.com
   is_cluster_definer: false
-- address: 1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX
-  currency: BTC
-  label: Gainbtc.org
-  is_cluster_definer: true
-- address: 1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX
-  currency: BTC
-  label: Gainbtc.org
-  is_cluster_definer: true
-- address: 1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX
-  currency: BTC
-  label: Gainbtc.org
-  is_cluster_definer: true
-- address: 1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX
+- address: '1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX'
   currency: BTC
   label: Gainbtc.org
   is_cluster_definer: true
@@ -11203,19 +10111,7 @@ tags:
   currency: BTC
   label: Gainbtc.org
   is_cluster_definer: false
-- address: 1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX
-  currency: BTC
-  label: Get-btcs-now.com
-  is_cluster_definer: true
-- address: 1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX
-  currency: BTC
-  label: Get-btcs-now.com
-  is_cluster_definer: true
-- address: 1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX
-  currency: BTC
-  label: Get-btcs-now.com
-  is_cluster_definer: true
-- address: 1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX
+- address: '1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX'
   currency: BTC
   label: Get-btcs-now.com
   is_cluster_definer: true
@@ -11223,7 +10119,7 @@ tags:
   currency: BTC
   label: Get-btcs-now.com
   is_cluster_definer: false
-- address: 1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX
+- address: '1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX'
   currency: ETH
   label: Get-eths-now.com
   is_cluster_definer: false
@@ -11231,7 +10127,7 @@ tags:
   currency: ETH
   label: Get-eths-now.com
   is_cluster_definer: false
-- address: 1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX
+- address: '1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX'
   currency: ETH
   label: Giftbtc.org
   is_cluster_definer: false
@@ -11239,11 +10135,11 @@ tags:
   currency: ETH
   label: Giftbtc.org
   is_cluster_definer: false
-- address: 12uDk9BctF2ywXz4qpGxJSprXG3uUD6Mda
+- address: '12uDk9BctF2ywXz4qpGxJSprXG3uUD6Mda'
   currency: ETH
   label: Giftbtc.org
   is_cluster_definer: false
-- address: 1EMG2n35pxcC7ycvwErvCFkzvaNXBz85hG
+- address: '1EMG2n35pxcC7ycvwErvCFkzvaNXBz85hG'
   currency: ETH
   label: Giveaway-official.org
   is_cluster_definer: false
@@ -11251,11 +10147,11 @@ tags:
   currency: ETH
   label: Giveaway-official.org
   is_cluster_definer: false
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
+- address: '1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW'
   currency: ETH
   label: Giveaway-official.org
   is_cluster_definer: false
-- address: 1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX
+- address: '1Dtykbcz4dsKzHrddrkxw8FrKKiVu2tTgX'
   currency: ETH
   label: Grab-btc.com
   is_cluster_definer: false
@@ -11263,11 +10159,11 @@ tags:
   currency: ETH
   label: Grab-btc.com
   is_cluster_definer: false
-- address: 1EMG2n35pxcC7ycvwErvCFkzvaNXBz85hG
+- address: '1EMG2n35pxcC7ycvwErvCFkzvaNXBz85hG'
   currency: ETH
   label: Limited-promo.org
   is_cluster_definer: false
-- address: 1EMG2n35pxcC7ycvwErvCFkzvaNXBz85hG
+- address: '1EMG2n35pxcC7ycvwErvCFkzvaNXBz85hG'
   currency: ETH
   label: Limited-promotion.com
   is_cluster_definer: false
@@ -11275,7 +10171,7 @@ tags:
   currency: ETH
   label: Limited-promotion.com
   is_cluster_definer: false
-- address: 1EMG2n35pxcC7ycvwErvCFkzvaNXBz85hG
+- address: '1EMG2n35pxcC7ycvwErvCFkzvaNXBz85hG'
   currency: ETH
   label: Limited-promotion.org
   is_cluster_definer: false
@@ -11287,11 +10183,11 @@ tags:
   currency: ETH
   label: Limited-promotion.org
   is_cluster_definer: false
-- address: 1KW7qgwvXxDkhmV83AEunJVRnYRY9Rdctx
+- address: '1KW7qgwvXxDkhmV83AEunJVRnYRY9Rdctx'
   currency: ETH
   label: Limited-promotion.org
   is_cluster_definer: false
-- address: 1KZxzCqyAk72UdfBNKYptQQ1LySmd9KTrC
+- address: '1KZxzCqyAk72UdfBNKYptQQ1LySmd9KTrC'
   currency: ETH
   label: Musk-gives.com
   is_cluster_definer: false
@@ -11299,7 +10195,7 @@ tags:
   currency: ETH
   label: Musk-gives.com
   is_cluster_definer: false
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
+- address: '1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW'
   currency: ETH
   label: Musk-gives.com
   is_cluster_definer: false
@@ -11307,15 +10203,15 @@ tags:
   currency: ETH
   label: Musk-presents.com
   is_cluster_definer: false
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
+- address: '15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ'
   currency: ETH
   label: Musk-presents.com
   is_cluster_definer: false
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
+- address: '1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW'
   currency: ETH
   label: Musk-presents.com
   is_cluster_definer: false
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
+- address: '15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ'
   currency: ETH
   label: Musk-promotion.com
   is_cluster_definer: false
@@ -11323,11 +10219,11 @@ tags:
   currency: ETH
   label: Musk-promotion.com
   is_cluster_definer: false
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
+- address: '1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW'
   currency: ETH
   label: Musk-promotion.com
   is_cluster_definer: false
-- address: 15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ
+- address: '15xd99WKi98JK9bUPp4AZEc2gZ5y7bBMCQ'
   currency: ETH
   label: Musk-surprise.com
   is_cluster_definer: false
@@ -11335,11 +10231,11 @@ tags:
   currency: ETH
   label: Musk-surprise.com
   is_cluster_definer: false
-- address: 1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW
+- address: '1FnaucN6FtADHUD5Z1mW55j9okubkjsTAW'
   currency: ETH
   label: Musk-surprise.com
   is_cluster_definer: false
-- address: 1EMG2n35pxcC7ycvwErvCFkzvaNXBz85hG
+- address: '1EMG2n35pxcC7ycvwErvCFkzvaNXBz85hG'
   currency: ETH
   label: Official-giveaway.org
   is_cluster_definer: false
@@ -11347,7 +10243,7 @@ tags:
   currency: ETH
   label: Official-giveaway.org
   is_cluster_definer: false
-- address: 1EMG2n35pxcC7ycvwErvCFkzvaNXBz85hG
+- address: '1EMG2n35pxcC7ycvwErvCFkzvaNXBz85hG'
   currency: ETH
   label: Promo-official.com
   is_cluster_definer: false
@@ -11359,7 +10255,7 @@ tags:
   currency: ETH
   label: Promo-official.com
   is_cluster_definer: false
-- address: 16hvzsjhUCQEz3eMruWqdWWczXuhYCeC2m
+- address: '16hvzsjhUCQEz3eMruWqdWWczXuhYCeC2m'
   currency: ETH
   label: Promo-official.com
   is_cluster_definer: false
@@ -11367,7 +10263,7 @@ tags:
   currency: ETH
   label: Promo-official.org
   is_cluster_definer: false
-- address: 1EMG2n35pxcC7ycvwErvCFkzvaNXBz85hG
+- address: '1EMG2n35pxcC7ycvwErvCFkzvaNXBz85hG'
   currency: ETH
   label: Promo-official.org
   is_cluster_definer: false
@@ -11375,7 +10271,7 @@ tags:
   currency: ETH
   label: Promo-official.org
   is_cluster_definer: false
-- address: 1EMG2n35pxcC7ycvwErvCFkzvaNXBz85hG
+- address: '1EMG2n35pxcC7ycvwErvCFkzvaNXBz85hG'
   currency: ETH
   label: Promotion-official.com
   is_cluster_definer: false
@@ -11387,11 +10283,11 @@ tags:
   currency: ETH
   label: Promotion-official.com
   is_cluster_definer: false
-- address: 15eGWQ3Hxu8QERSsUs1bFsYq2HFpUFHKxS
+- address: '15eGWQ3Hxu8QERSsUs1bFsYq2HFpUFHKxS'
   currency: ETH
   label: Promotion-official.com
   is_cluster_definer: false
-- address: 1EMG2n35pxcC7ycvwErvCFkzvaNXBz85hG
+- address: '1EMG2n35pxcC7ycvwErvCFkzvaNXBz85hG'
   currency: ETH
   label: Promotion-official.org
   is_cluster_definer: false
@@ -11407,7 +10303,7 @@ tags:
   currency: ETH
   label: Eth.binancegift.pro
   is_cluster_definer: false
-- address: 13wbyCj6S9V8mPtKWs9ZAiGEEfTcdYx9v7
+- address: '13wbyCj6S9V8mPtKWs9ZAiGEEfTcdYx9v7'
   currency: BTC
   label: T-btc.net
   is_cluster_definer: false
@@ -11423,7 +10319,7 @@ tags:
   currency: ETH
   label: Paxos-bounty.com
   is_cluster_definer: false
-- address: ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf
+- address: 'ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf'
   currency: NEO
   label: Blackfridayneo.blogspot.com
   is_cluster_definer: false
@@ -11431,23 +10327,23 @@ tags:
   currency: ETC
   label: Blackfridayetc.blogspot.com
   is_cluster_definer: false
-- address: 1Cr9Utnrhz3sQnK4kvVQtM7vyRwJeCXgY2
+- address: '1Cr9Utnrhz3sQnK4kvVQtM7vyRwJeCXgY2'
   currency: BTC
   label: Btc-gift.live
   is_cluster_definer: false
-- address: 1FQrPtxfsBsmNFzeAQyNfm63eUZi77B1BX
+- address: '1FQrPtxfsBsmNFzeAQyNfm63eUZi77B1BX'
   currency: BTC
   label: Btc-gift.us
   is_cluster_definer: false
-- address: TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r
+- address: 'TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r'
   currency: TRX
   label: Cryptoblackfriday.blogspot.com
   is_cluster_definer: false
-- address: rCozquBhPba8D4hnCJh5DzJVZxZtNFGbV
+- address: 'rCozquBhPba8D4hnCJh5DzJVZxZtNFGbV'
   currency: ETH
   label: Freecryptogift.org
   is_cluster_definer: false
-- address: 189p87dMz7FeFdp98AGkmYo4ScMYgqUAkh
+- address: '189p87dMz7FeFdp98AGkmYo4ScMYgqUAkh'
   currency: ETH
   label: Freecryptogift.org
   is_cluster_definer: false
@@ -11455,23 +10351,23 @@ tags:
   currency: ETH
   label: Freecryptogift.org
   is_cluster_definer: false
-- address: TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r
+- address: 'TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r'
   currency: TRX
   label: Tronblackfriday.blogspot.com
   is_cluster_definer: false
-- address: 15qv6T1K2dH9fqok2nyBkogtMoEVv5vpW8
+- address: '15qv6T1K2dH9fqok2nyBkogtMoEVv5vpW8'
   currency: BTC
   label: Btc-gift.tech
   is_cluster_definer: true
-- address: ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf
+- address: 'ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf'
   currency: NEO
   label: Neoblackfriday.blogspot.com
   is_cluster_definer: false
-- address: 1JgwF8vNhLVegaEGAsyfUYi6cKkmDTacDG
+- address: '1JgwF8vNhLVegaEGAsyfUYi6cKkmDTacDG'
   currency: BTC
   label: Binance-airdrops.com
   is_cluster_definer: true
-- address: 15pkYouQ8mPLSXKH7iNiZ6XBxtDvjzdzG8
+- address: '15pkYouQ8mPLSXKH7iNiZ6XBxtDvjzdzG8'
   currency: BTC
   label: Btc-promo.info
   is_cluster_definer: true
@@ -11479,7 +10375,7 @@ tags:
   currency: BTC
   label: Btc-promo.info
   is_cluster_definer: false
-- address: TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r
+- address: 'TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r'
   currency: TRX
   label: Poloniextron.blogspot.com
   is_cluster_definer: false
@@ -11487,7 +10383,7 @@ tags:
   currency: ETH
   label: Medium-ether.com
   is_cluster_definer: false
-- address: 18oVCJ1h7MzpPk899FJiTWRb7Wm3FU8fjS
+- address: '18oVCJ1h7MzpPk899FJiTWRb7Wm3FU8fjS'
   currency: BTC
   label: Gift-btc.net
   is_cluster_definer: false
@@ -11495,7 +10391,7 @@ tags:
   currency: ETH
   label: Mediumz.top
   is_cluster_definer: false
-- address: 19HuaNprtc8MpG6bmiPoZigjaEu9xccxps
+- address: '19HuaNprtc8MpG6bmiPoZigjaEu9xccxps'
   currency: ETH
   label: Mediumz.top
   is_cluster_definer: false
@@ -11511,7 +10407,7 @@ tags:
   currency: ETH
   label: Xn--tro-rwa.net
   is_cluster_definer: false
-- address: 19wt8vVvEDLEgp766s7q67nwNG5WyYQNgo
+- address: '19wt8vVvEDLEgp766s7q67nwNG5WyYQNgo'
   currency: ETH
   label: Spacex.delivery
   is_cluster_definer: false
@@ -11527,7 +10423,7 @@ tags:
   currency: ETH
   label: Get-eth-now.online
   is_cluster_definer: false
-- address: ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf
+- address: 'ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf'
   currency: NEO
   label: Poloniexneo.blogspot.com
   is_cluster_definer: false
@@ -11547,7 +10443,7 @@ tags:
   currency: ETH
   label: Spacex.gives
   is_cluster_definer: false
-- address: 17jT3gCE7AksjNJh2VRoxZ57DcZ5KiQGQ6
+- address: '17jT3gCE7AksjNJh2VRoxZ57DcZ5KiQGQ6'
   currency: ETH
   label: Spacex.gives
   is_cluster_definer: false
@@ -11555,15 +10451,15 @@ tags:
   currency: ETH
   label: Coinbase-pro.org
   is_cluster_definer: false
-- address: rGD1q9qfHd9gYbm9VUdcBXjumAaMZen8tr
+- address: 'rGD1q9qfHd9gYbm9VUdcBXjumAaMZen8tr'
   currency: XRP
   label: Cryptokucoin.blogspot.com
   is_cluster_definer: false
-- address: ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf
+- address: 'ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf'
   currency: NEO
   label: Neokucoin.blogspot.com
   is_cluster_definer: false
-- address: TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r
+- address: 'TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r'
   currency: TRX
   label: Tronkucoin.blogspot.com
   is_cluster_definer: false
@@ -11571,7 +10467,7 @@ tags:
   currency: ETH
   label: Bbxotc.tech
   is_cluster_definer: false
-- address: 13GJitKdQKcbaiJuNRmUf8F7roh9FfSFTG
+- address: '13GJitKdQKcbaiJuNRmUf8F7roh9FfSFTG'
   currency: ETH
   label: Btc-gifts.net
   is_cluster_definer: false
@@ -11579,7 +10475,7 @@ tags:
   currency: ETH
   label: Btc-gifts.net
   is_cluster_definer: false
-- address: 1EmqvYW2AGVbmtsM1M7vTyB1V9E75xaa9Q
+- address: '1EmqvYW2AGVbmtsM1M7vTyB1V9E75xaa9Q'
   currency: ETH
   label: Bitcointoolmining.com
   is_cluster_definer: false
@@ -11587,11 +10483,11 @@ tags:
   currency: ETH
   label: Bitcointoolmining.com
   is_cluster_definer: false
-- address: TX9oqhThyQdGXrDMacRXAvsWPoxQspQLFw
+- address: 'TX9oqhThyQdGXrDMacRXAvsWPoxQspQLFw'
   currency: TRX
   label: Mediium.org
   is_cluster_definer: false
-- address: rK3thhBkPFfsnSZgNo3Ajuuw6NK3gGUNeN
+- address: 'rK3thhBkPFfsnSZgNo3Ajuuw6NK3gGUNeN'
   currency: ETH
   label: Giveaway2018.org
   is_cluster_definer: false
@@ -11599,19 +10495,19 @@ tags:
   currency: ETH
   label: Giveaway2018.org
   is_cluster_definer: false
-- address: 1JQW3R96LiqpNJmf386toMu5aQNANxqt8r
+- address: '1JQW3R96LiqpNJmf386toMu5aQNANxqt8r'
   currency: ETH
   label: Giveaway2018.org
   is_cluster_definer: false
-- address: TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r
+- address: 'TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r'
   currency: TRX
   label: Dec-kucoin.blogspot.com
   is_cluster_definer: false
-- address: TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r
+- address: 'TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r'
   currency: TRX
   label: Trx-kucoin.blogspot.com
   is_cluster_definer: false
-- address: ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf
+- address: 'ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf'
   currency: NEO
   label: Neo-kucoin.blogspot.com
   is_cluster_definer: false
@@ -11623,7 +10519,7 @@ tags:
   currency: ETH
   label: Encrypex.online
   is_cluster_definer: false
-- address: 131sc2mLEowK9T6qpwenxfTXLnD6qeMBMZ
+- address: '131sc2mLEowK9T6qpwenxfTXLnD6qeMBMZ'
   currency: ETH
   label: Encrypex.online
   is_cluster_definer: false
@@ -11635,7 +10531,7 @@ tags:
   currency: ETH
   label: Dex-huobiglo.info
   is_cluster_definer: true
-- address: bc1qw9cz3095dxnt5hkfdyltueen9g7j5w5u6c0zq9
+- address: 'bc1qw9cz3095dxnt5hkfdyltueen9g7j5w5u6c0zq9'
   currency: ETH
   label: Dex-huobiglo.info
   is_cluster_definer: false
@@ -11643,35 +10539,27 @@ tags:
   currency: ETH
   label: Telegra.ph/crypto-bible-team-are-giving-away-500-eth-12-22-2
   is_cluster_definer: true
-- address: 3HzQJ3CGQKkWuxGSiWW286PePSed7tgKWp
+- address: '3HzQJ3CGQKkWuxGSiWW286PePSed7tgKWp'
   currency: BTC
   label: Xn--binnce-rhc.com
   is_cluster_definer: false
-- address: 3HzQJ3CGQKkWuxGSiWW286PePSed7tgKWp
+- address: '3HzQJ3CGQKkWuxGSiWW286PePSed7tgKWp'
   currency: BTC
   label: Binance.exchange2018.support
   is_cluster_definer: false
-- address: 1CKK4yMGjcbzEG8hWSdtNSQcoV8PDiGzDk
+- address: '1CKK4yMGjcbzEG8hWSdtNSQcoV8PDiGzDk'
   currency: BTC
   label: Crypto-positive.club
   is_cluster_definer: true
-- address: 1MpLjpT44A5yyRbtGG61rtpgwxdJB3onsB
+- address: '1MpLjpT44A5yyRbtGG61rtpgwxdJB3onsB'
   currency: BTC
   label: Coinbase-airdrop.top
   is_cluster_definer: true
-- address: 1MpLjpT44A5yyRbtGG61rtpgwxdJB3onsB
-  currency: BTC
-  label: Coinbase-airdrop.top
-  is_cluster_definer: true
-- address: 1MpLjpT44A5yyRbtGG61rtpgwxdJB3onsB
+- address: '1MpLjpT44A5yyRbtGG61rtpgwxdJB3onsB'
   currency: BTC
   label: Coinbase-btc.xyz
   is_cluster_definer: true
-- address: 1MpLjpT44A5yyRbtGG61rtpgwxdJB3onsB
-  currency: BTC
-  label: Coinbase-btc.xyz
-  is_cluster_definer: true
-- address: TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r
+- address: 'TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r'
   currency: TRX
   label: Kucoindectrx.blogspot.com
   is_cluster_definer: false
@@ -11683,11 +10571,11 @@ tags:
   currency: ETH
   label: Binance-competition.net
   is_cluster_definer: false
-- address: ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf
+- address: 'ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf'
   currency: NEO
   label: Giveawayxneo.blogspot.com
   is_cluster_definer: false
-- address: 3CnqzLzkrHwCoi94y8Caq2Yw1pQQA94Wvk
+- address: '3CnqzLzkrHwCoi94y8Caq2Yw1pQQA94Wvk'
   currency: BTC
   label: Cash-bitcoin.online
   is_cluster_definer: false
@@ -11695,7 +10583,7 @@ tags:
   currency: ETH
   label: Crystal-profit.com
   is_cluster_definer: false
-- address: 13LbKNisvCje3vFSchUoRn9BxTLj6wFHqP
+- address: '13LbKNisvCje3vFSchUoRn9BxTLj6wFHqP'
   currency: ETH
   label: Crystal-profit.com
   is_cluster_definer: false
@@ -11703,15 +10591,15 @@ tags:
   currency: ETH
   label: Biboxpr.icu
   is_cluster_definer: false
-- address: raBesxXx7QQ1RdboXXZHhjaKSyW19JptMt
+- address: 'raBesxXx7QQ1RdboXXZHhjaKSyW19JptMt'
   currency: XRP
   label: Xrp-giveaway.com
   is_cluster_definer: false
-- address: Ae2tdPwUPEZGpHCMV2L7iMY4vUGX6Pzx5U2YgQD1wK7ZUzKVmgg5RRmp2dF
+- address: 'Ae2tdPwUPEZGpHCMV2L7iMY4vUGX6Pzx5U2YgQD1wK7ZUzKVmgg5RRmp2dF'
   currency: ETH
   label: Newyearcrypto.blogspot.com
   is_cluster_definer: false
-- address: TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r
+- address: 'TPcDNYz4AxCaLCY2Xx4i95jGYwCjUrxg5r'
   currency: ETH
   label: Newyearcrypto.blogspot.com
   is_cluster_definer: false
@@ -11719,15 +10607,15 @@ tags:
   currency: ETH
   label: Newyearcrypto.blogspot.com
   is_cluster_definer: false
-- address: 1JSeDGPmq74JP2RQXqJFdHH3L2jcie3w4X
+- address: '1JSeDGPmq74JP2RQXqJFdHH3L2jcie3w4X'
   currency: ETH
   label: Newyearcrypto.blogspot.com
   is_cluster_definer: false
-- address: ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf
+- address: 'ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf'
   currency: NEO
   label: Newyearneo.blogspot.com
   is_cluster_definer: false
-- address: 16EegrNMdZ9Rxku6Za5neEFjMW57wkQr1S
+- address: '16EegrNMdZ9Rxku6Za5neEFjMW57wkQr1S'
   currency: ETH
   label: Cryptocashback.org
   is_cluster_definer: false
@@ -11735,23 +10623,15 @@ tags:
   currency: ETH
   label: Cryptocashback.org
   is_cluster_definer: true
-- address: '0x03b70dc31abf9cf6c1cf80bfeeb322e8d3dbb4ca'
-  currency: ETH
-  label: Cryptocashback.org
-  is_cluster_definer: true
-- address: '0x03b70dc31abf9cf6c1cf80bfeeb322e8d3dbb4ca'
-  currency: ETH
-  label: Cryptocashback.org
-  is_cluster_definer: true
-- address: 1PCh7w6LdcEv1sWd5wtvkELHcWe5HumUi3
+- address: '1PCh7w6LdcEv1sWd5wtvkELHcWe5HumUi3'
   currency: ETH
   label: Cryptocashback.org
   is_cluster_definer: false
-- address: LRPChoyN8qLWENjo1dUjk2bESZjE7bQ6sP
+- address: 'LRPChoyN8qLWENjo1dUjk2bESZjE7bQ6sP'
   currency: ETH
   label: Cryptocashback.org
   is_cluster_definer: false
-- address: rGmdGrMjvxt6S3VjF4M78U2YMLPR6XLPSN
+- address: 'rGmdGrMjvxt6S3VjF4M78U2YMLPR6XLPSN'
   currency: ETH
   label: Cryptocashback.org
   is_cluster_definer: false
@@ -11759,7 +10639,7 @@ tags:
   currency: ETH
   label: Cryptocashback.org
   is_cluster_definer: false
-- address: 16EegrNMdZ9Rxku6Za5neEFjMW57wkQr1S
+- address: '16EegrNMdZ9Rxku6Za5neEFjMW57wkQr1S'
   currency: ETH
   label: Cryptocashback.info
   is_cluster_definer: false
@@ -11767,23 +10647,15 @@ tags:
   currency: ETH
   label: Cryptocashback.info
   is_cluster_definer: true
-- address: '0x03b70dc31abf9cf6c1cf80bfeeb322e8d3dbb4ca'
-  currency: ETH
-  label: Cryptocashback.info
-  is_cluster_definer: true
-- address: '0x03b70dc31abf9cf6c1cf80bfeeb322e8d3dbb4ca'
-  currency: ETH
-  label: Cryptocashback.info
-  is_cluster_definer: true
-- address: 1PCh7w6LdcEv1sWd5wtvkELHcWe5HumUi3
+- address: '1PCh7w6LdcEv1sWd5wtvkELHcWe5HumUi3'
   currency: ETH
   label: Cryptocashback.info
   is_cluster_definer: false
-- address: LRPChoyN8qLWENjo1dUjk2bESZjE7bQ6sP
+- address: 'LRPChoyN8qLWENjo1dUjk2bESZjE7bQ6sP'
   currency: ETH
   label: Cryptocashback.info
   is_cluster_definer: false
-- address: rGmdGrMjvxt6S3VjF4M78U2YMLPR6XLPSN
+- address: 'rGmdGrMjvxt6S3VjF4M78U2YMLPR6XLPSN'
   currency: ETH
   label: Cryptocashback.info
   is_cluster_definer: false
@@ -11791,7 +10663,7 @@ tags:
   currency: ETH
   label: Cryptocashback.info
   is_cluster_definer: false
-- address: 16EegrNMdZ9Rxku6Za5neEFjMW57wkQr1S
+- address: '16EegrNMdZ9Rxku6Za5neEFjMW57wkQr1S'
   currency: ETH
   label: Cryptoback.one
   is_cluster_definer: false
@@ -11799,23 +10671,15 @@ tags:
   currency: ETH
   label: Cryptoback.one
   is_cluster_definer: true
-- address: '0x03b70dc31abf9cf6c1cf80bfeeb322e8d3dbb4ca'
-  currency: ETH
-  label: Cryptoback.one
-  is_cluster_definer: true
-- address: '0x03b70dc31abf9cf6c1cf80bfeeb322e8d3dbb4ca'
-  currency: ETH
-  label: Cryptoback.one
-  is_cluster_definer: true
-- address: 1PCh7w6LdcEv1sWd5wtvkELHcWe5HumUi3
+- address: '1PCh7w6LdcEv1sWd5wtvkELHcWe5HumUi3'
   currency: ETH
   label: Cryptoback.one
   is_cluster_definer: false
-- address: LRPChoyN8qLWENjo1dUjk2bESZjE7bQ6sP
+- address: 'LRPChoyN8qLWENjo1dUjk2bESZjE7bQ6sP'
   currency: ETH
   label: Cryptoback.one
   is_cluster_definer: false
-- address: rGmdGrMjvxt6S3VjF4M78U2YMLPR6XLPSN
+- address: 'rGmdGrMjvxt6S3VjF4M78U2YMLPR6XLPSN'
   currency: ETH
   label: Cryptoback.one
   is_cluster_definer: false
@@ -11823,7 +10687,7 @@ tags:
   currency: ETH
   label: Cryptoback.one
   is_cluster_definer: false
-- address: 1ApXtisCrsykSmzCXsRFL6mhtKQUdN6eQB
+- address: '1ApXtisCrsykSmzCXsRFL6mhtKQUdN6eQB'
   currency: ETH
   label: Gowincoin.com
   is_cluster_definer: false
@@ -11855,7 +10719,7 @@ tags:
   currency: ETH
   label: Tesla-promo.tech
   is_cluster_definer: false
-- address: 1PcK6CrqferUDy1fGPkD8jMpMt4kDSvPDu
+- address: '1PcK6CrqferUDy1fGPkD8jMpMt4kDSvPDu'
   currency: ETH
   label: Tesla-promo.tech
   is_cluster_definer: false
@@ -11863,7 +10727,7 @@ tags:
   currency: ETH
   label: Binancejan.blogspot.com
   is_cluster_definer: false
-- address: 1JSeDGPmq74JP2RQXqJFdHH3L2jcie3w4X
+- address: '1JSeDGPmq74JP2RQXqJFdHH3L2jcie3w4X'
   currency: ETH
   label: Binancejan.blogspot.com
   is_cluster_definer: false
@@ -11871,11 +10735,11 @@ tags:
   currency: ETH
   label: Big-gift.ga
   is_cluster_definer: false
-- address: 18e5d9tSGLF4RD7546nsBG1p3aVhG6DdR2
+- address: '18e5d9tSGLF4RD7546nsBG1p3aVhG6DdR2'
   currency: ETH
   label: Big-gift.ga
   is_cluster_definer: false
-- address: 1Ex3gc7WjFKEnhAUuhHGEZ55Y7jy8Rg88Q
+- address: '1Ex3gc7WjFKEnhAUuhHGEZ55Y7jy8Rg88Q'
   currency: BTC
   label: Doubleinvest.online
   is_cluster_definer: true
@@ -11883,15 +10747,15 @@ tags:
   currency: BTC
   label: Ebitservices.com
   is_cluster_definer: false
-- address: 1PnbGDUKEWziJfvqxWoNAu5H4ZfizGVyws
+- address: '1PnbGDUKEWziJfvqxWoNAu5H4ZfizGVyws'
   currency: BTC
   label: Ebitservices.com
   is_cluster_definer: true
-- address: LWJPHR28f7114JMJKVvoEugyPLicWpjJMx
+- address: 'LWJPHR28f7114JMJKVvoEugyPLicWpjJMx'
   currency: BTC
   label: Ebitservices.com
   is_cluster_definer: false
-- address: 1LuzEzN1Kk8gSCQu4Zh7EC7LbFrLwbnpq
+- address: '1LuzEzN1Kk8gSCQu4Zh7EC7LbFrLwbnpq'
   currency: BTC
   label: Btcexcelinvest.com
   is_cluster_definer: false
@@ -11899,7 +10763,7 @@ tags:
   currency: ETH
   label: Dex-hbiglobal.info
   is_cluster_definer: false
-- address: 3Atw5T74MLwzYoMht8T4CK6yVibngwkRjk
+- address: '3Atw5T74MLwzYoMht8T4CK6yVibngwkRjk'
   currency: BTC
   label: Betabindex.com
   is_cluster_definer: false
@@ -11911,11 +10775,11 @@ tags:
   currency: ETH
   label: X10eth.com
   is_cluster_definer: false
-- address: rGD1q9qfHd9gYbm9VUdcBXjumAaMZen8tr
+- address: 'rGD1q9qfHd9gYbm9VUdcBXjumAaMZen8tr'
   currency: XRP
   label: Janbinancexrp.blogspot.com
   is_cluster_definer: false
-- address: 1JSeDGPmq74JP2RQXqJFdHH3L2jcie3w4X
+- address: '1JSeDGPmq74JP2RQXqJFdHH3L2jcie3w4X'
   currency: ETH
   label: Janbinance.blogspot.com
   is_cluster_definer: false
@@ -11923,11 +10787,11 @@ tags:
   currency: ETH
   label: Janbinance.blogspot.com
   is_cluster_definer: false
-- address: 1LeYK9J5aVEHdCNuwqBi2UQEFarmXewHvk
+- address: '1LeYK9J5aVEHdCNuwqBi2UQEFarmXewHvk'
   currency: BTC
   label: Coinbit24.site
   is_cluster_definer: false
-- address: 1AHkrJ55mxbUBEe1bn5MQNzH1sP8zSuKqS
+- address: '1AHkrJ55mxbUBEe1bn5MQNzH1sP8zSuKqS'
   currency: BTC
   label: Btc-promo.net
   is_cluster_definer: true
@@ -11935,7 +10799,7 @@ tags:
   currency: BTC
   label: Btc-promo.net
   is_cluster_definer: false
-- address: 3BgCXqtL8uh54XfB6TSbRkrA7dryBdSjA6
+- address: '3BgCXqtL8uh54XfB6TSbRkrA7dryBdSjA6'
   currency: BTC
   label: Bttlaunchpad.com
   is_cluster_definer: false
@@ -11947,7 +10811,7 @@ tags:
   currency: BTC
   label: Dexchainlaunchpad.com
   is_cluster_definer: false
-- address: 3Arwa1yebdbajQNyEMEE3Y4fCy4tGhGGZQ
+- address: '3Arwa1yebdbajQNyEMEE3Y4fCy4tGhGGZQ'
   currency: BTC
   label: Dexchainlaunchpad.com
   is_cluster_definer: false
@@ -11955,19 +10819,19 @@ tags:
   currency: ETH
   label: Xpro.icu
   is_cluster_definer: false
-- address: MMdDAFeUu7saKRZKzy6H855jp5sWvP7zUp
+- address: 'MMdDAFeUu7saKRZKzy6H855jp5sWvP7zUp'
   currency: LTC
   label: Ltcpro.live
   is_cluster_definer: true
-- address: MU1X2NuRCPC43h71KKLns3gve6Ust9Zghe
+- address: 'MU1X2NuRCPC43h71KKLns3gve6Ust9Zghe'
   currency: LTC
   label: Ltcpro.xyz
   is_cluster_definer: true
-- address: 3FVJwsWDYntJ5ZMDeHoRCHjeiDDeuqsp5P
+- address: '3FVJwsWDYntJ5ZMDeHoRCHjeiDDeuqsp5P'
   currency: BTC
   label: Doublebitcoin.cc
   is_cluster_definer: false
-- address: 1K7oEhhW8brUxMZrD4wYKcPLSnPYUgjs29
+- address: '1K7oEhhW8brUxMZrD4wYKcPLSnPYUgjs29'
   currency: BTC
   label: Trondiscount.com
   is_cluster_definer: true
@@ -11979,7 +10843,7 @@ tags:
   currency: ETH
   label: Mana-gift.com
   is_cluster_definer: false
-- address: rGD1q9qfHd9gYbm9VUdcBXjumAaMZen8tr
+- address: 'rGD1q9qfHd9gYbm9VUdcBXjumAaMZen8tr'
   currency: XRP
   label: Binancexrpjan.blogspot.com
   is_cluster_definer: false
@@ -11987,19 +10851,19 @@ tags:
   currency: ETH
   label: Ethercontest.com
   is_cluster_definer: false
-- address: TXRMhqQjhG5tauwP2XPdspWdKsJm5qh81e
+- address: 'TXRMhqQjhG5tauwP2XPdspWdKsJm5qh81e'
   currency: TRX
   label: Bttpromo.github.io
   is_cluster_definer: false
-- address: TXRMhqQjhG5tauwP2XPdspWdKsJm5qh81e
+- address: 'TXRMhqQjhG5tauwP2XPdspWdKsJm5qh81e'
   currency: TRX
   label: Bittorrentpromo.github.io
   is_cluster_definer: false
-- address: 1Ly3S2qsQgzAKPqkL8CXhiM7gozhqmSh47
+- address: '1Ly3S2qsQgzAKPqkL8CXhiM7gozhqmSh47'
   currency: BTC
   label: Investmentdoubler.online
   is_cluster_definer: true
-- address: TXRMhqQjhG5tauwP2XPdspWdKsJm5qh81e
+- address: 'TXRMhqQjhG5tauwP2XPdspWdKsJm5qh81e'
   currency: TRX
   label: Bttpromotion.github.io
   is_cluster_definer: false
@@ -12007,31 +10871,31 @@ tags:
   currency: ETH
   label: Binancegive.com
   is_cluster_definer: false
-- address: 1EM1GKe1NhkcAL5SLrSVS2SopXqzeDy4nz
+- address: '1EM1GKe1NhkcAL5SLrSVS2SopXqzeDy4nz'
   currency: BTC
   label: Quick2xbtc.com
   is_cluster_definer: true
-- address: 3Mm5maydqMipR9iVtc9vk6dGYzbV7rMkje
+- address: '3Mm5maydqMipR9iVtc9vk6dGYzbV7rMkje'
   currency: BTC
   label: Doublecrypto.ml
   is_cluster_definer: false
-- address: 3JNMfNGnjb5AaGgcpFb8PLsuSE3NpkH7hL
+- address: '3JNMfNGnjb5AaGgcpFb8PLsuSE3NpkH7hL'
   currency: BTC
   label: Doubleinvestment.cf
   is_cluster_definer: false
-- address: 1HAdR2y2VVjk98nPEsWbuJQRfx2NsS2B5z
+- address: '1HAdR2y2VVjk98nPEsWbuJQRfx2NsS2B5z'
   currency: BTC
   label: Doublebitco.in
   is_cluster_definer: false
-- address: 3F5Nc9LyaYveQR3hfKBJHPvc89kVQ3CEKz
+- address: '3F5Nc9LyaYveQR3hfKBJHPvc89kVQ3CEKz'
   currency: BTC
   label: Bitcoin-pro.club
   is_cluster_definer: false
-- address: rGD1q9qfHd9gYbm9VUdcBXjumAaMZen8tr
+- address: 'rGD1q9qfHd9gYbm9VUdcBXjumAaMZen8tr'
   currency: XRP
   label: Airdropxrp.blogspot.com
   is_cluster_definer: false
-- address: 3Kdk3socys5sc9omQFewsB9jdsA3hnxXTi
+- address: '3Kdk3socys5sc9omQFewsB9jdsA3hnxXTi'
   currency: ETH
   label: Cryptogene.net
   is_cluster_definer: false
@@ -12039,7 +10903,7 @@ tags:
   currency: ETH
   label: Cryptogene.net
   is_cluster_definer: false
-- address: 33XkXTi4cPW8M3uoDYJDkPHXHZs6wVFJ6U
+- address: '33XkXTi4cPW8M3uoDYJDkPHXHZs6wVFJ6U'
   currency: BTC
   label: Circlemix.io
   is_cluster_definer: false
@@ -12047,7 +10911,7 @@ tags:
   currency: ETH
   label: Jancrypto.blogspot.com
   is_cluster_definer: false
-- address: 12rPXruEsH3gFbAGcrHNQwabjrBmwMkDHe
+- address: '12rPXruEsH3gFbAGcrHNQwabjrBmwMkDHe'
   currency: ETH
   label: Cryptocreditfoundation.com
   is_cluster_definer: false
@@ -12055,23 +10919,23 @@ tags:
   currency: ETH
   label: Cryptocreditfoundation.com
   is_cluster_definer: false
-- address: 3DrrDwv49rfJowvUsoYFKk5GDFQQwZQei8
+- address: '3DrrDwv49rfJowvUsoYFKk5GDFQQwZQei8'
   currency: BTC
   label: Btcaim.com
   is_cluster_definer: false
-- address: 374YucVfN8tbsXG9SKXh2JzcEraJ21U7QA
+- address: '374YucVfN8tbsXG9SKXh2JzcEraJ21U7QA'
   currency: BTC
   label: Btcaim.com
   is_cluster_definer: false
-- address: 3JdHFWi1sqypAPGowKnhvxnxogr5Faky8p
+- address: '3JdHFWi1sqypAPGowKnhvxnxogr5Faky8p'
   currency: BTC
   label: Btcaim.com
   is_cluster_definer: false
-- address: 14jcbn3K3CjN8g7LVHbYXFvKuHxwi8Xn7L
+- address: '14jcbn3K3CjN8g7LVHbYXFvKuHxwi8Xn7L'
   currency: BTC
   label: Btcaim.com
   is_cluster_definer: true
-- address: 39U67RrCzsLEVtihGQceRFZAkPBGT8XYZK
+- address: '39U67RrCzsLEVtihGQceRFZAkPBGT8XYZK'
   currency: ETH
   label: Bizzilion.com
   is_cluster_definer: false
@@ -12083,7 +10947,7 @@ tags:
   currency: ETH
   label: Xn--medum-vsa.com
   is_cluster_definer: false
-- address: 1GjvX7WnKTHTx1eWqjTz5b2af1huXmpyst
+- address: '1GjvX7WnKTHTx1eWqjTz5b2af1huXmpyst'
   currency: BTC
   label: Bitcoin-generator.network
   is_cluster_definer: true
@@ -12095,11 +10959,11 @@ tags:
   currency: ETH
   label: Dexbetalaunch.com
   is_cluster_definer: false
-- address: 1MpLjpT44A5yyRbtGG61rtpgwxdJB3onsB
+- address: '1MpLjpT44A5yyRbtGG61rtpgwxdJB3onsB'
   currency: ETH
   label: Dexbetalaunch.com
   is_cluster_definer: false
-- address: ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf
+- address: 'ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf'
   currency: NEO
   label: Airdropxneo.blogspot.com
   is_cluster_definer: false
@@ -12111,11 +10975,11 @@ tags:
   currency: ETH
   label: Eth4free.com
   is_cluster_definer: false
-- address: ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf
+- address: 'ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf'
   currency: NEO
   label: Getfree-neo.blogspot.my
   is_cluster_definer: false
-- address: ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf
+- address: 'ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf'
   currency: NEO
   label: Getfree-neo.blogspot.com
   is_cluster_definer: false
@@ -12123,7 +10987,7 @@ tags:
   currency: ETH
   label: Binjerseygbpeur.com
   is_cluster_definer: false
-- address: 3D2sKMHnC6P6XKmC5kohCGZ4FvWMUaZgow
+- address: '3D2sKMHnC6P6XKmC5kohCGZ4FvWMUaZgow'
   currency: ETH
   label: Binjerseygbpeur.com
   is_cluster_definer: false
@@ -12131,27 +10995,27 @@ tags:
   currency: ETH
   label: Get-freecrypto.blogspot.com
   is_cluster_definer: false
-- address: TDLcipJPJMT6iCFava8B9A1gGiKJvBRWzn
+- address: 'TDLcipJPJMT6iCFava8B9A1gGiKJvBRWzn'
   currency: TRX
   label: Bittorrent.foundation
   is_cluster_definer: false
-- address: 18qBfymUEaqResPzwHGP3crvcrtDVXsWnG
+- address: '18qBfymUEaqResPzwHGP3crvcrtDVXsWnG'
   currency: BTC
   label: Bakktplatform.io
   is_cluster_definer: false
-- address: TRyZs5aTpVrS6ZgWb1NxCnGjktxHYtrD1F
+- address: 'TRyZs5aTpVrS6ZgWb1NxCnGjktxHYtrD1F'
   currency: TRX
   label: Ttrxtrx.blogspot.com
   is_cluster_definer: false
-- address: rne6bY8h8SFEdvSezLADvVDfTiAcVov6js
+- address: 'rne6bY8h8SFEdvSezLADvVDfTiAcVov6js'
   currency: XRP
   label: Xrpxrp.blogspot.com
   is_cluster_definer: false
-- address: TXFDqwsuUKmqD9nVg5RvVAJip4jjUcDW9c
+- address: 'TXFDqwsuUKmqD9nVg5RvVAJip4jjUcDW9c'
   currency: TRX
   label: Bittorrent.pro
   is_cluster_definer: false
-- address: 14UUCCwPd6b1UVC8SMCzxR4c2hZAoXHcNe
+- address: '14UUCCwPd6b1UVC8SMCzxR4c2hZAoXHcNe'
   currency: BTC
   label: Doublebitcoin.io
   is_cluster_definer: false
@@ -12171,11 +11035,11 @@ tags:
   currency: ETH
   label: Tronxcash.com
   is_cluster_definer: false
-- address: 3832HHXdLGBDeHWjE7VkFmWnjeJhAXAYQ2
+- address: '3832HHXdLGBDeHWjE7VkFmWnjeJhAXAYQ2'
   currency: ETH
   label: Tronxcash.com
   is_cluster_definer: false
-- address: TRyZs5aTpVrS6ZgWb1NxCnGjktxHYtrD1F
+- address: 'TRyZs5aTpVrS6ZgWb1NxCnGjktxHYtrD1F'
   currency: TRX
   label: Bintrx.blogspot.com
   is_cluster_definer: false
@@ -12183,11 +11047,11 @@ tags:
   currency: ETH
   label: Bin-ance.blogspot.com.tr
   is_cluster_definer: false
-- address: rne6bY8h8SFEdvSezLADvVDfTiAcVov6js
+- address: 'rne6bY8h8SFEdvSezLADvVDfTiAcVov6js'
   currency: XRP
   label: Binaxrp.blogspot.com
   is_cluster_definer: false
-- address: rne6bY8h8SFEdvSezLADvVDfTiAcVov6js
+- address: 'rne6bY8h8SFEdvSezLADvVDfTiAcVov6js'
   currency: XRP
   label: Binanxrp.blogspot.com
   is_cluster_definer: false
@@ -12195,15 +11059,15 @@ tags:
   currency: ETH
   label: Binannn.blogspot.com
   is_cluster_definer: false
-- address: rnFBiAHT8yZ5PL6QbvzUr5dM7Kq6G9gPGo
+- address: 'rnFBiAHT8yZ5PL6QbvzUr5dM7Kq6G9gPGo'
   currency: XRP
   label: Binanceee.blogspot.com
   is_cluster_definer: false
-- address: rnFBiAHT8yZ5PL6QbvzUr5dM7Kq6G9gPGo
+- address: 'rnFBiAHT8yZ5PL6QbvzUr5dM7Kq6G9gPGo'
   currency: XRP
   label: Xrpbinan.blogspot.com
   is_cluster_definer: false
-- address: 13xDvi7vHkVJcC2MiJiVEpwNMEU3iJXc2V
+- address: '13xDvi7vHkVJcC2MiJiVEpwNMEU3iJXc2V'
   currency: ETH
   label: Musk.credit
   is_cluster_definer: false
@@ -12211,7 +11075,7 @@ tags:
   currency: ETH
   label: Musk.credit
   is_cluster_definer: false
-- address: 13xDvi7vHkVJcC2MiJiVEpwNMEU3iJXc2V
+- address: '13xDvi7vHkVJcC2MiJiVEpwNMEU3iJXc2V'
   currency: ETH
   label: Musk.fyi
   is_cluster_definer: false
@@ -12219,7 +11083,7 @@ tags:
   currency: ETH
   label: Musk.fyi
   is_cluster_definer: false
-- address: TVyFiVhjShJ2iwgyxiKF9A6AZXzBhErRRw
+- address: 'TVyFiVhjShJ2iwgyxiKF9A6AZXzBhErRRw'
   currency: TRX
   label: Xn--medum-85a.com
   is_cluster_definer: false
@@ -12231,7 +11095,7 @@ tags:
   currency: ETH
   label: Fetchai.co
   is_cluster_definer: false
-- address: 16ao87m92kUmi2dr1rrmqeiJmmcKnY1h3J
+- address: '16ao87m92kUmi2dr1rrmqeiJmmcKnY1h3J'
   currency: ETH
   label: Fetchai.co
   is_cluster_definer: false
@@ -12239,7 +11103,7 @@ tags:
   currency: ETH
   label: Telegram.systems
   is_cluster_definer: false
-- address: 1BzSWghdNus1FMF55HSAMdo1u3s76Uc2aw
+- address: '1BzSWghdNus1FMF55HSAMdo1u3s76Uc2aw'
   currency: ETH
   label: Fetch-ai.net
   is_cluster_definer: false
@@ -12247,7 +11111,7 @@ tags:
   currency: ETH
   label: Fetch-ai.net
   is_cluster_definer: false
-- address: 15MVbkG7SRXa49wZ9r3eQGtKTyYwroMcqh
+- address: '15MVbkG7SRXa49wZ9r3eQGtKTyYwroMcqh'
   currency: ETH
   label: Musk.center
   is_cluster_definer: false
@@ -12255,7 +11119,7 @@ tags:
   currency: ETH
   label: Musk.center
   is_cluster_definer: false
-- address: 123p19mfiADep9BoFCkAgSaeTWsoxT2QaL
+- address: '123p19mfiADep9BoFCkAgSaeTWsoxT2QaL'
   currency: BTC
   label: Bitcoin-update.info
   is_cluster_definer: true
@@ -12263,7 +11127,7 @@ tags:
   currency: BTC
   label: Brad-promo.info
   is_cluster_definer: false
-- address: 1NKKhwzsHMnDN8tdooAtJAnHpGk2pyYQyT
+- address: '1NKKhwzsHMnDN8tdooAtJAnHpGk2pyYQyT'
   currency: BTC
   label: Brad-promo.info
   is_cluster_definer: false
@@ -12271,7 +11135,7 @@ tags:
   currency: ETH
   label: Fetchai.eu
   is_cluster_definer: false
-- address: 1BzSWghdNus1FMF55HSAMdo1u3s76Uc2aw
+- address: '1BzSWghdNus1FMF55HSAMdo1u3s76Uc2aw'
   currency: ETH
   label: Fetchai.eu
   is_cluster_definer: false
@@ -12279,11 +11143,11 @@ tags:
   currency: ETH
   label: Fetchai.net
   is_cluster_definer: false
-- address: rnFBiAHT8yZ5PL6QbvzUr5dM7Kq6G9gPGo
+- address: 'rnFBiAHT8yZ5PL6QbvzUr5dM7Kq6G9gPGo'
   currency: XRP
   label: Binaripple.blogspot.com
   is_cluster_definer: false
-- address: 1JSeDGPmq74JP2RQXqJFdHH3L2jcie3w4X
+- address: '1JSeDGPmq74JP2RQXqJFdHH3L2jcie3w4X'
   currency: ETH
   label: Binafeb.blogspot.com
   is_cluster_definer: false
@@ -12291,7 +11155,7 @@ tags:
   currency: ETH
   label: Binafeb.blogspot.com
   is_cluster_definer: false
-- address: 15ve8wAoinFEaq9tUzgPCU79v5qb9JmgX4
+- address: '15ve8wAoinFEaq9tUzgPCU79v5qb9JmgX4'
   currency: ETH
   label: Binance-testnet.site
   is_cluster_definer: false
@@ -12299,7 +11163,7 @@ tags:
   currency: ETH
   label: Binance-testnet.site
   is_cluster_definer: false
-- address: 1Eu7B49ok5Vd8ka5GzkyM9E2GLqF5f4rnQ
+- address: '1Eu7B49ok5Vd8ka5GzkyM9E2GLqF5f4rnQ'
   currency: ETH
   label: Electrex.info
   is_cluster_definer: false
@@ -12307,7 +11171,7 @@ tags:
   currency: ETH
   label: Electrex.info
   is_cluster_definer: false
-- address: 3NGovcBojWQXjTc1m1YUji6NkuVwZi27i7
+- address: '3NGovcBojWQXjTc1m1YUji6NkuVwZi27i7'
   currency: ETH
   label: Cryptoxinvest.com
   is_cluster_definer: false
@@ -12319,7 +11183,7 @@ tags:
   currency: ETH
   label: Celer.space
   is_cluster_definer: false
-- address: 1MZJpMbUJJrXKBfYXxc8aY3sCFwzkVo2Qh
+- address: '1MZJpMbUJJrXKBfYXxc8aY3sCFwzkVo2Qh'
   currency: ETH
   label: Btc24ex.pro
   is_cluster_definer: false
@@ -12327,7 +11191,7 @@ tags:
   currency: ETH
   label: Btc24ex.pro
   is_cluster_definer: false
-- address: 1NjKNU7FKiZ4VH8GJwHogxp81KVcw7a8Kn
+- address: '1NjKNU7FKiZ4VH8GJwHogxp81KVcw7a8Kn'
   currency: ETH
   label: Dexlaunch-testnet.space
   is_cluster_definer: false
@@ -12335,7 +11199,7 @@ tags:
   currency: ETH
   label: Dexlaunch-testnet.space
   is_cluster_definer: false
-- address: 1NjKNU7FKiZ4VH8GJwHogxp81KVcw7a8Kn
+- address: '1NjKNU7FKiZ4VH8GJwHogxp81KVcw7a8Kn'
   currency: ETH
   label: Bounty-platform.website
   is_cluster_definer: false
@@ -12347,7 +11211,7 @@ tags:
   currency: ETH
   label: Ethers-live.com
   is_cluster_definer: false
-- address: 12RbQmtZ1nmSndK4vxtnzmpNXjLpbjEHce
+- address: '12RbQmtZ1nmSndK4vxtnzmpNXjLpbjEHce'
   currency: ETH
   label: Gram-network.net
   is_cluster_definer: false
@@ -12355,15 +11219,15 @@ tags:
   currency: ETH
   label: Gram-network.net
   is_cluster_definer: false
-- address: rMMRv9mFdyHa5eB8bNVs4RpTRGm6gtriX6
+- address: 'rMMRv9mFdyHa5eB8bNVs4RpTRGm6gtriX6'
   currency: ETH
   label: Gram-network.net
   is_cluster_definer: false
-- address: 19WZkLuC6meqfHPEfbedpTAP1WXEHeyG61
+- address: '19WZkLuC6meqfHPEfbedpTAP1WXEHeyG61'
   currency: ETH
   label: Gram-network.net
   is_cluster_definer: false
-- address: 1LvNgSpd58Dj8oujCJHr9PsVBFch71Y9Me
+- address: '1LvNgSpd58Dj8oujCJHr9PsVBFch71Y9Me'
   currency: ETH
   label: Hmqfoundation.com
   is_cluster_definer: false
@@ -12371,11 +11235,11 @@ tags:
   currency: ETH
   label: Hmqfoundation.com
   is_cluster_definer: false
-- address: 47v1cXsUdPN6vLeCwzCFAbAw8VjNEoMXSfLMpGkg76z9jPVM1wxxpmmjUvGDxnZQak4TqDM15MPbcPnhMcFu8TXAB6wugV1
+- address: '47v1cXsUdPN6vLeCwzCFAbAw8VjNEoMXSfLMpGkg76z9jPVM1wxxpmmjUvGDxnZQak4TqDM15MPbcPnhMcFu8TXAB6wugV1'
   currency: ETH
   label: Hmqfoundation.com
   is_cluster_definer: false
-- address: 3Hzp7NVMyBgkPeQHPUNYgBLbaRsuU2eYER
+- address: '3Hzp7NVMyBgkPeQHPUNYgBLbaRsuU2eYER'
   currency: ETH
   label: Onixcrypt.com
   is_cluster_definer: false
@@ -12391,11 +11255,11 @@ tags:
   currency: ETH
   label: Celer.site
   is_cluster_definer: true
-- address: rwjjriYwWsE3ntaMP2DasPh8LgJSZiAMig
+- address: 'rwjjriYwWsE3ntaMP2DasPh8LgJSZiAMig'
   currency: XRP
   label: Ripplenet.limited
   is_cluster_definer: false
-- address: 12RbQmtZ1nmSndK4vxtnzmpNXjLpbjEHce
+- address: '12RbQmtZ1nmSndK4vxtnzmpNXjLpbjEHce'
   currency: ETH
   label: Gram-network.org
   is_cluster_definer: false
@@ -12403,11 +11267,11 @@ tags:
   currency: ETH
   label: Gram-network.org
   is_cluster_definer: false
-- address: rMMRv9mFdyHa5eB8bNVs4RpTRGm6gtriX6
+- address: 'rMMRv9mFdyHa5eB8bNVs4RpTRGm6gtriX6'
   currency: ETH
   label: Gram-network.org
   is_cluster_definer: false
-- address: 19WZkLuC6meqfHPEfbedpTAP1WXEHeyG61
+- address: '19WZkLuC6meqfHPEfbedpTAP1WXEHeyG61'
   currency: ETH
   label: Gram-network.org
   is_cluster_definer: false
@@ -12415,7 +11279,7 @@ tags:
   currency: ETH
   label: Celerc.network
   is_cluster_definer: false
-- address: 1BzSWghdNus1FMF55HSAMdo1u3s76Uc2aw
+- address: '1BzSWghdNus1FMF55HSAMdo1u3s76Uc2aw'
   currency: ETH
   label: Celerc.network
   is_cluster_definer: false
@@ -12423,7 +11287,7 @@ tags:
   currency: ETH
   label: Eth.elon-musk.space
   is_cluster_definer: false
-- address: 1B6AHA8G56GaDnothSmUiesBcGW9jnYLN5
+- address: '1B6AHA8G56GaDnothSmUiesBcGW9jnYLN5'
   currency: ETH
   label: Btc.elon-musk.space
   is_cluster_definer: false
@@ -12435,11 +11299,11 @@ tags:
   currency: ETH
   label: Usddex.io
   is_cluster_definer: false
-- address: 1L5zxpkAuh5sVx8aoMvLFegf59jk2NSyty
+- address: '1L5zxpkAuh5sVx8aoMvLFegf59jk2NSyty'
   currency: BTC
   label: Cryptoxfan.website
   is_cluster_definer: false
-- address: 1DZjEc1xRnEszyXwBbH27NEajrgcqX8emr
+- address: '1DZjEc1xRnEszyXwBbH27NEajrgcqX8emr'
   currency: BTC
   label: 100x-mlt-btc.com
   is_cluster_definer: true
@@ -12447,7 +11311,7 @@ tags:
   currency: ETH
   label: Constantinopleplus.io
   is_cluster_definer: false
-- address: 3FzwWhqW1MDNxS6AUwX6CPF5RPgodtkYqY
+- address: '3FzwWhqW1MDNxS6AUwX6CPF5RPgodtkYqY'
   currency: ETH
   label: Btcldn.com
   is_cluster_definer: false
@@ -12455,11 +11319,11 @@ tags:
   currency: ETH
   label: Btcldn.com
   is_cluster_definer: true
-- address: LgcoHv7MkESD5EYe6qjJGtA2cse7LeAZnx
+- address: 'LgcoHv7MkESD5EYe6qjJGtA2cse7LeAZnx'
   currency: ETH
   label: Btcldn.com
   is_cluster_definer: false
-- address: 1MX2sjhoKgBRNRuKj8nSqZUr5VLorULHF7
+- address: '1MX2sjhoKgBRNRuKj8nSqZUr5VLorULHF7'
   currency: ETH
   label: Your-btc.co.uk
   is_cluster_definer: false
@@ -12467,11 +11331,11 @@ tags:
   currency: ETH
   label: Your-btc.co.uk
   is_cluster_definer: false
-- address: qzuqzn8y2726k2pwx3767zmja9m9wdh5wyukklr6kf
+- address: 'qzuqzn8y2726k2pwx3767zmja9m9wdh5wyukklr6kf'
   currency: ETH
   label: Your-btc.co.uk
   is_cluster_definer: false
-- address: 1Hnh8WkE3Hq6msYcCmBQYPZUthhm3PLxgu
+- address: '1Hnh8WkE3Hq6msYcCmBQYPZUthhm3PLxgu'
   currency: ETH
   label: Cryptotis.com
   is_cluster_definer: false
@@ -12479,19 +11343,19 @@ tags:
   currency: ETH
   label: Cryptotis.com
   is_cluster_definer: false
-- address: qzkmwk9hfjra3gwecc8l5cp4xgteqe8x55zhjzw4fy
+- address: 'qzkmwk9hfjra3gwecc8l5cp4xgteqe8x55zhjzw4fy'
   currency: ETH
   label: Cryptotis.com
   is_cluster_definer: false
-- address: rnFBiAHT8yZ5PL6QbvzUr5dM7Kq6G9gPGo
+- address: 'rnFBiAHT8yZ5PL6QbvzUr5dM7Kq6G9gPGo'
   currency: XRP
   label: Binancecz.blogspot.com
   is_cluster_definer: false
-- address: 1Q3EfbS5j9DBndLFqVGJPpd7qCmzXuRe8T
+- address: '1Q3EfbS5j9DBndLFqVGJPpd7qCmzXuRe8T'
   currency: BTC
   label: Earnfreebitcoins.org
   is_cluster_definer: true
-- address: 1Ma27SrQWDmwZbebAGJHHiSpr5TqbQJhng
+- address: '1Ma27SrQWDmwZbebAGJHHiSpr5TqbQJhng'
   currency: ETH
   label: Binance-testnet.com
   is_cluster_definer: false
@@ -12503,7 +11367,7 @@ tags:
   currency: ETH
   label: Blogbibox.com
   is_cluster_definer: false
-- address: 3DyRE6JHYjHZPkSZPEwAJY3h7RgLgSEpHq
+- address: '3DyRE6JHYjHZPkSZPEwAJY3h7RgLgSEpHq'
   currency: BTC
   label: Bithextrade.com
   is_cluster_definer: false
@@ -12511,11 +11375,11 @@ tags:
   currency: BTC
   label: Bithextrade.com
   is_cluster_definer: false
-- address: qq6qzcaphg3ygysue8lawxan5khscskgwcc6fywx7a
+- address: 'qq6qzcaphg3ygysue8lawxan5khscskgwcc6fywx7a'
   currency: BTC
   label: Bithextrade.com
   is_cluster_definer: false
-- address: t1R2tWtBWr7Us5PSXoLJZgEPoxPbNL8uk5C
+- address: 't1R2tWtBWr7Us5PSXoLJZgEPoxPbNL8uk5C'
   currency: BTC
   label: Bithextrade.com
   is_cluster_definer: false
@@ -12531,7 +11395,7 @@ tags:
   currency: ETH
   label: Matic.work
   is_cluster_definer: false
-- address: rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY
+- address: 'rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY'
   currency: XRP
   label: Ripplebonus.blogspot.com
   is_cluster_definer: false
@@ -12539,11 +11403,11 @@ tags:
   currency: ETH
   label: Kucoin-activity.com
   is_cluster_definer: false
-- address: 1BDyDCvFoyds89YUgtnbnz2kuUMpYALDa8
+- address: '1BDyDCvFoyds89YUgtnbnz2kuUMpYALDa8'
   currency: BTC
   label: Investment2x.online
   is_cluster_definer: true
-- address: 1GvEMyf8CidhNi3zZXb3VpP6mbxvdRSmq6
+- address: '1GvEMyf8CidhNi3zZXb3VpP6mbxvdRSmq6'
   currency: ETH
   label: Gram.one
   is_cluster_definer: false
@@ -12551,11 +11415,11 @@ tags:
   currency: ETH
   label: Gram.one
   is_cluster_definer: true
-- address: raHtX9jJf2ytdLPFivn9pjuvHNsvB4hRYf
+- address: 'raHtX9jJf2ytdLPFivn9pjuvHNsvB4hRYf'
   currency: ETH
   label: Gram.one
   is_cluster_definer: false
-- address: 19WZkLuC6meqfHPEfbedpTAP1WXEHeyG61
+- address: '19WZkLuC6meqfHPEfbedpTAP1WXEHeyG61'
   currency: ETH
   label: Gram.one
   is_cluster_definer: false
@@ -12571,11 +11435,11 @@ tags:
   currency: BTC
   label: Ethers.today
   is_cluster_definer: false
-- address: 1L5zxpkAuh5sVx8aoMvLFegf59jk2NSyty
+- address: '1L5zxpkAuh5sVx8aoMvLFegf59jk2NSyty'
   currency: BTC
   label: Medium.wiki
   is_cluster_definer: false
-- address: 3GsPwGDCCrUhiPGCD4XNAqNJHjmvijsLUo
+- address: '3GsPwGDCCrUhiPGCD4XNAqNJHjmvijsLUo'
   currency: ETH
   label: Drep-wallet.com
   is_cluster_definer: false
@@ -12583,7 +11447,7 @@ tags:
   currency: ETH
   label: Drep-wallet.com
   is_cluster_definer: false
-- address: 1ADezAfGgKnezVRsujq3yQAADHbvF6e8xc
+- address: '1ADezAfGgKnezVRsujq3yQAADHbvF6e8xc'
   currency: BTC
   label: Backxcoin.com
   is_cluster_definer: true
@@ -12591,15 +11455,15 @@ tags:
   currency: BTC
   label: Backxcoin.com
   is_cluster_definer: false
-- address: qzax9ttd75ey5z93m7l6u3urwfuum5nxqufuhxfzcg
+- address: 'qzax9ttd75ey5z93m7l6u3urwfuum5nxqufuhxfzcg'
   currency: BTC
   label: Backxcoin.com
   is_cluster_definer: false
-- address: LU4a7LeMmfDStUE8hCDfTRmyUzyruXPTmH
+- address: 'LU4a7LeMmfDStUE8hCDfTRmyUzyruXPTmH'
   currency: BTC
   label: Backxcoin.com
   is_cluster_definer: false
-- address: rvVUo33K92NVdUVxhVVhBbo1rArwEDGTW
+- address: 'rvVUo33K92NVdUVxhVVhBbo1rArwEDGTW'
   currency: BTC
   label: Backxcoin.com
   is_cluster_definer: false
@@ -12607,7 +11471,7 @@ tags:
   currency: BTC
   label: Backxcoin.com
   is_cluster_definer: false
-- address: TWbipjDZHF5Kpm1NB1scznk8uaEP8Qizxd
+- address: 'TWbipjDZHF5Kpm1NB1scznk8uaEP8Qizxd'
   currency: BTC
   label: Backxcoin.com
   is_cluster_definer: false
@@ -12615,11 +11479,11 @@ tags:
   currency: ETH
   label: Dextestnet.com
   is_cluster_definer: false
-- address: 1HS1GxzKLXbRFu8JhHoU9dpDSTzs3zPc4R
+- address: '1HS1GxzKLXbRFu8JhHoU9dpDSTzs3zPc4R'
   currency: ETH
   label: Dextestnet.com
   is_cluster_definer: false
-- address: 1MCfDnFEfWMfLCzfTNzH3Fxpuio6VBy2bh
+- address: '1MCfDnFEfWMfLCzfTNzH3Fxpuio6VBy2bh'
   currency: ETH
   label: Bnb-launch.eu
   is_cluster_definer: false
@@ -12627,7 +11491,7 @@ tags:
   currency: ETH
   label: Bnb-launch.eu
   is_cluster_definer: false
-- address: 1NrHXuUHh2PQSW7j6G2PEy9mJ3q6H16eZb
+- address: '1NrHXuUHh2PQSW7j6G2PEy9mJ3q6H16eZb'
   currency: ETH
   label: Bnb-testnet.com
   is_cluster_definer: false
@@ -12639,11 +11503,11 @@ tags:
   currency: ETH
   label: Matic-network.com
   is_cluster_definer: false
-- address: 18ko4MKbJsmEPAwRXCVX2QWomYqXaf1DHT
+- address: '18ko4MKbJsmEPAwRXCVX2QWomYqXaf1DHT'
   currency: ETH
   label: Matic-network.com
   is_cluster_definer: false
-- address: 1Gj9TYmGjCFsNjPrkDcauGEMewiX2YSbDL
+- address: '1Gj9TYmGjCFsNjPrkDcauGEMewiX2YSbDL'
   currency: ETH
   label: Gdax.us
   is_cluster_definer: false
@@ -12651,11 +11515,11 @@ tags:
   currency: ETH
   label: Gdax.us
   is_cluster_definer: false
-- address: qzh7l8neh3v868uzu74qpyat4gjz2rdv0yhjktqcp2
+- address: 'qzh7l8neh3v868uzu74qpyat4gjz2rdv0yhjktqcp2'
   currency: ETH
   label: Gdax.us
   is_cluster_definer: false
-- address: 1LPTQoiGTDmbrLB76g5w7ceJa4wShPAG9Z
+- address: '1LPTQoiGTDmbrLB76g5w7ceJa4wShPAG9Z'
   currency: ETH
   label: Hillstrade.net
   is_cluster_definer: false
@@ -12663,7 +11527,7 @@ tags:
   currency: ETH
   label: Hillstrade.net
   is_cluster_definer: false
-- address: qpdjfyy89utdz5ky34exk3s98c9h4ahtwyjgdr9dze
+- address: 'qpdjfyy89utdz5ky34exk3s98c9h4ahtwyjgdr9dze'
   currency: ETH
   label: Hillstrade.net
   is_cluster_definer: false
@@ -12671,7 +11535,7 @@ tags:
   currency: ETH
   label: Decentralized-launch.com
   is_cluster_definer: false
-- address: 16FXzp7wr9xvRyrNZGpddBaJExqZVJ2tDz
+- address: '16FXzp7wr9xvRyrNZGpddBaJExqZVJ2tDz'
   currency: ETH
   label: Decentralized-launch.com
   is_cluster_definer: false
@@ -12683,7 +11547,7 @@ tags:
   currency: ETH
   label: Constantinopleplus.tech
   is_cluster_definer: false
-- address: 13HHJA5DWjghMTSbEoHEQtf9vEU24nHVsR
+- address: '13HHJA5DWjghMTSbEoHEQtf9vEU24nHVsR'
   currency: ETH
   label: Official-binance.space
   is_cluster_definer: false
@@ -12691,7 +11555,7 @@ tags:
   currency: ETH
   label: Official-binance.space
   is_cluster_definer: false
-- address: 1PgkghXGCzPbaAzU4kfaRnmqrnsr3iZgWi
+- address: '1PgkghXGCzPbaAzU4kfaRnmqrnsr3iZgWi'
   currency: ETH
   label: Dex-launch.com
   is_cluster_definer: false
@@ -12699,7 +11563,7 @@ tags:
   currency: ETH
   label: Dex-launch.com
   is_cluster_definer: false
-- address: 1KMigycaAm4vAm94tjeaxzESRiLi9xL5Bx
+- address: '1KMigycaAm4vAm94tjeaxzESRiLi9xL5Bx'
   currency: ETH
   label: Bin-dex.club
   is_cluster_definer: false
@@ -12707,23 +11571,23 @@ tags:
   currency: ETH
   label: Bin-dex.club
   is_cluster_definer: false
-- address: 3G13u5TpSeg3oEgMbDZfw9d1eX5zt9VwVj
+- address: '3G13u5TpSeg3oEgMbDZfw9d1eX5zt9VwVj'
   currency: ETH
   label: Bestmixer.info
   is_cluster_definer: false
-- address: 3KXmfB4skjcLEWdY26y6jC3f2511ykEZ5r
+- address: '3KXmfB4skjcLEWdY26y6jC3f2511ykEZ5r'
   currency: ETH
   label: Bestmixer.info
   is_cluster_definer: false
-- address: rajkbxHzwaA1g3q8CST9hiKUyc9GDLh74u
+- address: 'rajkbxHzwaA1g3q8CST9hiKUyc9GDLh74u'
   currency: XRP
   label: Xrp-ripple.org
   is_cluster_definer: false
-- address: 3E8XidwZPe4BPym7CjqmNPvehetsRV326W
+- address: '3E8XidwZPe4BPym7CjqmNPvehetsRV326W'
   currency: BTC
   label: Get-ltc-now.online
   is_cluster_definer: false
-- address: 3E8XidwZPe4BPym7CjqmNPvehetsRV326W
+- address: '3E8XidwZPe4BPym7CjqmNPvehetsRV326W'
   currency: BCH
   label: Get-ltc-now.online
   is_cluster_definer: false
@@ -12735,7 +11599,7 @@ tags:
   currency: ETH
   label: Binance.bilttly.com
   is_cluster_definer: false
-- address: 39VZ9Ktio8q6GANhwhaMf7pcQ3AgZJoUGp
+- address: '39VZ9Ktio8q6GANhwhaMf7pcQ3AgZJoUGp'
   currency: ETH
   label: Binance.bilttly.com
   is_cluster_definer: false
@@ -12743,7 +11607,7 @@ tags:
   currency: ETH
   label: Bitlvy.com
   is_cluster_definer: false
-- address: 39VZ9Ktio8q6GANhwhaMf7pcQ3AgZJoUGp
+- address: '39VZ9Ktio8q6GANhwhaMf7pcQ3AgZJoUGp'
   currency: ETH
   label: Bitlvy.com
   is_cluster_definer: false
@@ -12751,7 +11615,7 @@ tags:
   currency: ETH
   label: Binance.bitlvy.com
   is_cluster_definer: false
-- address: 39VZ9Ktio8q6GANhwhaMf7pcQ3AgZJoUGp
+- address: '39VZ9Ktio8q6GANhwhaMf7pcQ3AgZJoUGp'
   currency: ETH
   label: Binance.bitlvy.com
   is_cluster_definer: false
@@ -12763,11 +11627,11 @@ tags:
   currency: ETH
   label: Matic.live
   is_cluster_definer: false
-- address: rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY
+- address: 'rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY'
   currency: XRP
   label: Bountyxrp.blogspot.am
   is_cluster_definer: false
-- address: rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY
+- address: 'rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY'
   currency: XRP
   label: Bountyxrp.blogspot.com
   is_cluster_definer: false
@@ -12775,15 +11639,15 @@ tags:
   currency: ETH
   label: Ico-matic.network
   is_cluster_definer: false
-- address: rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY
+- address: 'rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY'
   currency: XRP
   label: Ripplebounty.blogspot.com
   is_cluster_definer: false
-- address: 36LrLx1b7q6f2DhAhFxeBAvQxcDs5QY9oj
+- address: '36LrLx1b7q6f2DhAhFxeBAvQxcDs5QY9oj'
   currency: BTC
   label: Satoshilite.promo
   is_cluster_definer: false
-- address: 1Fc8hwQrja8WZpRkyCoPyH7BBLabYFbBdN
+- address: '1Fc8hwQrja8WZpRkyCoPyH7BBLabYFbBdN'
   currency: BTC
   label: Bitmex-airdrop.com
   is_cluster_definer: true
@@ -12795,19 +11659,19 @@ tags:
   currency: BTC
   label: Bitcointoolmining.com
   is_cluster_definer: false
-- address: 3NTDhT2ENeudk8TWpjF4zukFHSUtG5Z564
+- address: '3NTDhT2ENeudk8TWpjF4zukFHSUtG5Z564'
   currency: BTC
   label: Bitcointoolmining.com
   is_cluster_definer: true
-- address: 1EQSYNsoES8RTZWup6gk7jDutWoPP2UY8p
+- address: '1EQSYNsoES8RTZWup6gk7jDutWoPP2UY8p'
   currency: BTC
   label: Bitcoin-doubler.us
   is_cluster_definer: true
-- address: rBkdpkFcJDsBDoBkmBZXQbvVjaU2JCacXW
+- address: 'rBkdpkFcJDsBDoBkmBZXQbvVjaU2JCacXW'
   currency: XRP
   label: Xrp.earth
   is_cluster_definer: false
-- address: rKH7QAV8125zBL4LpUSFQz5xEZRHJAaybq
+- address: 'rKH7QAV8125zBL4LpUSFQz5xEZRHJAaybq'
   currency: XRP
   label: 4-xrp.com
   is_cluster_definer: false
@@ -12815,7 +11679,7 @@ tags:
   currency: ETH
   label: Live-ethers.com
   is_cluster_definer: false
-- address: 1JCMYAkmxibo8EKJWyqtHadCy3NfPJvJwW
+- address: '1JCMYAkmxibo8EKJWyqtHadCy3NfPJvJwW'
   currency: ETH
   label: Coinpromo.icu
   is_cluster_definer: false
@@ -12823,7 +11687,7 @@ tags:
   currency: ETH
   label: Coinpromo.icu
   is_cluster_definer: false
-- address: rPkuNViVhRCQhHyNgjQaiRTzJqeESTsok3
+- address: 'rPkuNViVhRCQhHyNgjQaiRTzJqeESTsok3'
   currency: ETH
   label: Coinpromo.icu
   is_cluster_definer: false
@@ -12831,19 +11695,19 @@ tags:
   currency: ETH
   label: Bithumb.cf
   is_cluster_definer: false
-- address: rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY
+- address: 'rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY'
   currency: XRP
   label: Xrpbullish.blogspot.com
   is_cluster_definer: false
-- address: rw1vg7MxSefF2YErRMrDU9SMuqr3T5aaRf
+- address: 'rw1vg7MxSefF2YErRMrDU9SMuqr3T5aaRf'
   currency: XRP
   label: Ripple-infogiveaway.com
   is_cluster_definer: false
-- address: rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY
+- address: 'rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY'
   currency: XRP
   label: Bonusmonthly.blogspot.com
   is_cluster_definer: false
-- address: 14kFbdJkwKn8ANfouBxEzmTSqpwXGkskSk
+- address: '14kFbdJkwKn8ANfouBxEzmTSqpwXGkskSk'
   currency: ETH
   label: Bin-testnet.com
   is_cluster_definer: false
@@ -12851,11 +11715,11 @@ tags:
   currency: ETH
   label: Bin-testnet.com
   is_cluster_definer: false
-- address: 121p6887pfo6Fx1axCapkuvdqHdWMcYKp1
+- address: '121p6887pfo6Fx1axCapkuvdqHdWMcYKp1'
   currency: BTC
   label: Btc-gift.com
   is_cluster_definer: true
-- address: 1JCMYAkmxibo8EKJWyqtHadCy3NfPJvJwW
+- address: '1JCMYAkmxibo8EKJWyqtHadCy3NfPJvJwW'
   currency: BTC
   label: Coinpromo.fund
   is_cluster_definer: true
@@ -12863,11 +11727,11 @@ tags:
   currency: BTC
   label: Coinpromo.fund
   is_cluster_definer: false
-- address: rPkuNViVhRCQhHyNgjQaiRTzJqeESTsok3
+- address: 'rPkuNViVhRCQhHyNgjQaiRTzJqeESTsok3'
   currency: BTC
   label: Coinpromo.fund
   is_cluster_definer: false
-- address: 1HrNjjgtSzdbCEMKwzVQgLuKa3JjF8fSEQ
+- address: '1HrNjjgtSzdbCEMKwzVQgLuKa3JjF8fSEQ'
   currency: BTC
   label: Bitcoin-btc-qr-code-generator.com
   is_cluster_definer: true
@@ -12875,11 +11739,11 @@ tags:
   currency: ETH
   label: Thundercore.space
   is_cluster_definer: true
-- address: rQfYU4EGDcYf1tiBzjNLdYreth8etEPyq3
+- address: 'rQfYU4EGDcYf1tiBzjNLdYreth8etEPyq3'
   currency: XRP
   label: Xn----itbjab7adkacocegb9etd2c.xn--p1ai
   is_cluster_definer: false
-- address: rhAbEhfCKKD1ayFPRNWbeHg8o5Hqv3KLL4
+- address: 'rhAbEhfCKKD1ayFPRNWbeHg8o5Hqv3KLL4'
   currency: XRP
   label: Ripplegiveaway.net
   is_cluster_definer: false
@@ -12887,27 +11751,23 @@ tags:
   currency: ETH
   label: Ico-samsung.org
   is_cluster_definer: false
-- address: 36YNdj5tCR1ghRXi8bsRCS8hR1ymN6LvC6
+- address: '36YNdj5tCR1ghRXi8bsRCS8hR1ymN6LvC6'
   currency: ETH
   label: Ico-samsung.org
   is_cluster_definer: false
-- address: 3GqET9VQXve5WDAgTXnv4LerfJGtXYXY4S
+- address: '3GqET9VQXve5WDAgTXnv4LerfJGtXYXY4S'
   currency: ETH
   label: Ico-samsung.org
   is_cluster_definer: false
-- address: 1J25YSaUJQT9AdEJ9rmSrKRZhCpc6Wkr7e
+- address: '1J25YSaUJQT9AdEJ9rmSrKRZhCpc6Wkr7e'
   currency: BTC
   label: Btcdaily.info
   is_cluster_definer: true
-- address: 1JyRhM9ndcqacWkJRRnn2mbmQZ3XxcN7wy
+- address: '1JyRhM9ndcqacWkJRRnn2mbmQZ3XxcN7wy'
   currency: BTC
   label: Chance.services
   is_cluster_definer: true
-- address: 1JyRhM9ndcqacWkJRRnn2mbmQZ3XxcN7wy
-  currency: BTC
-  label: Chance.services
-  is_cluster_definer: true
-- address: 3Bdsi2N2WCCPtrGrprN4iz4weZL4zN7L8g
+- address: '3Bdsi2N2WCCPtrGrprN4iz4weZL4zN7L8g'
   currency: BTC
   label: Supermining.website
   is_cluster_definer: false
@@ -12915,7 +11775,7 @@ tags:
   currency: BTC
   label: Binance-dex.cf
   is_cluster_definer: false
-- address: 17h3y4KNfh2U6vgddQTTFDz1paqfX54s5z
+- address: '17h3y4KNfh2U6vgddQTTFDz1paqfX54s5z'
   currency: BTC
   label: Mybitcoinqrcode.com
   is_cluster_definer: true
@@ -12923,7 +11783,7 @@ tags:
   currency: BTC
   label: Official-elon.space
   is_cluster_definer: false
-- address: 1HdVcd5HPieFXFwz4ybhRuPzn3kMnmv3eZ
+- address: '1HdVcd5HPieFXFwz4ybhRuPzn3kMnmv3eZ'
   currency: BTC
   label: Official-elon.space
   is_cluster_definer: true
@@ -12931,11 +11791,11 @@ tags:
   currency: BTC
   label: Airdrop-running.info
   is_cluster_definer: false
-- address: 14edSvcMxkPZNzhsBfv4V7PNL6dtdBH9xS
+- address: '14edSvcMxkPZNzhsBfv4V7PNL6dtdBH9xS'
   currency: BTC
   label: Airdrop-running.info
   is_cluster_definer: true
-- address: 1KBb3pFLyKMn44tx1FCPoB3R2awGjSvo4b
+- address: '1KBb3pFLyKMn44tx1FCPoB3R2awGjSvo4b'
   currency: ETH
   label: Tesla-gift.space
   is_cluster_definer: false
@@ -12943,7 +11803,7 @@ tags:
   currency: ETH
   label: Tesla-gift.space
   is_cluster_definer: false
-- address: 1N2uxuMXP7RmZov8XuB13sUiKcSSAABmVf
+- address: '1N2uxuMXP7RmZov8XuB13sUiKcSSAABmVf'
   currency: ETH
   label: Tesla3.org
   is_cluster_definer: false
@@ -12951,7 +11811,7 @@ tags:
   currency: ETH
   label: Tesla3.org
   is_cluster_definer: false
-- address: 3NGtf8AkXN9y8HDp9wks7wbm4by2qxzkmX
+- address: '3NGtf8AkXN9y8HDp9wks7wbm4by2qxzkmX'
   currency: ETH
   label: Ethnocrypt.com
   is_cluster_definer: false
@@ -12963,11 +11823,11 @@ tags:
   currency: ETH
   label: Elon-gifting.website
   is_cluster_definer: false
-- address: 1GpB2CUk8b4vn8PzksXTLbh9LJNacB1FkD
+- address: '1GpB2CUk8b4vn8PzksXTLbh9LJNacB1FkD'
   currency: ETH
   label: Elon-gifting.website
   is_cluster_definer: false
-- address: 1D4cncb6G874758HfEN7MFTwP9uVPw5CVx
+- address: '1D4cncb6G874758HfEN7MFTwP9uVPw5CVx'
   currency: ETH
   label: Cashadd.org
   is_cluster_definer: false
@@ -12975,19 +11835,19 @@ tags:
   currency: ETH
   label: Cashadd.org
   is_cluster_definer: false
-- address: qqxq4kkxzn0stkzxvc8zs7quur285amlgy6mhp4qvp
+- address: 'qqxq4kkxzn0stkzxvc8zs7quur285amlgy6mhp4qvp'
   currency: ETH
   label: Cashadd.org
   is_cluster_definer: false
-- address: LZF8mWMwJy3ijZSgi4AmTDBNkGKKxgPTqq
+- address: 'LZF8mWMwJy3ijZSgi4AmTDBNkGKKxgPTqq'
   currency: ETH
   label: Cashadd.org
   is_cluster_definer: false
-- address: rUHdPLLH3dKkHZN97HshDcZQbiP5xn4p6H
+- address: 'rUHdPLLH3dKkHZN97HshDcZQbiP5xn4p6H'
   currency: ETH
   label: Cashadd.org
   is_cluster_definer: false
-- address: bnb160943aa8wjfwzq52snqe3dpzq3mgcxlfjm2d7y
+- address: 'bnb160943aa8wjfwzq52snqe3dpzq3mgcxlfjm2d7y'
   currency: ETH
   label: Cashadd.org
   is_cluster_definer: false
@@ -12995,11 +11855,11 @@ tags:
   currency: ETH
   label: Cashadd.org
   is_cluster_definer: false
-- address: TWsVTq76GEBw1dNHUqzJTrtuj8FxjL9CX6
+- address: 'TWsVTq76GEBw1dNHUqzJTrtuj8FxjL9CX6'
   currency: ETH
   label: Cashadd.org
   is_cluster_definer: false
-- address: 1MghhGjVABo5NrBjXMmyYsydsuvLVVRG35
+- address: '1MghhGjVABo5NrBjXMmyYsydsuvLVVRG35'
   currency: ETH
   label: Platform-bitmex.com
   is_cluster_definer: false
@@ -13011,7 +11871,7 @@ tags:
   currency: ETH
   label: Constantinoplehardfork.cf
   is_cluster_definer: false
-- address: 39f8pCTy9KwSUqQUKMxNy683ERjxjfizzj
+- address: '39f8pCTy9KwSUqQUKMxNy683ERjxjfizzj'
   currency: ETH
   label: Cometcrypt.com
   is_cluster_definer: false
@@ -13031,7 +11891,7 @@ tags:
   currency: ETH
   label: Binance-zendesk.net
   is_cluster_definer: false
-- address: 39Gc5J4642rC4qRZnNrou9QU1pZQ7msckN
+- address: '39Gc5J4642rC4qRZnNrou9QU1pZQ7msckN'
   currency: ETH
   label: Cashbit.world
   is_cluster_definer: false
@@ -13043,7 +11903,7 @@ tags:
   currency: ETH
   label: Transfer-btc.website
   is_cluster_definer: false
-- address: 13tcnnUx6QGTkdMfMewNJbEqVCPGaQiyYC
+- address: '13tcnnUx6QGTkdMfMewNJbEqVCPGaQiyYC'
   currency: ETH
   label: Transfer-btc.website
   is_cluster_definer: false
@@ -13051,27 +11911,19 @@ tags:
   currency: ETH
   label: Tesla-gift.club
   is_cluster_definer: false
-- address: 18ydpKVaT2gzKRAMkHdPeZ3oLLpNb1jchD
+- address: '18ydpKVaT2gzKRAMkHdPeZ3oLLpNb1jchD'
   currency: BTC
   label: Medium.return-btc.com
   is_cluster_definer: true
-- address: 18ydpKVaT2gzKRAMkHdPeZ3oLLpNb1jchD
-  currency: BTC
-  label: Medium.return-btc.com
-  is_cluster_definer: true
-- address: 18ydpKVaT2gzKRAMkHdPeZ3oLLpNb1jchD
+- address: '18ydpKVaT2gzKRAMkHdPeZ3oLLpNb1jchD'
   currency: BTC
   label: Return-btc.com
   is_cluster_definer: true
-- address: 18ydpKVaT2gzKRAMkHdPeZ3oLLpNb1jchD
-  currency: BTC
-  label: Return-btc.com
-  is_cluster_definer: true
-- address: rEYFAsw9SrkgBTuos4jAtmBEZyWbZayUBd
+- address: 'rEYFAsw9SrkgBTuos4jAtmBEZyWbZayUBd'
   currency: XRP
   label: Giveaway-xrp.com
   is_cluster_definer: false
-- address: 3NAwZwvVAPdoAuRiTwWWenrjYHSYKQAAEQ
+- address: '3NAwZwvVAPdoAuRiTwWWenrjYHSYKQAAEQ'
   currency: ETH
   label: Xcryptofunds.com
   is_cluster_definer: false
@@ -13079,7 +11931,7 @@ tags:
   currency: ETH
   label: Xcryptofunds.com
   is_cluster_definer: false
-- address: 15ANzJKPgiiei7zBnfhBAEMLp6i6ZDaoxU
+- address: '15ANzJKPgiiei7zBnfhBAEMLp6i6ZDaoxU'
   currency: ETH
   label: Goxtrade.com
   is_cluster_definer: false
@@ -13099,7 +11951,7 @@ tags:
   currency: ETH
   label: Receive-ethereum.com
   is_cluster_definer: false
-- address: 12MkxkxyCuzQcHc74NUw9rDjFoiPkFnHzz
+- address: '12MkxkxyCuzQcHc74NUw9rDjFoiPkFnHzz'
   currency: ETH
   label: Dextestnet-binance.com
   is_cluster_definer: false
@@ -13107,7 +11959,7 @@ tags:
   currency: ETH
   label: Dextestnet-binance.com
   is_cluster_definer: false
-- address: 14dr9YU8Ur3EeyhPhb5JH7euvz53VcvBoS
+- address: '14dr9YU8Ur3EeyhPhb5JH7euvz53VcvBoS'
   currency: ETH
   label: Dexbinance.in
   is_cluster_definer: false
@@ -13115,15 +11967,15 @@ tags:
   currency: ETH
   label: Dexbinance.in
   is_cluster_definer: false
-- address: 36XhbL7818vCNMan98UG22MZAyKg43wUtd
+- address: '36XhbL7818vCNMan98UG22MZAyKg43wUtd'
   currency: BTC
   label: Crypto-mult.io
   is_cluster_definer: false
-- address: MMzfUWTtu4hg6JP6cjZ5tSykxWC7oKydK9
+- address: 'MMzfUWTtu4hg6JP6cjZ5tSykxWC7oKydK9'
   currency: BTC
   label: Crypto-mult.io
   is_cluster_definer: false
-- address: 1PZS9LzUFcbCREZw3AzY4U8c9AwjcccMJo
+- address: '1PZS9LzUFcbCREZw3AzY4U8c9AwjcccMJo'
   currency: ETH
   label: Giveaway-tesla.club
   is_cluster_definer: false
@@ -13131,11 +11983,7 @@ tags:
   currency: ETH
   label: Giveaway-tesla.club
   is_cluster_definer: false
-- address: 1JyRhM9ndcqacWkJRRnn2mbmQZ3XxcN7wy
-  currency: BTC
-  label: Cointo.us
-  is_cluster_definer: true
-- address: 1JyRhM9ndcqacWkJRRnn2mbmQZ3XxcN7wy
+- address: '1JyRhM9ndcqacWkJRRnn2mbmQZ3XxcN7wy'
   currency: BTC
   label: Cointo.us
   is_cluster_definer: true
@@ -13155,7 +12003,7 @@ tags:
   currency: ETH
   label: Buy7btc.pro
   is_cluster_definer: false
-- address: 33DcDaRY2cB69ELu46Y4C2Zg9JQjiv8y87
+- address: '33DcDaRY2cB69ELu46Y4C2Zg9JQjiv8y87'
   currency: ETH
   label: Tenocrypt.com
   is_cluster_definer: false
@@ -13167,7 +12015,7 @@ tags:
   currency: ETH
   label: Elon-spacex.promo
   is_cluster_definer: false
-- address: 15PVWeFCArvAhVbQ6DoUvoFUJBhpgNTwsQ
+- address: '15PVWeFCArvAhVbQ6DoUvoFUJBhpgNTwsQ'
   currency: ETH
   label: Elon-spacex.promo
   is_cluster_definer: false
@@ -13175,7 +12023,7 @@ tags:
   currency: ETH
   label: Elon-spacex.com
   is_cluster_definer: false
-- address: 15PVWeFCArvAhVbQ6DoUvoFUJBhpgNTwsQ
+- address: '15PVWeFCArvAhVbQ6DoUvoFUJBhpgNTwsQ'
   currency: ETH
   label: Elon-spacex.com
   is_cluster_definer: false
@@ -13183,7 +12031,7 @@ tags:
   currency: ETH
   label: Elon-spacex.online
   is_cluster_definer: false
-- address: 15PVWeFCArvAhVbQ6DoUvoFUJBhpgNTwsQ
+- address: '15PVWeFCArvAhVbQ6DoUvoFUJBhpgNTwsQ'
   currency: ETH
   label: Elon-spacex.online
   is_cluster_definer: false
@@ -13191,7 +12039,7 @@ tags:
   currency: ETH
   label: Elon-spacex.store
   is_cluster_definer: false
-- address: 15PVWeFCArvAhVbQ6DoUvoFUJBhpgNTwsQ
+- address: '15PVWeFCArvAhVbQ6DoUvoFUJBhpgNTwsQ'
   currency: ETH
   label: Elon-spacex.store
   is_cluster_definer: false
@@ -13199,11 +12047,11 @@ tags:
   currency: ETH
   label: Giveawaytesla.me
   is_cluster_definer: false
-- address: 1PZS9LzUFcbCREZw3AzY4U8c9AwjcccMJo
+- address: '1PZS9LzUFcbCREZw3AzY4U8c9AwjcccMJo'
   currency: ETH
   label: Giveawaytesla.me
   is_cluster_definer: false
-- address: 1FEveooL7MAiiNGnLdzZYidW5BVxgHgEPx
+- address: '1FEveooL7MAiiNGnLdzZYidW5BVxgHgEPx'
   currency: ETH
   label: Elon-tesla.info
   is_cluster_definer: false
@@ -13211,11 +12059,11 @@ tags:
   currency: ETH
   label: Elon-tesla.info
   is_cluster_definer: false
-- address: 1GkBb7hpNzXheeJDUdA2ZcxpwP5hGS7ayz
+- address: '1GkBb7hpNzXheeJDUdA2ZcxpwP5hGS7ayz'
   currency: ETH
   label: Elon-tesla.info
   is_cluster_definer: false
-- address: 1KfEHjqt9v3hJD1Ru7rYnMg32z6C6Nh93H
+- address: '1KfEHjqt9v3hJD1Ru7rYnMg32z6C6Nh93H'
   currency: ETH
   label: Promo-tesla.store
   is_cluster_definer: false
@@ -13223,7 +12071,7 @@ tags:
   currency: ETH
   label: Promo-tesla.store
   is_cluster_definer: false
-- address: 1KrXKvZfDUvB9A39xBhJ2VZWf92HMFj8F
+- address: '1KrXKvZfDUvB9A39xBhJ2VZWf92HMFj8F'
   currency: ETH
   label: Cryptogiveaways.top
   is_cluster_definer: false
@@ -13231,7 +12079,7 @@ tags:
   currency: ETH
   label: Cryptogiveaways.top
   is_cluster_definer: true
-- address: 13YacKcXWpeFgEwY3M5EMnZVZn8A84mu5D
+- address: '13YacKcXWpeFgEwY3M5EMnZVZn8A84mu5D'
   currency: ETH
   label: Binance-margin.com
   is_cluster_definer: false
@@ -13239,7 +12087,7 @@ tags:
   currency: ETH
   label: Binance-margin.com
   is_cluster_definer: false
-- address: 1JCMYAkmxibo8EKJWyqtHadCy3NfPJvJwW
+- address: '1JCMYAkmxibo8EKJWyqtHadCy3NfPJvJwW'
   currency: ETH
   label: Reddit-securepage-hdsjhg3jh5gjasged32h4i2349803434553.secglobal.icu
   is_cluster_definer: false
@@ -13247,11 +12095,11 @@ tags:
   currency: ETH
   label: Reddit-securepage-hdsjhg3jh5gjasged32h4i2349803434553.secglobal.icu
   is_cluster_definer: false
-- address: rPkuNViVhRCQhHyNgjQaiRTzJqeESTsok3
+- address: 'rPkuNViVhRCQhHyNgjQaiRTzJqeESTsok3'
   currency: ETH
   label: Reddit-securepage-hdsjhg3jh5gjasged32h4i2349803434553.secglobal.icu
   is_cluster_definer: false
-- address: 1JCMYAkmxibo8EKJWyqtHadCy3NfPJvJwW
+- address: '1JCMYAkmxibo8EKJWyqtHadCy3NfPJvJwW'
   currency: ETH
   label: Reddit-securepage-hdsjhg3jh5gjasged32h4i23496jhgh677u.secglobal.icu
   is_cluster_definer: false
@@ -13259,11 +12107,11 @@ tags:
   currency: ETH
   label: Reddit-securepage-hdsjhg3jh5gjasged32h4i23496jhgh677u.secglobal.icu
   is_cluster_definer: false
-- address: rPkuNViVhRCQhHyNgjQaiRTzJqeESTsok3
+- address: 'rPkuNViVhRCQhHyNgjQaiRTzJqeESTsok3'
   currency: ETH
   label: Reddit-securepage-hdsjhg3jh5gjasged32h4i23496jhgh677u.secglobal.icu
   is_cluster_definer: false
-- address: 1JCMYAkmxibo8EKJWyqtHadCy3NfPJvJwW
+- address: '1JCMYAkmxibo8EKJWyqtHadCy3NfPJvJwW'
   currency: ETH
   label: Secglobal.icu
   is_cluster_definer: false
@@ -13271,7 +12119,7 @@ tags:
   currency: ETH
   label: Secglobal.icu
   is_cluster_definer: false
-- address: rPkuNViVhRCQhHyNgjQaiRTzJqeESTsok3
+- address: 'rPkuNViVhRCQhHyNgjQaiRTzJqeESTsok3'
   currency: ETH
   label: Secglobal.icu
   is_cluster_definer: false
@@ -13279,7 +12127,7 @@ tags:
   currency: ETH
   label: Tortoken.io
   is_cluster_definer: false
-- address: 1JCMYAkmxibo8EKJWyqtHadCy3NfPJvJwW
+- address: '1JCMYAkmxibo8EKJWyqtHadCy3NfPJvJwW'
   currency: ETH
   label: Secure.globalsec.icu
   is_cluster_definer: false
@@ -13287,7 +12135,7 @@ tags:
   currency: ETH
   label: Secure.globalsec.icu
   is_cluster_definer: false
-- address: 1J25YSaUJQT9AdEJ9rmSrKRZhCpc6Wkr7e
+- address: '1J25YSaUJQT9AdEJ9rmSrKRZhCpc6Wkr7e'
   currency: ETH
   label: Doublebitcoin.ga
   is_cluster_definer: false
@@ -13295,47 +12143,47 @@ tags:
   currency: ETH
   label: Dexcompetition.site
   is_cluster_definer: false
-- address: 1FLo9tVXB7N5KoeP5cNmTkJ93D2BduUpiX
+- address: '1FLo9tVXB7N5KoeP5cNmTkJ93D2BduUpiX'
   currency: ETH
   label: Dexcompetition.site
   is_cluster_definer: false
-- address: qr6dpf69djfghu9t6h0kzklzy2jkaqrn6q497z4yag
+- address: 'qr6dpf69djfghu9t6h0kzklzy2jkaqrn6q497z4yag'
   currency: ETH
   label: Dexcompetition.site
   is_cluster_definer: false
-- address: XrE5MMmXD1ShEKh9jBbhEiTGCLg2BLsd5r
+- address: 'XrE5MMmXD1ShEKh9jBbhEiTGCLg2BLsd5r'
   currency: ETH
   label: Dexcompetition.site
   is_cluster_definer: false
-- address: Ld5KMR5tw2RMgrE8zyupV9ntW7byvRLVEL
+- address: 'Ld5KMR5tw2RMgrE8zyupV9ntW7byvRLVEL'
   currency: ETH
   label: Dexcompetition.site
   is_cluster_definer: false
-- address: GBEI5U4S27SP6YMOTYPQBRCPLMVUNP64M5ELQQ5VB4S43FLWPULJTU2Y
+- address: 'GBEI5U4S27SP6YMOTYPQBRCPLMVUNP64M5ELQQ5VB4S43FLWPULJTU2Y'
   currency: ETH
   label: Dexcompetition.site
   is_cluster_definer: false
-- address: 48RrK4L4z8hYq8iQS9qvTc1bJN99aSamhTuMrN9nCFVWRcroKb3EAawV14KtHmeqeuW4j5JLxUQfz4bG2veSYph445nnf8s
+- address: '48RrK4L4z8hYq8iQS9qvTc1bJN99aSamhTuMrN9nCFVWRcroKb3EAawV14KtHmeqeuW4j5JLxUQfz4bG2veSYph445nnf8s'
   currency: ETH
   label: Dexcompetition.site
   is_cluster_definer: false
-- address: TDekdYi77iXeGm71ziBw65c2ZqiD6eZXVE
+- address: 'TDekdYi77iXeGm71ziBw65c2ZqiD6eZXVE'
   currency: ETH
   label: Dexcompetition.site
   is_cluster_definer: false
-- address: AdoCwN5zgm8rdPRcgqiiKqxRtCSi6L31Mk
+- address: 'AdoCwN5zgm8rdPRcgqiiKqxRtCSi6L31Mk'
   currency: ETH
   label: Dexcompetition.site
   is_cluster_definer: false
-- address: rLS5hCFdvd7GePm3TXiGjgtuyKJNw2UwHm
+- address: 'rLS5hCFdvd7GePm3TXiGjgtuyKJNw2UwHm'
   currency: ETH
   label: Dexcompetition.site
   is_cluster_definer: false
-- address: 12qNdLqiWcer5kWxXiMNvTstLB37WvLyyk
+- address: '12qNdLqiWcer5kWxXiMNvTstLB37WvLyyk'
   currency: ETH
   label: Dexcompetition.site
   is_cluster_definer: false
-- address: t1KAedN3mupcum5ffF7DF5KNz27vRB9pYnr
+- address: 't1KAedN3mupcum5ffF7DF5KNz27vRB9pYnr'
   currency: ETH
   label: Dexcompetition.site
   is_cluster_definer: false
@@ -13343,11 +12191,11 @@ tags:
   currency: ETH
   label: Dexcompetition.site
   is_cluster_definer: false
-- address: bnb10whzywcrge79hmuyutg43rwhyfq0sp4cewnxh9
+- address: 'bnb10whzywcrge79hmuyutg43rwhyfq0sp4cewnxh9'
   currency: ETH
   label: Dexcompetition.site
   is_cluster_definer: false
-- address: 39L1wNL7pQ7Uk4aGPWu8bVLTp4CTdBCCuF
+- address: '39L1wNL7pQ7Uk4aGPWu8bVLTp4CTdBCCuF'
   currency: ETH
   label: Cryptoxglobal.com
   is_cluster_definer: false
@@ -13363,7 +12211,7 @@ tags:
   currency: ETH
   label: Eth.elon-musk-tesla.space
   is_cluster_definer: false
-- address: 1FWi9zG991UBbBF5GqnbSst4z6drwJUkbh
+- address: '1FWi9zG991UBbBF5GqnbSst4z6drwJUkbh'
   currency: BTC
   label: Btc.elon-musk-tesla.space
   is_cluster_definer: true
@@ -13371,7 +12219,7 @@ tags:
   currency: BTC
   label: Bnb-testnet.org
   is_cluster_definer: false
-- address: 12ZqKGZJVaSN5XaRpyPbBneBkQEaEtG8vR
+- address: '12ZqKGZJVaSN5XaRpyPbBneBkQEaEtG8vR'
   currency: BTC
   label: Bnb-testnet.org
   is_cluster_definer: true
@@ -13387,11 +12235,11 @@ tags:
   currency: ETH
   label: Cryptotronx.com
   is_cluster_definer: false
-- address: 1HfkQH6kCCQqrAXU1PtBakPN9Cc1HhgyeM
+- address: '1HfkQH6kCCQqrAXU1PtBakPN9Cc1HhgyeM'
   currency: ETH
   label: Cryptotronx.com
   is_cluster_definer: false
-- address: 12zYdDfrSVCUYoJfQZBjQKr5vBoKbXCDB9
+- address: '12zYdDfrSVCUYoJfQZBjQKr5vBoKbXCDB9'
   currency: ETH
   label: Mcafee.getforge.io
   is_cluster_definer: false
@@ -13407,7 +12255,7 @@ tags:
   currency: ETH
   label: Elon-musk.getforge.io
   is_cluster_definer: false
-- address: 1E7to3GBYFEp2CPkmhUKfkT2JiBQX2Xaza
+- address: '1E7to3GBYFEp2CPkmhUKfkT2JiBQX2Xaza'
   currency: ETH
   label: Coinexplorer.tech
   is_cluster_definer: false
@@ -13415,11 +12263,11 @@ tags:
   currency: ETH
   label: Coinexplorer.tech
   is_cluster_definer: false
-- address: MMg7ndwXG6XF9AnuLnYdMtp8WYHt1xEo6B
+- address: 'MMg7ndwXG6XF9AnuLnYdMtp8WYHt1xEo6B'
   currency: ETH
   label: Coinexplorer.tech
   is_cluster_definer: false
-- address: qz837q4cnugsu8qas96q7ak8dfd7n72p6gywe898fh
+- address: 'qz837q4cnugsu8qas96q7ak8dfd7n72p6gywe898fh'
   currency: ETH
   label: Coinexplorer.tech
   is_cluster_definer: false
@@ -13427,7 +12275,7 @@ tags:
   currency: ETH
   label: Mcafee.site
   is_cluster_definer: false
-- address: 16cBDFXSMMPbiJ3kW4DrW7tj1toPE1311t
+- address: '16cBDFXSMMPbiJ3kW4DrW7tj1toPE1311t'
   currency: ETH
   label: John.mcafee.getforge.io
   is_cluster_definer: false
@@ -13447,11 +12295,11 @@ tags:
   currency: ETH
   label: Musk-event.info
   is_cluster_definer: false
-- address: 1JZiBjuoQmzhqAQgXvqSN8gvsPZQ8CpUD8
+- address: '1JZiBjuoQmzhqAQgXvqSN8gvsPZQ8CpUD8'
   currency: ETH
   label: Musk-event.info
   is_cluster_definer: false
-- address: 1EMG2n35pxcC7ycvwErvCFkzvaNXBz85hG
+- address: '1EMG2n35pxcC7ycvwErvCFkzvaNXBz85hG'
   currency: ETH
   label: Binance-presents.fund
   is_cluster_definer: false
@@ -13479,7 +12327,7 @@ tags:
   currency: ETH
   label: Teslamusk.tech
   is_cluster_definer: false
-- address: 15gvRgxdwMF5y3Kcc2X7WLpUMGW9wgyRB4
+- address: '15gvRgxdwMF5y3Kcc2X7WLpUMGW9wgyRB4'
   currency: ETH
   label: Teslamusk.tech
   is_cluster_definer: false
@@ -13491,7 +12339,7 @@ tags:
   currency: ETH
   label: Mcafee-promo.com
   is_cluster_definer: false
-- address: 15gvRgxdwMF5y3Kcc2X7WLpUMGW9wgyRB4
+- address: '15gvRgxdwMF5y3Kcc2X7WLpUMGW9wgyRB4'
   currency: ETH
   label: Mcafee-crypto.tech
   is_cluster_definer: false
@@ -13503,7 +12351,7 @@ tags:
   currency: ETH
   label: Receive-ethereum.website
   is_cluster_definer: false
-- address: 16Eyjt8V1bCk2xGqibbRP9HB9fvzjjXQrM
+- address: '16Eyjt8V1bCk2xGqibbRP9HB9fvzjjXQrM'
   currency: ETH
   label: Coin2coin.co
   is_cluster_definer: false
@@ -13515,31 +12363,23 @@ tags:
   currency: ETH
   label: Mediumcdn.today
   is_cluster_definer: false
-- address: 1DTjjxNfdgAT8cGuHpuCR4v4zwzxjwXN8Z
+- address: '1DTjjxNfdgAT8cGuHpuCR4v4zwzxjwXN8Z'
   currency: BTC
   label: Coinexminer.site
   is_cluster_definer: true
-- address: 1Fr2VJ2pgMsAktcLonHUqBnZbu7H1zZLpH
+- address: '1Fr2VJ2pgMsAktcLonHUqBnZbu7H1zZLpH'
   currency: BTC
   label: Bit-donor.com
   is_cluster_definer: true
-- address: ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf
+- address: 'ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf'
   currency: NEO
   label: Neojune.blogspot.com
   is_cluster_definer: false
-- address: 1Q7gS7fi7R26kYRBXEcNeK7f2foi3BfkkE
+- address: '1Q7gS7fi7R26kYRBXEcNeK7f2foi3BfkkE'
   currency: BTC
   label: Medium.bitcoin-gain.org
   is_cluster_definer: true
-- address: 1Q7gS7fi7R26kYRBXEcNeK7f2foi3BfkkE
-  currency: BTC
-  label: Medium.bitcoin-gain.org
-  is_cluster_definer: true
-- address: 1Q7gS7fi7R26kYRBXEcNeK7f2foi3BfkkE
-  currency: BTC
-  label: Bitcoin-gain.org
-  is_cluster_definer: true
-- address: 1Q7gS7fi7R26kYRBXEcNeK7f2foi3BfkkE
+- address: '1Q7gS7fi7R26kYRBXEcNeK7f2foi3BfkkE'
   currency: BTC
   label: Bitcoin-gain.org
   is_cluster_definer: true
@@ -13559,7 +12399,7 @@ tags:
   currency: ETH
   label: Airdrop-sale.online
   is_cluster_definer: false
-- address: 1N2uxuMXP7RmZov8XuB13sUiKcSSAABmVf
+- address: '1N2uxuMXP7RmZov8XuB13sUiKcSSAABmVf'
   currency: ETH
   label: Airdrop-sale.online
   is_cluster_definer: false
@@ -13567,11 +12407,11 @@ tags:
   currency: ETH
   label: Airdrop-main.info
   is_cluster_definer: false
-- address: 1KHmDxF8bgRN7WngcDbTcVSgpD7PbSo8Sv
+- address: '1KHmDxF8bgRN7WngcDbTcVSgpD7PbSo8Sv'
   currency: ETH
   label: Airdrop-main.info
   is_cluster_definer: false
-- address: 1PiEQRDCDWZqFCNMryMFvFJn1RyhboRCV
+- address: '1PiEQRDCDWZqFCNMryMFvFJn1RyhboRCV'
   currency: ETH
   label: Bitfinex.click
   is_cluster_definer: false
@@ -13583,11 +12423,11 @@ tags:
   currency: ETH
   label: Official-events.site
   is_cluster_definer: false
-- address: 1BxuUsSzj9t8bhKvwdPDJhsddtxBuWigQw
+- address: '1BxuUsSzj9t8bhKvwdPDJhsddtxBuWigQw'
   currency: ETH
   label: Official-events.site
   is_cluster_definer: false
-- address: 32sPuzVsc1HmJMaXr47GkNSKoMDxh89J2f
+- address: '32sPuzVsc1HmJMaXr47GkNSKoMDxh89J2f'
   currency: ETH
   label: Starcoine.com
   is_cluster_definer: false
@@ -13595,7 +12435,7 @@ tags:
   currency: ETH
   label: Starcoine.com
   is_cluster_definer: false
-- address: 3AX8n9zGBeeDmQRXaxQZnNR67sNyEwcagh
+- address: '3AX8n9zGBeeDmQRXaxQZnNR67sNyEwcagh'
   currency: ETH
   label: Cryptohype.world
   is_cluster_definer: false
@@ -13603,7 +12443,7 @@ tags:
   currency: ETH
   label: Cryptohype.world
   is_cluster_definer: false
-- address: 4AWa1ny75eoCcUVQWaWzL6Lp3WHZrFc3HVj9J8x1yautRYGkPLXUn72VP62HkF7oU4UqHd2nDLWhUWfx3F6cvekDRF5v5um
+- address: '4AWa1ny75eoCcUVQWaWzL6Lp3WHZrFc3HVj9J8x1yautRYGkPLXUn72VP62HkF7oU4UqHd2nDLWhUWfx3F6cvekDRF5v5um'
   currency: ETH
   label: Cryptohype.world
   is_cluster_definer: false
@@ -13627,7 +12467,7 @@ tags:
   currency: ETH
   label: Official-promo.pw
   is_cluster_definer: false
-- address: 12XayTGLXMKTyhFYNftsATEHzWBM1zcj38
+- address: '12XayTGLXMKTyhFYNftsATEHzWBM1zcj38'
   currency: ETH
   label: Official-promo.pw
   is_cluster_definer: false
@@ -13635,15 +12475,15 @@ tags:
   currency: ETH
   label: Official-promo.pro
   is_cluster_definer: false
-- address: 1HXHkW7qj8zXkthXx1DtvfdJ7fX9pWLKwf
+- address: '1HXHkW7qj8zXkthXx1DtvfdJ7fX9pWLKwf'
   currency: ETH
   label: Official-promo.pro
   is_cluster_definer: false
-- address: 1KJYEvDADrvyT2TzZNCpBkF8m9fAbrVjhQ
+- address: '1KJYEvDADrvyT2TzZNCpBkF8m9fAbrVjhQ'
   currency: ETH
   label: Promo-from-buterin.site
   is_cluster_definer: false
-- address: 1JFg9MfdXBTyNVZZCCB6HBmsSuTyEKN1rk
+- address: '1JFg9MfdXBTyNVZZCCB6HBmsSuTyEKN1rk'
   currency: ETH
   label: Promo-from-buterin.site
   is_cluster_definer: false
@@ -13659,11 +12499,11 @@ tags:
   currency: ETH
   label: Bnb-zendesk.com
   is_cluster_definer: false
-- address: 19XHgzjX2d14hboJLpDHurVp9VpiKB7X9A
+- address: '19XHgzjX2d14hboJLpDHurVp9VpiKB7X9A'
   currency: ETH
   label: Bnb-zendesk.com
   is_cluster_definer: false
-- address: ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf
+- address: 'ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf'
   currency: NEO
   label: Neojunex2.blogspot.com
   is_cluster_definer: false
@@ -13675,11 +12515,11 @@ tags:
   currency: ETH
   label: Xn--calbra-yva.com
   is_cluster_definer: false
-- address: 34Wfo9bQtWSFox89981sEEqPUCM6guBzVc
+- address: '34Wfo9bQtWSFox89981sEEqPUCM6guBzVc'
   currency: BTC
   label: Zilliqa.tech
   is_cluster_definer: true
-- address: 3ARdn5pKaybo6DoEZ1iBxeEJK81ZmgYX4E
+- address: '3ARdn5pKaybo6DoEZ1iBxeEJK81ZmgYX4E'
   currency: ETH
   label: Cryptosupport.live
   is_cluster_definer: false
@@ -13687,11 +12527,11 @@ tags:
   currency: ETH
   label: Cryptosupport.live
   is_cluster_definer: false
-- address: MM3MAuhBdPQhE6SWm2ZrfTYH7UUn739YwG
+- address: 'MM3MAuhBdPQhE6SWm2ZrfTYH7UUn739YwG'
   currency: ETH
   label: Cryptosupport.live
   is_cluster_definer: false
-- address: 1CqDpW6FzdTZstondbgUZcjs3g9fTTdp9K
+- address: '1CqDpW6FzdTZstondbgUZcjs3g9fTTdp9K'
   currency: ETH
   label: Zendesk-bnb.com
   is_cluster_definer: false
@@ -13707,23 +12547,23 @@ tags:
   currency: ETH
   label: Junecoinsx2.blogspot.com
   is_cluster_definer: false
-- address: bnb12vfz64rxhtmjp85nwuq09fx6976g7smvzwdm9x
+- address: 'bnb12vfz64rxhtmjp85nwuq09fx6976g7smvzwdm9x'
   currency: ETH
   label: Junecoinsx2.blogspot.com
   is_cluster_definer: false
-- address: TRyZs5aTpVrS6ZgWb1NxCnGjktxHYtrD1F
+- address: 'TRyZs5aTpVrS6ZgWb1NxCnGjktxHYtrD1F'
   currency: ETH
   label: Junecoinsx2.blogspot.com
   is_cluster_definer: false
-- address: ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf
+- address: 'ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf'
   currency: ETH
   label: Junecoinsx2.blogspot.com
   is_cluster_definer: false
-- address: rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY
+- address: 'rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY'
   currency: ETH
   label: Junecoinsx2.blogspot.com
   is_cluster_definer: false
-- address: 3PWzgL8n9NoK4SxratetDABid2bFgE8ftW
+- address: '3PWzgL8n9NoK4SxratetDABid2bFgE8ftW'
   currency: ETH
   label: Cryptexplatform.com
   is_cluster_definer: false
@@ -13731,7 +12571,7 @@ tags:
   currency: ETH
   label: Cryptexplatform.com
   is_cluster_definer: false
-- address: 31tdhvgYpkJoMpJs75pkzcp27GpATwYsHc
+- address: '31tdhvgYpkJoMpJs75pkzcp27GpATwYsHc'
   currency: ETH
   label: Coineplus.com
   is_cluster_definer: false
@@ -13747,7 +12587,7 @@ tags:
   currency: ETH
   label: Medium.exchange-promo.fun
   is_cluster_definer: false
-- address: 1LLiTbEQE1jUayUKyeyokYCYBEi5rZ1Ghx
+- address: '1LLiTbEQE1jUayUKyeyokYCYBEi5rZ1Ghx'
   currency: ETH
   label: Medium.exchange-promo.fun
   is_cluster_definer: false
@@ -13755,22 +12595,14 @@ tags:
   currency: ETH
   label: Pompliano-promo.netlify.com
   is_cluster_definer: true
-- address: '0x030a027cdd6994a712fbb1efd6d36369ec7cca89'
-  currency: ETH
-  label: Pompliano-promo.netlify.com
-  is_cluster_definer: true
-- address: 1EWdps7P7o2u616u9a36CK6Jjnbr1A2HUJ
+- address: '1EWdps7P7o2u616u9a36CK6Jjnbr1A2HUJ'
   currency: ETH
   label: Pompliano-promo.netlify.com
   is_cluster_definer: false
-- address: 1EWdps7P7o2u616u9a36CK6Jjnbr1A2HUJ
+- address: '1EWdps7P7o2u616u9a36CK6Jjnbr1A2HUJ'
   currency: ETH
   label: Coinbase.getforge.io
   is_cluster_definer: false
-- address: '0x030a027cdd6994a712fbb1efd6d36369ec7cca89'
-  currency: ETH
-  label: Coinbase.getforge.io
-  is_cluster_definer: true
 - address: '0x030a027cdd6994a712fbb1efd6d36369ec7cca89'
   currency: ETH
   label: Coinbase.getforge.io
@@ -13779,11 +12611,11 @@ tags:
   currency: ETH
   label: More-getback.site
   is_cluster_definer: false
-- address: 19rrCiyggKoGD1XEdrGn5t1XKBoS1kAgiS
+- address: '19rrCiyggKoGD1XEdrGn5t1XKBoS1kAgiS'
   currency: ETH
   label: More-getback.site
   is_cluster_definer: false
-- address: rJDo4mJtEd5gH2C1LFFiQUhDjxUkdXcLLQ
+- address: 'rJDo4mJtEd5gH2C1LFFiQUhDjxUkdXcLLQ'
   currency: XRP
   label: Ripplecompetition.com
   is_cluster_definer: false
@@ -13791,7 +12623,7 @@ tags:
   currency: ETH
   label: Zendesk-bnb.org
   is_cluster_definer: false
-- address: 1CqDpW6FzdTZstondbgUZcjs3g9fTTdp9K
+- address: '1CqDpW6FzdTZstondbgUZcjs3g9fTTdp9K'
   currency: ETH
   label: Zendesk-bnb.org
   is_cluster_definer: false
@@ -13799,7 +12631,7 @@ tags:
   currency: ETH
   label: Coinbasepro10000.webcindario.com
   is_cluster_definer: false
-- address: ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf
+- address: 'ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf'
   currency: NEO
   label: Neojulyx2.blogspot.com
   is_cluster_definer: false
@@ -13811,7 +12643,7 @@ tags:
   currency: ETH
   label: Eth.gift
   is_cluster_definer: false
-- address: 1Fpgu7NjoBx73237q51w8N14DcACSBSxv8
+- address: '1Fpgu7NjoBx73237q51w8N14DcACSBSxv8'
   currency: ETH
   label: Gram-ton.com
   is_cluster_definer: false
@@ -13819,19 +12651,19 @@ tags:
   currency: ETH
   label: Gram-ton.com
   is_cluster_definer: true
-- address: raHtX9jJf2ytdLPFivn9pjuvHNsvB4hRYf
+- address: 'raHtX9jJf2ytdLPFivn9pjuvHNsvB4hRYf'
   currency: ETH
   label: Gram-ton.com
   is_cluster_definer: false
-- address: 19WZkLuC6meqfHPEfbedpTAP1WXEHeyG61
+- address: '19WZkLuC6meqfHPEfbedpTAP1WXEHeyG61'
   currency: ETH
   label: Gram-ton.com
   is_cluster_definer: false
-- address: rrSuJZZudhq4U9uS1uUQtxvJCHoa6ckaf
+- address: 'rrSuJZZudhq4U9uS1uUQtxvJCHoa6ckaf'
   currency: XRP
   label: Ripplesupport.org
   is_cluster_definer: false
-- address: 1EyVZruWsPedgyBBDPb5rFGdz6D4MvFAza
+- address: '1EyVZruWsPedgyBBDPb5rFGdz6D4MvFAza'
   currency: BTC
   label: 6602c412-67f3-4725-92eb-5c2ebb2c6166.htmlpasta.com
   is_cluster_definer: true
@@ -13843,7 +12675,7 @@ tags:
   currency: ETH
   label: Binance-claims.netlify.com
   is_cluster_definer: false
-- address: 198hbS6FzPjKnTe7YoHLmyKRP2nvbNeqWA
+- address: '198hbS6FzPjKnTe7YoHLmyKRP2nvbNeqWA'
   currency: ETH
   label: Binance-claims.netlify.com
   is_cluster_definer: false
@@ -13851,7 +12683,7 @@ tags:
   currency: ETH
   label: Eth-btcpromotion.online
   is_cluster_definer: false
-- address: 1GoX4gtrUyPBSPGYKJPx6WXonPD2YTZnSe
+- address: '1GoX4gtrUyPBSPGYKJPx6WXonPD2YTZnSe'
   currency: ETH
   label: Eth-btcpromotion.online
   is_cluster_definer: false
@@ -13875,7 +12707,7 @@ tags:
   currency: ETH
   label: Doubleethereum.cc
   is_cluster_definer: true
-- address: 1LUUyyRDP6AjDUJ7D7iG2LA1jPGoTnKamy
+- address: '1LUUyyRDP6AjDUJ7D7iG2LA1jPGoTnKamy'
   currency: BTC
   label: Bitcoindrop.net
   is_cluster_definer: true
@@ -13883,7 +12715,7 @@ tags:
   currency: BTC
   label: Binancepromo-now.online
   is_cluster_definer: false
-- address: 1BiyLYjfDNQSP81uvr5gzNW77P2viGWi8m
+- address: '1BiyLYjfDNQSP81uvr5gzNW77P2viGWi8m'
   currency: BTC
   label: Binancepromo-now.online
   is_cluster_definer: true
@@ -13891,7 +12723,7 @@ tags:
   currency: BTC
   label: Giveaway-crypto.tech
   is_cluster_definer: false
-- address: 3QiMNzCcMgWEgEavZac9t7NqA4FjN5Do2v
+- address: '3QiMNzCcMgWEgEavZac9t7NqA4FjN5Do2v'
   currency: BTC
   label: Giveaway-crypto.tech
   is_cluster_definer: false
@@ -13911,7 +12743,7 @@ tags:
   currency: ETH
   label: Eth20.org
   is_cluster_definer: false
-- address: 1NM4VJ9deWtjLq8zPKVop5rwCHjLdynTnY
+- address: '1NM4VJ9deWtjLq8zPKVop5rwCHjLdynTnY'
   currency: BTC
   label: Binance-bit.net
   is_cluster_definer: true
@@ -13923,11 +12755,11 @@ tags:
   currency: BTC
   label: Extravaganza-event.website
   is_cluster_definer: false
-- address: 1M2vwn8f93hEJwM4Pd4Wak59HeHkRK842d
+- address: '1M2vwn8f93hEJwM4Pd4Wak59HeHkRK842d'
   currency: BTC
   label: Extravaganza-event.website
   is_cluster_definer: true
-- address: 1VzLd5oXbtSUR5cpvGewnpGyaDKan9kQZ
+- address: '1VzLd5oXbtSUR5cpvGewnpGyaDKan9kQZ'
   currency: ETH
   label: Teslapromo.info
   is_cluster_definer: false
@@ -13939,7 +12771,7 @@ tags:
   currency: ETH
   label: Ethbuterin.com
   is_cluster_definer: false
-- address: 1LLiTbEQE1jUayUKyeyokYCYBEi5rZ1Ghx
+- address: '1LLiTbEQE1jUayUKyeyokYCYBEi5rZ1Ghx'
   currency: ETH
   label: Airdrop.best-event.site
   is_cluster_definer: false
@@ -13947,7 +12779,7 @@ tags:
   currency: ETH
   label: Airdrop.best-event.site
   is_cluster_definer: false
-- address: LNpyxKQ1XRzWRE2NjZoiG3yZNtrAbctLjy
+- address: 'LNpyxKQ1XRzWRE2NjZoiG3yZNtrAbctLjy'
   currency: LTC
   label: Xn--medum-1sa.com
   is_cluster_definer: true
@@ -13955,7 +12787,7 @@ tags:
   currency: ETH
   label: News.binannce.net
   is_cluster_definer: false
-- address: 18xKScaFM3hz5P1HdPH1Qy4Ekt8e7mUXgT
+- address: '18xKScaFM3hz5P1HdPH1Qy4Ekt8e7mUXgT'
   currency: ETH
   label: News.binannce.net
   is_cluster_definer: false
@@ -13963,15 +12795,15 @@ tags:
   currency: ETH
   label: Elon-musk.xyz
   is_cluster_definer: false
-- address: 134BbK9A35erMCMvn8khA7JxkSoohwGTRq
+- address: '134BbK9A35erMCMvn8khA7JxkSoohwGTRq'
   currency: ETH
   label: Elon-musk.xyz
   is_cluster_definer: false
-- address: 1Mb3rqiT9cSFYMipdA6T4xWb4z2GAXXrJN
+- address: '1Mb3rqiT9cSFYMipdA6T4xWb4z2GAXXrJN'
   currency: BTC
   label: Bitcoingift.net
   is_cluster_definer: true
-- address: ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf
+- address: 'ATVMaR3SXKRBtwCNgPjV5k2YzEgzMDYeaf'
   currency: NEO
   label: X2neojuly.blogspot.com
   is_cluster_definer: false
@@ -13979,7 +12811,7 @@ tags:
   currency: ETH
   label: Celebration-binance.netlify.com
   is_cluster_definer: false
-- address: 1PfgLydXR2MAg21hNeUJL5LdxFmDeS26Lo
+- address: '1PfgLydXR2MAg21hNeUJL5LdxFmDeS26Lo'
   currency: ETH
   label: Celebration-binance.netlify.com
   is_cluster_definer: false
@@ -13987,23 +12819,23 @@ tags:
   currency: ETH
   label: Binance-promo.netlify.com
   is_cluster_definer: false
-- address: 13kg4Ah7vhMXeaHhDhqRVkETnWscTTFMv2
+- address: '13kg4Ah7vhMXeaHhDhqRVkETnWscTTFMv2'
   currency: ETH
   label: Binance-promo.netlify.com
   is_cluster_definer: false
-- address: 3Jhqy7b9gYo3i1HLZT4HFMcCf74CFoE7UP
+- address: '3Jhqy7b9gYo3i1HLZT4HFMcCf74CFoE7UP'
   currency: BTC
   label: Binance-gives.com
   is_cluster_definer: false
-- address: 1A72oXVqv2t3mzir26tFNrtCXZ8MyvzaDa
+- address: '1A72oXVqv2t3mzir26tFNrtCXZ8MyvzaDa'
   currency: BTC
   label: Binance2.vip
   is_cluster_definer: true
-- address: 13mXSgBUrKKjuJZ9bcofCwf5abbPMzmox4
+- address: '13mXSgBUrKKjuJZ9bcofCwf5abbPMzmox4'
   currency: BTC
   label: 5000drop.com
   is_cluster_definer: true
-- address: 1BVnXUv6HprtrjGnrceMr9y1wRhDuMSr2Z
+- address: '1BVnXUv6HprtrjGnrceMr9y1wRhDuMSr2Z'
   currency: BTC
   label: Getpromo.me
   is_cluster_definer: true
@@ -14019,7 +12851,7 @@ tags:
   currency: ETH
   label: Binancegift.org
   is_cluster_definer: false
-- address: 1CDH7oUUxMyo6T5QHovu82ygUEXpQ5rgWV
+- address: '1CDH7oUUxMyo6T5QHovu82ygUEXpQ5rgWV'
   currency: ETH
   label: Binancegift.org
   is_cluster_definer: false
@@ -14027,7 +12859,7 @@ tags:
   currency: ETH
   label: Win-giveaway.com
   is_cluster_definer: false
-- address: 1CHJmV6AJ8qZhMjB2K6kmGv9tSnfWyq37E
+- address: '1CHJmV6AJ8qZhMjB2K6kmGv9tSnfWyq37E'
   currency: ETH
   label: Win-giveaway.com
   is_cluster_definer: false
@@ -14035,7 +12867,7 @@ tags:
   currency: ETH
   label: Crypto-extravaganza.tech
   is_cluster_definer: false
-- address: 1Hj2r8SnVim48qG3E4QwZ6td8PMcUiXnGU
+- address: '1Hj2r8SnVim48qG3E4QwZ6td8PMcUiXnGU'
   currency: ETH
   label: Crypto-extravaganza.tech
   is_cluster_definer: false
@@ -14043,19 +12875,19 @@ tags:
   currency: ETH
   label: Binance-team.com
   is_cluster_definer: false
-- address: 1CDH7oUUxMyo6T5QHovu82ygUEXpQ5rgWV
+- address: '1CDH7oUUxMyo6T5QHovu82ygUEXpQ5rgWV'
   currency: ETH
   label: Binance-team.com
   is_cluster_definer: false
-- address: 1Mn386ue8o3mW9866octLNP8HFqcYsphJCV
+- address: '1Mn386ue8o3mW9866octLNP8HFqcYsphJCV'
   currency: ETH
   label: Binanceteams.net
   is_cluster_definer: false
-- address: 1CK9kT35qZHGAb7kuqZeKfKQc3j6Ezt8JZ
+- address: '1CK9kT35qZHGAb7kuqZeKfKQc3j6Ezt8JZ'
   currency: ETH
   label: Binance2.epizy.com
   is_cluster_definer: false
-- address: rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY
+- address: 'rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY'
   currency: XRP
   label: Xrpx2july.blogspot.com
   is_cluster_definer: false
@@ -14063,7 +12895,7 @@ tags:
   currency: ETH
   label: Binpromo.net
   is_cluster_definer: false
-- address: 16NwAMjoYUxYzBTqWFFHApRUubJRFCAEwj
+- address: '16NwAMjoYUxYzBTqWFFHApRUubJRFCAEwj'
   currency: ETH
   label: Binpromo.net
   is_cluster_definer: false
@@ -14071,7 +12903,7 @@ tags:
   currency: ETH
   label: Dropfestextravaganza.tech
   is_cluster_definer: false
-- address: 1BiyLYjfDNQSP81uvr5gzNW77P2viGWi8m
+- address: '1BiyLYjfDNQSP81uvr5gzNW77P2viGWi8m'
   currency: ETH
   label: Dropfestextravaganza.tech
   is_cluster_definer: false
@@ -14079,7 +12911,7 @@ tags:
   currency: ETH
   label: Fly-promo.online
   is_cluster_definer: false
-- address: 1Hj2r8SnVim48qG3E4QwZ6td8PMcUiXnGU
+- address: '1Hj2r8SnVim48qG3E4QwZ6td8PMcUiXnGU'
   currency: ETH
   label: Fly-promo.online
   is_cluster_definer: false
@@ -14087,11 +12919,11 @@ tags:
   currency: ETH
   label: Dropbinance.com
   is_cluster_definer: false
-- address: 1CdWQJMiQF1uYbwKc7fb5VBb9JBrhykcNf
+- address: '1CdWQJMiQF1uYbwKc7fb5VBb9JBrhykcNf'
   currency: ETH
   label: Dropbinance.com
   is_cluster_definer: false
-- address: rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY
+- address: 'rhTCdpaZQSKbHNYY85xPLMEWQbyxYr4SFY'
   currency: XRP
   label: Xrpx2july.blogspot.co.ke
   is_cluster_definer: false
@@ -14099,11 +12931,11 @@ tags:
   currency: ETH
   label: Giftbinance.com
   is_cluster_definer: false
-- address: 1CdWQJMiQF1uYbwKc7fb5VBb9JBrhykcNf
+- address: '1CdWQJMiQF1uYbwKc7fb5VBb9JBrhykcNf'
   currency: ETH
   label: Giftbinance.com
   is_cluster_definer: false
-- address: 14MPxfjhTaFF567XHZdkffMBAX72oxfWR7
+- address: '14MPxfjhTaFF567XHZdkffMBAX72oxfWR7'
   currency: ETH
   label: Anniversary-eth.com
   is_cluster_definer: false

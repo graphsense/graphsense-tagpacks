@@ -12748,7 +12748,7 @@ tags:
   label: Binance-bit.net
   is_cluster_definer: true
 - address: '0x76638dE7e1A2AE5128Ff808D17a0A636Ba16324a'
-  currency: BTC
+  currency: ETH
   label: Binance-bit.net
   is_cluster_definer: false
 - address: '0x714b56C2454E2EF5E908daA7CCfcE1A73184F2B9'

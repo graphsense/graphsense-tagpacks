@@ -13,36 +13,36 @@ tags:
 - address: 3L48QW2MVd49fj997S6J5NBm7MrsvhpEmg
   label: sideshift.ai
   currency: BTC
-  category: mixer
+  category: mixing_service
 - address: 324mNGWxUKvM2TSrPPGRJeF6yB2ShFrp9C
   label: sideshift.ai
-  category: mixer
+  category: mixing_service
   currency: BTC
 - address: 3PXwDybGf1KRZXRmiDXrLwjeN2xUFmWsGn
   label: sideshift.ai
-  category: mixer
+  category: mixing_service
   currency: BTC
 - address: 3QZaqvX46RnEzHyajQm58dvF9bSbPRV9Zn
   label: sideshift.ai
-  category: mixer
+  category: mixing_service
   currency: BTC
 - address: 35fZ5MkMjiNMT4QwvWt1oYfQsUBuHk7R88
   label: sideshift.ai
-  category: mixer
+  category: mixing_service
   currency: BTC
 - address: 35mWWqXc5dAswpQaTMD5TsRHuQxQyAwrCH
   label: sideshift.ai
-  category: mixer
+  category: mixing_service
   currency: BTC
 - address: "0xD7f0E24Bd353404752F61c16EFed0847998B1205"
   label: sideshift.ai
-  category: mixer
+  category: mixing_service
   currency: ETH
 - address: "0x87ef9c733296fF2E6Aae8d1023C0C4a53909a40f"
   label: sideshift.ai
-  category: mixer
+  category: mixing_service
   currency: ETH
 - address: "0xcDd37Ada79F589c15bD4f8fD2083dc88E34A2af2"
   label: sideshift.ai
-  category: mixer
+  category: mixing_service
   currency: ETH

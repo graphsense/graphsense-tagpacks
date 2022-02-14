@@ -628,7 +628,7 @@ tags:
 - address: 3Hd4H9djrv9vyQ9S2T86oVK42Fv3NUs4cM
   label: BitcoinFog
   source: https://www.walletexplorer.com/address/3Hd4H9djrv9vyQ9S2T86oVK42Fv3NUs4cM
-  category: mixer
+  category: mixing_service
 - address: 1GXA41EhA6sCBsDqbSLK5SLmZL6ohUPi2c
   label: CoinJar.com
   source: https://www.walletexplorer.com/address/1GXA41EhA6sCBsDqbSLK5SLmZL6ohUPi2c
@@ -644,143 +644,143 @@ tags:
 - address: 189sx3cvfJjJ13qKcEu1BZpV23Nz3pe5Gh
   label: HelixMixer
   source: https://www.walletexplorer.com/address/189sx3cvfJjJ13qKcEu1BZpV23Nz3pe5Gh
-  category: mixer
+  category: mixing_service
 - address: 1FCGY1Y8gGGLGJQt25EV4NZwCp1o9471tm
   label: HelixMixer
   source: https://www.walletexplorer.com/address/1FCGY1Y8gGGLGJQt25EV4NZwCp1o9471tm
-  category: mixer
+  category: mixing_service
 - address: 1S6e3RF6FeDTgsBQqT1khyhhxjvccbqQ6
   label: HelixMixer
   source: https://www.walletexplorer.com/address/1S6e3RF6FeDTgsBQqT1khyhhxjvccbqQ6
-  category: mixer
+  category: mixing_service
 - address: 1Ep7uERoQ9jkR2QU2kCoFJ7dYFvvjUemHX
   label: HelixMixer
   source: https://www.walletexplorer.com/address/1Ep7uERoQ9jkR2QU2kCoFJ7dYFvvjUemHX
-  category: mixer
+  category: mixing_service
 - address: 1MLKhJrnMEZWzoLS8PtnxmfD7zmYuHhQPp
   label: HelixMixer
   source: https://www.walletexplorer.com/address/1MLKhJrnMEZWzoLS8PtnxmfD7zmYuHhQPp
-  category: mixer
+  category: mixing_service
 - address: 1Dk5PVnBpyaERQQfigoC9TRkCRZ7Cv2Sg3
   label: HelixMixer
   source: https://www.walletexplorer.com/address/1Dk5PVnBpyaERQQfigoC9TRkCRZ7Cv2Sg3
-  category: mixer
+  category: mixing_service
 - address: 17urmZ3HfdfivHFS1oLBT9aXbE85wMUGcY
   label: HelixMixer
   source: https://www.walletexplorer.com/address/17urmZ3HfdfivHFS1oLBT9aXbE85wMUGcY
-  category: mixer
+  category: mixing_service
 - address: 1FKPUFEF2xp4h6XRDFVfofjV979n8Nn4FD
   label: HelixMixer
   source: https://www.walletexplorer.com/address/1FKPUFEF2xp4h6XRDFVfofjV979n8Nn4FD
-  category: mixer
+  category: mixing_service
 - address: 15jYWwzMdechasgKzdgiahDvkd69d1yfvi
   label: HelixMixer
   source: https://www.walletexplorer.com/address/15jYWwzMdechasgKzdgiahDvkd69d1yfvi
-  category: mixer
+  category: mixing_service
 - address: 17FNhrq8rrmQNpNeP51XEX13mqnB3bKLwH
   label: HelixMixer
   source: https://www.walletexplorer.com/address/17FNhrq8rrmQNpNeP51XEX13mqnB3bKLwH
-  category: mixer
+  category: mixing_service
 - address: 12QVT4TeW9RQZ5dcdK3V2kbPHvcaub6qy4
   label: HelixMixer
   source: https://www.walletexplorer.com/address/12QVT4TeW9RQZ5dcdK3V2kbPHvcaub6qy4
-  category: mixer
+  category: mixing_service
 - address: 1QKjwu1BVymHTtVeVVwTA6ZVnfd8ivpz7b
   label: HelixMixer
   source: https://www.walletexplorer.com/address/1QKjwu1BVymHTtVeVVwTA6ZVnfd8ivpz7b
-  category: mixer
+  category: mixing_service
 - address: 17UZY9PKqpEpkJh9F6AJ7qnSwGFhKWZEsR
   label: HelixMixer
   source: https://www.walletexplorer.com/address/17UZY9PKqpEpkJh9F6AJ7qnSwGFhKWZEsR
-  category: mixer
+  category: mixing_service
 - address: 16DmoH17r1HPkqoWTnCjpeLAtwoivxi8vx
   label: HelixMixer
   source: https://www.walletexplorer.com/address/16DmoH17r1HPkqoWTnCjpeLAtwoivxi8vx
-  category: mixer
+  category: mixing_service
 - address: 1KGRjwzP278CRGyH3eiDHWRmfh7kPAZvrh
   label: HelixMixer
   source: https://www.walletexplorer.com/address/1KGRjwzP278CRGyH3eiDHWRmfh7kPAZvrh
-  category: mixer
+  category: mixing_service
 - address: 1NB5ZS8nZ11Q6mt2HipswaG7ktma4WXvGS
   label: HelixMixer
   source: https://www.walletexplorer.com/address/1NB5ZS8nZ11Q6mt2HipswaG7ktma4WXvGS
-  category: mixer
+  category: mixing_service
 - address: 1DPEgCsiBLK5KnfgjfVyefA6ryd6azAoFT
   label: HelixMixer
   source: https://www.walletexplorer.com/address/1DPEgCsiBLK5KnfgjfVyefA6ryd6azAoFT
-  category: mixer
+  category: mixing_service
 - address: 18D8owSFDtsGB7Z5kUJLE3juNEajYiAN5E
   label: HelixMixer
   source: https://www.walletexplorer.com/address/18D8owSFDtsGB7Z5kUJLE3juNEajYiAN5E
-  category: mixer
+  category: mixing_service
 - address: 12gGpXLJm2H1UqCNxtqa3Rd35kzaL8FL8S
   label: HelixMixer
   source: https://www.walletexplorer.com/address/12gGpXLJm2H1UqCNxtqa3Rd35kzaL8FL8S
-  category: mixer
+  category: mixing_service
 - address: 1JaLu4mHcgh4dctvrkFDtohuT5A7BU5c61
   label: HelixMixer
   source: https://www.walletexplorer.com/address/1JaLu4mHcgh4dctvrkFDtohuT5A7BU5c61
-  category: mixer
+  category: mixing_service
 - address: 1CzRGQPYkmA5VmL7kNhqUmuaKJ3T6d74EZ
   label: HelixMixer
   source: https://www.walletexplorer.com/address/1CzRGQPYkmA5VmL7kNhqUmuaKJ3T6d74EZ
-  category: mixer
+  category: mixing_service
 - address: 1Lhj6pGnYX3YgjhhTH6xwSvCCfkotjNnCe
   label: HelixMixer
   source: https://www.walletexplorer.com/address/1Lhj6pGnYX3YgjhhTH6xwSvCCfkotjNnCe
-  category: mixer
+  category: mixing_service
 - address: 1HTGRM8kRKknrRiqsYVtwAJUMxEXJ7oQ5v
   label: HelixMixer
   source: https://www.walletexplorer.com/address/1HTGRM8kRKknrRiqsYVtwAJUMxEXJ7oQ5v
-  category: mixer
+  category: mixing_service
 - address: 12yJ8YpdRygw7h7xNo2g89fXaPEnMcXAe8
   label: HelixMixer
   source: https://www.walletexplorer.com/address/12yJ8YpdRygw7h7xNo2g89fXaPEnMcXAe8
-  category: mixer
+  category: mixing_service
 - address: 19jqSCD1iT2DPrtS3zuTqG3RUPuLLX1omA
   label: HelixMixer
   source: https://www.walletexplorer.com/address/19jqSCD1iT2DPrtS3zuTqG3RUPuLLX1omA
-  category: mixer
+  category: mixing_service
 - address: 1HQaGqRTRGeSUEzvTLvoxGLZ7fCPuvMibL
   label: HelixMixer
   source: https://www.walletexplorer.com/address/1HQaGqRTRGeSUEzvTLvoxGLZ7fCPuvMibL
-  category: mixer
+  category: mixing_service
 - address: 1B9VYTeVEPj3HqRRg7g7vQGPaiWrAznQTd
   label: HelixMixer
   source: https://www.walletexplorer.com/address/1B9VYTeVEPj3HqRRg7g7vQGPaiWrAznQTd
-  category: mixer
+  category: mixing_service
 - address: 13KBRwUNHcRK5pNeHhyJJMNFhtinjmC8ZD
   label: HelixMixer
   source: https://www.walletexplorer.com/address/13KBRwUNHcRK5pNeHhyJJMNFhtinjmC8ZD
-  category: mixer
+  category: mixing_service
 - address: 12P346sNugbieE35YeBoawhGt1k5bws6sz
   label: HelixMixer
   source: https://www.walletexplorer.com/address/12P346sNugbieE35YeBoawhGt1k5bws6sz
-  category: mixer
+  category: mixing_service
 - address: 1B3DPHiXLkAnqLeCJ6XPxrhNztxPdGuiQH
   label: HelixMixer
   source: https://www.walletexplorer.com/address/1B3DPHiXLkAnqLeCJ6XPxrhNztxPdGuiQH
-  category: mixer
+  category: mixing_service
 - address: 1HKAiMDV6Z5A8TrTgcTjM4hZ4fEgYnuTu
   label: HelixMixer
   source: https://www.walletexplorer.com/address/1HKAiMDV6Z5A8TrTgcTjM4hZ4fEgYnuTu
-  category: mixer
+  category: mixing_service
 - address: 17z1UJQGQbaoU9rsUgwSftWNzBZRiSQfo8
   label: HelixMixer
   source: https://www.walletexplorer.com/address/17z1UJQGQbaoU9rsUgwSftWNzBZRiSQfo8
-  category: mixer
+  category: mixing_service
 - address: 19ZbtDqwSRpZeZzpeSQUsLVMm2Du9iv2ZV
   label: HelixMixer
   source: https://www.walletexplorer.com/address/19ZbtDqwSRpZeZzpeSQUsLVMm2Du9iv2ZV
-  category: mixer
+  category: mixing_service
 - address: 1A4WJ6aQQvhciBuGDLzJymCZi1CEZs4RZB
   label: HelixMixer
   source: https://www.walletexplorer.com/address/1A4WJ6aQQvhciBuGDLzJymCZi1CEZs4RZB
-  category: mixer
+  category: mixing_service
 - address: 17FUvSRRH4ziFBQjRAda2YYZz9e4RbqxnX
   label: HelixMixer
   source: https://www.walletexplorer.com/address/17FUvSRRH4ziFBQjRAda2YYZz9e4RbqxnX
-  category: mixer
+  category: mixing_service
 - address: 1FBdATuiou5nC13tGBAXfSQNMJ1NE92Tb6
   label: BTCJam.com
   source: https://www.walletexplorer.com/address/1FBdATuiou5nC13tGBAXfSQNMJ1NE92Tb6
@@ -904,7 +904,7 @@ tags:
 - address: 1DLKdw2MgL6biQnevCKVTU3otYJNyN8NN5
   label: BitLaunder.com
   source: https://www.walletexplorer.com/address/1DLKdw2MgL6biQnevCKVTU3otYJNyN8NN5
-  category: mixer
+  category: mixing_service
 - address: 13Fes87EQbbGgCmpT3nGTeL2LSnWPcrZzb
   label: BitClix.com
   source: https://www.walletexplorer.com/address/13Fes87EQbbGgCmpT3nGTeL2LSnWPcrZzb

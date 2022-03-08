@@ -1,9 +1,9 @@
 title: Ukraine Donee
 creator: Anton Wahrstätter
 confidence: 100
-is_cluster_definer: true
+is_cluster_definer: false
 description: A collection of donation addresses published by Ukraine's Twitter Account
-category: state
+category: government
 label: Ukraine Donee
 lastmod: 2022-03-08
 source: https://web.archive.org/web/20220308034025/https://twitter.com/Ukraine/status/1497594592438497282

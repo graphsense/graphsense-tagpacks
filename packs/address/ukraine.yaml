@@ -1,0 +1,14 @@
+title: Ukraine Donee
+creator: Anton Wahrstätter
+confidence: 100
+is_cluster_definer: true
+description: A collection of donation addresses published by Ukraine's Twitter Account
+category: state
+label: Ukraine Donee
+lastmod: 2022-03-08
+source: https://web.archive.org/web/20220308034025/https://twitter.com/Ukraine/status/1497594592438497282
+tags:
+- address: 357a3So9CbsNfBBgFYACGvxxS6tMaDoa1P
+  currency: BTC
+- address: '0x165CD37b4C644C2921454429E7F9358d18A45e14'
+  currency: ETH

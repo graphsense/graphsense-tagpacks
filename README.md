@@ -326,11 +326,11 @@ Each TagPack repository must have a file `config.yaml`, which defines the TagPac
 
     baseURI: https://github.com/graphsense/graphsense-tagpacks
     taxonomies:
-      entity: https://graphsense.info/DW-VA-Taxonomy/assets/data/entities.csv
-      abuse: https://graphsense.info/DW-VA-Taxonomy/assets/data/abuses.csv
+      entity: https://graphsense.github.io/DW-VA-Taxonomy/assets/data/entities.csv
+      abuse: https://graphsense.github.io/DW-VA-Taxonomy/assets/data/abuses.csv
 
-[dw-va]: https://graphsense.info/DW-VA-Taxonomy/
-[dw-va-abuse]: https://graphsense.info/DW-VA-Taxonomy/assets/data/abuses.csv
-[dw-va-entity]: https://graphsense.info/DW-VA-Taxonomy/assets/data/entities.csv
+[dw-va]: https://graphsense.github.io/DW-VA-Taxonomy/
+[dw-va-abuse]: https://graphsense.github.io/DW-VA-Taxonomy/assets/data/abuses.csv
+[dw-va-entity]: https://graphsense.github.io/DW-VA-Taxonomy/assets/data/entities.csv
 [tagpack-tool]: https://github.com/graphsense/graphsense-tagpack-tool
 [yaml]: https://yaml.org/

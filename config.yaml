@@ -1,4 +1,4 @@
 baseURI: https://github.com/graphsense/graphsense-tagpacks/blob/master
 taxonomies:
-  entity: https://graphsense.info/DW-VA-Taxonomy/assets/data/entities.csv
-  abuse: https://graphsense.info/DW-VA-Taxonomy/assets/data/abuses.csv
+  entity: https://graphsense.github.io/DW-VA-Taxonomy/assets/data/entities.csv
+  abuse: https://graphsense.github.io/DW-VA-Taxonomy/assets/data/abuses.csv

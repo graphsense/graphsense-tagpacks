@@ -1,0 +1,12 @@
+title: Africrypt TagPack
+creator: Beaunard Grobler
+is_cluster_definer: false
+confidence: authority_data
+description: Addresses related to Africrypt hack
+currency: BTC
+label: Africrypt
+abuse: service_hack
+lastmod: 2021-12-23
+tags:
+- address: 33HHUHRZ6W3Q5fjBEg6qMKup3tpaAvQgAr
+  source: https://mybroadband.co.za/news/cryptocurrency/403635-africrypts-hacked-bitcoin-billions-this-one-investor-lost-r41-million.html

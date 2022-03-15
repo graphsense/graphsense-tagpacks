@@ -1,0 +1,17 @@
+title: Twitter Hack Scam Tagpack
+creator: GraphSense Team
+description: Addresses used for scam related to Twitter Hack
+confidence: forensic
+is_cluster_definer: true
+abuse: scam
+currency: BTC
+label: Twitter Hack Scam
+created: 2020-08-31
+lastmod: 2021-11-12
+tags:
+- address: bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
+  source: https://techcrunch.com/2020/07/15/twitter-accounts-hacked-crypto-scam/
+- address: bc1qwr30ddc04zqp878c0evdrqfx564mmf0dy2w39l
+  source: https://techcrunch.com/2020/07/15/twitter-accounts-hacked-crypto-scam/
+- address: 1Ai52Uw6usjhpcDrwSmkUvjuqLpcznUuyF
+  source: https://medium.com/mycrypto/the-twitterhack-postmortem-423510de54a1

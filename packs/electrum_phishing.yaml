@@ -1,0 +1,32 @@
+title: Electrum Phishing Tagpack
+creator: GraphSense Core Team
+confidence: forensic
+description: Addresses related to Electrum wallet phishing attack
+lastmod: 2021-11-12
+label: Electrum phishing
+abuse: phishing
+tags:
+- address: bc1q92md7868uun8vplp9te0vaecmxyc5rrphdyvxg
+  currency: BTC
+  source: https://blog.malwarebytes.com/detections/osx-electrumstealer/
+  is_cluster_definer: true
+- address: bc1qhsrl6ywvwx44zycz2tylpexza4xvtqkv6d903q
+  currency: BTC
+  source: https://blog.malwarebytes.com/detections/osx-electrumstealer/
+  is_cluster_definer: true
+- address: Le3gXVa4SshHs3TmdrWNC434ceDQtsjMt8
+  currency: LTC
+  source: https://blog.malwarebytes.com/detections/osx-electrumstealer/
+  is_cluster_definer: false
+- address: M8wRkiNmi5K5339LE8ncpWLYgbWmR121JL
+  currency: LTC
+  source: https://blog.malwarebytes.com/detections/osx-electrumstealer/
+  is_cluster_definer: true
+- address: LhbGVfuLPxMMFZrkDkSPC16Yu2RQ7S9Bc7
+  currency: LTC
+  source: https://blog.malwarebytes.com/detections/osx-electrumstealer/
+  is_cluster_definer: true
+- address: 14MVEf1X4Qmrpxx6oASqzYzJQZUwwG7Fb5
+  currency: BTC
+  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-fa6113d3929
+  is_cluster_definer: true

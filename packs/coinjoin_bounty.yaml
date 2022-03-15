@@ -1,0 +1,12 @@
+title: Coinjoin Bounty Tagpack
+creator: GraphSense Core Team
+confidence: untrusted_transaction
+is_cluster_definer: true
+description: MultiSig escrow address
+currency: BTC
+category: user
+label: Coinjoin Bounty
+lastmod: 2021-11-12
+source: https://bitcointalk.org/index.php?topic=279249.0
+tags:
+- address: 3M8XGFBKwkf7miBzpkU3x2DoWwAVrD1mhk

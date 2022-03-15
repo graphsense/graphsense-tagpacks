@@ -1,0 +1,15 @@
+title: Suidlanders TagPack
+creator: Beaunard Grobler
+is_cluster_definer: true
+confidence: authority_data
+description: Addresses related to Suidlanders group
+category: organization
+abuse: extremism
+currency: BTC
+label: Suidlanders
+lastmod: 2021-12-23
+tags:
+- address: bc1qzzfe3750muc70mm4l84p9v3zt7luaef50kmmun
+  source: https://suidlanders.org/suidlanders-bitcoin-details/
+- address: 1AFQi6eFM1uPxQgKHzEzU1JkTwaPzbkN2B
+  source: https://mobile.twitter.com/suidlanders/status/975302835599478784

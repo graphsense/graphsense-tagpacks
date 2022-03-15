@@ -1,0 +1,13 @@
+title: ProtonMail Tagpack
+creator: GraphSense Core Team
+confidence: authority_data
+is_cluster_definer: true
+description: Donation address
+category: service
+currency: BTC
+label: Protonmail
+created: 2019-11-18
+lastmod: 2021-11-12
+source: https://protonmail.com/donate
+tags:
+- address: 1Q1nhq1NbxPYAbw1BppwKbCqg58ZqMb9A8

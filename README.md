@@ -9,9 +9,10 @@ This repository provides a curated collection of TagPacks, which have been
 collected from **public sources** either by the GraphSense core team or by other
 contributors.
 
-TagPacks make use of the [INTERPOL Dark Web and Virtual Assets Taxonomy][dw-va]
+TagPacks make use of the [INTERPOL Dark Web and Virtual Assets Taxonomy][dw-va] ([read on below](#using-concepts-from-public-taxonomies) for details on taxonomies)
 and can be validated and ingested into GraphSense using the 
-[GraphSense TagPack Management Tool][tagpack-tool].
+[GraphSense TagPack Management Tool][tagpack-tool]. 
+
 
 ## Collection and Sharing Guidelines
 
@@ -43,7 +44,7 @@ environment, e.g., on the local filesystem or a local Git instance.
 ### What is an attribution tag?
 
 An attribution tag is any form of context information that can be attributed to
-a cryptoasset address or to a GraphSense entity, which represents a set of addresses.
+a cryptoasset address.
 
 The following example attributes a Bitcoin address to the
 Internet Archive, which is, according to [this source](https://archive.org/donate/cryptocurrency/),
@@ -53,11 +54,7 @@ the holder of that address:
     address: 1Archive1n2C579dMsAu3iC6tWzuQJz8dN
     source: https://archive.org/donate/cryptocurrency/
 
-It is also possible to attribute entire GraphSense clusters, which is shown in this example:
 
-    label: Huobi.com
-    entity: 19180422
-    source: https://www.walletexplorer.com/wallet/Huobi.com
 
 ### What is a TagPack?
 
@@ -84,17 +81,7 @@ Here is a minimal TagPack example containing address tags with mandatory propert
           lastmod: 2019-03-15
           currency: BTC
 
-The following example associates tags directly with GraphSense entities and therefore with all addresses controlled by that entity:
 
-    ---
-    title: First Entity Tag Example
-    creator: John Doe
-    tags:
-        - entity: 17642138
-          label: Internet Archive
-          source: https://archive.org/donate/cryptocurrency/
-          lastmod: 2019-03-15
-          currency: BTC
 
 TagPacks can be shared among users using any communication channel (e.g., email).
 
@@ -132,7 +119,8 @@ In the above example, `label`, `address`, and `source` are mandatory properties
 as they describe where a certain piece of information is coming from (either
 in the form of a URI or a textual description).
 
-The range of defined properties is defined [here](https://github.com/graphsense/graphsense-tagpack-tool/blob/develop/tagpack/conf/tagpack_schema.yaml) and looks as follows:
+The properties are defined [here](https://github.com/graphsense/graphsense-tagpack-tool/blob/develop/tagpack/conf/tagpack_schema.yaml). 
+The definition looks as follows:
 
     header:
       title:
@@ -153,7 +141,7 @@ The range of defined properties is defined [here](https://github.com/graphsense/
       tags:
         type: list
         mandatory: true
-    generic_tag:
+    tag:
       label:
         type: text
         mandatory: true
@@ -167,7 +155,7 @@ The range of defined properties is defined [here](https://github.com/graphsense/
         type: text
         mandatory: false
       confidence:
-        type: int
+        type: text
         mandatory: false
       is_cluster_definer:
         type: boolean
@@ -186,15 +174,15 @@ The range of defined properties is defined [here](https://github.com/graphsense/
         type: text
         mandatory: false
         taxonomy: abuse
-    address_tag:
       address:
         type: text
         mandatory: true
-    entity_tag:
-      entity:
-        type: int
-        mandatory: true
 
+For `currency`, use the corresponding currency codes such as: `BCH, BTC, ETH, LTC, ZEC`.
+
+The `context` property contains any additional information associated with the tag, in JSON format, e.g.
+
+    context: {"count": 42, "verified_by": 'operator'}
 
 ### Property inheritance
 
@@ -202,7 +190,9 @@ In the above example, the same `lastmod` and `currency` property values are
 repeated for both tags, which represents an unnecessary repetition of the same
 information.
 
-To avoid repeating fields for all tags, one can add body fields to the header and thereby apply them to all tags in the body. Thus, they are *abstracted* into the header and then inherited by all body elements, as shown in the following example.
+To avoid repeating field values shared by all tags, one can add body fields to the header, and they will be automatically be applied to all tags in the body. 
+Thus, they are *abstracted* into the header and then inherited by all body elements.
+An example is given below where the `currency` and `lastmod` fields are abstracted into the heade:
 
     ---
     title: Second TagPack Example
@@ -236,7 +226,7 @@ added later (2019-03-20).
     lastmod: 2019-03-15
     label: Internet Archive
     source: https://archive.org/donate/cryptocurrency
-    category: Organization
+    category: organization
     tags:
         - address: 1Archive1n2C579dMsAu3iC6tWzuQJz8dN
           currency: BTC
@@ -273,35 +263,49 @@ interoperability across tools. Therefore, the TagPack schema defines two
 properties that take concepts from agreed-upon taxonomies as values:
 
 * `category`: defines the type of real-world entity that is in control of a
-given address. Possible concepts (e.g., Exchange, Marketplace) are defined in
-the [INTERPOL Darkweb and Cryptoassets Entity Taxonomy][dw-va].
+given address. Possible concepts (e.g., exchange, marketplace) are defined in
+the [INTERPOL Darkweb and Cryptoassets Entity Taxonomy][dw-va-entity].
 
 * `abuse`: if an address was involved in some abusive behavior, this property's
 value defines the type of abuse and can take values from the
-[INTERPOL Darkweb and Cryptoassets Abuse Taxonomy][dw-va].
+[INTERPOL Darkweb and Cryptoassets Abuse Taxonomy][dw-va-abuse].
+
+Both `category` and `abuse` properties are optional, and can be also combined, e.g.
+
+    category: organization
+    abuse: extremism 
+
+The "narrower" (more specific) concept should always be preferred over the "broader" (more abstract) concept in  the taxonomy hierarchy, 
+e.g. using `ico_wallet` should be preferred over `wallet_service`.
 
 ### Attribution Tag confidence score
 
-Attribution tags originate from distinct sources, which have various confidence levels. E.g., Bitcoin addresses retrieved via a Web crawl are less trustworthy than a Bitcoin address with proven private key ownership. Therefore, the TagPack creator can assign one of the following confidence scores:
+Attribution tags originate from distinct sources, which have various confidence levels. E.g., Bitcoin addresses retrieved via a Web crawl are less trustworthy than a Bitcoin address with proven private key ownership. 
 
-| Score | Label | Description |
-| ---: | :--- | :--- |
-| 100 | Proven address ownership | Creator knows address private keys |
-| 90  | Trusted transaction | Creator transferred funds from known service x to known service y | 
-| 80  | Service API | Creator retrieves addresses from a trusted service API |
-| 60  | Authority data | Creator retrieves attribution tags from public authorities (e.g., OFAC) |
-| 50  | Trusted data providers | Creator retrieved attribution tags from trusted third parties |
-| 50  | Forensic reports | Creator retrieved data attribution data from somehow trusted reports (e.g., Academic papers) |
-| 40  | Untrusted transaction | A third party transferred funds from known service x to known service y |
-| 20  | Web crawls | Data retrieved from crawling the Web or other data dumps |
+The TagPack creator can choose an id from the list of confidence score ids below, e.g.:
+
+    confidence: ownership
+
+id | Score | Label | Description |
+| ---: | :---  | :--- | :--- |
+ownership | 100 | Proven address ownership | Creator knows address private keys |
+manual_transaction | 90  | Trusted transaction | Creator transferred funds from known service x to known service y | 
+service_api | 80  | Service API | Creator retrieves addresses from a known and trusted service API  (e.g. Bitpanda API) |
+authority_data | 60  | Authority data | Creator retrieves attribution tags from public authorities (e.g., OFAC) |
+trusted_provider | 50  | Trusted data providers | Creator retrieved attribution tags from trusted third parties (e.g. darknet crawl or spam trap) |
+service_data | 50 | Service data | Data retrieved from a known service (e.g. CSV file received from exchange)
+forensic | 50  | Forensic reports | Creator retrieved data attribution data from somehow trusted reports (e.g. academic papers) |
+untrusted_transaction | 40  | Untrusted transaction | A third party transferred funds from known service x to known service y |
+web_crawl | 20  | Web crawls | Data retrieved from crawling the web or other data dumps |
 
 The chosen score range provides some flexibility for additional entries in the future.
 
 ### Mapping Address Tags to Clusters
 
-An attribution tag assigned to an address could our could not apply to the entire cluster. This decision depends very much on the context of a TagPack, must be decided on an individual basis, and must be flagged using the specific field ``is_cluster_definer``, which can be ``true`` or ``false``.
+An attribution tag assigned to an address could or could not apply to the entire cluster. 
+This decision depends very much on the context of a TagPack, must be decided on an individual basis, and must be flagged using the specific field ``is_cluster_definer``, which can be ``true`` or ``false``.
 
-As a generic rule-of-them, we consider the following generic aspects when doing the mapping.
+As a rule-of-thumb, we consider the following generic aspects when doing the mapping.
 
   1. If an address maps to a cluster that already carries a tag with higher confidence, then the address tag does not define the cluster, i.e., `is_cluster_definer: false`.
 
@@ -322,8 +326,11 @@ Each TagPack repository must have a file `config.yaml`, which defines the TagPac
 
     baseURI: https://github.com/graphsense/graphsense-tagpacks
     taxonomies:
-      entity: https://graphsense.info/DW-VA-Taxonomy/assets/data/entities.csv
-      abuse: https://graphsense.info/DW-VA-Taxonomy/assets/data/abuses.csv
+      entity: https://graphsense.github.io/DW-VA-Taxonomy/assets/data/entities.csv
+      abuse: https://graphsense.github.io/DW-VA-Taxonomy/assets/data/abuses.csv
 
-[dw-va]: https://graphsense.info/DW-VA-Taxonomy/
-[tagpack-tool]: (https://github.com/graphsense/graphsense-tagpack-tool)
+[dw-va]: https://graphsense.github.io/DW-VA-Taxonomy/
+[dw-va-abuse]: https://graphsense.github.io/DW-VA-Taxonomy/assets/data/abuses.csv
+[dw-va-entity]: https://graphsense.github.io/DW-VA-Taxonomy/assets/data/entities.csv
+[tagpack-tool]: https://github.com/graphsense/graphsense-tagpack-tool
+[yaml]: https://yaml.org/

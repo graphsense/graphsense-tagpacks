@@ -1,0 +1,28 @@
+title: Forsage Pyramid Scheme
+creator: GraphSense Core Team
+description: Addresses related to the Forsage Pyramid Scheme
+category: service
+abuse: pyramid_scheme
+currency: ETH
+created: 2021-05-27
+lastmod: 2021-11-15
+is_cluster_definer: true
+confidence: web_crawl
+source: https://arxiv.org/abs/2105.04380
+tags:
+- address: "0x5acc84a3e955Bdd76467d3348077d003f00fFB97"
+  label: Forsage.io Matrix Contract
+- address: "0x81CA1e4DE24136EBcf34CA518af87F18FD39D45E"
+  label: Forsage.io Owner
+- address: "0x488e3a4bbbb2386ba619eed88319e807c3ddb6c2"
+  label: Forsage.io xGold Contract
+- address: "0x44fc2e52243cf20ecc91f61ffa33e59fc7e1c148"
+  label: Forsage.io Top-5 Profiteer
+- address: "0xdedba197cb186e6d129110e71138ef6c6ca153d8"
+  label: Forsage.io Top-5 Profiteer
+- address: "0x4aaa7083535965d1cdd44d1407dcb11eec3f576d"
+  label: Forsage.io Top-5 Profiteer
+- address: "0x59b312f6cfe5b1864654d1942c8c979ad830777e"
+  label: Forsage.io Top-5 Profiteer
+- address: "0xb19dA4fd9f9A73A5A564C66D229B1E7219e8bdbe"
+  label: Million.money Deployer

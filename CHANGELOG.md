@@ -1,5 +1,20 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.5.2] 2022-03-15
+### Added
+- africrypt pack
+- suidlanders pack
+- alt-right pack
+- ransomwhere pack
+### Changed
+- confidence value type, which is now categorical.
+- category settings in several packs, to match updated [taxonomy schema](https://github.com/graphsense/DW-VA-Taxonomy/)
+### Fixed
+- wrong currency entries in several packs
+### Removed
+- entity-related components
+- duplicate tag entries
+
 ## [0.5.1] 2021-11-17
 ### Added
 - Etherscamdb tagpack

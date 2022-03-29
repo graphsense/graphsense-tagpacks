@@ -182,7 +182,7 @@ For `currency`, use the corresponding currency codes such as: `BCH, BTC, ETH, LT
 
 The `context` property contains any additional information associated with the tag, in JSON format, e.g.
 
-    context: {"count": 42, "verified_by": 'operator'}
+    context: '{"count": 42, "verified_by": "operator", "flags": ["scam", "misuse"]}'
 
 ### Property inheritance
 

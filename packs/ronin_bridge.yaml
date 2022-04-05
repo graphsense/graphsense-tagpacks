@@ -6,9 +6,11 @@ source: https://roninblockchain.substack.com/p/community-alert-ronin-validators
 abuse: service_hack
 confidence: service_data
 currency: ETH
+is_cluster_definer: true
 tags:
 - address: '0x098B716B8Aaf21512996dC57EB0615e2383E2f96'
   label: Ronin bridge exploiter
+  context: '{"description": "original address"}'
 - address: '0x29fC9B71492ec63696Cf9cd56e9832A42B0dCED0'
   label: Ronin bridge exploiter 4
 - address: '0x7E3167771BF23AC10930803589d1424903b36584'

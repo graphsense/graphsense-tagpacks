@@ -1,0 +1,23 @@
+title: Ronin bridge hack
+creator: GraphSense Core Team
+description: Cryptocurrency addresses associated with Ronin bridge hack
+lastmod: 2022-04-05
+source: https://roninblockchain.substack.com/p/community-alert-ronin-validators
+abuse: service_hack
+confidence: service_data
+currency: ETH
+is_cluster_definer: true
+tags:
+- address: '0x098B716B8Aaf21512996dC57EB0615e2383E2f96'
+  label: Ronin bridge exploiter
+  context: '{"description": "original address"}'
+- address: '0x29fC9B71492ec63696Cf9cd56e9832A42B0dCED0'
+  label: Ronin bridge exploiter 4
+- address: '0x7E3167771BF23AC10930803589d1424903b36584'
+  label: Ronin bridge exploiter 5
+- address: '0x4Fe666ECC5263F5dBb34ADB8bc1c8cbB9bbCD1Cc'
+  label: Ronin bridge exploiter 6
+- address: '0x5b5082214D62585D686850Ab8D9E3f6b6a5c58FF'
+  label: Ronin bridge exploiter 7
+- address: '0xbc25d57412a04956CDD95AF07825C5C1F34d29eb'
+  label: Ronin bridge exploiter 8

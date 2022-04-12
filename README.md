@@ -182,7 +182,7 @@ For `currency`, use the corresponding currency codes such as: `BCH, BTC, ETH, LT
 
 The `context` property contains any additional information associated with the tag, in JSON format, e.g.
 
-    context: {"count": 42, "verified_by": 'operator'}
+    context: '{"count": 42, "verified_by": "operator", "flags": ["scam", "misuse"]}'
 
 ### Property inheritance
 
@@ -282,23 +282,9 @@ e.g. using `ico_wallet` should be preferred over `wallet_service`.
 
 Attribution tags originate from distinct sources, which have various confidence levels. E.g., Bitcoin addresses retrieved via a Web crawl are less trustworthy than a Bitcoin address with proven private key ownership. 
 
-The TagPack creator can choose an id from the list of confidence score ids below, e.g.:
-
+The TagPack creator can choose an id from the list of confidence score ids available [here](https://github.com/graphsense/graphsense-tagpack-tool/blob/develop/README.md#validation-resources), e.g. 
+    
     confidence: ownership
-
-id | Score | Label | Description |
-| ---: | :---  | :--- | :--- |
-ownership | 100 | Proven address ownership | Creator knows address private keys |
-manual_transaction | 90  | Trusted transaction | Creator transferred funds from known service x to known service y | 
-service_api | 80  | Service API | Creator retrieves addresses from a known and trusted service API  (e.g. Bitpanda API) |
-authority_data | 60  | Authority data | Creator retrieves attribution tags from public authorities (e.g., OFAC) |
-trusted_provider | 50  | Trusted data providers | Creator retrieved attribution tags from trusted third parties (e.g. darknet crawl or spam trap) |
-service_data | 50 | Service data | Data retrieved from a known service (e.g. CSV file received from exchange)
-forensic | 50  | Forensic reports | Creator retrieved data attribution data from somehow trusted reports (e.g. academic papers) |
-untrusted_transaction | 40  | Untrusted transaction | A third party transferred funds from known service x to known service y |
-web_crawl | 20  | Web crawls | Data retrieved from crawling the web or other data dumps |
-
-The chosen score range provides some flexibility for additional entries in the future.
 
 ### Mapping Address Tags to Clusters
 

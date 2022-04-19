@@ -5,7 +5,6 @@ abuse: sextortion
 currency: BTC
 label: Sextortion Spam
 confidence: forensic
-created: 2020-01-21
 lastmod: 2021-11-15
 source: https://github.com/MatteoRomiti/Sextortion_Spam_Bitcoin
 tags:

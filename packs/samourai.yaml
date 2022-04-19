@@ -5,7 +5,6 @@ description: Addresses performing coinjoins using Samourai Wallet
 is_cluster_definer: true
 category: coinjoin
 label: Samourai Wallet
-created: 2020-05-04
 lastmod: 2021-11-14
 source: https://github.com/nopara73/WasabiVsSamourai/blob/master/WasabiVsSamourai/SamouraiCoinJoins.txt
 confidence: forensic

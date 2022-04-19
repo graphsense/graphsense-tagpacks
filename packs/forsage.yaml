@@ -4,7 +4,6 @@ description: Addresses related to the Forsage Pyramid Scheme
 category: service
 abuse: pyramid_scheme
 currency: ETH
-created: 2021-05-27
 lastmod: 2021-11-15
 is_cluster_definer: true
 confidence: web_crawl

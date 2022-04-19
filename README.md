@@ -1,6 +1,6 @@
 ![Validate TagPacks](https://github.com/graphsense/graphsense-tagpacks/workflows/Validate%20TagPacks/badge.svg)
 
-# GraphSense TagPacks
+# GraphSense Public TagPacks
 
 A TagPack is a collection of attribution tags, which associate cryptoasset
 addresses or GraphSense entities with real-world actors such as exchanges. 

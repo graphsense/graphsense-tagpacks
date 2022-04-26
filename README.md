@@ -66,7 +66,7 @@ hand or exported automatically from other systems.
 
 Here is a minimal TagPack example containing address tags with mandatory properties:
 
-    ---
+    
     title: First Address Tag Example
     creator: John Doe
     tags:

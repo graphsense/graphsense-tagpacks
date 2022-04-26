@@ -7,11 +7,11 @@ addresses or GraphSense entities with real-world actors such as exchanges.
 
 This repository provides a curated collection of TagPacks, which have been
 collected from **public sources** either by the GraphSense core team or by other
-contributors.
+contributors. For further details and an explanation of why we are hosting TagPacks on Github,
+we refer to our paper [Safeguarding the evidential value of forensic
+cryptocurrency investigations](https://www.sciencedirect.com/science/article/pii/S1742287619302567).
 
-TagPacks make use of the [INTERPOL Dark Web and Virtual Assets Taxonomy][dw-va] ([read on below](#using-concepts-from-public-taxonomies) for details on taxonomies)
-and can be validated and ingested into GraphSense using the 
-[GraphSense TagPack Management Tool][tagpack-tool]. 
+Technical details about TagPacks (purpose, structure etc.), plus how to validate your TagPacks can be found over at the [GraphSense TagPack Management Tool repo](https://github.com/graphsense/graphsense-tagpack-tool/blob/master/README_tagpacks.md).
 
 
 ## Collection and Sharing Guidelines
@@ -39,6 +39,6 @@ environment, e.g., on the local filesystem or a local Git instance.
 
 **Step 4**: Contribute them by submitting a [pull request](https://help.github.com/en/articles/about-pull-requests)
 
-## More About TagPacks
 
-All details about TagPacks (purpose, structure etc.) can be found [here](https://github.com/graphsense/graphsense-tagpack-tool/blob/master/README_tagpacks.md).
+
+

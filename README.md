@@ -40,5 +40,6 @@ environment, e.g., on the local filesystem or a local Git instance.
 **Step 4**: Contribute them by submitting a [pull request](https://help.github.com/en/articles/about-pull-requests)
 
 
+[tagpack-tool]: https://github.com/graphsense/graphsense-tagpack-tool
 
 

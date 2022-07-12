@@ -1,5 +1,23 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [1.0.0] 2022-07-12
+### Added
+- CITATION.cff file
+- blender_io pack
+- hydra pack
+- ronin_bridge pack
+### Fixed
+- wrong currency entries in etherscamdb_tagpack.yaml
+- wrong address in Alt-Right.yaml
+### Changed
+- etherscamdb_tagpack pack
+- lazarus pack
+- ofac pack
+- wasabi_collector pack
+- updated LICENSE
+- updated README.md
+- removed created field
+
 ## [0.5.2] 2022-03-15
 ### Added
 - africrypt pack

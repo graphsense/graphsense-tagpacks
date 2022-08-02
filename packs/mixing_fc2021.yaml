@@ -1,0 +1,141 @@
+title: Mixing Services
+creator: GraphSense Core Team
+is_cluster_definer: false
+description: Mixing addresses mentioned in FC 2021 research paper.
+confidence: forensic
+source: https://fc21.ifca.ai/papers/103.pdf
+currency: BTC
+category: mixing_service
+tags:
+- label: ChipMixer
+  address: 1LAScEFHGkfpyjtFzA4g9283JmL2cYR9Tx
+- label: ChipMixer
+  address: 1MMJ2tWfzYZ2WBFL8hRsDMu2nyMe2m5Ake
+- label: ChipMixer
+  address: 1Ea7SVw4V1BupVqkp6ix6i9ZeJxER7cCTe
+- label: ChipMixer
+  address: 1F1R5G1BU9VFhXCGSGJMYCLbvKurPvkXBC
+- label: ChipMixer
+  address: 14CEGbEgJvuWhL9vp37xmTzhrNzPJCCoED
+- label: ChipMixer
+  address: 1HwX9D1TpBUZnuNXDEvBEYyuF4fjmVbmqX
+- label: ChipMixer
+  address: 1NxCCqyv8qBLQGuqPTJGwvtGLq9VYsBSVm
+- label: ChipMixer
+  address: 14zK4seKpEe1C8cqukYXoBEyjqrN6iJeAD
+- label: ChipMixer
+  address: 16eSwe96RxFpQFWp7Lzpn3L3HvdZk8AvTa
+- label: ChipMixer
+  address: 1F5nisjLKEHrjnAym6JzioEqcqECERsVnS
+- label: MixTum
+  address: 3NbGidcMjHFsNCZcT1C5P2wyijmV8ePE5G
+- label: MixTum
+  address: 3JiY4vgAx9fUP1vZ7SQD9aPkpKd3Aeik4y
+- label: MixTum
+  address: 3663cBk9vjxa4B2KWPSc2dyypqDMHytraG
+- label: MixTum
+  address: 3AbDtcEcSosVzLeEvwX2Yqf45ajPYXE5SD
+- label: MixTum
+  address: 3GVc5KoPEp8HYXhAtXStC6HRf8h2WurUo7
+- label: MixTum
+  address: 37bpKGuYtWXL9ewwa4Vmm4NfT6cHXF7P7s
+- label: MixTum
+  address: 36Uj2sowMPo5TkFPNwiB7PzEgV2iEqXjhY
+- label: MixTum
+  address: 3PBmRmG82Pd8hBG3Cmt5Z2PtPaJLK1ukjC
+- label: MixTum
+  address: 3Eh2kE4RoEjwaotX5mgB49VENmRkHmufhN
+- label: MixTum
+  address: 332SjSDoGsnjSre7j7QYMRpyT6c96kKUQX
+- label: MixTum
+  address: 3GW92JrK72yWvDckL6ssPdZbEMd7GesvZA
+- label: MixTum
+  address: 3361aqJfTCA7gZGfRBoNn6SvvTXPCv92MP
+- label: MixTum
+  address: 36RrVnTgnoz8HmfYF6ijZUPnFT9TMNyVjX
+- label: MixTum
+  address: 3Jb1gSnRUjNhVnznciqzPHgRCnRNhujD2n
+- label: MixTum
+  address: 3Pdfzi6uR9sPrFPiVjvSME5uqMzGBn786f
+- label: Bitcoin Mixer
+  address: 38JKa6sF9tcqCwHQAbuAJYjPyyBVBJr1MT
+- label: Bitcoin Mixer
+  address: bc1qgdrkyenkfd63psje4dq5uhfddlmla8mn68z4td
+- label: Bitcoin Mixer
+  address: bc1qzpy6ee7uraedrc6qhp9t0hzr0kjlkx7cgu3e5g
+- label: Bitcoin Mixer
+  address: 35bt1QuEdRm7AY44uJCLUJC9ygW6pHnB2N
+- label: Bitcoin Mixer
+  address: 3MNUhPsjHKUMbQDApnEwszZK6Qa8ThcjnM
+- label: Bitcoin Mixer
+  address: 36EQ5RTS6ToG9Ny7dn84etWeQRvDcxxw7Z
+- label: Bitcoin Mixer
+  address: 343aAu7k7DGxCQtwtkt3YCgBxt1nZm5Bgk
+- label: Bitcoin Mixer
+  address: 3PV4Ns33S9V71iN1k17tpgPoXo1sL8S2Ad
+- label: Bitcoin Mixer
+  address: 3FCdNqsSF6jhqo1kZqNvNCieRm6VNf7sEP
+- label: Bitcoin Mixer
+  address: 3CwdEUBWSkF6GpWfyxxt5y7jYf4q3PX9ez
+- label: Bitcoin Mixer
+  address: 3EYFGJotD4BagUaP9qTZWM5A6BdP4oNd2V
+- label: Bitcoin Mixer
+  address: 3EnihQM88pzowGpGuvVb1GPBYnbSUh3Yft
+- label: Bitcoin Mixer
+  address: bc1qhaly65s8yedgsvcd2hl8ep02aqyufqqlp8pzxc
+- label: Bitcoin Mixer
+  address: bc1qgtte897j75n5wcgstvmywzvueqky9q8czryv6t
+- label: Bitcoin Mixer
+  address: bc1qpk7nx089zwzkvp0p7wy6zm2pczn0szyjtj4gd6
+- label: Bitcoin Mixer
+  address: 3EEBR2JaYCbpAp7d3f5E6F1byKTbunYGxG
+- label: Bitcoin Mixer
+  address: bc1q5kq5llycamka6g5uv05myj6eaeruall3squ5q9
+- label: Bitcoin Mixer
+  address: bc1qhdxr6xwmut3lvmcvruuwjzmar9fhlu07zwtxht
+- label: Bitcoin Mixer
+  address: 39JZQgoh5PboHg4QiSYKRa96DZbJu3PCAD
+- label: Bitcoin Mixer
+  address: bc1qtq2gfpnw2jetfung25sdxggranmx90n72y7zp0
+- label: CryptoMixer
+  address: 1DG9YYTGUixKqVYHaCzaag5bsjrBmWNXAd
+- label: CryptoMixer
+  address: 1FKW73dX1F5wqtvqnP3QjAawAKYi5eSmLr
+- label: CryptoMixer
+  address: 12bvwyEjLdt5FFgEJa7qZinAFN961T5xMU
+- label: CryptoMixer
+  address: 1DUsErBM2tC1xTZ3Me1Zx6HQ8MPxAT6C2T
+- label: CryptoMixer
+  address: 1CMQ8cgrB28DGYGLjaN7ba5emxVz1kFAuh
+- label: CryptoMixer
+  address: 1K1ed5ogYGpj8HAuj3PLXNu2P5aHFwPaHW
+- label: CryptoMixer
+  address: 12J9tcZpVnrfmvCmnDs38mNxiPqcAQ95TG
+- label: CryptoMixer
+  address: 1EG4YLkuLKFtDHnV932okCGGs1DvNHwdng
+- label: CryptoMixer
+  address: 1GAyaaWcPg7kZzNP7e6z7KQNZqCSY6d2sd
+- label: CryptoMixer
+  address: 1JjyznXuQWP8VAmBTgWkys1psaTs9GKF6r
+- label: Sudoku Wallet
+  address: 14t4j3zcuj82oL8rTeu4jLeEF6U9CaTzbk
+- label: Sudoku Wallet
+  address: 17ozBNAvbs95TnzMyhfeAck9TGdTjeg2fC
+- label: Sudoku Wallet
+  address: 1MpcMs5nXufTPvp4oi5MpbM517Jj3CvdDm
+- label: Sudoku Wallet
+  address: 15hHEC8pc1rtjkJ9ZEqshtvkC1gpW9wbR6
+- label: Sudoku Wallet
+  address: 1FAYBB3xiFsbg5nUM8a7ShfQvPaN4GKaZA
+- label: Sudoku Wallet
+  address: 1AJThTjvfQCEV3ffinPyszQp79GCxTmRwF
+- label: Sudoku Wallet
+  address: 1BQe7ctKnFJHqviFRDJmE2bgduvaDTsRrV
+- label: Sudoku Wallet
+  address: 1Ncdcwurr679jfDLupqPeGM2EFqNpZVV3J
+- label: Sudoku Wallet
+  address: 1BEGrAuCCRucHqSi15avkYTj623wTeRviy
+- label: Sudoku Wallet
+  address: 15riUfMEU2fNRRJQT9kUiLvb6QgstYhU2N
+- label: Sudoku Wallet
+  address: 1EXA5Hh5B7gELo9VdCynKe6N75YPQUKHsU

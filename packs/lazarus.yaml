@@ -1,5 +1,5 @@
 title: OFAC Tagpack
-creator: Graphsense Team
+creator: GraphSense Core Team
 description: Addresses related to Lazarus Group members
 confidence: authority_data
 is_cluster_definer: false

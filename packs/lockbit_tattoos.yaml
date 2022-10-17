@@ -1,0 +1,30 @@
+title: LockBit-Tattoo
+creator: github user 3xp0rt
+description: A list of addresses that received payments from LockBit ransomware group for getting tattoos with their branding
+is_public: true
+label: lockbit_tattoo
+source: https://github.com/3xp0rt/LockBit-Tattoo
+currency: BTC
+confidence: web_crawl
+is_cluster_definer: false
+lastmod: 2022-10-17
+category: user
+tags:
+- address: 1BVaqXYtnC5AYkvAUVDhTS1qDGkdALVE7x
+- address: 3DSdqGumRpTryG1u8UNGAJsWNecPGqd8ft
+- address: 3HC5eCcYtW27jhD59mg4U3haWr36teiLXB
+- address: 3HeNJmgecLNHEhVn3JMcboybTgiFx4DGe3
+- address: bc1q3tfer5utz30xz8nz5g57q9ryuyxdpm957czj0n
+- address: bc1q62vgfkd4kmtcd0fu90h7s7ld0nzznt492np7h5
+- address: bc1q86wejspjc2d5hel3upz5mjx0wpfz0kus9qd5jz
+- address: bc1qcymsf0e7028m0cau5jvcw24j8khg39ywd0yk96
+- address: bc1qfpdwg06va2xqzlfjm3nn5c0jtszr42gxe6yrta
+- address: bc1qggym4phakh6hhre827dy8q9h6j4j32vsk5axnn
+- address: bc1qj44nayvq8a32cqnwjkglxuhw5e809ytntjrk38
+- address: bc1qkqgxtkqh4el0spklgc4w9h8up3eg80zxt24ckf
+- address: bc1ql5ewcuweqa60eld49420h64c534cll6dmqasm9
+- address: bc1ql8sa47qef4574ukk3j3ckcad9827qwjcsnvn27
+- address: bc1qmeexg36lehy3xx3ekf6j36venpzn65d7n3f4yc
+- address: bc1qmmpruguu6se50m42cjzzgv92df945yq6jxn28h
+- address: bc1qpynpg7chxu7yvpqkqxqtrwdzpqmlh58vm6mrnt
+- address: bc1qpzyjjahsqez0kmfmu4v988w48lve4c88kvxlps

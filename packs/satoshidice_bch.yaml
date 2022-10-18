@@ -1,6 +1,6 @@
 title: satoshidice gambling Tag Pack BCH
 creator: GraphSense Core Team
-currency: LTC
+currency: BCH
 is_cluster_definer: true
 confidence: service_data
 lastmod: 2022-09-20
@@ -8,3 +8,4 @@ label: satoshidice 0.10
 source: https://satoshidice.com/
 tags:
   - address: 1DiceoejxZdTrYwu3FMP2Ldew91jq9L2u
+  - address: 1Dice5ycHmxDHUFVkdKGgrwsDDK1mPES3U

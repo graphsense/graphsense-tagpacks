@@ -12,6 +12,10 @@ authors:
   orcid: "https://orcid.org/0000-0001-9244-1441"
 - family-names: "Romiti"
   given-names: "Matteo"
+  orcid: "https://orcid.org/0000-0001-8218-5077"
+- family-names: "Gomez"
+  given-names: "Gibran"
+  orcid: "https://orcid.org/0000-0002-1510-5599"
 title: "GraphSense TagPacks"
 version: 1.0.0
 doi: 10.5281/zenodo.1234

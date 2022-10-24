@@ -1,5 +1,9 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [..] unreleased
+### Added
+- Lockbit Tattoo tagpack
+
 ## [22.10] 2022-10-11
 ### Added
 - DeFi tagpack

@@ -2,34 +2,30 @@
 
 # GraphSense Public TagPacks
 
-A TagPack is a collection of attribution tags, which associate cryptoasset
-addresses or GraphSense entities with real-world actors such as exchanges. 
+A [GraphSense TagPack](https://github.com/graphsense/graphsense-tagpacks/wiki/GraphSense-TagPacks) is a data structure for packaging and sharing cryptoasset **attribution tags** in an interoperable, machine-processable format. The following example attributes a Bitcoin address  (`1Archive1n2C579dMsAu3iC6tWzuQJz8dN`) to the [Internet Archive](https://archive.org/), which according to [this source](https://archive.org/donate/cryptocurrency/) controls that address:
 
-This repository provides a curated collection of TagPacks, which have been
-collected from **public sources** either by the GraphSense core team or by other
-contributors. For further details and an explanation of why we are hosting TagPacks on Github,
-we refer to our paper [Safeguarding the evidential value of forensic
-cryptocurrency investigations](https://www.sciencedirect.com/science/article/pii/S1742287619302567).
+    label: Internet Archive
+    address: 1Archive1n2C579dMsAu3iC6tWzuQJz8dN
+    source: https://archive.org/donate/cryptocurrency/
 
-Technical details about TagPacks (purpose, structure etc.), plus how to validate your TagPacks can be found over at the [GraphSense TagPack Management Tool repo](https://github.com/graphsense/graphsense-tagpack-tool/blob/master/README_tagpacks.md).
-
+This repository provides a curated collection of TagPacks, which have been collected from **public sources** either by the GraphSense core team or by other
+contributors.
 
 ## Collection and Sharing Guidelines
 
-### Public TagPack Criteria
-
 All TagPacks in this repository must fulfill the following criteria:
 
-1.) None of the tags contains personally identifiable information (PII)
+1.) They must not contain personally identifiable information (PII)
 
-2.) All tags originate from public sources
+2.) Attribution tags must originate from public sources
 
-3.) All tags provide a dereferenceable pointer (link) to their origin
+3.) Attribution tags must provide a dereferenceable pointer (link) to the source
 
-TagPacks that do not meet these criteria should be hosted in a private
-environment, e.g., on the local filesystem or a local Git instance.
+TagPacks that do not meet these criteria should be hosted in a private environment, e.g., on the local filesystem or a local Git instance.
 
-### How can I contribute TagPacks to this repository?
+Finally, all provided TagPacks must pass the validation steps supported by the [GraphSense TagPack Tool][tagpack-tool]
+
+## How can I contribute TagPacks to this repository?
 
 **Step 1**: [Fork](https://help.github.com/en/articles/fork-a-repo) this repository
 
@@ -38,7 +34,6 @@ environment, e.g., on the local filesystem or a local Git instance.
 **Step 3**: Validate your TagPack using the [GraphSense TagPack Management Tool][tagpack-tool]
 
 **Step 4**: Contribute them by submitting a [pull request](https://help.github.com/en/articles/about-pull-requests)
-
 
 [tagpack-tool]: https://github.com/graphsense/graphsense-tagpack-tool
 

@@ -1,0 +1,94 @@
+title: OKX reserve wallets
+creator: GraphSense Core Team
+confidence: service_data
+category: exchange
+label: okx reserves wallets
+source: https://twitter.com/okx/status/1590812545346330624
+lastmod: 2022-11-15
+is_cluster_definer: true
+tags:
+- address: 16rF2zwSJ9goQ9fZfYoti5LsUqqegb5RnA
+  currency: BTC
+- address: 1AumBaQDRaCC3cKKQVRHeyvoSPWNdDzsKP
+  currency: BTC
+- address: 1DnHx95d2t5URq2SYvVk6kxGryvTEbTnTs
+  currency: BTC
+- address: 1FTgXfXZRxMQcKSNeuFvWYVPsNgurTJ7BZ
+  currency: BTC
+- address: 13rCGm4Z3PDeYwo5a7GTT4jFYnRFBZbKr1
+  currency: BTC
+- address: 15Exz1BAVan4Eweagy1rcPJnfyc6KJ4GvL
+  currency: BTC
+- address: 14kHu26yWkVD8qAnBfcFXHXxgquNoSpKum
+  currency: BTC
+- address: 13jTtHxBPFwZkaCdm6BwJMMJkqvTpBZccw
+  currency: BTC
+- address: 1FfgXrQUjX5nQ4zsiLBWjvFwW61jQHCqn
+  currency: BTC
+- address: 162z6mSSHzfTqb2Sn3NUk5r1Y2oGoCMCoM
+  currency: BTC
+- address: 18QUDxjDZAqAJorr4jkSEWHUDGLBF9uRCc
+  currency: BTC
+- address: 1LnoZawVFFQihU8d8ntxLMpYheZUfyeVAK
+  currency: BTC
+- address: 1JQULE6yHr9UaitLr4wahTwJN7DaMX7W1Z
+  currency: BTC
+- address: 1CY7fykRLWXeSbKB885Kr4KjQxmDdvW923
+  currency: BTC
+- address: 1DcT5Wij5tfb3oVViF8mA8p4WrG98ahZPT
+  currency: BTC
+- address: 1FY6RL8Ju9b6CGsHTK68yYEcnzUasufyCe
+  currency: BTC
+- address: 178E8tYZ5WJ6PpADdpmmZd67Se7uPhJCLX
+  currency: BTC
+- address: 1Lj2mCPJYbbC2X6oYwV6sXnE8CZ4heK5UD
+  currency: BTC
+- address: 1MbNM3jwxMjRzeA9xyHbMyePN68MY4Jxb
+  currency: BTC
+- address: 1BsdDaJtgFZrLfzEXvh6cD4VhtHHSHhMea
+  currency: BTC
+- address: 1M6E6vPaYsuCb34mDNS2aepu2aJyL6xBG4
+  currency: BTC
+- address: 1CE8chGD6Nu8qjcDF2uR1wMKyoWb8Kyxwz
+  currency: BTC
+- address: 1DVTB9YKi4KNjyEbAHPp17T8R1Pp17nSmA
+  currency: BTC
+- address: '0x5041ed759dd4afc3a72b8192c143f72f4724081a'
+  currency: ETH
+  label: okx ERC20 reserves
+- address: '0xcba38020cd7b6f51df6afaf507685add148f6ab6'
+  currency: ETH
+  label: okx ERC20 reserves
+- address: '0x461249076b88189f8ac9418de28b365859e46bfd'
+  currency: ETH
+  label: okx ERC20 reserves
+- address: '0xc5451b523d5fffe1351337a221688a62806ad91a'
+  currency: ETH
+  label: okx ERC20 reserves
+- address: '0x42436286a9c8d63aafc2eebbca193064d68068f2'
+  currency: ETH
+  label: okx ERC20 reserves
+- address: '0x69a722f0b5da3af02b4a205d6f0c285f4ed8f396'
+  currency: ETH
+  label: okx ERC20 reserves
+- address: '0xc708a1c712ba26dc618f972ad7a187f76c8596fd'
+  currency: ETH
+  label: okx ERC20 reserves
+- address: '0x6fb624b48d9299674022a23d92515e76ba880113'
+  currency: ETH
+  label: okx ERC20 reserves
+- address: '0xf59869753f41db720127ceb8dbb8afaf89030de4'
+  currency: ETH
+  label: okx ERC20 reserves
+- address: '0x65a0947ba5175359bb457d3b34491edf4cbf7997'
+  currency: ETH
+  label: okx ERC20 reserves
+- address: '0x4d19c0a5357bc48be0017095d3c871d9afc3f21d'
+  currency: ETH
+  label: okx ERC20 reserves
+- address: '0x5c52cc7c96bde8594e5b77d5b76d042cb5fae5f2'
+  currency: ETH
+  label: okx ERC20 reserves
+- address: '0xe9172daf64b05b26eb18f07ac8d6d723acb48f99'
+  currency: ETH
+  label: okx ERC20 reserves

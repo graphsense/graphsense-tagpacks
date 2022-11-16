@@ -4,7 +4,8 @@ confidence: service_data
 category: exchange
 label: kucoin reserve wallets
 source: https://www.kucoin.com/blog/transparency-and-trust-a-detailed-list-of-kucoin-s-wallets
-lastmod: 2022-11-16 
+lastmod: 2022-11-16
+is_cluster_definer: true
 tags:
 - address: 'bc1qgrxsrmrhsapvh9addyx6sh8j4rw0sn9xtur9uq'
   currency: BTC

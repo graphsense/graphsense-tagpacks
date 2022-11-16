@@ -4,7 +4,8 @@ confidence: service_data
 category: exchange
 label: deribit reserves
 source: https://insights.deribit.com/exchange-updates/deribit-wallet-holdings/
-lastmod: 2022-11-16 
+lastmod: 2022-11-16
+is_cluster_definer: true
 tags:
 - address: 'bc1qa3phj5uhnuauk6r62cku6r6fl9rawqx4n6d690'
   currency: BTC

@@ -29,17 +29,23 @@ tags:
 - address: '0xd6216fc19db775df9774a6e33526131da7d19a2c'
   currency: ETH
 - address: '0xec30d02f10353f8efc9601371f56e808751f396f'
-  currency: USDT
+  currency: ETH
+  label: kucoin USDT reserves
 - address: '0x88bd4d3e2997371bceefe8d9386c6b5b4de60346'
-  currency: USDT
+  currency: ETH
+  label: kucoin USDT reserves
 - address: '0xd6216fc19db775df9774a6e33526131da7d19a2c'
-  currency: USDT
+  currency: ETH
+  label: kucoin USDT reserves
 - address: 'TQeNNo5zVarhdKm5EiJSekfNXg6H1tRN4n'
-  currency: USDT
+  currency: TRX
+  label: kucoin USDT reserves
 - address: 'TUpHuDkiCCmwaTZBHZvQdwWzGNm5t8J2b9'
-  currency: USDT
+  currency: TRX
+  label: kucoin USDT reserves
 - address: 'TEWzF5ZsaWMh6sTNDPrYaPJrK8TTMGfwCC'
-  currency: USDT
+  currency: TRX
+  label: kucoin USDT reserves
 - address: 'TRYL7PKCG4b4xRCM554Q5J6o8f1UjUmfnY'
   currency: USDT
 - address: 'T6MXHXMGXURKJ7AD5NCB4IYPLWX'
@@ -79,17 +85,23 @@ tags:
 - address: 'KEESC5ALZHWX7B7SBNBDY6Z7COYMO6U'
   currency: USDC
 - address: '0xf16e9b0d03470827a95cdfd0cb8a8a3b46969b91'
-  currency: USDC
+  currency: ETH
+  label: kucoin USDC reserves
 - address: '0x738cf6903e6c4e699d1c2dd9ab8b67fcdb3121ea'
-  currency: USDC
+  currency: ETH
+  label: kucoin USDC reserves
 - address: '0xd6216fc19db775df9774a6e33526131da7d19a2c'
-  currency: USDC
+  currency: ETH
+  label: kucoin USDC reserves
 - address: '0x1692e170361cefd1eb7240ec13d048fd9af6d667'
-  currency: USDC
+  currency: ETH
+  label: kucoin USDC reserves
 - address: 'TUpHuDkiCCmwaTZBHZvQdwWzGNm5t8J2b9'
-  currency: USDC
+  currency: TRX
+  label: kucoin USDC reserves
 - address: 'TRYL7PKCG4b4xRCM554Q5J6o8f1UjUmfnY'
-  currency: USDC
+  currency: TRX
+  label: kucoin USDC reserves
 - address: '0xd6216fc19db775df9774a6e33526131da7d19a2c'
   currency: USDC
 - address: '0x2a8c8b09bd77c13980495a959b26c1305166a57f'

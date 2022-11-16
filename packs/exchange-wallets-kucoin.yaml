@@ -15,9 +15,9 @@ tags:
 - address: 'bc1q080rkmk3kj86pxvf5nkxecdrw6nrx3zzy9xl7q'
   currency: BTC
 - address: 'TRYL7PKCG4b4xRCM554Q5J6o8f1UjUmfnY'
-  currency: BTC
+  currency: TRX
 - address: '0xd6216fc19db775df9774a6e33526131da7d19a2c'
-  currency: BTC
+  currency: KCS
 - address: '0xd6216fc19db775df9774a6e33526131da7d19a2c'
   currency: ETH
 - address: '0xcad621da75a66c7a8f4ff86d30a2bf981bfc8fdd'
@@ -27,7 +27,7 @@ tags:
 - address: '0xb8e6d31e7b212b2b7250ee9c26c56cebbfbe6b23'
   currency: ETH
 - address: '0xd6216fc19db775df9774a6e33526131da7d19a2c'
-  currency: ETH
+  currency: KCS
 - address: '0xec30d02f10353f8efc9601371f56e808751f396f'
   currency: ETH
   label: kucoin USDT reserves
@@ -131,8 +131,11 @@ tags:
 - address: '0x2a8c8b09bd77c13980495a959b26c1305166a57f'
   currency: KCS
 - address: '0xd6216fc19db775df9774a6e33526131da7d19a2c'
-  currency: KCS
+  currency: ETH
+  label: kucoin KCS reserves
 - address: '0xf16e9b0d03470827a95cdfd0cb8a8a3b46969b91'
-  currency: KCS
+  currency: ETH
+  label: kucoin KCS reserves
 - address: '0x738cf6903e6c4e699d1c2dd9ab8b67fcdb3121ea'
-  currency: KCS
+  currency: ETH
+  label: kucoin KCS reserves

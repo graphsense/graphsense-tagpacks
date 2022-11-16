@@ -1,0 +1,181 @@
+title: Huobi reserve wallets
+creator: GraphSense Core Team
+confidence: service_data
+category: exchange
+source: https://www.huobi.com/support/en-us/detail/24922606430831
+lastmod: 2022-11-16 
+tags:
+- address: 'DdzFFzCqrhsuQV5ohP1EBh9d4UjmmWDb2Vui2s2SACSBDeEW74kHhp3zj9hvLFDb9mK7hRr7fbctu1UYatPaF1omXiXPwf12bn7DQvbT'
+  currency: ADA
+  label: huobi reserve wallets ADA
+- address: 'cosmos1nynns8ex9fq6sjjfj8k79ymkdz4sqth06xexae'
+  currency: ATOM
+  label: huobi reserve wallets ATOM
+- address: '17om4dHcDNy9LAagMj8mGW59vyXjvA3GBn'
+  currency: BCH
+  label: huobi reserve wallets BCH
+- address: 'qptsxhxxuyww0a3s3gy2ee9cwdgjhz7pqyw9d2dwsl'
+  currency: BCH
+  label: huobi reserve wallets BCH
+- address: '0xa929022c9107643515f5c777ce9a910f0d1e490c'
+  currency: ETH
+  label: huobi reserve wallets BETH
+- address: '143gLvWYUojXaWZRrxquRKpVNTkhmr415B'
+  currency: BTC
+  label: huobi reserve wallets BTC
+- address: '12qTdZHx6f77aQ74CPCZGSY47VaRwYjVD8'
+  currency: BTC
+  label: huobi reserve wallets BTC
+- address: '14XKsv8tT6tt8P8mfDQZgNF8wtN5erNu5D'
+  currency: BTC
+  label: huobi reserve wallets BTC
+- address: 'DFCT8ZPq6MytZU3HSvbTJevxt4MLq2Xasu'
+  currency: DOGE
+  label: huobi reserve wallets DOGE
+- address: 'DTzJt8f1YxgpBwVhEfZgkvvZixMLpxjCHG'
+  currency: DOGE
+  label: huobi reserve wallets DOGE
+- address: 'DHcYzg33fr3rmHzQjXjNvYW8gTzxU7FWWK'
+  currency: DOGE
+  label: huobi reserve wallets DOGE
+- address: 'D7G2oPDhfUCQv5G3KwavFghRmmDd1eKKL7'
+  currency: DOGE
+  label: huobi reserve wallets DOGE
+- address: '145pfvzsdw4zcZHv8v97rY1C8MfbKN5LKDV7JaNgm6tA65bE'
+  currency: DOT
+  label: huobi reserve wallets DOT
+- address: '15kUt2i86LHRWCkE3D9Bg1HZAoc2smhn1fwPzDERTb1BXAkX'
+  currency: DOT
+  label: huobi reserve wallets DOT
+- address: 'vuniyuoxoeub'
+  currency: EOS
+  label: huobi reserve wallets EOS
+- address: '0x6667ed6cb6e7accc4004e8844dbdd0e72d58c31c'
+  currency: ETC
+  label: huobi reserve wallets ETC
+- address: '0x66F82BeCAE07AA9Ae95BF92aCA888AB185Ef70C2'
+  currency: ETC
+  label: huobi reserve wallets ETC
+- address: '0x18709e89bd403f470088abdacebe86cc60dda12e'
+  currency: ETH
+  label: huobi reserve wallets ETH
+- address: '0xcac725bef4f114f728cbcfd744a731c2a463c3fc'
+  currency: ETH
+  label: huobi reserve wallets ETH
+- address: '0xa929022c9107643515f5c777ce9a910f0d1e490c'
+  currency: ETH
+  label: huobi reserve wallets ETH
+- address: 'f1abjxfbp274xpdqcpuaykwkfb43omjotacm2p3za'
+  currency: FIL
+  label: huobi reserve wallets FIL
+- address: 'f1rmrlyjzym3jgv6tt77kbbbwbz6huxbimlt5va7y'
+  currency: FIL
+  label: huobi reserve wallets FIL
+- address: '0xa929022c9107643515f5c777ce9a910f0d1e490c'
+  currency: ETH
+  label: huobi reserve wallets HT
+- address: '0x0511509A39377F1C6c78DB4330FBfcC16D8A602f'
+  currency: ETH
+  label: huobi reserve wallets HT
+- address: '0x1205E4f0D2f02262E667fd72f95a68913b4F7462'
+  currency: ETH
+  label: huobi reserve wallets HT
+- address: '0xe4818f8fde0c977a01da4fa467365b8bf22b071e'
+  currency: ETH
+  label: huobi reserve wallets HT
+- address: '0x5c985e89dde482efe97ea9f1950ad149eb73829b'
+  currency: ETH
+  label: huobi reserve wallets HT
+- address: '0x18709e89bd403f470088abdacebe86cc60dda12e'
+  currency: ETH
+  label: huobi reserve wallets HT
+- address: 'MNky8PL58UjL14mcZm3ESvEkYQkzMY9kfu'
+  currency: LTC
+  label: huobi reserve wallets LTC
+- address: '0xd70250731a72c33bfb93016e3d1f0ca160df7e42'
+  currency: MATIC
+  label: huobi reserve wallets MATIC
+- address: '0x18709e89bd403f470088abdacebe86cc60dda12e'
+  currency: ETH
+  label: huobi reserve wallets SHIB
+- address: '0xc589b275e60dda57ad7e117c6dd837ab524a5666'
+  currency: ETH
+  label: huobi reserve wallets SHIB
+- address: '88xTWZMeKfiTgbfEmPLdsUCQcZinwUfk25EBQZ21XMAZ'
+  currency: SOL
+  label: huobi reserve wallets SOL
+- address: 'TYh6mgoMNZTCsgpYHBz7gttEfrQmDMABub'
+  currency: TRX
+  label: huobi reserve wallets TRX
+- address: 'TKgD8Qnx9Zw3DNvG6o83PkufnMbtEXis4T'
+  currency: TRX
+  label: huobi reserve wallets TRX
+- address: 'TCQQjfccKdMi4CnPAzmZW5TALH4HbwceVb'
+  currency: TRX
+  label: huobi reserve wallets TRX
+- address: 'TNaRAoLUyYEV2uF7GUrzSjRQTU8v5ZJ5VR'
+  currency: TRX
+  label: huobi reserve wallets TRX
+- address: 'TDToUxX8sH4z6moQpK3ZLAN24eupu2ivA4'
+  currency: TRX
+  label: huobi reserve wallets TRX
+- address: 'TCiRCBNFrL6bFKWL94yWQi5hNMGNp1Nu27'
+  currency: TRX
+  label: huobi reserve wallets TRX
+- address: 'TGn1uvntAVntT1pG8o7qoKkbViiYfeg6Gj'
+  currency: TRX
+  label: huobi reserve wallets TRX
+- address: 'TAuUCiH4JVNBZmDnEDZkXEUXDARdGpXTmX'
+  currency: TRX
+  label: huobi reserve wallets TRX
+- address: 'TUJGLHo3rq4EAUY1LHRhNkHPX8qmrv9WFs'
+  currency: TRX
+  label: huobi reserve wallets TRX
+- address: 'TF2fmSbg5HAD34KPUH7WtWCxxvgXHohzYM'
+  currency: TRX
+  label: huobi reserve wallets TRX
+- address: 'THZovMcKoZaV9zzFTWteQYd2f3NEvnzxAM'
+  currency: TRX
+  label: huobi reserve wallets TRX
+- address: 'TZ1SsapyhKNWaVLca6P2qgVzkHTdk6nkXa'
+  currency: TRX
+  label: huobi reserve wallets TRX
+- address: 'TRSXRWudzfzY4jH7AaMowdMNUXDkHisbcd'
+  currency: TRX
+  label: huobi reserve wallets TRX
+- address: '0x5c985e89dde482efe97ea9f1950ad149eb73829b'
+  currency: ETH
+  label: huobi reserve wallets USDC
+- address: '0x18709e89bd403f470088abdacebe86cc60dda12e'
+  currency: ETH
+  label: huobi reserve wallets USDC
+- address: 'TDToUxX8sH4z6moQpK3ZLAN24eupu2ivA4'
+  currency: TRX
+  label: huobi reserve wallets USDC
+- address: 'TNaRAoLUyYEV2uF7GUrzSjRQTU8v5ZJ5VR'
+  currency: TRX
+  label: huobi reserve wallets USDC
+- address: 'J4AEINCSSLDA7LNBNWM4ZXFCTLTOZT5LG3F5BLMFPJYGFWVCMU37EZI2AM'
+  currency: ALGO
+  label: huobi reserve wallets USDT
+- address: '0xe195b82df6a797551eb1acd506e892531824af27'
+  currency: AVAX
+  label: huobi reserve wallets USDT
+- address: '0xa929022c9107643515f5c777ce9a910f0d1e490c'
+  currency: ETH
+  label: huobi reserve wallets USDT
+- address: '0x18709e89bd403f470088abdacebe86cc60dda12e'
+  currency: ETH
+  label: huobi reserve wallets USDT
+- address: 'TNaRAoLUyYEV2uF7GUrzSjRQTU8v5ZJ5VR'
+  currency: TRX
+  label: huobi reserve wallets USDT
+- address: '0x18709e89bd403f470088abdacebe86cc60dda12e'
+  currency: ETH
+  label: huobi reserve wallets XCN
+- address: '0x30741289523c2e4d2a62c7d6722686d14e723851'
+  currency: ETH
+  label: huobi reserve wallets XCN
+- address: 'rKUDvXFJMFu65LqPTH3Yfpii4rbKT9bSQT'
+  currency: XRP
+  label: huobi reserve wallets XRP

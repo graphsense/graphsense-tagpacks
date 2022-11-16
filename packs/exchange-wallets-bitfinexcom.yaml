@@ -1,0 +1,412 @@
+title: bitfinex.com reserve wallets
+creator: GraphSense Core Team
+confidence: service_data
+category: exchange
+source: https://github.com/bitfinexcom/pub/blob/main/wallets.txt
+lastmod: 2022-11-15 
+tags:
+- address: '1Kr6QSydW9bFQG1mXiPNNu6WpJGmUa9i1g'
+  currency: BTC
+  label: BTC hot wallet
+- address: '3JZq4atUahhuA9rLhXLMhhTo133J9rF97j'
+  currency: BTC
+  label: BTC cold wallet
+- address: 'bc1qgdjqv0av3q56jvd82tkdjpy7gdp9ut8tlqmgrpmv24sq90ecnvqqjwvw97'
+  currency: BTC
+  label: BTC cold wallet
+- address: '0x77134cbc06cb00b66f4c7e623d5fdbf6777635ec'
+  currency: ETH
+  label: ETH/ERC20 hot wallet
+- address: '0x742d35Cc6634C0532925a3b844Bc454e4438f44e'
+  currency: ETH
+  label: ETH/ERC20 cold wallet
+- address: '0xC61b9BB3A7a0767E3179713f3A5c7a9aeDCE193C'
+  currency: ETH
+  label: ETH/ERC20 cold wallet
+- address: '0x876EabF441B2EE5B5b0554Fd502a8E0600950cFa'
+  currency: ETH
+  label: ETH/ERC20 (old) hot wallet
+- address: '0x77134cbc06cb00b66f4c7e623d5fdbf6777635ec'
+  currency: MATIC
+  label: Polygon hot wallet
+- address: '0x742d35Cc6634C0532925a3b844Bc454e4438f44e'
+  currency: MATIC
+  label: Polygon cold wallet
+- address: '0x876EabF441B2EE5B5b0554Fd502a8E0600950cFa'
+  currency: MATIC
+  label: Polygon (old) hot wallet
+- address: '0x77134cbc06cb00b66f4c7e623d5fdbf6777635ec'
+  currency: AVAX
+  label: Avalanche (C-Chain) hot wallet
+- address: '0x742d35Cc6634C0532925a3b844Bc454e4438f44e'
+  currency: AVAX
+  label: Avalanche (C-Chain) cold wallet
+- address: '0x876EabF441B2EE5B5b0554Fd502a8E0600950cFa'
+  currency: AVAX
+  label: Avalanche (old) hot wallet
+- address: 'DdzFFzCqrhstFM5XQYA28G2ekCkvpb6bPdhUT5vcsZtqYT3i7wAtjNPCTEGNbUmgL4ym9udeV5k6Utc3vCmAbky6Bvda72r1SQknZH9L'
+  currency: ADA
+  label: Cardano ADA hot wallet
+- address: 'addr1qxrlkh6yh0km5m5n7923syel0yqqvc3pjrnqrzrz3gwpxd70prfqwehanuxzkwmv55ff9gr7tjx5vymykd2galr9chaqlwjwm9'
+  currency: ADA
+  label: Cardano ADA cold wallet
+- address: 'JDQ7EW3VY2ZHK4DKUHMNP35XLFPRJBND6M7SZ7W5RCFDNYAA47OC5IS62I'
+  currency: ALGO
+  label: Algorand hot wallet
+- address: '0xa08fd235db5de8023721b5f9b6e29c0ee5253982ccdd423a1cd9f682ae745821'
+  currency: AION
+  label: AION hot wallet
+- address: '0xfd9192f8ad8dc60c483a884f0fbc8940f5b8618f3cf2bbf91693982b373dfdea'
+  currency: APT
+  label: Aptos hot wallet
+- address: 'GwsHHFEVarroa9GYeMkzQWZnbtBpReUbN3CkSZQrihTg'
+  currency: Atlas
+  label: Atlas hot wallet
+- address: 'X-avax1ju2khnvkex4u30rt5jm5x8jd3jdfhvawg7ed9x'
+  currency: AVAX
+  label: Avalanche hot wallet
+- address: '19PYCUcpLsUSFUeLt4u9a1z8QyJYQMyGqB'
+  currency: BCH
+  label: Bitcoin Cash hot wallet
+- address: 'bitcoincash:prseh0a4aejjcewhc665wjqhppgwrz2lw5txgn666a'
+  currency: BCH
+  label: Bitcoin Cash cold wallet
+- address: 'bitcoincash:qpnrayau0ax6qcwlxhdzp8kze5gfjwlznygdmdpwjv'
+  currency: BSV
+  label: Bitcoin SV hot wallet
+- address: '14BMRtbwkhFME8pjPkn17hKesesD99EVKs'
+  currency: BSV
+  label: Bitcoin SV cold wallet
+- address: 'VJLAYX5DZX1KuCBvAdR8ob6S9yLpyhc4y5gCyRoVDEYMZVCszi58rkwpytX3WAtx2e8sB4pRpSwR153Z (AMP ID: GA3fBygpY36J6tbgEBD661dy74Mxeg)'
+  currency: Blockstream
+  label: Blockstream Mining Note (BMN) hot wallet
+- address: '0x16c633f1afc23dc14e29e2c3220a4b5e4a5260a0'
+  currency: Callisto
+  label: Callisto hot wallet
+- address: 'certik1azxdh422fnx4df78xsk3j4vsz2wl224wt5tfwd'
+  currency: Certik
+  label: Certik hot wallet
+- address: 'cosmos1h9ymfm2fxrqgd257dlw5nku3jgqjgpl59sm5ns'
+  currency: ATOM
+  label: Cosmos hot wallet
+- address: 'cosmos1jtdkj8hxhj88jxv8lul9xvdpnwsl00evvvpnhj'
+  currency: ATOM
+  label: Cosmos cold wallet
+- address: 'XkW5GRvMfUmVCTxZF5L8P75zNhUnzmBkjA'
+  currency: DASH
+  label: Dash hot wallet
+- address: 'Xty4Q4B1CCm1qA4sMFkmczZqCtftFJuEse'
+  currency: DASH
+  label: Dash cold wallet
+- address: 'ed753e2282b90f0c92f2ec2b21161b05c505f1c2a606dbe55d5d27872623395b'
+  currency: Dfinity
+  label: Dfinity hot wallet
+- address: 'Erd1a56dkgcpwwx6grmcvw9w5vpf9zeq53w3w7n6dmxcpxjry3l7uh2s3h9dtr'
+  currency: Elrond
+  label: Elrond hot wallet
+- address: 'bitfinexdep1'
+  currency: EOS
+  label: EOS/EOS Tokens hot wallet
+- address: 'bitfinexcw21'
+  currency: EOS
+  label: EOS/EOS Tokens cold/wallet
+- address: 'bitfinexcw23'
+  currency: EOS
+  label: EOS/EOS Tokens cold/wallet
+- address: 'bitfinexcw24'
+  currency: EOS
+  label: EOS/EOS Tokens cold/wallet
+- address: 'bitfinexcw25'
+  currency: EOS
+  label: EOS/EOS Tokens cold/wallet
+- address: 'bitfinexcw31'
+  currency: EOS
+  label: EOS/EOS Tokens cold/wallet
+- address: 'bitfinexcw22'
+  currency: EOS
+  label: EOS/EOS Tokens cold/wallet
+- address: 'bitfinexcw33'
+  currency: EOS
+  label: EOS/EOS Tokens cold/wallet
+- address: 'bitfinexcw55'
+  currency: EOS
+  label: EOS/EOS Tokens cold/wallet
+- address: '0x618F37D7ff7B140E604172466CD42D1Ec35E0544'
+  currency: ETH
+  label: Ethereum Classic hot wallet
+- address: '0x88037f361891A0B5De3C0C30632fBcA7DB2D341F'
+  currency: ETH
+  label: Ethereum Classic cold wallet
+- address: 'MSakZo8uwUuoVgJ6s3ugLTRE2HTRUgybkZ'
+  currency: ETP
+  label: ETP/MVS hot wallet
+- address: 'MDqEmYFpphzegLEno5Gi4A3g9SrJSb5LAG'
+  currency: ETP
+  label: ETP/MVS cold wallet
+- address: '0xed9eef56e64a8e779cfae9ddedb25d11ba2b2425'
+  currency: FTM
+  label: Fantom/Fantom tokens hot wallet
+- address: 'f3rgsvwupbysklbwdx2444xximkapartwtue3aoyzws7z4cv23ku2nzcr32ioyrnjm7wulytyo36fgratyri5a'
+  currency: FIL
+  label: Filecoin hot wallet
+- address: 'EKhRBhkzgamNbPSHs8eGAJWfBfypZbBj8MDKP1KkCdX9'
+  currency: GMT
+  label: Stepn (GMT) hot wallet
+- address: '3yY3tAWX41n8qtTNqAEXZ7ge45rJAM6EzSi6NJbB3Gso'
+  currency: Green
+  label: Green Satoshi Token (GST) hot wallet
+- address: 'J44Njxrdou5DC8iAWacqoisSehWjqa9z7cjmt8GuFBDAq4G'
+  currency: KSM
+  label: Kusama hot wallet
+- address: 'LXTQdps2Pf83WdAXMinboiqLsEjSWrwJCD'
+  currency: LTC
+  label: Litecoin hot wallet
+- address: 'Terra1t0an4m6t47rp3mj57rdfzw6dpd3lw8erxjppgw'
+  currency: Luna
+  label: Luna hot wallet
+- address: 'terra1tj0a70z6lpaumu5rakesaptzmewhcumpws2gjv'
+  currency: Luna
+  label: Luna hot wallet 2
+- address: '383e50ea1a754ed3acd0d59116f221add87adb82559f31ca6d377f058fe83375'
+  currency: Near
+  label: Near hot wallet
+- address: 'NLmoMqswiGdSJNQZB8KVscqixmvg2L4V7x'
+  currency: NEO
+  label: Neo/Neogas hot wallet
+- address: 'Oasis1qptlwu8arx7l8x0427f0xxke3swd27ctygukv0h5'
+  currency: Oasis
+  label: Oasis rose hot wallet
+- address: '1BzjoD8rMvCjTDHhc7mUzG3ZB7idTjfW6U'
+  currency: OMNI
+  label: Omni (Omni protocol) hot wallet
+- address: 'QJE4QSU4YO7HKIIY6BWDFD3EWRAZP2AUROARFHFZGMUBFREPUCVQPTOQLM'
+  currency: Planets
+  label: Planets hot wallet
+- address: 'KALDGQ4P5zTsaTENM1F14Uu58Ch3P7NQc1N2TNd7B3a'
+  currency: POLIS
+  label: Polis hot wallet
+- address: '12T1tgaYZzEkFpnPvyqttmPRJxbGbR4uDx49cvZR5SRF8QDu'
+  currency: DOT
+  label: Polkadot hot wallet
+- address: 'BkBXqUS3yuzTUQ28R3q1w6JTQpvtC89cGrQXgkCsD7c5'
+  currency: OXY
+  label: Oxygen (OXY) hot wallet
+- address: '0x9ac376f749fff5b70d893f63b70ffa9e2f5012f7'
+  currency: RBTC
+  label: RBTC and RSK tokens (RIF) hot wallet
+- address: '5CiCsGaSJeXhdnzryzqD81bCmnHGeJaJFNSn5T5933uDYZLL'
+  currency: REEF
+  label: Reef hot wallet
+- address: 'rLW9gnQo7BQhU6igk5keqYnH3TVrCxGRzm'
+  currency: Ripple
+  label: Ripple XRP hot wallet
+- address: 'rE3hWEGquaixF2XwirNbA1ds4m55LxNZPk'
+  currency: Ripple
+  label: Ripple XRP cold wallet
+- address: '96kuAN8CTwSVmpBNyRaq6NuyxJ7aWwx7PSY7cwoANwHK'
+  currency: SRM
+  label: Serum hot wallet
+- address: 'FxteHmLwG9nk1eL4pjNve3Eub2goGkkz6g6TbvdmW46a'
+  currency: SOL
+  label: Solana hot wallet
+- address: 'FyJBKcfcEBzGN74uNxZ95GxnCxeuJJujQCELpPv14ZfN'
+  currency: SOL
+  label: Solana cold wallet
+- address: '0x77134cbC06cB00b66F4c7e623D5fdBF6777635EC'
+  currency: SGB
+  label: Songbird hot wallet
+- address: 'GAWPTHY6233GRWZZ7JXDMVXDUDCVQVVQ2SXCSTG3R3CNP5LQPDAHNBKL'
+  currency: XLM
+  label: Stellar (XLM) and VELO hot wallet
+- address: 'bfxtelos1111'
+  currency: TLOS
+  label: Telos hot wallet
+- address: '0xdd3c4d1e564384414af671d6d334521c79266bfd'
+  currency: Theta
+  label: Theta hot wallet
+- address: 'ED53MNSH3LQSScnT9SXzwKZg2weC8yds5X5G97Yvk3M5jFX'
+  currency: USDT
+  label: Tether USDt (Kusama) hot wallet
+- address: '1KYiKJEfdJtap9QX2v9BXJMpz2SfU4pgZw'
+  currency: USDT
+  label: Tether USDt (Omni Protocol) hot wallet
+- address: 'GnCRxKqUEPouYMvTb5nJMGrDB3VkTXZnDTaDuVZdnWA3'
+  currency: USDT
+  label: Tether USDt (Solana) hot wallet
+- address: 'UGYKOYFAEB6373DVH6ME6BFVHNG6BMWTYU6VZBMFFI2YQ72QACBSZLNYZ4'
+  currency: USDT
+  label: Tether USDt (Algorand) hot wallet
+- address: 'tz1KtGwriE7VuLwT3LwuvU9Nv4wAxP7XZ57d'
+  currency: XTZ
+  label: Tezos (XTZ) hot wallet
+- address: 'tz1fK1ZmVMtshYoCoQ1zC1SCCUG4SnbyR75p'
+  currency: XTZ
+  label: Tezos (XTZ) cold wallet
+- address: 'tz1N47UGiVScUUvHemXd2kGwJi44h7qZMUzp'
+  currency: USDT
+  label: Tether USDt (Tezos) hot wallet
+- address: '1UJSCYLh44UYhkm1WwXAwT2W8nirTD74VzPsdhfsstY8S3u'
+  currency: USDT
+  label: Tether USDt (Polkadot)
+- address: '965c8b57b7f36fe9a40ce6188d444ca78708e4d83843b108f7f53d0fe5332076'
+  currency: USDT
+  label: Tether USDt (Near) hot wallet
+- address: '0x77134cbC06cB00b66F4c7e623D5fdBF6777635EC'
+  currency: USDT
+  label: Tether USDt (Polygon) hot wallet
+- address: 'simpleledger:qp5y6ggsn8y0pzghhn2zap7kyestzqh2vc7t400n96'
+  currency: USDT
+  label: Tether USDt (BCH-SLP) hot wallet
+- address: 'TXFBqBbqJommqZf7BV8NNYzePh97UmJodJ'
+  currency: TRX
+  label: Tron TRX/TRC10/TRC20 hot wallet
+- address: 'TMhJviFWiaxvqKLdng9dmsi1H5H5yTGEeu'
+  currency: TRX
+  label: Tron TRX/TRC10/TRC20 cold wallet
+- address: '0xe401984ab34bae9f6c9128e50b57e7988ba815c7'
+  currency: VET
+  label: VeChain hot wallet
+- address: 'ARBF25kbKd8gxDLDSGF6hAfzdTVuuYJK1kP'
+  currency: V-Systems
+  label: V-Systems hot wallet
+- address: 'bitfinexwax1'
+  currency: WAXP
+  label: WAX hot wallet
+- address: '3PKVM8fRTDav64MSMHEMbA9rXvo1bUc1hyS'
+  currency: WAVES
+  label: WAVES (WAVES) hot wallet
+- address: 'xdc472c619028bA67B817b48f8d64DBB7699Ce0fadf'
+  currency: XinFin
+  label: XinFin (XDC) hot wallet
+- address: 'rdx1qspsgtz8wxzhs7h3m5dxz4uw0a350qp567zz4v9xgamcag8kavsxvpctcgge2'
+  currency: XRD
+  label: RADIX (XRD) hot wallet
+- address: '378854166'
+  currency: YOYOW
+  label: YOYOW (YYW) hot wallet
+- address: '0x326031E680419FB020A5361fF56384e166b5aa85'
+  currency: Ziliqa
+  label: Ziliqa (ZIL) hot wallet
+- address: 't1RRKgYb1bTmtUZvwqc3S5vLN5h8vke3xUY'
+  currency: ZEC
+  label: Zcash hot wallet
+- address: 't1N26vuBpBG9oTZ3ixtHxrhbhDWA24NPaji'
+  currency: ZEC
+  label: Zcash cold wallet
+- address: 'DPRWrAopjKfzEMne2jiLBuwyH9m1LZE5DF'
+  currency: XVG
+  label: Verge hot wallet
+- address: 'LNSFU7hmF6GP2AFdcrCgd4QvFimvspviSs'
+  currency: LTC
+  label: LTC Cold wallet 1DOT
+- address: '48iVBYd8rHfH4aTKffWXwpTqpo83dKUthimYZbHfPF3W4P66mEw2f8yCNg4JfY8pgkjge1fnpT8XuLwgUekQnKK8SqGj3a8'
+  currency: XMR
+  label: Monero XMR hot wallet
+- address: '42CU1xexo9PB2uM3B3iwgcA49Phzq6QJsMZhw469XYTVdX1Y9WXV4R4asR6qBFL7xuCBYNfXodmSiTyWf7Hi23ckQDTaauH'
+  currency: XMR
+  label: Monero XMR cold wallet
+- address: 'iota1qzs2a24ne5cysms37w6cel8l58f7n7vaus4pwfp9fjx3xu53xau8770swf8'
+  currency: MIOTA
+  label: IOTA hot wallet
+- address: 'iota1qpl7delcfqz85g3wy4az24kz37yck7zhfzlaxydmang0t2kq6eh87tgfajt'
+  currency: MIOTA
+  label: IOTA cold Wallet
+- address: '1NNAdw8phoJcQYJVvNKuD3QebGhdpWqNiW'
+  currency: BCH
+  label: BCH cold wallet
+- address: 'NVWYuqPFUK5bRUkceiHre8CbLacuFVJtV5'
+  currency: NEO
+  label: NEO cold wallet
+- address: 'GD2TRYZSEGDYSBD65KWLTDWAZEJBT5OBJWBHMBSZAERMOCOJWP7DKJWH'
+  currency: XLM
+  label: XLM cold wallet
+- address: '0xcaca08a5053604bb9e9715ed78102dbb392f21ee'
+  currency: VET
+  label: Vechain cold wallet
+- address: '191GkfPrxGuwdt5xsx3YXrVYVB8BT2FUx2'
+  currency: OMNI
+  label: Omni cold wallet
+- address: 'D5gNLiUXcgjjr9A4GQoKaBrLRkFRWKSZKt'
+  currency: DGB
+  label: Digibyte hot Wallet
+- address: 'Sa8dohcLPGstDoiRQYZZLHsGYkK6YNAzFN'
+  currency: DGB
+  label: Digibyte cold wallet
+- address: '0x85dafb8136644f0a1028888290e88d19e3dc8feb'
+  currency: RBTC
+  label: RBTC Cold Wallet
+- address: '0x91d9592c91b05d9dc6c2dcd083f19f843d0dd8f3'
+  currency: CLO
+  label: CLO Cold Wallet
+- address: 'VTq1EUZ3aA1hREP9UeTNVcy1FRwgdzMGMdg29LNP5V5JzJg5XeMa3JTk5GrV8nHZYwvKyzpJtmFnddTi'
+  currency: L-BTC
+  label: L-BTC hot wallet
+- address: 'VJLJQcQ5MBXVMRfZS4Cb7UGe2LhyGP1Ma9N7gBGGPmzV2MtSkNh9si7JnCvphF2tYitiiyEw61yMHfNR'
+  currency: L-BTC
+  label: L-BTC cold wallet
+- address: 'NWPUVAIOBZHBVLCCYGERFGQ3ZRQPSJ7R6UB3NXFBF552BGYAGX4I5TCVCY'
+  currency: ALGO
+  label: Algorand Cold Wallet
+- address: 'zil1xfsrre5qgx0mqg99xc0l2cuyu9ntt259ngsu7s'
+  currency: ZIL
+  label: Zilliqa hot wallet
+- address: 'zil184u2al6n0nrks06xjgq080hc95f77ttd7rkqvn'
+  currency: ZIL
+  label: Zilliqa cold wallet
+- address: '13AE11jLvxcxsjqaSoWFXCTGUfbjXb1gmZTY8x3TXJzWutmf'
+  currency: DOT
+  label: Polkadot cold wallet
+- address: '7fDmp1P8oU5Ux9h7q1nx2gcPXiJwUcMC9P'
+  currency: XNS
+  label: XNS hot wallet
+- address: 'FXT6Uroo2pAiQvVY2ZgBCRt5axWdxEJmfjCJwL6rg5WReZq'
+  currency: KSM
+  label: Kusama cold Wallet
+- address: 'J4rzLDLhLWFpjSgCMCcxTU84bQ8AH5vhgjwq7SjYVk8Q'
+  currency: USDT
+  label: Tether USDt (Solana)
+- address: '8iyuS6Kya7TfggvUCVmeXErizSjx59tAsS76QbTs3rjhmnssjtnwCq5L8mDW6TKrFGf7nsZHnkDYt6Yp9ejTCcQryyfZGqqFX6MMi5uE7BW'
+  currency: MOB
+  label: Mobilecoin hot wallet
+- address: 'DQQckuSMsiFjaAdGiNjvDyswcz9RWQU2xe'
+  currency: DOGE
+  label: Dogecoin hot wallet
+- address: 'ygzutjk1qw2BvzE9kczGJTfTwB6jL78nk6SYE5dvNNQ'
+  currency: OXY
+  label: OXY hot wallet
+- address: 'DsVYpt29NxnmgttNubPghmXRY34hVtaRbaa'
+  currency: DCR
+  label: Decred hot wallet
+- address: 'ecash:qpuqempp9cv9u00jht2yvhhelmtudpvp6q680ygtfe'
+  currency: XEC
+  label: XEC hot wallet
+- address: 'terra1hnsch5v36w8h5el6x2hc6rcg459t3yfwnvc6gm'
+  currency: LUNA
+  label: LUNA cold Wallet
+- address: '0x5B8a2A78adCB8Df2Cb309E79cB90600A743A60a8'
+  currency: KAIhot
+  label: KAIhot wallet
+- address: '3kKn2kz9YHrkrKUcBZF9NUJbg8LqGzcBbLwzH1VPE5g2fTbY9z'
+  currency: CCD
+  label: Concordium hot wallet
+- address: '9GUfJg5zXLNcbWxUJU1Y5jE47PT47BPAE1wrxbewPFYX'
+  currency: GMT
+  label: GMT hot wallet
+- address: 'BVxuZRhBq1mmiRHMnnZVTjnvtGeu5Loeh11YEKsw9ata'
+  currency: GST
+  label: GST hot wallet
+- address: 'J39tstX2dkkNHhEaNRDbX873vWuEU3n3SA6geKa1Xcvt'
+  currency: ATLAS
+  label: ATLAS hot wallet
+- address: '4ripZywzMMskZY1YSau4giqU58Ma5hxdQjTAgVKy3WCu'
+  currency: POLIS
+  label: POLIS hot wallet
+- address: 'terra1hnsch5v36w8h5el6x2hc6rcg459t3yfwnvc6gm'
+  currency: LUNA2
+  label: LUNA2 cold wallet
+- address: 'smr1qqvlkc4tyfd6fnfr59c5u3cwt6ryrd2cualw83nlq8zq0wg9tnfpyajpg9v'
+  currency: SMR
+  label: SMR hot Wallet
+- address: 'smr1qz0nluk2fm29c9k74f60j83grt22237esnymel22trzjywtrgrwsve4rtt7'
+  currency: SMR
+  label: SMR cold Wallet

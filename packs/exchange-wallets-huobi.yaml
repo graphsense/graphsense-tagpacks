@@ -15,7 +15,7 @@ tags:
 - address: '17om4dHcDNy9LAagMj8mGW59vyXjvA3GBn'
   currency: BCH
   label: huobi reserve wallets BCH
-- address: 'qptsxhxxuyww0a3s3gy2ee9cwdgjhz7pqyw9d2dwsl'
+- address: 'bitcoincash:qptsxhxxuyww0a3s3gy2ee9cwdgjhz7pqyw9d2dwsl'
   currency: BCH
   label: huobi reserve wallets BCH
 - address: '0xa929022c9107643515f5c777ce9a910f0d1e490c'

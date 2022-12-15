@@ -5,6 +5,7 @@ is_cluster_definer: true
 confidence: authority_data
 source: https://www.justice.gov/opa/press-release/file/1304296/download
 currency: BTC
+abuse: terrorism
 tags:
 - address: 1421chCK32pV32Tw5MQbiUiKWKvnmj7d91
 - address: 3KhAHDfTuVnHUfRgQfVP4LcV8SHXpN51u7

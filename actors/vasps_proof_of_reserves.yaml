@@ -1,0 +1,38 @@
+title: VASPs providing Proof of Reserves
+creator: GraphSense Core Team
+description: Set of VASP Actors releasing their own addresses as a Proof of Reserves
+lastmod: 2022-12-19
+categories: [exchange]
+actors:
+- id: binance
+  uri: https://binance.com
+  label: binance
+  jurisdictions: [FR, IT, LT, ES, CY, PL, KZ, AE, BH, AU, NZ, CA, ZA]
+- id: bitfinex
+  uri: https://bitfinex.com
+  label: bitfinex
+  jurisdictions: [VG]
+- id: bitmex
+  uri: https://bitmex.com
+  label: bitmex
+  jurisdictions: [SC]
+- id: crypto.com
+  uri: https://crypto.com
+  label: crypto.com
+  jurisdictions: [MT, SG]
+- id: deribit
+  uri: https://deribit.com
+  label: deribit
+  jurisdictions: [PA]
+- id: huobi
+  uri: https://huobi.com
+  label: huobi
+  jurisdictions: [SC]
+- id: kucoin
+  uri: https://kucoin.com
+  label: kucoin
+  jurisdictions: [SC]
+- id: okx
+  uri: https://okx.com
+  label: okx (old okex, okb cryptocurrency)
+  jurisdictions: [BS, SC]

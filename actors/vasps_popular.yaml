@@ -1,0 +1,37 @@
+title: GraphSense Popular VASPs ActorPack
+creator: GraphSense Core Team
+description: A collection of known VASPs seen in TagPacks
+lastmod: 2022-12-06
+jurisdictions: []
+categories: [exchange]
+actors:
+- id: coinbase
+  uri: https://coinbase.com
+  label: coinbase
+- id: zaif
+  uri: https://zaif.com
+  label: zaif
+- id: mtgox
+  uri: https://mtgox.com
+  label: mtgox
+- id: bithumb
+  uri: https://bithumb.com
+  label: bithumb
+- id: shapeshift
+  uri: https://shapeshift.com
+  label: shapeshift
+- id: gemini
+  uri: https://gemini.com
+  label: gemini
+- id: f2pool
+  uri: https://f2pool.com
+  label: f2pool
+- id: coinmetro
+  uri: https://coinmetro.com
+  label: coinmetro
+- id: cryptopia
+  uri: https://cryptopia.com
+  label: cryptopia
+- id: paribu
+  uri: https://paribu.com
+  label: paribu

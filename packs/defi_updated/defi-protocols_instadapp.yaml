@@ -1,0 +1,50 @@
+title: InstaDapp addresses
+creator: CSH CryptoFinance Team
+is_cluster_definer: true
+description: InstaDapp addresses
+lastmod: 2023-01-09
+confidence: forensic
+source: https://github.com/Instadapp/dsa-connectors/blob/main/docs/connectors.json
+currency: ETH
+category: defi_lending
+tags:
+- label: instadapp_COMPOUND-A
+  address: '0x1B1EACaa31abbE544117073f6F8F658a56A3aE25'
+- label: instadapp_COMP-A
+  address: '0x907F0C8c99B08606eE0A51ec5Bc3dFdbFC2d92f3'
+- label: instadapp_REFINANCE-A
+  address: '0x6f22931423e8ffC8d51f6E5aF73118fC64b27856'
+- label: instadapp_REFLEXER-A
+  address: '0xaC6dc28a6251F49Bbe5755E630107Dccde9ae2C8'
+- label: instadapp_GELATO-AAVE-A
+  address: '0x825832a5A589ed9500CaEE2aa2D2c3117218D6A9'
+- label: instadapp_LIQUITY-A
+  address: '0x3643bA40B8e2bd8F77233BDB6abe38c218f31bFe'
+- label: instadapp_UNISWAP-V3-A
+  address: '0x25B0c76dE86C3457b9B8b9ee3775F5a7b8D4c475'
+- label: instadapp_B-COMPOUND-A
+  address: '0xa3EeFDc2de9DFA59968bEcff3E15b53E6162460f'
+- label: instadapp_B-MAKERDAO-A
+  address: '0xB0A1f10FeEfECf25064CE7cdF0a65042F7dE7bF0'
+- label: instadapp_B-LIQUITY-A
+  address: '0x19574E5Dfb40bbD63A4F3bdcF27ed662b329b2ff'
+- label: instadapp_InstaMappingController
+  address: '0xDdd075D5e1024901E4038461e1e4BbC3A48a08d4'
+- label: instadapp_InstaCompoundMapping
+  address: '0xe7a85d0adDB972A4f0A4e57B698B37f171519e88'
+- label: instadapp_InstaReflexerGebMapping
+  address: '0x573e5132693C046D1A9F75Bac683889164bA41b4'
+- label: instadapp_polygon_GELATO-AAAVE-A
+  address: '0x177Bd89A1D8643C9525D2DF131C1a6C513869299'
+- label: instadapp_polygon-v2-InstaDefaultImplementation
+  address: '0xFc8CcEFeB8bD4e637C787c70F7bf7c2E7Ba9aDdf'
+  source: https://github.com/Instadapp/dsa-contracts/blob/master/docs/addresses.json
+- label: instadapp_mainnet-InstaRead
+  address: '0x621AD080ad3B839e7b19e040C77F05213AB71524'
+  source: https://github.com/Instadapp/dsa-connect/blob/master/src/addresses/mainnet/core.ts
+- label: instadapp_mainnet-v1-InstaPool
+  address: '0x06cb7c24990cbe6b9f99982f975f9147c000fec6'
+  source: https://github.com/Instadapp/dsa-connect/blob/master/src/addresses/mainnet/core.ts
+- label: instadapp_mainnet-v1-InstaDydxFlash
+  address: '0xf5b16af97B5CBa4Babe786238FF6016daE6bb890'
+  source: https://github.com/Instadapp/dsa-connect/blob/master/src/addresses/mainnet/core.ts

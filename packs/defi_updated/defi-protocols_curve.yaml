@@ -1,0 +1,18 @@
+title: CurveFinance addresses
+creator: CSH CryptoFinance Team
+is_cluster_definer: true
+description: CurveFinance addresses
+lastmod: 2023-01-05
+confidence: forensic
+source: https://curve.readthedocs.io/ref-addresses.html
+currency: ETH
+category: defi_dex
+tags:
+- label: curvefinance_Emergency-Token
+  address: '0x4c0947B16FB1f755A2D32EC21A0c4181f711C500'
+- label: curvefinance_MetaPool-Factory.vy
+  address: '0xB9fC157394Af804a3578134A6585C0dc9cc990d4'
+- label: curvefinance_3pool-MetaImplementationUSD.vy
+  address: '0x5F890841f657d90E081bAbdB532A05996Af79Fe6'
+- label: curvefinance_sBTC-MetaImplementationBTC.vy
+  address: '0x2f956eee002b0debd468cf2e0490d1aec65e027f'

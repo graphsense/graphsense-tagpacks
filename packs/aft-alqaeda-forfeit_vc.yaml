@@ -1,7 +1,7 @@
 title: 155 virtual currency assets
 creator: GraphSense Core team
 label: Al-Qaeda Campaign
-is_cluster_definer: true
+is_cluster_definer: false
 confidence: authority_data
 source: https://www.justice.gov/opa/press-release/file/1304296/download
 currency: BTC

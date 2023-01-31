@@ -1,5 +1,16 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [23.01] 2023-01-30
+
+### Added
+- demo ActorPacks file
+- ActorPacks: VASPs having proof-of-reserves, from Walletexplorer
+- CTF tagpack
+
+## Fixed
+- github action
+- CTF tagpack
+
 ## [22.11] 2022-11-24
 ### Added
 - Lockbit Tattoo tagpack

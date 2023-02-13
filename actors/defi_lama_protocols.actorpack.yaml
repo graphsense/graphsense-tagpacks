@@ -1,0 +1,2579 @@
+title: ETH Defilama Actors
+creator: GraphSense Core Team
+description: Actors (Protocols) found in Ethereum found in the Defilama adapter Repository
+lastmod: 2023-01-25 16:30:13.173112
+actors:
+- id: 0xnodes
+  label: 0x_nodes
+  uri: https://0xnodes.io/
+  jurisdictions: []
+  categories:
+  - organization
+- id: 88mph
+  label: 88mph
+  uri: https://88mph.app/
+  jurisdictions: []
+  categories:
+  - organization
+- id: aave
+  label: aave
+  uri: https://aave.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: aavearc
+  label: aave-arc
+  uri: https://aave.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: aavegotchi
+  label: aavegotchi
+  uri: https://aavegotchi.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: aavev1
+  label: aave-v1
+  uri: https://aave.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: abracadabra
+  label: abracadabra
+  uri: https://abracadabra.money/
+  jurisdictions: []
+  categories:
+  - organization
+- id: acoconut
+  label: acoconut
+  uri: http://acoconut.fi/
+  jurisdictions: []
+  categories:
+  - organization
+- id: aladdindao
+  label: aladdin-dao
+  uri: https://www.aladdin.club
+  jurisdictions: []
+  categories:
+  - organization
+- id: alchemix
+  label: alchemix
+  uri: https://alchemix.fi/
+  jurisdictions: []
+  categories:
+  - organization
+- id: alkemi
+  label: alkemi
+  uri: https://alkemi.network
+  jurisdictions: []
+  categories:
+  - organization
+- id: allbridge
+  label: allbridge
+  uri: https://allbridge.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: allchainbridge
+  label: allchainbridge
+  uri: https://defi.swft.pro
+  jurisdictions: []
+  categories:
+  - organization
+- id: alpacacity
+  label: alpacacity
+  uri: https://alpaca.city
+  jurisdictions: []
+  categories:
+  - organization
+- id: alphahomora
+  label: alpha-homora
+  uri: https://homora-v2.alphaventuredao.io/
+  jurisdictions: []
+  categories:
+  - organization
+- id: ambirewallet
+  label: ambire-wallet
+  uri: https://www.ambire.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: amun
+  label: amun
+  uri: https://tokens.amun.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: angle
+  label: angle
+  uri: https://app.angle.money
+  jurisdictions: []
+  categories:
+  - organization
+- id: ante
+  label: ante
+  uri: https://ante.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: antimatter
+  label: antimatter
+  uri: https://antimatter.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: antimatterdao
+  label: antimatterDAO
+  uri: https://antimatter.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: apefi
+  label: ape-fi
+  uri: https://ape.fi
+  jurisdictions: []
+  categories:
+  - organization
+- id: api3
+  label: api3
+  uri: https://api3.eth.link/#/
+  jurisdictions: []
+  categories:
+  - organization
+- id: apwine
+  label: apwine
+  uri: https://apwine.fi
+  jurisdictions: []
+  categories:
+  - organization
+- id: arborfinance
+  label: arbor-finance
+  uri: https://arbor.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: archethereumweb3
+  label: arch-ethereum-web-3
+  uri: https://www.archfinance.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: armorfinance
+  label: armorfinance
+  uri: https://armor.fi/
+  jurisdictions: []
+  categories:
+  - organization
+- id: asgardfinance
+  label: asgardfinance
+  uri: https://www.asgarddao.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: auctus
+  label: auctus
+  uri: https://auctus.org/
+  jurisdictions: []
+  categories:
+  - organization
+- id: augur
+  label: augur
+  uri: https://www.augur.net/
+  jurisdictions: []
+  categories:
+  - organization
+- id: aurafinance
+  label: aura-finance
+  uri: https://aura.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: axe
+  label: axe
+  uri: https://www.axedao.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: axiaprotocol
+  label: AxiaProtocol
+  uri: https://axiaprotocol.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: axlinu
+  label: axl-inu
+  uri: https://www.axltoken.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: aztec
+  label: aztec
+  uri: https://aztec.network
+  jurisdictions: []
+  categories:
+  - organization
+- id: babylonfinance
+  label: babylon-finance
+  uri: https://www.babylon.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: bacondao
+  label: bacondao
+  uri: https://app.bacondao.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: bancor
+  label: bancor
+  uri: https://app.bancor.network/
+  jurisdictions: []
+  categories:
+  - organization
+- id: bao
+  label: bao
+  uri: https://www.bao.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: baobaskets
+  label: bao-baskets
+  uri: https://app.bao.finance/baskets/
+  jurisdictions: []
+  categories:
+  - organization
+- id: baousd
+  label: bao-usd
+  uri: https://app.bao.finance/ballast
+  jurisdictions: []
+  categories:
+  - organization
+- id: baseprotocol
+  label: baseprotocol
+  uri: https://www.baseprotocol.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: basketdao
+  label: basketdao
+  uri: https://basketdao.org/
+  jurisdictions: []
+  categories:
+  - organization
+- id: bean
+  label: bean
+  uri: https://bean.money
+  jurisdictions: []
+  categories:
+  - organization
+- id: bent
+  label: bent
+  uri: https://app.bentfinance.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: betafinance
+  label: betafinance
+  uri: https://betafinance.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: biconomy
+  label: biconomy
+  uri: https://www.biconomy.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: bifi
+  label: bifi
+  uri: https://bifi.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: bigdataprotocol
+  label: bigdataprotocol
+  uri: https://www.bigdataprotocol.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: binance
+  label: binance
+  uri: https://www.binance.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: binanceus
+  label: binance-us
+  uri: https://www.binance.us
+  jurisdictions: []
+  categories:
+  - organization
+- id: bitget
+  label: bitget
+  uri: https://www.bitget.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: bitmex
+  label: bitmex
+  uri: https://www.bitmex.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: bitpif
+  label: bitpif
+  uri: https://bitpif.com/#/swap
+  jurisdictions: []
+  categories:
+  - organization
+- id: bloxmove
+  label: bloxmove
+  uri: https://bloxmove.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: blur
+  label: blur
+  uri: https://blur.io/
+  jurisdictions: []
+  categories:
+  - organization
+- id: bnplpay
+  label: bnpl-pay
+  uri: https://bnplpay.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: bobagateway
+  label: bobagateway
+  uri: ??
+  jurisdictions: []
+  categories:
+  - organization
+- id: boringdao
+  label: boringdao
+  uri: https://www.boringdao.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: brahmafi
+  label: brahmafi
+  uri: https://www.brahma.fi
+  jurisdictions: []
+  categories:
+  - organization
+- id: bridgekek
+  label: bridgekek
+  uri: https://bridgekek.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: bridgemutual
+  label: bridge-mutual
+  uri: https://www.bridgemutual.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: brightunion
+  label: bright-union
+  uri: https://brightunion.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: bring
+  label: bring
+  uri: https://bring.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: brokoli
+  label: brokoli
+  uri: https://brokoli.network
+  jurisdictions: []
+  categories:
+  - organization
+- id: bybit
+  label: bybit
+  uri: https://www.bybit.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: cakedefi
+  label: cake-defi
+  uri: https://www.cakedefi.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: candle
+  label: candle
+  uri: https://candlelabs.org/
+  jurisdictions: []
+  categories:
+  - organization
+- id: capitaldao
+  label: capital-dao
+  uri: https://capital-dao.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: cardstarter
+  label: cardstarter
+  uri: https://www.cardstarter.io/
+  jurisdictions: []
+  categories:
+  - organization
+- id: celerbridge
+  label: celerbridge
+  uri: https://cbridge.celer.network/#/transfer
+  jurisdictions: []
+  categories:
+  - organization
+- id: cerberusdao
+  label: cerberusdao
+  uri: https://cerberusdao.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: chainxyz
+  label: chainxyz
+  uri: https://gov.chain.xyz/
+  jurisdictions: []
+  categories:
+  - organization
+- id: charmfinance
+  label: charmfinance
+  uri: https://charm.fi/
+  jurisdictions: []
+  categories:
+  - organization
+- id: chickenswap
+  label: chickenswap
+  uri: https://www.chickenswap.org/#/
+  jurisdictions: []
+  categories:
+  - organization
+- id: civfund
+  label: civfund
+  uri: https://civfund.org/
+  jurisdictions: []
+  categories:
+  - organization
+- id: clearpool
+  label: clearpool
+  uri: https://clearpool.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: clipper
+  label: clipper
+  uri: https://clipper.exchange
+  jurisdictions: []
+  categories:
+  - organization
+- id: coindcx
+  label: coindcx
+  uri: https://coindcx.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: coinsquare
+  label: coinsquare
+  uri: https://coinsquare.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: complifi
+  label: complifi
+  uri: https://compli.fi/
+  jurisdictions: []
+  categories:
+  - organization
+- id: component
+  label: component
+  uri: https://component.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: composable
+  label: composable
+  uri: https://www.composable.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: compoundv3
+  label: compound-v3
+  uri: https://v3-app.compound.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: concave
+  label: concave
+  uri: https://concave.lol
+  jurisdictions: []
+  categories:
+  - organization
+- id: connext
+  label: connext
+  uri: https://connext.network/
+  jurisdictions: []
+  categories:
+  - organization
+- id: contango
+  label: contango
+  uri: https://contango.xyz/
+  jurisdictions: []
+  categories:
+  - organization
+- id: convex
+  label: convex
+  uri: https://www.convexfinance.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: cookfinance
+  label: cookfinance
+  uri: https://www.cook.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: core
+  label: core
+  uri: https://cvault.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: crafting
+  label: crafting
+  uri: https://crafting.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: creamswap
+  label: creamswap
+  uri: https://app.cream.finance/swap
+  jurisdictions: []
+  categories:
+  - organization
+- id: crosschainbridge
+  label: crosschainbridge
+  uri: https://crosschainbridge.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: cryptexfinance
+  label: cryptex-finance
+  uri: https://cryptex.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: cryptocom
+  label: crypto-com
+  uri: https://crypto.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: curve
+  label: curve
+  uri: https://curve.fi
+  jurisdictions: []
+  categories:
+  - organization
+- id: cvi
+  label: cvi
+  uri: https://cvi.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: cyclone
+  label: cyclone
+  uri: https://cyclone.xyz
+  jurisdictions: []
+  categories:
+  - organization
+- id: daomaker
+  label: daomaker
+  uri: https://daomaker.com/farms-and-vestings
+  jurisdictions: []
+  categories:
+  - organization
+- id: daoventures
+  label: daoventures
+  uri: https://www.daoventures.co
+  jurisdictions: []
+  categories:
+  - organization
+- id: ddex
+  label: ddex
+  uri: https://ddex.io/
+  jurisdictions: []
+  categories:
+  - organization
+- id: debridge
+  label: debridge
+  uri: https://debridge.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: defifranc
+  label: defifranc
+  uri: https://defifranc.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: defil
+  label: defil
+  uri: https://defil.org/
+  jurisdictions: []
+  categories:
+  - organization
+- id: definer
+  label: definer
+  uri: https://definer.org/
+  jurisdictions: []
+  categories:
+  - organization
+- id: defirex
+  label: defirex
+  uri: https://defirex.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: defiyieldprotocol
+  label: defiyieldprotocol
+  uri: https://dyp.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: degenerative
+  label: degenerative
+  uri: https://yam.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: dehive
+  label: dehive
+  uri: https://dehive.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: delta
+  label: delta
+  uri: https://www.delta.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: demodyfi
+  label: demodyfi
+  uri: https://www.demodyfi.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: deribit
+  label: deribit
+  uri: https://www.deribit.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: derivadex
+  label: derivadex
+  uri: http://derivadex.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: deusfi
+  label: deusfi
+  uri: https://deus.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: deversifi
+  label: deversifi
+  uri: https://rhino.fi
+  jurisdictions: []
+  categories:
+  - organization
+- id: dextf
+  label: dextf
+  uri: https://domani.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: dforce
+  label: dforce
+  uri: https://dforce.network/
+  jurisdictions: []
+  categories:
+  - organization
+- id: dfx
+  label: dfx
+  uri: https://app.dfx.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: dogeswap
+  label: dogeswap
+  uri: https://linktr.ee/DogeSwapLink
+  jurisdictions: []
+  categories:
+  - organization
+- id: dogsofelon
+  label: dogsofelon
+  uri: https://dogsofelon.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: dokidoki
+  label: dokidoki
+  uri: https://dokidoki.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: domfi
+  label: domfi
+  uri: https://domination.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: donkey
+  label: donkey
+  uri: https://center.mesher.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: dopex
+  label: dopex
+  uri: https://www.dopex.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: dotoracle
+  label: dotoracle
+  uri: https://civfund.org/
+  jurisdictions: []
+  categories:
+  - organization
+- id: drops
+  label: drops
+  uri: https://drops.co
+  jurisdictions: []
+  categories:
+  - organization
+- id: kwikswap
+  label: Kwikswap
+  uri: https://home.kwikswap.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: synapse
+  label: synapse
+  uri: https://synapseprotocol.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: synfuturesv1
+  label: synfutures-v1
+  uri: https://www.synfutures.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: teamfinance
+  label: team-finance
+  uri: https://www.team.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: templedaotrade
+  label: templedao-trade
+  uri: https://templedao.link/dapp/trade
+  jurisdictions: []
+  categories:
+  - organization
+- id: templedao
+  label: templedao
+  uri: https://www.templedao.link
+  jurisdictions: []
+  categories:
+  - organization
+- id: tenet
+  label: tenet
+  uri: https://tenet.farm
+  jurisdictions: []
+  categories:
+  - organization
+- id: thales
+  label: thales
+  uri: https://thalesmarket.io/
+  jurisdictions: []
+  categories:
+  - organization
+- id: thegranary
+  label: the-granary
+  uri: https://granary.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: theidols
+  label: the-idols
+  uri: https://www.theidols.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: theopendaosos
+  label: the-open-dao-sos
+  uri: https://www.theopendao.com/#sos
+  jurisdictions: []
+  categories:
+  - organization
+- id: thetanuts
+  label: thetanuts
+  uri: https://thetanuts.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: timeless
+  label: timeless
+  uri: https://timelessfi.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: timewarp
+  label: timewarp
+  uri: https://timewarp.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: tokemak
+  label: tokemak
+  uri: https://www.tokemak.xyz
+  jurisdictions: []
+  categories:
+  - organization
+- id: tokenlon
+  label: tokenlon
+  uri: https://tokenlon.im
+  jurisdictions: []
+  categories:
+  - organization
+- id: tornado
+  label: tornado
+  uri: https://tornado.cash/
+  jurisdictions: []
+  categories:
+  - organization
+- id: tornadocore
+  label: tornadocore
+  uri: https://tornado.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: tranche
+  label: tranche
+  uri: https://tranche.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: tranchess
+  label: tranchess
+  uri: https://tranchess.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: truefi
+  label: truefi
+  uri: https://truefi.io/
+  jurisdictions: []
+  categories:
+  - organization
+- id: trustswap
+  label: trustswap
+  uri: https://trustswap.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: tzwrap
+  label: tzwrap
+  uri: https://app.tzwrap.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: ubiquitydao
+  label: ubiquitydao
+  uri: https://ubq.fi
+  jurisdictions: []
+  categories:
+  - organization
+- id: uma
+  label: uma
+  uri: https://www.outcome.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: umbrella
+  label: umbrella
+  uri: https://staking.umb.network
+  jurisdictions: []
+  categories:
+  - organization
+- id: umbria
+  label: umbria
+  uri: https://umbria.network
+  jurisdictions: []
+  categories:
+  - organization
+- id: unbound
+  label: unbound
+  uri: https://www.unbound.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: unicrypt
+  label: unicrypt
+  uri: https://unicrypt.network
+  jurisdictions: []
+  categories:
+  - organization
+- id: unifarm
+  label: unifarm
+  uri: https://unifarm.co
+  jurisdictions: []
+  categories:
+  - organization
+- id: unifiprotocol
+  label: unifi-protocol
+  uri: https://unifiprotocol.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: unilend
+  label: unilend
+  uri: https://unilend.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: unipilot
+  label: unipilot
+  uri: https://unipilot.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: unipower
+  label: unipower
+  uri: https://unipower.network
+  jurisdictions: []
+  categories:
+  - organization
+- id: uniswap
+  label: uniswap
+  uri: https://uniswap.org/
+  jurisdictions: []
+  categories:
+  - organization
+- id: unitrade
+  label: unitrade
+  uri: https://unitrade.app/
+  jurisdictions: []
+  categories:
+  - organization
+- id: universe
+  label: universe
+  uri: https://universe.xyz
+  jurisdictions: []
+  categories:
+  - organization
+- id: unizen
+  label: unizen
+  uri: https://www.unizen.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: unore
+  label: unore
+  uri: https://unore.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: uwulend
+  label: uwulend
+  uri: https://www.uwulend.fi/
+  jurisdictions: []
+  categories:
+  - organization
+- id: valueliquid
+  label: valueliquid
+  uri: https://valueliquid.io/#/swap
+  jurisdictions: []
+  categories:
+  - organization
+- id: vanilla
+  label: vanilla
+  uri: https://vanilladefi.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: varen
+  label: varen
+  uri: https://varen.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: vesper
+  label: vesper
+  uri: https://vesper.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: visor
+  label: visor
+  uri: https://www.gamma.xyz
+  jurisdictions: []
+  categories:
+  - organization
+- id: volmex
+  label: volmex
+  uri: https://volmex.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: voltz
+  label: voltz
+  uri: https://www.voltz.xyz
+  jurisdictions: []
+  categories:
+  - organization
+- id: votium
+  label: votium
+  uri: ??
+  jurisdictions: []
+  categories:
+  - organization
+- id: voyager
+  label: voyager
+  uri: https://www.investvoyager.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: warp
+  label: warp
+  uri: https://www.warp.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: wasabix
+  label: wasabix
+  uri: https://wasabix.finance/#/app
+  jurisdictions: []
+  categories:
+  - organization
+- id: whiteheart
+  label: whiteheart
+  uri: https://www.whiteheart.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: wildcredit
+  label: wildcredit
+  uri: https://wild.credit
+  jurisdictions: []
+  categories:
+  - organization
+- id: wonderland
+  label: wonderland
+  uri: https://wonderland.money
+  jurisdictions: []
+  categories:
+  - organization
+- id: woocex
+  label: woo-cex
+  uri: https://x.woo.org/en/trade
+  jurisdictions: []
+  categories:
+  - organization
+- id: wowswap
+  label: wowswap
+  uri: https://wowswap.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: xxyz
+  label: x-xyz
+  uri: https://x.xyz
+  jurisdictions: []
+  categories:
+  - organization
+- id: x2y2
+  label: x2y2
+  uri: https://x2y2.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: x7
+  label: x7
+  uri: https://x7.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: xcarnival
+  label: xcarnival
+  uri: https://xcarnival.fi
+  jurisdictions: []
+  categories:
+  - organization
+- id: xdai
+  label: xdai
+  uri: https://xdaichain.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: xdollarfinance
+  label: xdollar-finance
+  uri: https://www.xdollar.fi/
+  jurisdictions: []
+  categories:
+  - organization
+- id: xusdmoney
+  label: xusdmoney
+  uri: https://xusd.money
+  jurisdictions: []
+  categories:
+  - organization
+- id: xyfinance
+  label: xy-finance
+  uri: https://xy.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: y2bfinance
+  label: y2b-finance
+  uri: https://y2b.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: yaxis
+  label: yaxis
+  uri: https://www.yaxis.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: finnexus
+  label: finnexus
+  uri: https://finnexus.io/
+  jurisdictions: []
+  categories:
+  - organization
+- id: fiatdao
+  label: fiatdao
+  uri: https://fiatdao.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: ferrum
+  label: ferrum
+  uri: https://ferrum.network
+  jurisdictions: []
+  categories:
+  - organization
+- id: fei
+  label: fei
+  uri: https://fei.money/
+  jurisdictions: []
+  categories:
+  - organization
+- id: fegex
+  label: fegex
+  uri: https://fegtoken.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: dxsale
+  label: dxsale
+  uri: https://dx.app
+  jurisdictions: []
+  categories:
+  - organization
+- id: dydx
+  label: dydx
+  uri: https://dydx.exchange/
+  jurisdictions: []
+  categories:
+  - organization
+- id: ease
+  label: ease
+  uri: https://ease.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: elasticswap
+  label: elasticswap
+  uri: https://elasticswap.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: elysia
+  label: elysia
+  uri: https://www.elyfi.world/en
+  jurisdictions: []
+  categories:
+  - organization
+- id: emiswap
+  label: emiswap
+  uri: https://emiswap.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: ensofinance
+  label: enso-finance
+  uri: https://www.enso.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: enterdao
+  label: enterdao
+  uri: https://enterdao.xyz
+  jurisdictions: []
+  categories:
+  - organization
+- id: enzyme
+  label: enzyme
+  uri: https://enzyme.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: epns
+  label: epns
+  uri: https://epns.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: erasure
+  label: erasure
+  uri: https://erasure.world/
+  jurisdictions: []
+  categories:
+  - organization
+- id: ethernity
+  label: ethernity
+  uri: https://ethernity.io/
+  jurisdictions: []
+  categories:
+  - organization
+- id: ethichub
+  label: ethichub
+  uri: https://ethichub.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: everipedia
+  label: everipedia
+  uri: https://everipedia.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: everrise
+  label: everrise
+  uri: https://www.everrise.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: evolutionland
+  label: evolutionland
+  uri: http://evolution.land
+  jurisdictions: []
+  categories:
+  - organization
+- id: fantohm
+  label: fantOHM
+  uri: https://www.fantohm.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: feeswtf
+  label: fees-wtf
+  uri: https://fees.wtf/
+  jurisdictions: []
+  categories:
+  - organization
+- id: fire
+  label: fire
+  uri: https://firi.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: flashstake
+  label: flashstake
+  uri: https://flashstake.io/
+  jurisdictions: []
+  categories:
+  - organization
+- id: float
+  label: float
+  uri: https://floatprotocol.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: flokifilocker
+  label: flokifi-locker
+  uri: https://flokifi.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: floordao
+  label: floor-dao
+  uri: https://floor.xyz/
+  jurisdictions: []
+  categories:
+  - organization
+- id: fodl
+  label: fodl
+  uri: https://fodl.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: fortube
+  label: fortube
+  uri: https://for.tube/
+  jurisdictions: []
+  categories:
+  - organization
+- id: fractalprotocol
+  label: fractal-protocol
+  uri: https://www.fractalprotocol.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: fraxfinance
+  label: fraxfinance
+  uri: https://frax.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: freeliquid
+  label: freeliquid
+  uri: https://freeliquid.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: fringe
+  label: fringe
+  uri: https://fringe.fi
+  jurisdictions: []
+  categories:
+  - organization
+- id: futureswap
+  label: futureswap
+  uri: https://www.futureswap.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: gateio
+  label: gate-io
+  uri: https://www.gate.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: gearbox
+  label: gearbox
+  uri: https://gearbox.fi
+  jurisdictions: []
+  categories:
+  - organization
+- id: giveth
+  label: giveth
+  uri: https://giveth.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: gnosis
+  label: gnosis
+  uri: https://gnosis.io/
+  jurisdictions: []
+  categories:
+  - organization
+- id: goldfinch
+  label: goldfinch
+  uri: https://goldfinch.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: gooddollar
+  label: gooddollar
+  uri: https://www.gooddollar.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: groprotocol
+  label: groprotocol
+  uri: https://www.gro.xyz
+  jurisdictions: []
+  categories:
+  - organization
+- id: h2odata
+  label: h2odata
+  uri: https://www.h2odata.xyz/
+  jurisdictions: []
+  categories:
+  - organization
+- id: halodao
+  label: halodao
+  uri: https://www.halodao.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: hashflow
+  label: hashflow
+  uri: https://www.hashflow.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: hector
+  label: hector
+  uri: https://hector.network/
+  jurisdictions: []
+  categories:
+  - organization
+- id: hegic
+  label: hegic
+  uri: https://www.hegic.co/
+  jurisdictions: []
+  categories:
+  - organization
+- id: heliosprime
+  label: heliosprime
+  uri: https://heliosprime.live
+  jurisdictions: []
+  categories:
+  - organization
+- id: hodltree
+  label: hodltree
+  uri: https://hodltree.io/
+  jurisdictions: []
+  categories:
+  - organization
+- id: homecoin
+  label: homecoin
+  uri: https://www.homecoin.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: hop
+  label: hop
+  uri: https://hop.exchange
+  jurisdictions: []
+  categories:
+  - organization
+- id: hotbit
+  label: hotbit
+  uri: https://www.hotbit.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: huobi
+  label: huobi
+  uri: https://www.huobi.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: ichifarm
+  label: ichifarm
+  uri: https://www.ichi.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: idex
+  label: idex
+  uri: https://idex.io/
+  jurisdictions: []
+  categories:
+  - organization
+- id: illuvium
+  label: illuvium
+  uri: https://illuvium.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: injective
+  label: injective
+  uri: https://injective.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: instrumental
+  label: instrumental
+  uri: https://www.instrumental.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: insuredao
+  label: insuredao
+  uri: https://www.insuredao.fi
+  jurisdictions: []
+  categories:
+  - organization
+- id: insuredefi
+  label: insuredefi
+  uri: ??
+  jurisdictions: []
+  categories:
+  - organization
+- id: ip
+  label: ip
+  uri: https://interestprotocol.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: itrustfinance
+  label: iTrustfinance
+  uri: https://itrust.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: izumi
+  label: izumi
+  uri: https://izumi.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: jarvis
+  label: jarvis
+  uri: https://jarvis.network/
+  jurisdictions: []
+  categories:
+  - organization
+- id: jelly
+  label: jelly
+  uri: https://www.jelly.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: jioswap
+  label: jioswap
+  uri: https://jioswap.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: jpegd
+  label: jpeg-d
+  uri: https://jpegd.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: keep3r
+  label: keep3r
+  uri: https://keep3r.network
+  jurisdictions: []
+  categories:
+  - organization
+- id: keeperdao
+  label: keeper-dao
+  uri: https://www.rook.fi/
+  jurisdictions: []
+  categories:
+  - organization
+- id: kinefinance
+  label: kinefinance
+  uri: https://kine.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: klondike
+  label: klondike
+  uri: https://klondike.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: korbit
+  label: korbit
+  uri: https://korbit.co.kr
+  jurisdictions: []
+  categories:
+  - organization
+- id: koyo
+  label: koyo
+  uri: https://koyo.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: kraken
+  label: kraken
+  uri: ??
+  jurisdictions: []
+  categories:
+  - organization
+- id: kromatika
+  label: kromatika
+  uri: https://kromatika.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: kucoin
+  label: kucoin
+  uri: https://www.kucoin.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: kyber
+  label: kyber
+  uri: https://kyberswap.com/#/swap
+  jurisdictions: []
+  categories:
+  - organization
+- id: l2finance
+  label: l2finance
+  uri: https://layer2.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: lagobridge
+  label: lagobridge
+  uri: https://www.lago.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: leaguedao
+  label: leaguedao
+  uri: https://leaguedao.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: lien
+  label: lien
+  uri: https://lien.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: lixir
+  label: lixir
+  uri: https://lixir.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: llamalend
+  label: llamalend
+  uri: https://llamalend.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: llamapay
+  label: llamapay
+  uri: https://llamapay.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: logium
+  label: logium
+  uri: https://logium.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: looksrare
+  label: looks-rare
+  uri: https://looksrare.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: loopring
+  label: loopring
+  uri: https://loopring.org/#/
+  jurisdictions: []
+  categories:
+  - organization
+- id: lyra
+  label: lyra
+  uri: https://www.lyra.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: maffin
+  label: maffin
+  uri: https://muffin.fi/
+  jurisdictions: []
+  categories:
+  - organization
+- id: mahadao
+  label: mahadao
+  uri: https://mahadao.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: mahalend
+  label: mahalend
+  uri: http://mahalend.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: maker
+  label: maker
+  uri: https://makerdao.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: manifest
+  label: manifest
+  uri: https://manifest.gg
+  jurisdictions: []
+  categories:
+  - organization
+- id: maple
+  label: maple
+  uri: https://www.maple.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: marspoolin
+  label: marspoolin
+  uri: https://mars.poolin.fi
+  jurisdictions: []
+  categories:
+  - organization
+- id: maskex
+  label: maskex
+  uri: https://www.maskex.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: mcdex
+  label: mcdex
+  uri: https://mux.network/
+  jurisdictions: []
+  categories:
+  - organization
+- id: meanfinance
+  label: meanfinance
+  uri: https://mean.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: mento
+  label: mento
+  uri: https://mento.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: mercurity
+  label: mercurity
+  uri: https://www.mercurity.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: meritcircle
+  label: meritcircle
+  uri: https://www.meritcircle.io/
+  jurisdictions: []
+  categories:
+  - organization
+- id: messinaone
+  label: messinaone
+  uri: https://messina.one
+  jurisdictions: []
+  categories:
+  - organization
+- id: metalswap
+  label: metalswap
+  uri: https://metalswap.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: metapoly
+  label: metapoly
+  uri: https://www.metapoly.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: metastreet
+  label: metastreet
+  uri: https://metastreet.xyz/
+  jurisdictions: []
+  categories:
+  - organization
+- id: metavault
+  label: metavault
+  uri: https://metavault.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: meterbridge
+  label: meterBridge
+  uri: https://passport.meter.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: metronome
+  label: metronome
+  uri: https://metronome.io/
+  jurisdictions: []
+  categories:
+  - organization
+- id: mfinance
+  label: mfinance
+  uri: https://m.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: mimo
+  label: mimo
+  uri: https://mimo.capital
+  jurisdictions: []
+  categories:
+  - organization
+- id: mochifi
+  label: mochifi
+  uri: https://mochi.fi
+  jurisdictions: []
+  categories:
+  - organization
+- id: monox
+  label: monox
+  uri: https://monox.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: mooniswap
+  label: mooniswap
+  uri: https://mooniswap.exchange/#/swap
+  jurisdictions: []
+  categories:
+  - organization
+- id: mover
+  label: mover
+  uri: https://viamover.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: multiplierfinance
+  label: multiplierfinance
+  uri: https://multiplier.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: naos
+  label: naos
+  uri: https://naos.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: nbx
+  label: nbx
+  uri: https://nbx.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: neptunemutual
+  label: neptune-mutual
+  uri: https://neptunemutual.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: nest
+  label: nest
+  uri: https://nestprotocol.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: nested
+  label: nested
+  uri: https://nested.fi
+  jurisdictions: []
+  categories:
+  - organization
+- id: nestfi
+  label: nestfi
+  uri: https://nestprotocol.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: neuy
+  label: neuy
+  uri: https://finance.neuy.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: nexus
+  label: nexus
+  uri: https://nexusmutual.io/
+  jurisdictions: []
+  categories:
+  - organization
+- id: nftfi
+  label: nftfi
+  uri: https://www.nftfi.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: nftx
+  label: nftx
+  uri: https://nftx.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: nomad
+  label: nomad
+  uri: https://nomad.xyz
+  jurisdictions: []
+  categories:
+  - organization
+- id: nordfinance
+  label: nord-finance
+  uri: https://nordfinance.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: notional
+  label: notional
+  uri: https://notional.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: nsure
+  label: nsure
+  uri: https://nsure.network/
+  jurisdictions: []
+  categories:
+  - organization
+- id: numbers
+  label: numbers
+  uri: https://www.numbersprotocol.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: numisme
+  label: numisme
+  uri: https://numisme.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: oinfinance
+  label: oin-finance
+  uri: https://oin.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: okex
+  label: okex
+  uri: https://www.okx.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: olympus
+  label: olympus
+  uri: https://olympusdao.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: omniprotocol
+  label: omniprotocol
+  uri: https://omniprotocol.xyz
+  jurisdictions: []
+  categories:
+  - organization
+- id: onecash
+  label: onecash
+  uri: https://onecash.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: ooki
+  label: ooki
+  uri: https://hello.ooki.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: opendao
+  label: opendao
+  uri: https://opendao.io/
+  jurisdictions: []
+  categories:
+  - organization
+- id: openleverage
+  label: openleverage
+  uri: https://openleverage.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: opensky
+  label: opensky
+  uri: https://opensky.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: opynconvexity
+  label: opyn-convexity
+  uri: https://www.opyn.co
+  jurisdictions: []
+  categories:
+  - organization
+- id: opyngamma
+  label: opyn-gamma
+  uri: https://www.opyn.co/
+  jurisdictions: []
+  categories:
+  - organization
+- id: opynsqueeth
+  label: opyn-squeeth
+  uri: https://squeeth.opyn.co
+  jurisdictions: []
+  categories:
+  - organization
+- id: orbitbridge
+  label: orbitbridge
+  uri: https://bridge.orbitchain.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: origindollar
+  label: origindollar
+  uri: https://www.ousd.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: orionmoney
+  label: orion-money
+  uri: https://orion.money
+  jurisdictions: []
+  categories:
+  - organization
+- id: ovr
+  label: ovr
+  uri: https://www.ovr.ai
+  jurisdictions: []
+  categories:
+  - organization
+- id: parasset
+  label: parasset
+  uri: https://www.parasset.top/#/
+  jurisdictions: []
+  categories:
+  - organization
+- id: peakdefi
+  label: peakdefi
+  uri: https://www.peakdefi.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: pendle
+  label: pendle
+  uri: https://pendle.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: percent
+  label: percent
+  uri: https://percent.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: perlinx
+  label: perlinx
+  uri: https://perlinx.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: perp
+  label: perp
+  uri: https://app.perp.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: phemex
+  label: phemex
+  uri: https://phemex.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: phissionfinance
+  label: phission-finance
+  uri: https://phission.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: piedao
+  label: piedao
+  uri: https://www.piedao.org/
+  jurisdictions: []
+  categories:
+  - organization
+- id: pinksale
+  label: pinksale
+  uri: https://www.pinksale.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: podsfinance
+  label: podsfinance
+  uri: https://www.pods.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: podsyield
+  label: pods-yield
+  uri: https://yield.pods.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: polkamarkets
+  label: polkamarkets
+  uri: https://www.polkamarkets.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: polkastarter
+  label: polkastarter
+  uri: https://polkastarter.com/#upcoming-projects
+  jurisdictions: []
+  categories:
+  - organization
+- id: pooltogether
+  label: pooltogether
+  uri: https://pooltogether.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: popcorn
+  label: popcorn
+  uri: https://popcorndao.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: popsicle
+  label: popsicle
+  uri: https://popsicle.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: poptown
+  label: poptown
+  uri: https://new.pop.town
+  jurisdictions: []
+  categories:
+  - organization
+- id: powaaprotocol
+  label: powaa-protocol
+  uri: https://powaa.xyz/
+  jurisdictions: []
+  categories:
+  - organization
+- id: powerindex
+  label: powerindex
+  uri: https://powerpool.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: premia
+  label: premia
+  uri: https://premia.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: primitive
+  label: primitive
+  uri: https://primitive.xyz/
+  jurisdictions: []
+  categories:
+  - organization
+- id: purefi
+  label: purefi
+  uri: https://www.purefi.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: qao
+  label: qao
+  uri: https://www.qao.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: qidao
+  label: qidao
+  uri: https://app.mai.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: qilin
+  label: qilin
+  uri: https://qilin.fi/
+  jurisdictions: []
+  categories:
+  - organization
+- id: radioshack
+  label: radioshack
+  uri: https://www.radioshack.org/
+  jurisdictions: []
+  categories:
+  - organization
+- id: railgun
+  label: railgun
+  uri: https://railgun.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: rari
+  label: rari
+  uri: https://rari.capital/
+  jurisdictions: []
+  categories:
+  - organization
+- id: ray
+  label: ray
+  uri: https://staked.us/v/robo-advisor-yield/
+  jurisdictions: []
+  categories:
+  - organization
+- id: rbx
+  label: rbx
+  uri: https://rbxdefi.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: redacted
+  label: redacted
+  uri: https://www.redacted.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: reflexer
+  label: reflexer
+  uri: https://reflexer.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: relaychain
+  label: relayChain
+  uri: https://www.relaychain.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: ren
+  label: ren
+  uri: https://renproject.io/
+  jurisdictions: []
+  categories:
+  - organization
+- id: reserve
+  label: reserve
+  uri: https://reserve.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: revertcompoundor
+  label: revert-compoundor
+  uri: https://revert.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: revest
+  label: revest
+  uri: https://revest.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: ribbon
+  label: ribbon
+  uri: https://www.ribbon.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: ribbonearn
+  label: ribbon-earn
+  uri: https://www.ribbon.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: ribbonlend
+  label: ribbon-lend
+  uri: https://www.ribbon.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: riftfinance
+  label: rift-finance
+  uri: https://rift.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: riskharbor
+  label: risk-harbor
+  uri: https://www.riskharbor.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: roe
+  label: roe
+  uri: https://www.roe.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: routerprotocol
+  label: routerprotocol
+  uri: https://www.routerprotocol.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: sablier
+  label: sablier
+  uri: https://sablier.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: saddle
+  label: saddle
+  uri: https://saddle.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: saffron
+  label: saffron
+  uri: https://saffron.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: sakeperp
+  label: sakeperp
+  uri: https://www.sakeperp.fi
+  jurisdictions: []
+  categories:
+  - organization
+- id: sandclock
+  label: sandclock
+  uri: https://www.sandclock.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: sashimiswap
+  label: sashimiswap
+  uri: https://sashimi.cool/home/swap
+  jurisdictions: []
+  categories:
+  - organization
+- id: sense
+  label: sense
+  uri: https://sense.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: setprotocol
+  label: set-protocol
+  uri: https://www.tokensets.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: shapeshift
+  label: shapeshift
+  uri: https://shapeshift.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: sharedstake
+  label: sharedstake
+  uri: https://www.sharedstake.org/
+  jurisdictions: []
+  categories:
+  - organization
+- id: sherlock
+  label: sherlock
+  uri: https://sherlock.xyz
+  jurisdictions: []
+  categories:
+  - organization
+- id: silo
+  label: silo
+  uri: https://app.silo.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: singularitydao
+  label: singularityDAO
+  uri: https://singularitydao.ai
+  jurisdictions: []
+  categories:
+  - organization
+- id: siren
+  label: siren
+  uri: https://sirenmarkets.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: smartpad
+  label: smartpad
+  uri: https://smartpad.network/
+  jurisdictions: []
+  categories:
+  - organization
+- id: solacefinance
+  label: solace-finance
+  uri: https://solace.fi/
+  jurisdictions: []
+  categories:
+  - organization
+- id: solidlyv2
+  label: solidly-v2
+  uri: https://solidly.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: solvprotocol
+  label: solv-protocol
+  uri: https://solv.finance/home
+  jurisdictions: []
+  categories:
+  - organization
+- id: sommelier
+  label: sommelier
+  uri: https://www.sommelier.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: sperax
+  label: sperax
+  uri: http://sperax.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: spherium
+  label: spherium
+  uri: https://spherium.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: spicetrade
+  label: spicetrade
+  uri: https://app.spicetrade.ai
+  jurisdictions: []
+  categories:
+  - organization
+- id: spool
+  label: spool
+  uri: https://www.spool.fi
+  jurisdictions: []
+  categories:
+  - organization
+- id: squiddao
+  label: squid-dao
+  uri: https://squid.xyz
+  jurisdictions: []
+  categories:
+  - organization
+- id: stakedao
+  label: stakedao
+  uri: https://stakedao.org/
+  jurisdictions: []
+  categories:
+  - organization
+- id: standcash
+  label: standcash
+  uri: https://stand.cash/
+  jurisdictions: []
+  categories:
+  - organization
+- id: stargatefinance
+  label: stargatefinance
+  uri: https://stargate.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: steroids
+  label: steroids
+  uri: https://steroids.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: stonedefi
+  label: stonedefi
+  uri: https://stonedefi.io/
+  jurisdictions: []
+  categories:
+  - organization
+- id: sudoinu
+  label: sudoinu
+  uri: https://www.sudoinu.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: sunrisegamingbydao
+  label: sunrise-gaming-by-dao
+  uri: https://sunrisegaming-dao.com
+  jurisdictions: []
+  categories:
+  - organization
+- id: superbots
+  label: superbots
+  uri: https://superbots.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: superfarm
+  label: superfarm
+  uri: https://superfarm.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: sushiswap
+  label: sushiswap
+  uri: https://sushi.com/
+  jurisdictions: []
+  categories:
+  - organization
+- id: sutershield
+  label: suter-shield
+  uri: https://suterusu.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: swarmmarkets
+  label: swarm-markets
+  uri: https://swarm.markets
+  jurisdictions: []
+  categories:
+  - organization
+- id: swivel
+  label: swivel
+  uri: https://swivel.exchange/
+  jurisdictions: []
+  categories:
+  - organization
+- id: symbiosisfinance
+  label: symbiosis-finance
+  uri: https://symbiosis.finance
+  jurisdictions: []
+  categories:
+  - organization
+- id: xrune
+  label: xrune
+  uri: https://thorstarter.org
+  jurisdictions: []
+  categories:
+  - organization
+- id: xsigma
+  label: xsigma
+  uri: https://xsigma.fi
+  jurisdictions: []
+  categories:
+  - organization
+- id: xtoken
+  label: xtoken
+  uri: https://app.xtokenterminal.io/
+  jurisdictions: []
+  categories:
+  - organization
+- id: yfdai
+  label: yfdai
+  uri: https://yfdai.finance/
+  jurisdictions: []
+  categories:
+  - organization
+- id: yfii
+  label: yfii
+  uri: https://dfi.money/
+  jurisdictions: []
+  categories:
+  - organization
+- id: zeroswap
+  label: zeroswap
+  uri: https://zeroswap.io
+  jurisdictions: []
+  categories:
+  - organization
+- id: zkswap
+  label: zkswap
+  uri: https://zks.org/en
+  jurisdictions: []
+  categories:
+  - organization

@@ -1,0 +1,90 @@
+title: Synthetix v2.77.0-alpha
+creator: CSH CryptoFinance Team
+is_cluster_definer: true
+description: Synthetix addresses from version 2.77.0-alpha
+lastmod: 2023-01-05
+confidence: forensic
+source: https://docs.synthetix.io/addresses/#mainnet-contracts
+currency: ETH
+category: defi
+tags:
+- label: synthetix_CircuitBreaker
+  address: '0x9f231dBE53D460f359B2B8CC47574493caA5B7Bf'
+- label: synthetix_DebtCache
+  address: '0x1620Aa736939597891C1940CF0d28b82566F9390'
+- label: synthetix_ExchangeCircuitBreaker
+  address: '0xeAcaEd9581294b1b5cfb6B941d4B8B81B2005437'
+- label: synthetix_ExchangeRates
+  address: '0x9F1C2f0071Bc3b31447AEda9fA3A68d651eB4632'
+- label: synthetix_Exchanger
+  address: '0x3Ed04CEfF4c91872F19b1da35740C0Be9CA21558'
+- label: synthetix_FeePool
+  address: '0x3B2f389AeE480238A49E3A9985cd6815370712eB'
+- label: synthetix_FuturesMarketManager
+  address: '0x834Ef6c82D431Ac9A7A6B66325F185b2430780D7'
+- label: synthetix_Issuer
+  address: '0x8D1201b074EeF198D5e6957F4574e2e4FC5Ba9Cf'
+- label: synthetix_Liquidator
+  address: '0x0e5fe1b05612581576e9A3dB048416d0B1E3C425'
+- label: synthetix_LiquidatorRewards
+  address: '0xf79603a71144e415730C1A6f57F366E4Ea962C00'
+- label: synthetix_OneNetAggregatorDebtRatio
+  address: '0x977d0DD7eA212E9ca1dcD4Ec15cd7Ceb135fa68D'
+- label: synthetix_OneNetAggregatorIssuedSynths
+  address: '0xcf1405b18dBCEA2893Abe635c88359C75878B9e1'
+- label: synthetix_OneNetAggregatorsDEFI
+  address: '0x646F23085281Dbd006FBFD211FD38d0743884864'
+- label: synthetix_OwnerRelayOnEthereum
+  address: '0x0e16A6876210841577b233C4165d7B7EdF640b8a'
+- label: synthetix_ProxysETHBTC
+  address: '0x104eDF1da359506548BFc7c25bA1E28C16a70235'
+- label: synthetix_SignedSafeDecimalMath
+  address: '0x728A2B79Cad691531CC1146eF802617FF50c7095'
+- label: synthetix_SupplySchedule
+  address: '0x8d203C458d536Fe0F97e9f741bC231EaC8cd91cf'
+- label: synthetix_SynthRedeemer
+  address: '0xe533139Af961c9747356D947838c98451015e234'
+- label: synthetix_Synthetix
+  address: '0x08F30Ecf2C15A783083ab9D5b9211c22388d0564'
+- label: synthetix_SynthetixBridgeToOptimism
+  address: '0x39Ea01a0298C315d149a490E34B59Dbf2EC7e48F'
+- label: synthetix_SynthetixDebtShare
+  address: '0x89FCb32F29e509cc42d0C8b6f058C993013A843F'
+- label: synthetix_SynthsAAVE
+  address: '0x942Eb6e8c029EB22103743C99985aF4F4515a559'
+- label: synthetix_SynthsADA
+  address: '0x91b82d62Ff322b8e02b86f33E9A99a813437830d'
+- label: synthetix_SynthsAUD
+  address: '0xfb020CA7f4e8C4a5bBBe060f59a249c6275d2b69'
+- label: synthetix_SynthsBTC
+  address: '0x1cB004a8e84a5CE95C1fF895EE603BaC8EC506c7'
+- label: synthetix_SynthsCHF
+  address: '0xBb5b03E920cF702De5A3bA9Fc1445aF4B3919c88'
+- label: synthetix_SynthsDOT
+  address: '0x75A0c1597137AA36B40b6a515D997F9a6c6eefEB'
+- label: synthetix_SynthsETH
+  address: '0x5D4C724BFe3a228Ff0E29125Ac1571FE093700a4'
+- label: synthetix_SynthsETHBTC
+  address: '0x07C1E81C345A7c58d7c24072EFc5D929BD0647AD'
+- label: synthetix_SynthsEUR
+  address: '0xa8E31E3C38aDD6052A9407298FAEB8fD393A6cF9'
+- label: synthetix_SynthsGBP
+  address: '0xdc883b9d9Ee16f74bE08826E68dF4C9D9d26e8bD'
+- label: synthetix_SynthsJPY
+  address: '0xE1cc2332852B2Ac0dA59A1f9D3051829f4eF3c1C'
+- label: synthetix_SynthsKRW
+  address: '0xdAe6C79c46aB3B280Ca28259000695529cbD1339'
+- label: synthetix_SynthsLINK
+  address: '0xDF69bC4541b86Aa4c5A470B4347E730c38b2c3B2'
+- label: synthetix_SynthsUSD
+  address: '0x10A5F7D9D65bCc2734763444D4940a31b109275f'
+- label: synthetix_SystemSettings
+  address: '0x5ad055A1F8C936FB0deb7024f1539Bb3eAA8dc3E'
+- label: synthetix_SystemSettingsLib
+  address: '0x4A9a8B1B596Fe1096cD75a588fD559968ca64259'
+- label: synthetix_SystemStatus
+  address: '0x696c905F8F8c006cA46e9808fE7e00049507798F'
+- label: synthetix_TokenStatesETHBTC
+  address: '0x042A7A0022A7695454ac5Be77a4860e50c9683fC'
+- label: synthetix_WrapperFactory
+  address: '0x02f9bC46beD33acdB9cb002fe346734CeF8a9480'

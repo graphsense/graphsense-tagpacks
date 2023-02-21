@@ -1,0 +1,18 @@
+title: 1inch v3-prerelease
+creator: CSH CryptoFinance Team
+is_cluster_definer: true
+description: 1inch addresses v3-prerelease
+lastmod: 2023-01-05
+confidence: forensic
+source: https://docs.1inch.io
+currency: ETH
+category: defi_dex
+tags:
+- label: 1inch_LimitOrderProtocolV3
+  address: '0x119c71D3BbAC22029622cbaEc24854d3D32D2828'
+- label: 1inch_AggregationRouterV4
+  address: '0x1111111254fb6c44bAC0beD2854e76F90643097d'
+- label: 1inch_AggregationRouterV5
+  address: '0x1111111254EEB25477B68fb85Ed929f73A960582'
+- label: 1inch_SpotPriceAggregator
+  address: '0x07D91f5fb9Bf7798734C3f606dB065549F6893bb'

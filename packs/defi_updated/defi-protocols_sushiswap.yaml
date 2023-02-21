@@ -1,0 +1,30 @@
+title: SushiSwap addresses
+creator: CSH CryptoFinance Team
+is_cluster_definer: true
+description: SushiSwap addresses
+lastmod: 2023-01-05
+confidence: forensic
+source: https://dev.sushi.com/docs/Developers/Deployment%20Addresses
+currency: ETH
+category: defi_dex
+tags:
+- label: sushiswap_BentoBoxV1
+  address: '0xF5BCE5077908a1b7370B9ae04AdC565EBd643966'
+- label: sushiswap_PeggedOracleV1
+  address: '0x6cbfbB38498Df0E1e7A4506593cDB02db9001564'
+- label: sushiswap_KashiPairMediumRisk
+  address: '0x2cBA6Ab6574646Badc84F0544d05059e57a5dc42'
+- label: sushiswap_SushiBar
+  address: '0x36e2FCCCc59e5747Ff63a03ea2e5C0c2C14911e7'
+- label: sushiswap_SushiMaker
+  address: '0x5ad6211CD3fdE39A9cECB5df6f380b8263d1e277'
+- label: sushiswap_SushiXSwap
+  address: '0x011E52E4E40CF9498c79273329E8827b21E2e581'
+- label: sushiswap_FuroStream
+  address: '0x4ab2FC6e258a0cA7175D05fF10C5cF798A672cAE'
+- label: sushiswap_FuroStreamRouter
+  address: '0xf30CF8D373D78D7964A2F7793b730BF7ae0970a8'
+- label: sushiswap_FuroVesting
+  address: '0x0689640d190b10765f09310fCfE9C670eDe4E25B'
+- label: sushiswap_FuroVestingRouter
+  address: '0x312A8E33d78d3Ab79E62971E86e5e8c9c5E28D64'

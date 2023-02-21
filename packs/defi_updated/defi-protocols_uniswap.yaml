@@ -1,0 +1,42 @@
+title: UniSwap Governance-related addresses
+creator: CSH CryptoFinance Team
+is_cluster_definer: true
+description: UniSwap Governance-related addresses
+lastmod: 2023-01-09
+confidence: forensic
+source: https://docs.uniswap.org/concepts/governance/overview
+currency: ETH
+category: defi_dex
+tags:
+- label: uniswap_UniswapV2UNITimelock
+  address: '0x1a9C8182C09F50C8318d769245beA52c32BE35BC'
+- label: uniswap_UniswapV2UNIGovernorAplhaV1
+  address: '0x5e4be8Bc9637f0EAA1A755019e06A68ce081D58F'
+- label: uniswap_UniswapV2UNIGovernorAlphaV2
+  address: '0xC4e172459f1E7939D522503B81AFAaC1014CE6F6'
+- label: uniswap_UniswapV2UNIGovernorBravo
+  address: '0x408ED6354d4973f66138C91495F2f2FCbd8724C3'
+- label: uniswap_UNIMerkleDistributor
+  address: '0x090D4613473dEE047c3f2706764f49E0821D256e'
+- label: uniswap_StakingRewardsFactory
+  address: '0x3032Ab3Fa8C01d786D29dAdE018d7f2017918e12'
+- label: uniswap_UniswapV2ETHUSDTUNIPool
+  address: '0x6c3e4cb2e96b01f4b866965a91ed4437839a121a'
+- label: uniswap_UniswapV2ETHUSDCUNIPool
+  address: '0x7FBa4B8Dc5E7616e59622806932DBea72537A56b'
+- label: uniswap_UniswapV2ETHDAIUNIPool
+  address: '0xa1484C3aa22a66C62b77E0AE78E15258bd0cB711'
+- label: uniswap_UniswapV2ETHWBTCUNIPool
+  address: '0xCA35e32e7926b96A9988f61d510E038108d8068e'
+- label: uniswap_UniswapProtocolTreasuryVester1
+  address: '0x4750c43867EF5F89869132ecCF19B9b6C4286E1a'
+- label: uniswap_UniswapProtocolTreasuryVester2
+  address: '0xe3953D9d317B834592aB58AB2c7A6aD22b54075D'
+- label: uniswap_UniswapProtocolTreasuryVester3
+  address: '0x4b4e140D1f131fdaD6fb59C13AF796fD194e4135'
+- label: uniswap_UniswapProtocolTreasuryVester4
+  address: '0x3D30B1aB88D487B0F3061F40De76845Bec3F1e94'
+- label: uniswap_FeeToSetterVester
+  address: '0x18e433c7Bf8A2E1d0197CE5d8f9AFAda1A771360'
+- label: uniswap_FeeTo
+  address: '0xDAF819c2437a82f9e01f6586207ebF961a7f0970'

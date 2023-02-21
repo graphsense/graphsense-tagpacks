@@ -124,6 +124,16 @@ actors:
     images:
     - icons.llama.fi/10kswap.png
     twitter_handle: 10KSwap
+- id: 10xbitcoin
+  uri: 10xbitco.in
+  categories:
+  - service
+  jurisdictions: []
+  label: 10xBitco.in
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/10xBitco.in
+    active: false
 - id: 1bch
   label: 1BCH
   jurisdictions: []
@@ -168,7 +178,7 @@ actors:
     - www.crunchbase.com/organization/1coin-assets
     legal_name: 1COIN Assets Inc.
     active: true
-    start_activity: 07/06/21
+    start_activity: '2021-06-07'
 - id: 1inch
   label: 1inch Network
   jurisdictions: []
@@ -178,14 +188,13 @@ actors:
   uri: 1inch.io
   context:
     uris:
-      - app.1inch.io
+    - app.1inch.io
     coingecko_ids:
     - 1inch
     - one_inch_liquidity_protocol
     defilama_ids:
     - 1inch
-    - 1inch-network
-     one_inch_liquidity_protocol
+    - 1inch-network one_inch_liquidity_protocol
     refs:
     - api.llama.fi/protocol/1inch-network
     - api.coingecko.com/api/v3/exchanges/one_inch_liquidity_protocol
@@ -305,6 +314,16 @@ actors:
     images:
     - icons.llama.fi/pando.png
     twitter_handle: pando_im
+- id: 50btccom
+  uri: 50btc.com
+  categories:
+  - service
+  jurisdictions: []
+  label: 50BTC.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/50BTC.com
+    active: false
 - id: 50x
   label: 50X
   uri: trade.50x.com
@@ -318,8 +337,17 @@ actors:
     notes:
     - 'vymaps.com: links to san pietroburgo'
     active: true
-    start_activity: 25/10/2018
+    start_activity: '2018-10-25'
     twitter_handle: 50x_com
+- id: 777coincom
+  uri: 777coin.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: 777Coin.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/777Coin.com
 - id: '796'
   label: 796.com
   jurisdictions:
@@ -332,6 +360,7 @@ actors:
     - 796.com
     refs:
     - www.forexbrokerz.com/brokers/796-com-review
+    - www.walletexplorer.com/wallet/796.com
     notes:
     - China-focused
     legal_name: 796 ELLECTRONIC TRADING Ltd.
@@ -370,6 +399,92 @@ actors:
     images:
     - icons.llama.fi/8ightdao.jpg
     twitter_handle: 8ight_finance
+- id: 999dicecom
+  uri: 999dice.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: 999Dice.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/999Dice.com
+- id: Obyte
+  label: Obyte Ostable/Oswap/Prophet/Counterstake
+  jurisdictions: []
+  categories:
+  - organization
+  - defi_dex
+  - exchange
+  - defi_bridge
+  uri: ostable.org
+  context:
+    uris:
+    - oswap.io
+    - prophet.ooo
+    - counterstake.org
+    coingecko_ids:
+    - byteball
+    defilama_ids:
+    - ostable
+    - oswap
+    - prophet
+    - counterstake
+    refs:
+    - api.llama.fi/protocol/ostable
+    - api.llama.fi/protocol/oswap
+    - api.llama.fi/protocol/prophet
+    - api.llama.fi/protocol/counterstake
+    images:
+    - icons.llama.fi/ostable.png
+    - icons.llama.fi/oswap.jpg
+    - icons.llama.fi/prophet.png
+    - icons.llama.fi/counterstake.png
+    twitter_handle: ObyteOrg
+- id: Venomdao
+  label: VenomDao ViperSwap / CobraSwap / Comfy Money
+  jurisdictions: []
+  categories:
+  - defi_dex
+  - exchange
+  uri: viper.exchange
+  context:
+    uris:
+    - cobra.exchange
+    - comfy.money
+    coingecko_ids:
+    - comfy
+    - viper
+    - viperswap
+    - comfy
+    defilama_ids:
+    - viperswap
+    - cobraswap
+    - comfy-money
+    refs:
+    - api.llama.fi/protocol/viperswap
+    - api.coingecko.com/api/v3/exchanges/viperswap
+    - api.llama.fi/protocol/cobraswap
+    - api.llama.fi/protocol/comfy-money
+    images:
+    - icons.llama.fi/viperswap.png
+    - assets.coingecko.com/markets/images/666/small/viperswap.png?1620368750
+    - icons.llama.fi/cobraswap.png
+    - icons.llama.fi/comfy-money.svg
+    twitter_handle: VenomDAO
+- id: ZBG
+  label: ZBG
+  jurisdictions:
+  - MT
+  categories:
+  - exchange
+  uri: www.zbg.com
+  context:
+    coingecko_ids:
+    - zbg
+    refs:
+    - api.coingecko.com/api/v3/exchanges/zbg
+    images:
+    - assets.coingecko.com/markets/images/256/small/zbg-exchange.jpg?1537878965
 - id: aada
   label: Aada
   jurisdictions: []
@@ -442,7 +557,7 @@ actors:
     notes:
     - 'crunchbase also says: US - founded in 2019 - name Atom Asset Exchange'
     active: true
-    start_activity: 22/01/2009
+    start_activity: '2009-01-22'
 - id: abcc
   label: ABCC
   jurisdictions:
@@ -491,6 +606,16 @@ actors:
     images:
     - icons.llama.fi/abracadabra.svg
     twitter_handle: MIM_Spell
+- id: abraxasmarket
+  uri: abraxasmarket
+  categories:
+  - service
+  jurisdictions: []
+  label: AbraxasMarket
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/AbraxasMarket
+    active: false
 - id: acala
   label: Acala/Karuna Dollar/Liquid-Staking/Swap
   jurisdictions: []
@@ -502,8 +627,8 @@ actors:
   uri: acala.network
   context:
     uris:
-      - apps.acala.network
-      - apps.karura.network
+    - apps.acala.network
+    - apps.karura.network
     coingecko_ids:
     - karura_swap
     defilama_ids:
@@ -623,6 +748,16 @@ actors:
     - api.coingecko.com/api/v3/exchanges/acsi_finance
     images:
     - assets.coingecko.com/markets/images/696/small/acsi.png?1632133946
+- id: actioncryptocom
+  uri: actioncrypto.com
+  categories:
+  - service
+  jurisdictions: []
+  label: ActionCrypto.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/ActionCrypto.com
+    active: false
 - id: acumen
   label: Acumen
   jurisdictions: []
@@ -731,6 +866,16 @@ actors:
     images:
     - icons.llama.fi/adena-finance.png
     twitter_handle: adenafinance
+- id: admiralcoincom
+  uri: admiralcoin.com
+  categories:
+  - service
+  jurisdictions: []
+  label: AdmiralCoin.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/AdmiralCoin.com
+    active: false
 - id: aelin
   label: Aelin
   jurisdictions: []
@@ -774,8 +919,8 @@ actors:
   - exchange
   context:
     refs:
-      - www.zoominfo.com/c/aex/344254969
-      - tokenhell.com/aex/
+    - www.zoominfo.com/c/aex/344254969
+    - tokenhell.com/aex/
     notes:
     - 'according to fxempire: location is out of london UK but operates in China.
       According to other sources it is located in China: www.zoominfo.com/c/aex/344254969.
@@ -862,6 +1007,16 @@ actors:
     images:
     - icons.llama.fi/agora.jpg
     twitter_handle: AgoraDefi
+- id: agoramarket
+  uri: agoramarket
+  categories:
+  - service
+  jurisdictions: []
+  label: AgoraMarket
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/AgoraMarket
+    active: false
 - id: agsfinance
   label: AGS Finance
   jurisdictions: []
@@ -899,8 +1054,8 @@ actors:
   uri: www.aladdin.club
   context:
     uris:
-      - clever.aladdin.club
-      - concentrator.aladdin.club
+    - clever.aladdin.club
+    - concentrator.aladdin.club
     coingecko_ids:
     - aladdin-dao
     - concentrator
@@ -1083,7 +1238,7 @@ actors:
   uri: www.algofi.org
   context:
     uris:
-      - app.algofi.org
+    - app.algofi.org
     defilama_ids:
     - algofi-lend
     - algofi-swap
@@ -1223,23 +1378,6 @@ actors:
     images:
     - icons.llama.fi/allbridge.jpg
     twitter_handle: Allbridge_io
-- id: swft
-  label: SWFT Allchain Bridge/Swap
-  jurisdictions: []
-  categories:
-  - organization
-  - defi_bridge
-  - defi_dex
-  uri: defi.swft.pro
-  context:
-    defilama_ids:
-    - allchainbridge
-    - swft
-    refs:
-    - api.llama.fi/protocol/swft
-    images:
-    - icons.llama.fi/swft.jpg
-    twitter_handle: SWFTBridge
 - id: allcoin
   label: Allcoin
   jurisdictions:
@@ -1251,15 +1389,27 @@ actors:
     refs:
     - www.cryptowisser.com/exchange/allcoin/
     active: true
+- id: allcoincom
+  uri: allcoin.com
+  categories:
+  - service
+  jurisdictions: []
+  label: AllCoin.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/AllCoin.com
+    active: false
 - id: allcrypt
   label: Allcrypt
   jurisdictions: []
   categories:
   - exchange
+  - service
   uri: www.allcrypt.com
   context:
     refs:
     - bitcoinist.com/42-btc-stolen-allcrypt-exchange/
+    - www.walletexplorer.com/wallet/AllCrypt.com
     active: false
     end_activity: '2015'
 - id: alligator
@@ -1339,6 +1489,15 @@ actors:
     images:
     - icons.llama.fi/alpaca-finance.jpg
     twitter_handle: AlpacaFinance
+- id: alphabaymarket
+  uri: alphabaymarket.org
+  categories:
+  - service
+  jurisdictions: []
+  label: AlphaBayMarket
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/AlphaBayMarket
 - id: alphadex
   label: Alphadex
   jurisdictions: []
@@ -1727,6 +1886,15 @@ actors:
     images:
     - icons.llama.fi/annex.jpg
     twitter_handle: AnnexFinance
+- id: anonibetcom
+  uri: anonibet.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: AnoniBet.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/AnoniBet.com
 - id: ante
   label: Ante Finance
   jurisdictions: []
@@ -1776,6 +1944,16 @@ actors:
     images:
     - icons.llama.fi/antimatter.jpg
     twitter_handle: antimatterdefi
+- id: antpoolcom
+  uri: antpool.com
+  categories:
+  - mining_service
+  - miner
+  jurisdictions: []
+  label: AntPool.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/AntPool.com
 - id: anxpro
   label: Anxpro
   jurisdictions:
@@ -1786,11 +1964,12 @@ actors:
   context:
     refs:
     - www.cryptowisser.com/exchange/anxpro/
+    - www.walletexplorer.com/wallet/AnxPro.com
     notes:
     - still active according to crunchbase (but see also www.anxpro-closing.com/)
     active: false
-    start_activity: 14/02/2013
-    end_activity: 01/09/20
+    start_activity: '2013-02-14'
+    end_activity: '2020-09-01'
 - id: aofex
   label: Aofex
   jurisdictions:
@@ -1827,7 +2006,7 @@ actors:
   uri: ape.fi
   context:
     uris:
-      - ape.finance
+    - ape.finance
     coingecko_ids:
     - ape-finance
     defilama_ids:
@@ -2522,6 +2701,16 @@ actors:
     images:
     - icons.llama.fi/asgard-finance.jpg
     twitter_handle: AsgardDAO
+- id: asicminer
+  uri: asicminer
+  categories:
+  - service
+  jurisdictions: []
+  label: ASICMiner
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/ASICMiner
+    active: false
 - id: asol
   label: aSOL
   jurisdictions: []
@@ -2795,7 +2984,7 @@ actors:
     - hacked by insiders?
     active: false
     start_activity: '2019'
-    end_activity: 07/01/21
+    end_activity: '2021-01-07'
     twitter_handle: AtomarsExchange
 - id: atomichub
   label: AtomicHub
@@ -3337,6 +3526,16 @@ actors:
     images:
     - icons.llama.fi/babylon-finance.jpg
     twitter_handle: BabylonFinance
+- id: babylonmarket
+  uri: drk.lol/Bab
+  categories:
+  - service
+  jurisdictions: []
+  label: BabylonMarket
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BabylonMarket
+    active: false
 - id: babypigfinance
   label: BabyPig Finance
   jurisdictions: []
@@ -3723,9 +3922,9 @@ actors:
 - id: banxa
   label: Banxa
   jurisdictions:
-    - AU
-    - US
-    - NL
+  - AU
+  - US
+  - NL
   uri: banxa.com
   categories:
   - exchange
@@ -3740,6 +3939,8 @@ actors:
   context:
     defilama_ids:
     - banx.io
+    refs:
+    - www.walletexplorer.com/wallet/Banx.io
 - id: bao
   label: Bao (Swap, USD, Ballast, Markets, Basket, Masterchef V1) / Panda (Swap, Chef)
   jurisdictions: []
@@ -3783,7 +3984,7 @@ actors:
     - icons.llama.fi/bao-swap.jpg
     - icons.llama.fi/pandaswap.png
     - icons.llama.fi/panda-chef.jpg
-    twitter_handle: BaoCommunity  
+    twitter_handle: BaoCommunity
 - id: barnbridge
   label: BarnBridge
   jurisdictions: []
@@ -3870,7 +4071,7 @@ actors:
     - coinmarketcap.com/exchanges/basefex/
     legal_name: Base Investing Corporation
     active: true
-    start_activity: 25/06/2018
+    start_activity: '2018-06-25'
     twitter_handle: BaseFEX
 - id: baseprotocol
   label: Base Protocol
@@ -4069,7 +4270,7 @@ actors:
     - coinmarketcap.com/exchanges/beaxy/
     legal_name: Windy inc.
     active: true
-    start_activity: 01/06/17
+    start_activity: '2017-06-01'
     twitter_handle: BeaxyExchange
 - id: becoswap
   label: BecoSwap
@@ -4265,7 +4466,7 @@ actors:
   uri: benqi.fi
   context:
     uris:
-      - staking.benqi.fi
+    - staking.benqi.fi
     coingecko_ids:
     - benqi
     - benqi-liquid-staked-avax
@@ -4298,7 +4499,7 @@ actors:
     images:
     - icons.llama.fi/benswap.jpg
     - assets.coingecko.com/markets/images/743/small/benswap-logo.png?1638787023
-    twitter_handle: BenTokenFinanc1  
+    twitter_handle: BenTokenFinanc1
 - id: bent
   label: Bent Finance
   jurisdictions: []
@@ -4315,7 +4516,7 @@ actors:
     - api.llama.fi/protocol/bent-finance
     images:
     - icons.llama.fi/bent-finance.png
-    twitter_handle: BENT_Finance  
+    twitter_handle: BENT_Finance
 - id: bepronetwork
   label: Bepro Network
   jurisdictions: []
@@ -4350,6 +4551,53 @@ actors:
     images:
     - icons.llama.fi/beta-finance.jpg
     twitter_handle: beta_finance
+- id: betchaincom-old
+  uri: betchain.com-old
+  categories:
+  - gambling
+  jurisdictions: []
+  label: BetChain.com-old
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BetChain.com-old
+- id: betcoinag
+  uri: betcoin.ag
+  categories:
+  - gambling
+  jurisdictions: []
+  label: Betcoin.ag
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Betcoin.ag
+- id: betcoindicetm
+  uri: betcoindice.tm
+  categories:
+  - service
+  jurisdictions: []
+  label: BetcoinDice.tm
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BetcoinDice.tm
+    active: false
+- id: betcoinsnet
+  uri: betcoins.net
+  categories:
+  - service
+  jurisdictions: []
+  label: Betcoins.net
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Betcoins.net
+    active: false
+- id: betcointm
+  uri: betcoin.tm
+  categories:
+  - gambling
+  jurisdictions: []
+  label: Betcoin.tm
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Betcoin.tm
 - id: bethash
   label: BetHash
   jurisdictions: []
@@ -4363,6 +4611,25 @@ actors:
     - api.llama.fi/protocol/bethash
     images:
     - icons.llama.fi/bethash.jpg
+- id: betmoosecom
+  uri: betmoose.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: BetMoose.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BetMoose.com
+- id: betsofbitcoin
+  uri: betsofbitco.in
+  categories:
+  - service
+  jurisdictions: []
+  label: BetsOfBitco.in
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BetsOfBitco.in
+    active: false
 - id: betswirl
   label: BetSwirl
   jurisdictions: []
@@ -4467,7 +4734,7 @@ actors:
     - coinmarketcap.com/exchanges/bidesk/
     - www.crunchbase.com/organization/bidesk
     active: false
-    end_activity: 29/09/2021
+    end_activity: '2021-09-29'
     twitter_handle: bideskcom
 - id: bifi
   label: BiFi
@@ -4622,6 +4889,7 @@ actors:
     - api.coingecko.com/api/v3/exchanges/binance_us
     - api.llama.fi/protocol/binance-cex
     - api.coingecko.com/api/v3/exchanges/binance
+    - www.walletexplorer.com/wallet/Binance.com
     notes:
     - 'cryptostats: binance US in the US. Binance at Cayman islands. Cryptowisser:
       malta'
@@ -4661,7 +4929,7 @@ actors:
     coingecko_ids:
     - bingx
     uri:
-      - bingx.com
+    - bingx.com
     refs:
     - www.cryptowisser.com/exchange/bingbon/
     - coinmarketcap.com/exchanges/bingx/
@@ -4704,6 +4972,16 @@ actors:
     - api.coingecko.com/api/v3/exchanges/birake
     images:
     - assets.coingecko.com/markets/images/419/small/Birake.png?1559647171
+- id: birwocom-old
+  uri: birwo.com-old
+  categories:
+  - service
+  jurisdictions: []
+  label: Birwo.com-old
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Birwo.com-old
+    active: false
 - id: bishares
   label: BiShares
   jurisdictions: []
@@ -4731,7 +5009,7 @@ actors:
     refs:
     - crypto.marketswiki.com/index.php?title=Bison
     active: true
-    start_activity: 212/04/2018
+    start_activity: '2018-04-21'
 - id: bisq
   label: Bisq
   jurisdictions: []
@@ -4778,6 +5056,16 @@ actors:
     - api.coingecko.com/api/v3/exchanges/bit2c
     images:
     - assets.coingecko.com/markets/images/145/small/bit2c.jpeg?1523867875
+- id: bitacesme
+  uri: bitaces.me
+  categories:
+  - service
+  jurisdictions: []
+  label: BitAces.me
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BitAces.me
+    active: false
 - id: bitant
   label: BitANT
   jurisdictions: []
@@ -4803,7 +5091,7 @@ actors:
   uri: www.bitasset.com
   context:
     uris:
-      - www.bitasset.pro
+    - www.bitasset.pro
     refs:
     - www.crunchbase.com/organization/bitasset
     - coinmarketcap.com/exchanges/bitasset/
@@ -4851,6 +5139,7 @@ actors:
     - bitbargain.co.uk
     refs:
     - bitcourier.co.uk/news/bitbargain-closing-down-uk-regulations
+    - www.walletexplorer.com/wallet/BitBargain.co.uk
     active: false
 - id: bitbay
   label: bitbay.net / Zonda
@@ -4869,6 +5158,7 @@ actors:
     refs:
     - www.cryptowisser.com/exchange/bitbay/
     - api.coingecko.com/api/v3/exchanges/bitbay
+    - www.walletexplorer.com/wallet/BitBay.net
     notes:
     - also called zonda. Cryptostats & coinamrketcap say estonia. crunchbase says
       malta
@@ -4906,6 +5196,15 @@ actors:
     images:
     - assets.coingecko.com/markets/images/541/small/HS7eNJdt_400x400.jpg?1592294824
     active: true
+- id: bitbondcom
+  uri: bitbond.com
+  categories:
+  - service
+  jurisdictions: []
+  label: Bitbond.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Bitbond.com
 - id: bitbuy
   label: Bitbuy
   jurisdictions:
@@ -4928,14 +5227,16 @@ actors:
   - SK
   categories:
   - exchange
+  - service
   uri: bitcash.cz
   context:
     refs:
     - www.linkedin.com/in/bitcash-exchange-0bb081180/?originalSubdomain=uk
     - en.bitcoinwiki.org/wiki/Bitcash.cz
+    - www.walletexplorer.com/wallet/Bitcash.cz
     notes:
     - 'info unreliable. Website has .cz: czech republic?'
-    active: true
+    active: false
 - id: bitci
   label: Bitci
   jurisdictions:
@@ -4950,6 +5251,25 @@ actors:
     - api.coingecko.com/api/v3/exchanges/bitci
     images:
     - assets.coingecko.com/markets/images/450/small/Bitci.jpg?1564137859
+- id: bitclixcom
+  uri: bitclix.com
+  categories:
+  - service
+  jurisdictions: []
+  label: BitClix.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BitClix.com
+- id: bitcoin-roulettecom
+  uri: bitcoin-roulette.com
+  categories:
+  - service
+  jurisdictions: []
+  label: Bitcoin-Roulette.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Bitcoin-Roulette.com
+    active: false
 - id: bitcoin24
   label: Bitcoin-24
   jurisdictions:
@@ -4961,8 +5281,9 @@ actors:
   context:
     refs:
     - www.crunchbase.com/organization/bitcoin-24
+    - www.walletexplorer.com/wallet/Bitcoin-24.com
     active: false
-    start_activity: 01/05/12
+    start_activity: '2012-05-01'
 - id: bitcoinbon
   label: Bitcoinbon
   jurisdictions:
@@ -5003,7 +5324,17 @@ actors:
     - bitcoin.de
     refs:
     - www.cryptowisser.com/exchange/bitcoin-de/
+    - www.walletexplorer.com/wallet/Bitcoin.de
     active: true
+- id: bitcoinfog
+  uri: bitcoinfog.me
+  categories:
+  - service
+  jurisdictions: []
+  label: BitcoinFog
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BitcoinFog
 - id: bitcoinica
   label: Bitcoinica
   jurisdictions:
@@ -5014,9 +5345,39 @@ actors:
   context:
     refs:
     - en.bitcoin.it/wiki/Bitcoinica
+    - www.walletexplorer.com/wallet/Bitcoinica.com
     notes:
     - bitcointalk.org/index.php?topic=77523.msg861805#msg861805
     active: false
+- id: bitcoinp2p
+  label: bitcoinp2p.com.br
+  jurisdictions:
+  - BR
+  categories:
+  - exchange
+  uri: bitcoinp2p.com.br
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BitcoinP2P.com.br
+    active: true
+- id: bitcoinpokertablescom
+  uri: bitcoinpokertables.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: BitcoinPokerTables.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BitcoinPokerTables.com
+- id: bitcoinvideocasinocom
+  uri: bitcoinvideocasino.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: BitcoinVideoCasino.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BitcoinVideoCasino.com
 - id: bitcoinvietnam
   label: Bitcoin Vietnam
   jurisdictions:
@@ -5025,11 +5386,32 @@ actors:
   - exchange
   uri: bitcoinvietnam.com.vn
   context:
+    uris:
+    - bitcoinvn.io
     defilama_ids:
     - bitcoinvietnam.com.vn
     refs:
-    - bitcoinvn.io/
+    - www.walletexplorer.com/wallet/BitcoinVietnam.com.vn
     active: true
+- id: bitcoinwalletcom
+  uri: bitcoinwallet.com
+  categories:
+  - service
+  jurisdictions: []
+  label: BitcoinWallet.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BitcoinWallet.com
+- id: bitcoinwebankcom
+  uri: bitcoinwebank.com
+  categories:
+  - service
+  jurisdictions: []
+  label: BitcoinWeBank.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BitcoinWeBank.com
+    active: false
 - id: bitcom
   label: BIT
   jurisdictions:
@@ -5056,6 +5438,7 @@ actors:
     - bitcurex.com
     refs:
     - www.crunchbase.com/organization/bitcurex
+    - www.walletexplorer.com/wallet/Bitcurex.com
     active: false
 - id: bitdao
   label: BitDAO
@@ -5074,6 +5457,16 @@ actors:
     images:
     - icons.llama.fi/bitdao.png
     twitter_handle: BitDAO_Official
+- id: bitelfincom
+  uri: bitelfin.com
+  categories:
+  - service
+  jurisdictions: []
+  label: BitElfin.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BitElfin.com
+    active: false
 - id: bitexbook
   label: BITEXBOOK
   jurisdictions:
@@ -5153,6 +5546,7 @@ actors:
     - api.llama.fi/protocol/bitfinex
     - api.coingecko.com/api/v3/exchanges/bitfinex
     - www.cryptowisser.com/exchange/bitfinex/?lang=de
+    - www.walletexplorer.com/wallet/Bitfinex.com
     notes:
     - also cryptostats says BVI while crunchbase says Taiwan
     images:
@@ -5172,8 +5566,8 @@ actors:
     refs:
     - www.crunchbase.com/organization/bitfloor
     active: false
-    start_activity: 01/02/12
-    end_activity: 18/04/2013
+    start_activity: '2012-02-01'
+    end_activity: '2013-04-18'
 - id: bitflyer
   label: Bitflyer
   jurisdictions:
@@ -5227,8 +5621,18 @@ actors:
     images:
     - assets.coingecko.com/markets/images/245/small/bitfront.jpg?1582857683
     active: true
-    start_activity: 01/07/18
+    start_activity: '2018-07-01'
     twitter_handle: bitfront_global
+- id: bitfuryorg
+  uri: bitfury.org
+  categories:
+  - mining_service
+  - miner
+  jurisdictions: []
+  label: Bitfury.org
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Bitfury.org
 - id: bitgert
   label: Bitgert
   jurisdictions: []
@@ -5378,6 +5782,7 @@ actors:
     defilama_ids:
     - bitkonan.com
     refs:
+    - www.walletexplorer.com/wallet/BitKonan.com
     - www.cryptowisser.com/exchange/bitkonan/
     active: true
 - id: bitkub
@@ -5397,6 +5802,15 @@ actors:
     - assets.coingecko.com/markets/images/249/small/bitkub.png?1537180687
     legal_name: Bitkub Online Co.,Ltd
     active: true
+- id: bitlaundercom
+  uri: bitlaunder.com
+  categories:
+  - service
+  jurisdictions: []
+  label: BitLaunder.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BitLaunder.com
 - id: bitlend
   label: Bitlend
   jurisdictions: []
@@ -5497,6 +5911,36 @@ actors:
     twitter_handle: BitMEX
     legal_name: HDR Global Trading Limited
     active: true
+- id: bitmillionscom
+  uri: bitmillions.com
+  categories:
+  - service
+  jurisdictions: []
+  label: BitMillions.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BitMillions.com
+    active: false
+- id: bitmintercom
+  uri: bitminter.com
+  categories:
+  - mining_service
+  - miner
+  jurisdictions: []
+  label: BitMinter.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BitMinter.com
+- id: bitmitnet
+  uri: bitmit.net
+  categories:
+  - service
+  jurisdictions: []
+  label: Bitmit.net
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Bitmit.net
+    active: false
 - id: bitnz
   label: Bitnz
   jurisdictions:
@@ -5511,6 +5955,34 @@ actors:
     active: false
     end_activity: '2021'
     twitter_handle: BitZ_Group
+- id: bitnzcom
+  uri: bitnz.com
+  categories:
+  - service
+  jurisdictions: []
+  label: BitNZ.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BitNZ.com
+- id: bitoexcom
+  uri: bitoex.com
+  categories:
+  - service
+  jurisdictions: []
+  label: BitoEX.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BitoEX.com
+- id: bitoombacom
+  uri: bitoomba.com
+  categories:
+  - service
+  jurisdictions: []
+  label: BIToomBa.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BIToomBa.com
+    active: false
 - id: bitopro
   label: BitoPro
   jurisdictions:
@@ -5542,6 +6014,15 @@ actors:
     - assets.coingecko.com/markets/images/474/small/appicon-ios-pro.png?1622626638
     legal_name: Bitpanda GmbH
     active: true
+- id: bitpaycom
+  uri: bitpay.com
+  categories:
+  - service
+  jurisdictions: []
+  label: BitPay.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BitPay.com
 - id: bitpif
   label: BITPIF
   jurisdictions: []
@@ -5587,6 +6068,7 @@ actors:
     refs:
     - www.crunchbase.com/organization/bitso
     - api.coingecko.com/api/v3/exchanges/bitso
+    - www.walletexplorer.com/wallet/Bitso.com
     images:
     - assets.coingecko.com/markets/images/8/small/Bitso-icon-dark.png?1581909156
     legal_name: BITSO SAPI de CV
@@ -5608,10 +6090,20 @@ actors:
     refs:
     - www.crunchbase.com/organization/bitstamp
     - api.coingecko.com/api/v3/exchanges/bitstamp
+    - www.walletexplorer.com/wallet/Bitstamp.net
     images:
     - assets.coingecko.com/markets/images/9/small/bitstamp.jpg?1519627979
     legal_name: Bitstamp Limited
     active: true
+- id: bitstarzcom
+  uri: bitstarz.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: BitStarz.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BitStarz.com
 - id: bitsten
   label: Bitsten
   jurisdictions:
@@ -5655,6 +6147,7 @@ actors:
     refs:
     - www.cryptowisser.com/exchange/bittrex/
     - api.coingecko.com/api/v3/exchanges/bittrex
+    - www.walletexplorer.com/wallet/Bittrex.com
     notes:
     - also cryptostats
     images:
@@ -5702,6 +6195,7 @@ actors:
     - bitvc.com
     refs:
     - themerkle.com/hong-kong-based-bitvc-exchange-suspends-btc-and-ltc-withdrawals/
+    - www.walletexplorer.com/wallet/BitVC.com
     notes:
     - "bitvc.com \u2013 Chinese market. On September 4 the People Bank of China (PBoC)\
       \ issued a statement to prohibit CNY to Crytocurrencies  trading in China. Therefore\
@@ -5747,20 +6241,23 @@ actors:
     - bit-x.com
     refs:
     - news.bitcoin.com/bitx-launches-exchange-wallet-support-singapore/
+    - www.walletexplorer.com/wallet/Bit-x.com
     active: true
 - id: bityes
   label: Bityes
   jurisdictions: []
   categories:
   - exchange
+  - service
   uri: www.bityes.com
   context:
     refs:
     - coinmarketcap.com/exchanges/bityes/
     - www.coindesk.com/tag/bityes/
+    - www.walletexplorer.com/wallet/BitYes.com
     notes:
     - related to huobi?
-    active: true
+    active: false
 - id: bitz
   label: Bitz
   jurisdictions:
@@ -5775,7 +6272,25 @@ actors:
     notes:
     - according to cryptowisser they are located in hong kong
     active: true
-    start_activity: 26/06/2018
+    start_activity: '2018-06-26'
+- id: bitzillionscom
+  uri: bitzillions.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: BitZillions.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BitZillions.com
+- id: bitzinocom
+  uri: bitzino.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: BitZino.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BitZino.com
 - id: bitzlato
   label: bitzlato
   jurisdictions: []
@@ -5783,6 +6298,8 @@ actors:
   - exchange
   uri: bitzlato.com
   context:
+    refs:
+    - www.walletexplorer.com/wallet/BitZlato.com
     defilama_ids:
     - bitzlato
 - id: bkex
@@ -5799,6 +6316,16 @@ actors:
     - api.coingecko.com/api/v3/exchanges/bkex
     images:
     - assets.coingecko.com/markets/images/293/small/New_BKEX_logo.png?1646724631
+- id: blackbankmarket
+  uri: blackbankmarket
+  categories:
+  - service
+  jurisdictions: []
+  label: BlackBankMarket
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BlackBankMarket
+    active: false
 - id: blackbirdfinance
   label: BlackBird Finance
   jurisdictions: []
@@ -5855,6 +6382,7 @@ actors:
     - bleutrade.com
     refs:
     - www.cryptowisser.com/exchange/bleutrade/
+    - www.walletexplorer.com/wallet/Bleutrade.com
     notes:
     - Bleutrade moved from Brazil to Malta (22 September 2018) and later on over to
       Portugal (may 2020)
@@ -6033,6 +6561,16 @@ actors:
     images:
     - icons.llama.fi/blueshift.jpg
     twitter_handle: blueshiftfi
+- id: blueskymarketplace
+  uri: blueskymarketplace
+  categories:
+  - service
+  jurisdictions: []
+  label: BlueSkyMarketplace
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BlueSkyMarketplace
+    active: false
 - id: blur
   label: Blur
   jurisdictions: []
@@ -6323,8 +6861,8 @@ actors:
   uri: bouje.finance
   context:
     uris:
-      - vive.bouje.finance
-      - bastille.bouje.finance
+    - vive.bouje.finance
+    - bastille.bouje.finance
     coingecko_ids:
     - bouje-token
     - bastille-de-la-bouje
@@ -6408,6 +6946,16 @@ actors:
     images:
     - icons.llama.fi/brainiac-finance.png
     twitter_handle: BrainiacFinance
+- id: brawkercom
+  uri: brawker.com
+  categories:
+  - service
+  jurisdictions: []
+  label: Brawker.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Brawker.com
+    active: false
 - id: brewlabs
   label: Brewlabs
   jurisdictions: []
@@ -6593,6 +7141,7 @@ actors:
     - btc38.com
     refs:
     - www.crunchbase.com/organization/btc38-com
+    - www.walletexplorer.com/wallet/Btc38.com
     active: true
 - id: btcalpha
   label: BTC-Alpha
@@ -6637,8 +7186,29 @@ actors:
     - btcc.com
     refs:
     - www.crunchbase.com/organization/btcc
+    - www.walletexplorer.com/wallet/BTCC.com
     legal_name: BTCC Limited
     active: true
+- id: btccpool
+  uri: pool.mineBitcoinCore.org
+  categories:
+  - mining_service
+  - miner
+  jurisdictions: []
+  label: BTCCPool
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BTCCPool
+- id: btcdicecom
+  uri: btcdice.com
+  categories:
+  - service
+  jurisdictions: []
+  label: BtcDice.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BtcDice.com
+    active: false
 - id: btce
   label: Btc-E
   jurisdictions:
@@ -6651,6 +7221,7 @@ actors:
     - btc-e.com
     refs:
     - www.crunchbase.com/organization/btc-e
+    - www.walletexplorer.com/wallet/BTC-e.com
     active: false
 - id: btcex
   label: BTCEX
@@ -6676,8 +7247,46 @@ actors:
   uri: www.btc-exchange.com
   context:
     refs:
-      - coinmarketcap.com/exchanges/btc-exchange/
+    - coinmarketcap.com/exchanges/btc-exchange/
     active: false
+- id: btcexchangero
+  uri: btcexchange.ro
+  categories:
+  - service
+  jurisdictions: []
+  label: BtcExchange.ro
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BtcExchange.ro
+    active: false
+- id: btcguildcom
+  uri: btcguild.com
+  categories:
+  - service
+  jurisdictions: []
+  label: BTCGuild.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BTCGuild.com
+    active: false
+- id: btcjamcom
+  uri: btcjam.com
+  categories:
+  - service
+  jurisdictions: []
+  label: BTCJam.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BTCJam.com
+- id: btclendorg
+  uri: btclend.org
+  categories:
+  - service
+  jurisdictions: []
+  label: BTCLend.org
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BTCLend.org
 - id: btcmarkets
   label: BTCMarkets
   jurisdictions:
@@ -6693,12 +7302,22 @@ actors:
     defilama_ids:
     - btcmarkets.net
     refs:
+    - www.walletexplorer.com/wallet/BtcMarkets.net
     - www.crunchbase.com/organization/btc-markets
     - api.coingecko.com/api/v3/exchanges/btcmarkets
     images:
     - assets.coingecko.com/markets/images/237/small/btcmarkets-exchange.jpg?1536726060
     legal_name: BTC Markets Pty Ltd
     active: true
+- id: btcoraclecom
+  uri: btcoracle.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: BTCOracle.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BTCOracle.com
 - id: btcpop
   label: Btcpop
   jurisdictions:
@@ -6709,6 +7328,7 @@ actors:
   context:
     refs:
     - www.crunchbase.com/organization/btcpop
+    - www.walletexplorer.com/wallet/BTCPop.co
     active: true
     start_activity: '2014'
 - id: btcsquare
@@ -6740,6 +7360,26 @@ actors:
     images:
     - icons.llama.fi/btcst.png
     twitter_handle: BTCST2020
+- id: btcstcom-pirateat40
+  uri: btcst.com-pirateat40
+  categories:
+  - service
+  jurisdictions: []
+  label: Btcst.com-pirateat40
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Btcst.com-pirateat40
+    active: false
+- id: btctcom
+  uri: btct.com
+  categories:
+  - service
+  jurisdictions: []
+  label: BTCt.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BTCt.com
+    active: false
 - id: btctrade
   label: BTC Trade (ua)
   jurisdictions:
@@ -6757,6 +7397,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/btc_trade_ua
     - www.crunchbase.com/organization/btctrader
+    - www.walletexplorer.com/wallet/BtcTrade.com
     images:
     - assets.coingecko.com/markets/images/169/small/btctradeua.png?1527501701
     active: true
@@ -6789,6 +7430,7 @@ actors:
     - bter.com
     refs:
     - www.crunchbase.com/organization/bter
+    - www.walletexplorer.com/wallet/Bter.com
     active: false
 - id: btfinance
   label: BT.Finance
@@ -6833,6 +7475,7 @@ actors:
     defilama_ids:
     - btradeaustralia.com
     refs:
+    - www.walletexplorer.com/wallet/BTradeAustralia.com
     - bittrust.org/bit-trade-australia
     active: true
 - id: btse
@@ -7077,6 +7720,8 @@ actors:
   - AU
   categories:
   - exchange
+  - mining_service
+  - miner
   uri: www.bw.com
   context:
     coingecko_ids:
@@ -7084,6 +7729,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/bw
     - www.cryptowisser.com/exchange/bw-com/
+    - www.walletexplorer.com/wallet/BW.com
     images:
     - assets.coingecko.com/markets/images/326/small/bw.com.jpg?1548664400
     active: true
@@ -7115,6 +7761,7 @@ actors:
     refs:
     - www.cryptocompare.com/exchanges/bxinth/overview
     - coinmarketcap.com/exchanges/bx-thailand/
+    - www.walletexplorer.com/wallet/BX.in.th
     active: false
 - id: bxh
   label: BXH
@@ -7131,7 +7778,7 @@ actors:
     - api.llama.fi/protocol/bxh
     images:
     - icons.llama.fi/bxh.jpg
-    twitter_handle: BXH_Blockchain  
+    twitter_handle: BXH_Blockchain
 - id: bybit
   label: Bybit
   jurisdictions:
@@ -7155,6 +7802,15 @@ actors:
     - icons.llama.fi/bybit.png
     twitter_handle: Bybit_Official
     active: true
+- id: byllscom
+  uri: bylls.com
+  categories:
+  - service
+  jurisdictions: []
+  label: Bylls.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Bylls.com
 - id: cachegold
   label: CACHE.Gold
   jurisdictions: []
@@ -7326,6 +7982,7 @@ actors:
     - campbx.com
     refs:
     - www.crunchbase.com/organization/campbx
+    - www.walletexplorer.com/wallet/CampBX.com
     active: true
 - id: canary
   label: Canary
@@ -7360,6 +8017,16 @@ actors:
     images:
     - icons.llama.fi/candle.png
     twitter_handle: Candle_Labs
+- id: cannabisroadmarket
+  uri: cannabisroadmarket
+  categories:
+  - service
+  jurisdictions: []
+  label: CannabisRoadMarket
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CannabisRoadMarket
+    active: false
 - id: cantodex
   label: Canto Dex/Lending
   jurisdictions: []
@@ -7674,6 +8341,7 @@ actors:
     - cavirtex.com
     refs:
     - www.crunchbase.com/organization/cavirtex
+    - www.walletexplorer.com/wallet/Cavirtex.com
     active: true
 - id: ccedk
   label: Ccedk
@@ -7687,6 +8355,7 @@ actors:
     - ccedk.com
     refs:
     - cointelegraph.com/tags/ccedk
+    - www.walletexplorer.com/wallet/Ccedk.com
     active: true
 - id: ccex
   label: C-Cex
@@ -7700,6 +8369,7 @@ actors:
     - c-cex.com
     refs:
     - www.crunchbase.com/organization/ccex-cloud-commodities-exchange
+    - www.walletexplorer.com/wallet/C-Cex.com
     notes:
     - cryptowisser says it is from russia
     active: true
@@ -7882,6 +8552,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/cex
     - www.crunchbase.com/organization/cex-io
+    - www.walletexplorer.com/wallet/Cex.io
     images:
     - assets.coingecko.com/markets/images/56/small/main-icon.png?1617267530
     active: true
@@ -7948,6 +8619,16 @@ actors:
     images:
     - icons.llama.fi/chainport.png
     twitter_handle: chain_port
+- id: chainrollcom
+  uri: chainroll.com
+  categories:
+  - service
+  jurisdictions: []
+  label: Chainroll.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Chainroll.com
+    active: false
 - id: chainxyz
   label: Chainxyz
   jurisdictions: []
@@ -8040,7 +8721,16 @@ actors:
     - www.crunchbase.com/organization/changenow
     legal_name: ChangeNOW International Ltd.
     active: true
-    start_activity: 02/10/17
+    start_activity: '2017-10-02'
+- id: changetipcom
+  uri: changetip.com
+  categories:
+  - service
+  jurisdictions: []
+  label: ChangeTip.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/ChangeTip.com
 - id: changex
   label: Changex
   jurisdictions: []
@@ -8131,6 +8821,7 @@ actors:
     defilama_ids:
     - chbtc.com
     refs:
+    - www.walletexplorer.com/wallet/ChBtc.com
     - www.cryptowisser.com/exchange/chbtc/
     active: false
 - id: cheefinance
@@ -8479,6 +9170,7 @@ actors:
     defilama_ids:
     - clevercoin.com
     refs:
+    - www.walletexplorer.com/wallet/CleverCoin.com
     - www.crunchbase.com/organization/clevercoin
     active: false
 - id: clipper
@@ -8507,6 +9199,25 @@ actors:
     - assets.coingecko.com/markets/images/717/small/clipper.png?1634175867
     - assets.coingecko.com/markets/images/875/small/oJ7a91sA_400x400.jpeg?1653576620
     twitter_handle: Clipper_DEX
+- id: cloudbetcom
+  uri: cloudbet.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: CloudBet.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CloudBet.com
+- id: cloudhashingcom
+  uri: cloudhashing.com
+  categories:
+  - service
+  jurisdictions: []
+  label: CloudHashing.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CloudHashing.com
+    active: false
 - id: code7finance
   label: Code 7 Finance
   jurisdictions: []
@@ -8561,13 +9272,44 @@ actors:
   - US
   categories:
   - exchange
+  - service
   uri: coin.mx
   context:
     refs:
     - cointelegraph.com/tags/coin-mx
+    - www.walletexplorer.com/wallet/Coin.mx
     active: false
     start_activity: '2013'
     end_activity: '2015'
+- id: coin-swapnet
+  uri: coin-swap.net
+  categories:
+  - service
+  jurisdictions: []
+  label: Coin-Swap.net
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Coin-Swap.net
+    active: false
+- id: coin-sweepercom
+  uri: coin-sweeper.com
+  categories:
+  - service
+  jurisdictions: []
+  label: Coin-Sweeper.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Coin-Sweeper.com
+    active: false
+- id: coinapultcom
+  uri: coinapult.com
+  categories:
+  - service
+  jurisdictions: []
+  label: CoinApult.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CoinApult.com
 - id: coinarch
   label: coinarch.com
   jurisdictions:
@@ -8579,6 +9321,7 @@ actors:
     defilama_ids:
     - coinarch.com
     refs:
+    - www.walletexplorer.com/wallet/CoinArch.com
     - www.crunchbase.com/organization/coinarch
     active: true
 - id: coinbase
@@ -8604,7 +9347,7 @@ actors:
     - assets.coingecko.com/markets/images/23/small/Coinbase_Coin_Primary.png?1621471875
     - icons.llama.fi/coinbase-wrapped-staked-eth.png
     notes:
-      - Coinbase Wrapped Staked ETH
+    - Coinbase Wrapped Staked ETH
     legal_name: Coinbase, Inc.
     active: true
     start_activity: '2012'
@@ -8624,6 +9367,15 @@ actors:
     active: true
     start_activity: '2018'
     twitter_handle: coinbit_coinbit
+- id: coinboxme
+  uri: coinbox.me
+  categories:
+  - service
+  jurisdictions: []
+  label: CoinBox.me
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CoinBox.me
 - id: coinbroker
   label: Coinbroker
   jurisdictions:
@@ -8636,6 +9388,7 @@ actors:
     - coinbroker.io
     refs:
     - tracxn.com/d/companies/coinbroker.io
+    - www.walletexplorer.com/wallet/Coinbroker.io
     active: true
 - id: coincafe
   label: Coincafe
@@ -8648,6 +9401,7 @@ actors:
     defilama_ids:
     - coincafe.com
     refs:
+    - www.walletexplorer.com/wallet/CoinCafe.com
     - www.crunchbase.com/organization/coin-cafe
     legal_name: Coin Cafe
     active: true
@@ -8680,6 +9434,7 @@ actors:
     - coinchimp.com
     refs:
     - www.zoominfo.com/c/coinchimp/425775235
+    - www.walletexplorer.com/wallet/CoinChimp.com
     active: true
 - id: coindcx
   label: Coindcx
@@ -8799,7 +9554,7 @@ actors:
     - coinfinit or coinfinity? The former is from south korea and is an exchange.
       the latter is not an exch
     active: true
-    start_activity: 23/04/2014
+    start_activity: '2014-04-23'
 - id: coinflex
   label: CoinFLEX
   jurisdictions:
@@ -8824,6 +9579,15 @@ actors:
     twitter_handle: CoinFLEXdotcom
     legal_name: Liquidity Technologies Ltd.
     active: true
+- id: coingamingio
+  uri: coingaming.io
+  categories:
+  - gambling
+  jurisdictions: []
+  label: CoinGaming.io
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CoinGaming.io
 - id: coingi
   label: Coingi
   jurisdictions:
@@ -8839,6 +9603,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/coingi
     - www.crunchbase.com/organization/coinigy
+    - www.walletexplorer.com/wallet/Coingi.com
     images:
     - assets.coingecko.com/markets/images/170/small/coingi.png?1527501455
     legal_name: Coinigy Inc.
@@ -8855,6 +9620,7 @@ actors:
     - coinhako.com
     refs:
     - www.crunchbase.com/organization/coinhako
+    - www.walletexplorer.com/wallet/CoinHako.com
     active: true
 - id: coinhub
   label: Coinhub
@@ -8871,7 +9637,7 @@ actors:
     notes:
     - 'cryptowisser: singapore'
     active: false
-    start_activity: 31/12/2013
+    start_activity: '2013-12-31'
 - id: coinhubmongolia
   label: Coinhub Mongolia
   jurisdictions:
@@ -8884,6 +9650,15 @@ actors:
     - coinmarketcap.com/exchanges/coinhub-mn/
     start_activity: '2021'
     twitter_handle: CoinhubMongolia
+- id: coinichiwacom
+  uri: coinichiwa.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: Coinichiwa.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Coinichiwa.com
 - id: coinimal
   label: coinimal.com
   jurisdictions: []
@@ -8891,6 +9666,8 @@ actors:
   - exchange
   uri: coinimal.com
   context:
+    refs:
+    - www.walletexplorer.com/wallet/Coinimal.com
     defilama_ids:
     - coinimal.com
 - id: coinjar
@@ -8900,6 +9677,7 @@ actors:
   - GB
   categories:
   - exchange
+  - service
   uri: www.coinjar.com
   context:
     coingecko_ids:
@@ -8907,10 +9685,20 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/coinjar
     - www.crunchbase.com/organization/coinjar
+    - www.walletexplorer.com/wallet/CoinJar.com
     images:
     - assets.coingecko.com/markets/images/176/small/Logomark_2022200h_thumb.png?1657688357
     legal_name: CoinJar UK Limited
     active: true
+- id: coinkitecom
+  uri: coinkite.com
+  categories:
+  - service
+  jurisdictions: []
+  label: CoinKite.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CoinKite.com
 - id: coinlistpro
   label: Coinlist
   jurisdictions:
@@ -8939,7 +9727,7 @@ actors:
   context:
     refs:
     - www.cryptowisser.com/exchange/coinmama/
-    - craft.co/coinmama 
+    - craft.co/coinmama
     - www.zoominfo.com/c/coinmama/412064403
     notes:
     - crunchbase says Ireland, craft.co/coinmama www.dnb.com/ www.zoominfo.com/c/coinmama/412064403
@@ -8972,6 +9760,7 @@ actors:
     - coinmate.io
     refs:
     - www.cryptowisser.com/exchange/coinmate/
+    - www.walletexplorer.com/wallet/Coinmate.io
     active: true
 - id: coinmerce
   label: Coinmerce
@@ -8986,7 +9775,7 @@ actors:
     - www.cryptowisser.com/exchange/coinmerce
     legal_name: Coinmerce B.V.
     active: true
-    start_activity: 09/11/17
+    start_activity: '2017-11-09'
 - id: coinmetro
   label: Coinmetro
   jurisdictions:
@@ -9007,12 +9796,14 @@ actors:
   - US
   categories:
   - exchange
+  - service
   uri: www.coinmkt.com
   context:
     refs:
     - www.crunchbase.com/organization/coin-market
-    active: true
-    start_activity: 01/04/13
+    - www.walletexplorer.com/wallet/CoinMkt.com
+    active: false
+    start_activity: '2013-04-01'
 - id: coinmotion
   label: Coinmotion
   jurisdictions:
@@ -9025,6 +9816,7 @@ actors:
     - coinmotion.com
     refs:
     - www.crunchbase.com/organization/coinmotion
+    - www.walletexplorer.com/wallet/CoinMotion.com
     active: true
 - id: coinomat
   label: Coinomat
@@ -9037,6 +9829,7 @@ actors:
     defilama_ids:
     - coinomat.com
     refs:
+    - www.walletexplorer.com/wallet/Coinomat.com
     - www.crunchbase.com/organization/coinomat
     active: true
 - id: coinone
@@ -9053,6 +9846,33 @@ actors:
     - api.coingecko.com/api/v3/exchanges/coinone
     images:
     - assets.coingecko.com/markets/images/20/small/coinone_circle_500x500.png?1606460853
+- id: coinpaymentsnet
+  uri: coinpayments.net
+  categories:
+  - service
+  jurisdictions: []
+  label: CoinPayments.net
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CoinPayments.net
+- id: coinrollcom
+  uri: coinroll.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: Coinroll.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Coinroll.com
+- id: coinroyalecom
+  uri: coinroyale.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: CoinRoyale.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CoinRoyale.com
 - id: coinsbit
   label: Coinsbit
   jurisdictions:
@@ -9080,6 +9900,7 @@ actors:
     defilama_ids:
     - coins-e.com
     refs:
+    - www.walletexplorer.com/wallet/Coins-e.com
     - www.crunchbase.com/organization/coins-e-com
     active: false
 - id: coinspot
@@ -9094,6 +9915,7 @@ actors:
     - coinspot.com.au
     refs:
     - www.crunchbase.com/organization/coinspot
+    - www.walletexplorer.com/wallet/CoinSpot.com.au
     active: true
 - id: coinspro
   label: Coins.ph
@@ -9151,7 +9973,7 @@ actors:
     - www.cryptowisser.com/exchange/coinsuper
     - coinmarketcap.com/exchanges/coinsuper/
     active: true
-    start_activity: 01/10/17
+    start_activity: '2017-10-01'
     twitter_handle: Coinsuper_OFCL
 - id: coinswap
   label: Coin-Swap
@@ -9211,6 +10033,37 @@ actors:
     - api.coingecko.com/api/v3/exchanges/cointr
     images:
     - assets.coingecko.com/markets/images/1028/small/cointr.png?1673681204
+- id: cointrader
+  label: Cointrader Net
+  jurisdictions: []
+  categories:
+  - exchange
+  uri: CoinTrader.net
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CoinTrader.net
+    images:
+    - cointrader.net/upload/CT-03.png
+    twitter_handle: CoinTraderNet
+- id: coinurlcom
+  uri: coinurl.com
+  categories:
+  - service
+  jurisdictions: []
+  label: CoinURL.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CoinURL.com
+- id: coinvault
+  uri: coinvault
+  categories:
+  - service
+  jurisdictions: []
+  label: CoinVault
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CoinVault
+    active: false
 - id: coinw
   label: Coinw
   jurisdictions:
@@ -9240,6 +10093,15 @@ actors:
     images:
     - icons.llama.fi/coinwind.png
     twitter_handle: coinwind_com
+- id: coinworkercom
+  uri: coinworker.com
+  categories:
+  - service
+  jurisdictions: []
+  label: CoinWorker.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CoinWorker.com
 - id: coinzix
   label: Coinzix
   jurisdictions:
@@ -9371,12 +10233,14 @@ actors:
   - EE
   categories:
   - exchange
+  - service
   uri: comkort.com
   context:
     refs:
     - bitcoinist.com/exclusive-interview-with-the-comkort-exchange/
-    active: true
-    start_activity: 01/02/14
+    - www.walletexplorer.com/wallet/Comkort.com
+    active: false
+    start_activity: '2014-02-01'
 - id: commodo
   label: Commodo
   jurisdictions: []
@@ -9827,7 +10691,7 @@ actors:
   uri: cream.finance
   context:
     uris:
-      - app.cream.finance
+    - app.cream.finance
     coingecko_ids:
     - cream-2
     defilama_ids:
@@ -9910,6 +10774,45 @@ actors:
     - assets.coingecko.com/markets/images/932/small/PeQ_j_ca_400x400.jpeg?1660212972
     - icons.llama.fi/crescent-dex.jpg
     twitter_handle: CrescentHub
+- id: crimenetbiz
+  uri: crimenet.biz
+  categories:
+  - service
+  jurisdictions: []
+  label: CrimeNet.biz
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CrimeNet.biz
+    active: false
+- id: crimenetworkbiz
+  uri: crimenetwork.biz
+  categories:
+  - service
+  jurisdictions: []
+  label: CrimeNetwork.biz
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CrimeNetwork.biz
+    active: false
+- id: crimenetworkcc
+  uri: crimenetwork.cc
+  categories:
+  - service
+  jurisdictions: []
+  label: CrimeNetwork.cc
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CrimeNetwork.cc
+    active: false
+- id: crimenetworkco
+  uri: crimenetwork.co
+  categories:
+  - service
+  jurisdictions: []
+  label: CrimeNetwork.co
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CrimeNetwork.co
 - id: croblanc
   label: Croblanc
   jurisdictions: []
@@ -10139,6 +11042,16 @@ actors:
     images:
     - icons.llama.fi/crunchy-network.png
     twitter_handle: CrunchyTez
+- id: cryptcominercom
+  uri: cryptcominer.com
+  categories:
+  - service
+  jurisdictions: []
+  label: CryptcoMiner.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CryptcoMiner.com
+    active: false
 - id: crypterum
   label: Crypterum
   jurisdictions:
@@ -10186,7 +11099,25 @@ actors:
     images:
     - icons.llama.fi/cryptex-locker.png
     twitter_handle: ExLocker
-
+- id: crypto-gamesnet
+  uri: crypto-games.net
+  categories:
+  - gambling
+  jurisdictions: []
+  label: Crypto-Games.net
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Crypto-Games.net
+- id: crypto-tradecom
+  uri: crypto-trade.com
+  categories:
+  - service
+  jurisdictions: []
+  label: Crypto-Trade.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Crypto-Trade.com
+    active: false
 - id: cryptoblades
   label: CryptoBlades
   jurisdictions: []
@@ -10203,6 +11134,16 @@ actors:
     images:
     - icons.llama.fi/cryptoblades.png
     twitter_handle: CryptoBlades
+- id: cryptobountycom
+  uri: cryptobounty.com
+  categories:
+  - service
+  jurisdictions: []
+  label: CryptoBounty.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CryptoBounty.com
+    active: false
 - id: cryptocom
   label: Crypto.com Exchange/Defi Swap
   jurisdictions:
@@ -10236,8 +11177,18 @@ actors:
     - icons.llama.fi/defi-swap.jpg
     legal_name: Foris DAX MT Limited
     active: true
-    start_activity: 01/06/16
+    start_activity: '2016-06-01'
     twitter_handle: cryptocom
+- id: cryptolocker
+  uri: cryptolocker
+  categories:
+  - service
+  jurisdictions: []
+  label: CryptoLocker
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CryptoLocker
+    active: false
 - id: cryptology
   label: Cryptology
   jurisdictions:
@@ -10287,6 +11238,25 @@ actors:
     active: true
     start_activity: '2016'
     twitter_handle: cryptomkt
+- id: cryptomineio
+  uri: cryptomine.io
+  categories:
+  - service
+  jurisdictions: []
+  label: Cryptomine.io
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Cryptomine.io
+    active: false
+- id: cryptonatorcom
+  uri: cryptonator.com
+  categories:
+  - service
+  jurisdictions: []
+  label: Cryptonator.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Cryptonator.com
 - id: cryptonex
   label: Cryptonex
   jurisdictions:
@@ -10303,7 +11273,7 @@ actors:
     notes:
     - 'coinmarketcap: UK. Crunchbase: US'
     active: true
-    start_activity: 01/10/17
+    start_activity: '2017-10-01'
     twitter_handle: Cryptonex_CNX
 - id: cryptonit
   label: Cryptonit
@@ -10316,8 +11286,18 @@ actors:
     defilama_ids:
     - cryptonit.net
     refs:
+    - www.walletexplorer.com/wallet/Cryptonit.net
     - www.crunchbase.com/organization/cryptonit-solutions-ltd
     active: true
+- id: cryptopayme
+  uri: cryptopay.me
+  categories:
+  - service
+  jurisdictions: []
+  label: Cryptopay.me
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Cryptopay.me
 - id: cryptopia
   label: Cryptopia
   jurisdictions:
@@ -10346,6 +11326,25 @@ actors:
     active: false
     end_activity: '2015'
     legal_name: CRYPTO RUSH LIMITED
+- id: cryptorushin
+  uri: cryptorush.in
+  categories:
+  - service
+  jurisdictions: []
+  label: Cryptorush.in
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Cryptorush.in
+    active: false
+- id: cryptostockscom
+  uri: cryptostocks.com
+  categories:
+  - service
+  jurisdictions: []
+  label: CryptoStocks.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/CryptoStocks.com
 - id: cryptoswap
   label: CryptoSwap
   jurisdictions: []
@@ -10364,7 +11363,7 @@ actors:
 - id: cryptotrade
   label: Crypto-Trade
   jurisdictions:
-    - US
+  - US
   categories:
   - exchange
   uri: cryptotrade-exchange.com
@@ -10411,6 +11410,7 @@ actors:
     - cryptsy.com
     refs:
     - www.justice.gov/usao-sdfl/pr/ceo-major-online-cryptocurrency-exchange-company-indicted-defrauding-company-s
+    - www.walletexplorer.com/wallet/Cryptsy.com
     legal_name: Project Investors Inc.
     active: false
 - id: crystlfinance
@@ -10478,6 +11478,7 @@ actors:
     - cubits.com
     refs:
     - www.crunchbase.com/organization/cubits
+    - www.walletexplorer.com/wallet/Cubits.com
     active: false
 - id: cubo
   label: Cubo
@@ -10716,17 +11717,29 @@ actors:
     images:
     - icons.llama.fi/cykura.png
     twitter_handle: cykurafi
+- id: dadicecom
+  uri: dadice.com
+  categories:
+  - service
+  jurisdictions: []
+  label: DaDice.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/DaDice.com
+    active: false
 - id: dagensia
   label: Dagensia
   jurisdictions:
   - CZ
   categories:
   - exchange
+  - service
   uri: www.dagensia.eu
   context:
     refs:
     - en.bitcoin.it/wiki/Dagensia
-    active: true
+    - www.walletexplorer.com/wallet/Dagensia.eu
+    active: false
 - id: damfinance
   label: DAM Finance
   jurisdictions: []
@@ -10988,7 +12001,7 @@ actors:
     - 'cryptowisser: seychelles'
     legal_name: Decoin
     active: true
-    start_activity: 02/11/17
+    start_activity: '2017-11-02'
     twitter_handle: decoin_io
 - id: decryption
   label: Decryption
@@ -11020,6 +12033,16 @@ actors:
     images:
     - icons.llama.fi/decubate.png
     twitter_handle: decubate
+- id: deepbitnet
+  uri: deepbit.net
+  categories:
+  - service
+  jurisdictions: []
+  label: DeepBit.net
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/DeepBit.net
+    active: false
 - id: deepcoin
   label: Deepcoin
   jurisdictions:
@@ -11472,7 +12495,7 @@ actors:
   uri: www.delta.exchange
   context:
     coingecko_ids:
-      - delta_spot
+    - delta_spot
     images:
     - assets.coingecko.com/markets/images/642/small/delta_spot.jpg?1617283005
     refs:
@@ -11483,7 +12506,7 @@ actors:
     notes:
     - 'cryptowisser: Saint Vincent and Grenadines'
     active: true
-    start_activity: 01/02/18
+    start_activity: '2018-02-01'
     twitter_handle: Delta_Exchange
 - id: deltafinancial
   label: Delta Financial
@@ -11874,7 +12897,7 @@ actors:
   uri: www.dfyn.network
   context:
     uris:
-      - exchange.dfyn.network
+    - exchange.dfyn.network
     coingecko_ids:
     - dfyn-network
     - dfyn
@@ -11893,11 +12916,13 @@ actors:
   - BE
   categories:
   - exchange
+  - service
   uri: dgex.com
   context:
     refs:
     - coinmarketcap.com/exchanges/dgex/
     - tracxn.com/d/companies/dgex.com
+    - www.walletexplorer.com/wallet/Dgex.com
     notes:
     - 'unreliable: foundation year 2017'
     active: false
@@ -11963,6 +12988,44 @@ actors:
     images:
     - icons.llama.fi/dibs-money.png
     twitter_handle: DibsMoney
+- id: dicebitcoin
+  uri: dicebitco.in
+  categories:
+  - service
+  jurisdictions: []
+  label: DiceBitco.in
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/DiceBitco.in
+    active: false
+- id: dicecoinio
+  uri: dicecoin.io
+  categories:
+  - gambling
+  jurisdictions: []
+  label: DiceCoin.io
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/DiceCoin.io
+- id: dicenowcom
+  uri: dicenow.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: DiceNow.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/DiceNow.com
+- id: diceoncrackcom
+  uri: diceoncrack.com
+  categories:
+  - service
+  jurisdictions: []
+  label: DiceOnCrack.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/DiceOnCrack.com
+    active: false
 - id: diffusion
   label: Diffusion Finance
   jurisdictions: []
@@ -12082,6 +13145,16 @@ actors:
     images:
     - icons.llama.fi/dios-finance.svg
     twitter_handle: DiosFinance
+- id: dispensertf
+  uri: dispenser.tf
+  categories:
+  - service
+  jurisdictions: []
+  label: Dispenser.tf
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Dispenser.tf
+    active: false
 - id: ditto
   label: Ditto
   jurisdictions: []
@@ -12149,6 +13222,15 @@ actors:
     images:
     - icons.llama.fi/dna-dollar.jpg
     twitter_handle: dna_dollar
+- id: doctordmarket
+  uri: doctordmarket
+  categories:
+  - service
+  jurisdictions: []
+  label: DoctorDMarket
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/DoctorDMarket
 - id: dodo
   label: Dodo Exchange (Arbitrum, BSC)
   jurisdictions: []
@@ -12179,7 +13261,7 @@ actors:
     - icons.llama.fi/dodo.png
     - assets.coingecko.com/markets/images/588/small/dodoex.png?1601864278
     - assets.coingecko.com/markets/images/640/small/41tgsq69_400x400.png?1618372654
-    twitter_handle: BreederDodo  
+    twitter_handle: BreederDodo
 - id: dogeclaw
   label: DogeClaw
   jurisdictions: []
@@ -12267,29 +13349,6 @@ actors:
     - icons.llama.fi/dogeswaporg.png
     - icons.llama.fi/dogeswap.png
     twitter_handle: DogeSwapOrg,Dogeswap_
-- id: minipantherdao
-  label: MiniPanther DAO / Dogium Farm
-  jurisdictions: []
-  categories:
-  - organization
-  - service
-  - defi_dex
-  uri: minipanther.money
-  context:
-    uris:
-    - lithium.dog
-    coingecko_ids:
-    - minipanther
-    defilama_ids:
-    - minipanther-dao
-    - dogium-farm
-    refs:
-    - api.llama.fi/protocol/minipanther-dao
-    - api.llama.fi/protocol/dogium-farm
-    images:
-    - icons.llama.fi/minipanther-dao.png
-    - icons.llama.fi/dogium-farm.jpg
-    twitter_handle: PolyWantsAFarm
 - id: doglandsswap
   label: Doglands Swap
   jurisdictions: []
@@ -12498,7 +13557,7 @@ actors:
     - www.crunchbase.com/organization/dove-wallet
     - www.cryptowisser.com/exchange/dove-wallet
     active: true
-    start_activity: 28/02/2013
+    start_activity: '2013-02-28'
 - id: dpex
   label: DPEX
   jurisdictions: []
@@ -12883,6 +13942,16 @@ actors:
     - api.llama.fi/protocol/echswap
     images:
     - icons.llama.fi/echswap.png
+- id: eclipsemccom
+  uri: eclipsemc.com
+  categories:
+  - mining_service
+  - miner
+  jurisdictions: []
+  label: EclipseMC.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/EclipseMC.com
 - id: ecodefi
   label: EcoDeFi
   jurisdictions: []
@@ -13046,6 +14115,16 @@ actors:
     images:
     - icons.llama.fi/elf-finance.jpg
     twitter_handle: finance_elf
+- id: eligiusst
+  uri: eligius.st
+  categories:
+  - mining_service
+  - miner
+  jurisdictions: []
+  label: Eligius.st
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Eligius.st
 - id: elk
   label: Elk Finance (Ethereum, BSC, Avalanche, Polygon)
   jurisdictions: []
@@ -13055,7 +14134,7 @@ actors:
   uri: elk.finance
   context:
     uris:
-      - app.elk.finance
+    - app.elk.finance
     coingecko_ids:
     - elk-finance
     - elk_finance_ethereum
@@ -13233,7 +14312,7 @@ actors:
   uri: ecc.capital
   context:
     notes:
-    -  Cronos
+    - Cronos
     uris:
     - www.ecc.capital
     coingecko_ids:
@@ -13275,6 +14354,7 @@ actors:
     - empoex.com
     refs:
     - www.okchanger.com/trading-platforms/empoex
+    - www.walletexplorer.com/wallet/EmpoEX.com
     active: true
 - id: empyreandao
   label: Empyrean DAO
@@ -13432,6 +14512,15 @@ actors:
     - icons.llama.fi/eos-rex.png
     - icons.llama.fi/rex-staking.jpg
     twitter_handle: EosNFoundation,EOSauthority
+- id: epayinfo
+  uri: epay.info
+  categories:
+  - service
+  jurisdictions: []
+  label: ePay.info
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/ePay.info
 - id: epns
   label: EPNS
   jurisdictions: []
@@ -13725,8 +14814,9 @@ actors:
   context:
     refs:
     - bitcointalk.org/index.php?topic=644286.0
+    - www.walletexplorer.com/wallet/Europex.eu
     active: false
-    end_activity: 14/07/2015
+    end_activity: '2015-07-14'
     twitter_handle: Europex_
 - id: everestdao
   label: EverestDAO
@@ -13800,6 +14890,16 @@ actors:
     images:
     - icons.llama.fi/eversol.jpg
     twitter_handle: eversol_pool
+- id: everydicecom
+  uri: everydice.com
+  categories:
+  - service
+  jurisdictions: []
+  label: EveryDice.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/EveryDice.com
+    active: false
 - id: evmoswap
   label: EvmoSwap
   jurisdictions: []
@@ -13833,6 +14933,16 @@ actors:
     images:
     - icons.llama.fi/evolutionland.jpg
     twitter_handle: Evolution_Land
+- id: evolutionmarket
+  uri: evolutionmarket
+  categories:
+  - service
+  jurisdictions: []
+  label: EvolutionMarket
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/EvolutionMarket
+    active: false
 - id: evolve
   label: Evolve
   jurisdictions: []
@@ -13892,6 +15002,8 @@ actors:
   context:
     defilama_ids:
     - exchange-credit.ru
+    refs:
+    - www.walletexplorer.com/wallet/Exchange-Credit.ru
     notes:
     - could not find a source but the website is from russia
     active: true
@@ -13914,6 +15026,8 @@ actors:
   - exchange
   uri: exchanging.ir
   context:
+    refs:
+    - www.walletexplorer.com/wallet/Exchanging.ir
     defilama_ids:
     - exchanging.ir
     active: true
@@ -13975,6 +15089,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/exmo
     - www.cryptowisser.com/index.php/exchange/exmo/
+    - www.walletexplorer.com/wallet/Exmo.com
     notes:
     - only crunchbase disagrees saying spain
     images:
@@ -14039,6 +15154,15 @@ actors:
     images:
     - icons.llama.fi/fairfi.jpg
     twitter_handle: FairFi_
+- id: fairproofcom
+  uri: fairproof.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: FairProof.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/FairProof.com
 - id: fairyswap
   label: FairySwap
   jurisdictions: []
@@ -14192,6 +15316,15 @@ actors:
     - icons.llama.fi/fatfire.jpg
     - icons.llama.fi/life.png
     twitter_handle: DefiFatfire
+- id: faucetboxcom
+  uri: faucetbox.com
+  categories:
+  - service
+  jurisdictions: []
+  label: FaucetBOX.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/FaucetBOX.com
 - id: feederfinance
   label: Feeder Finance
   jurisdictions: []
@@ -14435,7 +15568,7 @@ actors:
     images:
     - icons.llama.fi/firebird.jpg
     - assets.coingecko.com/markets/images/730/small/firebird-finance.png?1636117048
-    twitter_handle: FinanceFirebird    
+    twitter_handle: FinanceFirebird
 - id: firedao
   label: FireDAO
   jurisdictions: []
@@ -14641,8 +15774,8 @@ actors:
   uri: xff.flr.finance
   context:
     uris:
-      - xfl.flr.finance
-      - xfx.flr.finance
+    - xfl.flr.finance
+    - xfx.flr.finance
     coingecko_ids:
     - flare-finance
     defilama_ids:
@@ -14928,6 +16061,15 @@ actors:
     images:
     - icons.llama.fi/fortune-dao.png
     twitter_handle: Fortune_DAO
+- id: fortunejackcom
+  uri: fortunejack.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: FortuneJack.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/FortuneJack.com
 - id: fountainprotocol
   label: Fountain Protocol
   jurisdictions: []
@@ -14973,6 +16115,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/foxbit
     - www.crunchbase.com/organization/foxbit
+    - www.walletexplorer.com/wallet/FoxBit.com.br
     images:
     - assets.coingecko.com/markets/images/864/small/foxbit.jpeg?1652175698
     legal_name: "Foxbit Servi\xE7os Digitais"
@@ -15326,7 +16469,7 @@ actors:
   uri: ftx.com
   context:
     uris:
-      - ftx.us
+    - ftx.us
     refs:
     - www.crunchbase.com/organization/ftx-exchange
     - coinmarketcap.com/exchanges/ftx/
@@ -15510,6 +16653,7 @@ actors:
     - fybsg.com
     refs:
     - www.cryptowisser.com/exchange/fyb-sg/
+    - www.walletexplorer.com/wallet/FYBSG.com
     active: true
 - id: gaiadao
   label: Gaia DAO
@@ -15751,6 +16895,7 @@ actors:
     defilama_ids:
     - gatecoin.com
     refs:
+    - www.walletexplorer.com/wallet/Gatecoin.com
     - www.crunchbase.com/organization/gatecoin
     active: true
 - id: gaurmoney
@@ -15831,6 +16976,15 @@ actors:
     images:
     - icons.llama.fi/gemkeeper.png
     twitter_handle: GemKeeperDeFi
+- id: genesis-miningcom
+  uri: genesis-mining.com
+  categories:
+  - service
+  jurisdictions: []
+  label: Genesis-Mining.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Genesis-Mining.com
 - id: genesisfinance
   label: Genesis Finance
   jurisdictions: []
@@ -15921,6 +17075,16 @@ actors:
     images:
     - icons.llama.fi/geode.png
     twitter_handle: Geode_Finance
+- id: germanplazamarket
+  uri: germanplazamarket
+  categories:
+  - service
+  jurisdictions: []
+  label: GermanPlazaMarket
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/GermanPlazaMarket
+    - de.wikipedia.org/wiki/Wall_Street_Market
 - id: geth
   label: GETH
   jurisdictions: []
@@ -15953,6 +17117,16 @@ actors:
     images:
     - icons.llama.fi/geyser.png
     twitter_handle: gysr_io
+- id: ghashio
+  uri: ghash.io
+  categories:
+  - mining_service
+  - miner
+  jurisdictions: []
+  label: GHash.io
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/GHash.io
 - id: ghostmarket
   label: GhostMarket
   jurisdictions: []
@@ -16239,8 +17413,9 @@ actors:
   context:
     refs:
     - news.bitcoin.com/gocelery-bitcoin-exchange-suspends-deposits-withdrawals/
+    - www.walletexplorer.com/wallet/GoCelery.com
     active: false
-    end_activity: 04/05/17
+    end_activity: '2017-05-04'
 - id: gogocoin
   label: GOGOcoin
   jurisdictions: []
@@ -16459,7 +17634,7 @@ actors:
     - api.llama.fi/protocol/granary-finance
     images:
     - icons.llama.fi/granary-finance.png
-    twitter_handle: GranaryFinance  
+    twitter_handle: GranaryFinance
 - id: grapefinance
   label: Grape Finance
   jurisdictions: []
@@ -16577,6 +17752,15 @@ actors:
     - icons.llama.fi/greenhouse.png
     - assets.coingecko.com/markets/images/889/small/ANnNLN8x_400x400.jpeg?1654575956
     twitter_handle: GREENHOUSEDEX
+- id: greenroadmarket
+  uri: greenroadmarket
+  categories:
+  - service
+  jurisdictions: []
+  label: GreenRoadMarket
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/GreenRoadMarket
 - id: grimfinance
   label: Grim Finance
   jurisdictions: []
@@ -16877,6 +18061,15 @@ actors:
     - icons.llama.fi/handle.fi.png
     - icons.llama.fi/handle.fi-perps.jpg
     twitter_handle: handle_fi
+- id: haobtccom
+  uri: haobtc.com
+  categories:
+  - service
+  jurisdictions: []
+  label: HaoBTC.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/HaoBTC.com
 - id: happycoins
   label: Happycoins
   jurisdictions:
@@ -16888,6 +18081,7 @@ actors:
     defilama_ids:
     - happycoins.com
     refs:
+    - www.walletexplorer.com/wallet/HappyCoins.com
     - www.crunchbase.com/organization/happycoins
     active: true
 - id: harborprotocol
@@ -16949,6 +18143,7 @@ actors:
     - hashnest.com
     refs:
     - www.crunchbase.com/organization/hashnest
+    - www.walletexplorer.com/wallet/Hashnest.com
     active: true
 - id: hatsfinance
   label: Hats.Finance
@@ -17164,7 +18359,7 @@ actors:
 - id: helix
   label: Helix, Injective Bridge
   jurisdictions:
-    - US
+  - US
   categories:
   - organization
   - exchange
@@ -17190,6 +18385,18 @@ actors:
     - assets.coingecko.com/markets/images/775/small/Primary_Symbol.png?1662085386
     - icons.llama.fi/injective.png
     twitter_handle: HelixApp_,injective_
+- id: helixmixer
+  uri: gramsflow.com/helix
+  categories:
+  - service
+  jurisdictions: []
+  label: HelixMixer
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/HelixMixer
+    - www.coindesk.com/markets/2020/10/19/fincen-fines-bitcoin-mixing-ceo-60m-in-landmark-crackdown-on-helix-coin-ninja/
+    - www.justice.gov/opa/pr/ohio-resident-pleads-guilty-operating-darknet-based-bitcoin-mixer-laundered-over-300-million
+    - de.wikipedia.org/wiki/Helix_(Tumbler)
 - id: herafinance
   label: Hera Finance
   jurisdictions: []
@@ -17316,6 +18523,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/hitbtc
     - www.crunchbase.com/organization/hitbtc
+    - www.walletexplorer.com/wallet/HitBtc.com
     images:
     - assets.coingecko.com/markets/images/24/small/hitbtc.png?1603975458
     active: true
@@ -17363,6 +18571,15 @@ actors:
     images:
     - icons.llama.fi/hodltree.png
     twitter_handle: HodlTree
+- id: holytransactioncom
+  uri: holytransaction.com
+  categories:
+  - service
+  jurisdictions: []
+  label: HolyTransaction.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/HolyTransaction.com
 - id: homecoin
   label: HomeCoin
   jurisdictions: []
@@ -17404,7 +18621,7 @@ actors:
   uri: honeyswap.org
   context:
     notes:
-      - Polygon
+    - Polygon
     uris:
     - app.honeyswap.org
     coingecko_ids:
@@ -17450,7 +18667,7 @@ actors:
     - www.cryptowisser.com/exchange/hoo-exchange
     - coinmarketcap.com/exchanges/hoo/
     active: true
-    start_activity: 01/05/18
+    start_activity: '2018-05-01'
     twitter_handle: hoo_exchange
 - id: hopprotocol
   label: Hop Protocol
@@ -17780,6 +18997,7 @@ actors:
     - www.cryptowisser.com/exchange/huobi/
     - api.coingecko.com/api/v3/exchanges/huobi
     - api.llama.fi/protocol/huobi
+    - www.walletexplorer.com/wallet/Huobi.com
     notes:
     - 'cryptostats: also seychelles. Crunchbase: china'
     images:
@@ -17868,6 +19086,16 @@ actors:
     images:
     - icons.llama.fi/hyperjump.jpg
     twitter_handle: Hyperjump_fi
+- id: ice-dicecom
+  uri: ice-dice.com
+  categories:
+  - service
+  jurisdictions: []
+  label: Ice-Dice.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Ice-Dice.com
+    active: false
 - id: icecolony
   label: Ice Colony
   jurisdictions: []
@@ -18068,6 +19296,7 @@ actors:
     - igot.com
     refs:
     - www.crunchbase.com/organization/igot-com
+    - www.walletexplorer.com/wallet/Igot.com
     active: true
 - id: illuvium
   label: Illuvium
@@ -18207,6 +19436,7 @@ actors:
     defilama_ids:
     - indacoin.com
     refs:
+    - www.walletexplorer.com/wallet/Indacoin.com
     - www.crunchbase.com/organization/indacoin
     active: true
 - id: independentreserve
@@ -18304,7 +19534,7 @@ actors:
     - www.cryptowisser.com/exchange/indoex/
     - coinmarketcap.com/exchanges/indoex/
     active: true
-    start_activity: 01/01/19
+    start_activity: '2019-01-01'
     twitter_handle: Indoex_LTD
 - id: infinitorr
   label: InfiniTORR
@@ -18364,6 +19594,16 @@ actors:
     images:
     - icons.llama.fi/ink-protocol.png
     twitter_handle: InkProtocol__
+- id: inputsio
+  uri: inputs.io
+  categories:
+  - service
+  jurisdictions: []
+  label: Inputs.io
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Inputs.io
+    active: false
 - id: instadapp
   label: Instadapp
   jurisdictions: []
@@ -18381,6 +19621,16 @@ actors:
     images:
     - icons.llama.fi/instadapp.jpg
     twitter_handle: Instadapp
+- id: instawalletorg
+  uri: instawallet.org
+  categories:
+  - service
+  jurisdictions: []
+  label: Instawallet.org
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Instawallet.org
+    active: false
 - id: instrumental
   label: Instrumental Finance
   jurisdictions: []
@@ -18488,7 +19738,7 @@ actors:
   uri: interlay.io
   context:
     uris:
-      - kintsugi.interlay.io
+    - kintsugi.interlay.io
     coingecko_ids:
     - kintsugi
     defilama_ids:
@@ -18892,6 +20142,15 @@ actors:
     - icons.llama.fi/jetfuel-finance.jpg
     - icons.llama.fi/jetswap.png
     twitter_handle: Jetfuelfinance
+- id: jetwincom
+  uri: jetwin.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: JetWin.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/JetWin.com
 - id: jexchange
   label: Jexchange
   jurisdictions: []
@@ -19051,7 +20310,7 @@ actors:
     refs:
     - coinmarketcap.com/it/exchanges/jubi-exchange/
     active: true
-    start_activity: 23/03/2020
+    start_activity: '2020-03-23'
     twitter_handle: JBEXCOM
 - id: jugglerred
   label: Juggler Red
@@ -19153,6 +20412,16 @@ actors:
     images:
     - icons.llama.fi/jupiter-swap.png
     twitter_handle: jupiter_swap
+- id: just-dicecom
+  uri: just-dice.com
+  categories:
+  - service
+  jurisdictions: []
+  label: Just-Dice.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Just-Dice.com
+    active: false
 - id: justcoin
   label: Justcoin
   jurisdictions:
@@ -19163,8 +20432,9 @@ actors:
   context:
     refs:
     - www.crunchbase.com/organization/justcoin-exchange
-    active: true
-    start_activity: 07/05/13
+    - www.walletexplorer.com/wallet/Justcoin.com
+    active: false
+    start_activity: '2013-05-07'
 - id: justdefi
   label: Just (Cryptos,Lend,Stables) / Sun
   jurisdictions: []
@@ -19174,8 +20444,8 @@ actors:
   uri: just.network
   context:
     uris:
-      - justlend.just.network
-      - juststable.tronscan.org
+    - justlend.just.network
+    - juststable.tronscan.org
     coingecko_ids:
     - just
     - just-stablecoin
@@ -19371,6 +20641,16 @@ actors:
     - api.coingecko.com/api/v3/exchanges/kanga
     images:
     - assets.coingecko.com/markets/images/852/small/kanga_logo.png?1650269423
+- id: kanois
+  uri: kano.is
+  categories:
+  - mining_service
+  - miner
+  jurisdictions: []
+  label: Kano.is
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Kano.is
 - id: kanvas
   label: Kanvas
   jurisdictions: []
@@ -19517,7 +20797,6 @@ actors:
     images:
     - icons.llama.fi/kavacave.png
     twitter_handle: kavacave
-
 - id: kawaiiswap
   label: KawaiiSwap
   jurisdictions: []
@@ -20003,6 +21282,16 @@ actors:
     images:
     - icons.llama.fi/kmex.png
     twitter_handle: kmex_io
+- id: kncminercom
+  uri: kncminer.com
+  categories:
+  - mining_service
+  - miner
+  jurisdictions: []
+  label: KnCMiner.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/KnCMiner.com
 - id: knightsoffantom
   label: Knights of Fantom
   jurisdictions: []
@@ -20221,6 +21510,7 @@ actors:
     - www.crunchbase.com/organization/korbit
     - api.coingecko.com/api/v3/exchanges/korbit
     - api.llama.fi/protocol/korbit
+    - www.walletexplorer.com/wallet/Korbit.co.kr
     images:
     - icons.llama.fi/korbit.jpg
     - assets.coingecko.com/markets/images/28/small/korbit-logo.png?1584091827
@@ -20291,6 +21581,7 @@ actors:
     refs:
     - www.crunchbase.com/organization/kraken
     - api.coingecko.com/api/v3/exchanges/kraken
+    - www.walletexplorer.com/wallet/Kraken.com
     images:
     - assets.coingecko.com/markets/images/29/small/kraken.jpg?1584251255
     legal_name: Payward, Inc.
@@ -20549,12 +21840,12 @@ actors:
   uri: kyberswap.com
   context:
     notes:
-      - Polygon
-      - Optimism
-      - Avalanche
-      - Arbitrum
-      - Ethereum
-      - Fantom
+    - Polygon
+    - Optimism
+    - Avalanche
+    - Arbitrum
+    - Ethereum
+    - Fantom
     coingecko_ids:
     - kyber-network
     - kyberswap_classic_polygon
@@ -20699,6 +21990,7 @@ actors:
     defilama_ids:
     - lakebtc.com
     refs:
+    - www.walletexplorer.com/wallet/LakeBTC.com
     - www.cryptowisser.com/exchange/lakebtc/
     active: true
 - id: landshare
@@ -20846,6 +22138,16 @@ actors:
     images:
     - icons.llama.fi/leaguedao.png
     twitter_handle: LeagueDAO
+- id: leancycom
+  uri: leancy.com
+  categories:
+  - service
+  jurisdictions: []
+  label: Leancy.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Leancy.com
+    active: false
 - id: ledger
   label: Ledger
   jurisdictions: []
@@ -21104,10 +22406,10 @@ actors:
   uri: lif3.com
   context:
     notes:
-      - BSC)
-      - Tombchain
-      - Polygon
-      - BSC
+    - BSC)
+    - Tombchain
+    - Polygon
+    - BSC
     coingecko_ids:
     - lif3-bsc
     - lif3
@@ -21227,8 +22529,8 @@ actors:
   uri: www.liquid.com
   context:
     refs:
-    - https://www.cryptowisser.com/exchange/liquid/
-    - https://coinmarketcap.com/exchanges/liquid/
+    - www.cryptowisser.com/exchange/liquid/
+    - coinmarketcap.com/exchanges/liquid/
     legal_name: Quoine Pte. Ltd
     active: true
     start_activity: '2014'
@@ -21364,6 +22666,7 @@ actors:
     defilama_ids:
     - litebit.eu
     refs:
+    - www.walletexplorer.com/wallet/LiteBit.eu
     - www.crunchbase.com/organization/litebit
     active: true
 - id: lixirfinance
@@ -21454,6 +22757,15 @@ actors:
     images:
     - icons.llama.fi/lns.png
     twitter_handle: bchdomains
+- id: loanbasecom
+  uri: loanbase.com
+  categories:
+  - service
+  jurisdictions: []
+  label: Loanbase.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Loanbase.com
 - id: lobis
   label: Lobis
   jurisdictions: []
@@ -21482,6 +22794,7 @@ actors:
     - localbitcoins
     refs:
     - www.crunchbase.com/organization/localbitcoins
+    - www.walletexplorer.com/wallet/LocalBitcoins.com
     active: true
 - id: localtrade
   label: LocalTrade
@@ -21600,7 +22913,7 @@ actors:
   uri: www.loop.markets
   context:
     uris:
-      - dex.loop.markets
+    - dex.loop.markets
     coingecko_ids:
     - loop
     - loop-token
@@ -21742,6 +23055,15 @@ actors:
     images:
     - icons.llama.fi/luchadores.png
     twitter_handle: LuchadoresNFT
+- id: luckybit
+  uri: luckyb.it
+  categories:
+  - gambling
+  jurisdictions: []
+  label: LuckyB.it
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/LuckyB.it
 - id: luckychip
   label: LuckyChip
   jurisdictions: []
@@ -21823,6 +23145,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/luno
     - www.cryptowisser.com/exchange/luno/
+    - www.walletexplorer.com/wallet/Luno.com
     images:
     - assets.coingecko.com/markets/images/33/small/luno.jpg?1519996997
     active: true
@@ -21888,8 +23211,8 @@ actors:
   uri: lykke.com
   context:
     uris:
-      - www.lykke.com
-      - trade.lykke.com
+    - www.lykke.com
+    - trade.lykke.com
     coingecko_ids:
     - lykke
     refs:
@@ -21902,7 +23225,7 @@ actors:
     - 'cryptostats and cryptowisser: switzerland'
     legal_name: Lykke, Inc.
     active: true
-    start_activity: 26/09/2013
+    start_activity: '2013-09-26'
     twitter_handle: lykke
 - id: lympo
   label: Lympo
@@ -22130,6 +23453,7 @@ actors:
     - www.cryptowisser.com/exchange/max-maicoin/
     - coinmarketcap.com/exchanges/max-exchange/
     - api.coingecko.com/api/v3/exchanges/max_maicoin
+    - www.walletexplorer.com/wallet/MaiCoin.com
     images:
     - assets.coingecko.com/markets/images/218/small/max.jpg?1533888641
     legal_name: MaiCoin, Ltd.
@@ -22472,10 +23796,12 @@ actors:
   - US
   categories:
   - exchange
+  - service
   uri: masterxchange.com
   context:
     refs:
     - www.crunchbase.com/organization/masterxchange
+    - www.walletexplorer.com/wallet/MasterXchange.com
     active: false
 - id: matbea
   label: Matbea
@@ -22489,6 +23815,7 @@ actors:
     - matbea.com
     refs:
     - exchangerates.pro/exchanges/matbea/
+    - www.walletexplorer.com/wallet/Matbea.com
     active: true
 - id: matrixfarm
   label: Matrix Farm
@@ -22558,12 +23885,14 @@ actors:
   jurisdictions: []
   categories:
   - exchange
+  - service
   uri: mcxnow.com
   context:
     refs:
     - en.bitcoin.it/wiki/McxNOW
+    - www.walletexplorer.com/wallet/McxNOW.com
     active: false
-    end_activity: 15/11/2014
+    end_activity: '2014-11-15'
 - id: mdex
   label: Mdex
   jurisdictions:
@@ -22719,6 +24048,7 @@ actors:
     - mercadobitcoin.com.br
     refs:
     - www.crunchbase.com/organization/mercado-bitcoin
+    - www.walletexplorer.com/wallet/MercadoBitcoin.com.br
     legal_name: "Mercado Bitcoin Servi\xE7os Digitais Ltda."
     active: true
 - id: mercatox
@@ -22907,9 +24237,9 @@ actors:
     - coinmarketcap.com/exchanges/metal-x/
     - www.cryptowisser.com/exchange/metal-x-exchange/
     notes:
-      - "coinmarkt say us, cryptowisser Estonia"
+    - coinmarkt say us, cryptowisser Estonia
     active: true
-    start_activity: 01/04/20
+    start_activity: '2020-04-01'
     twitter_handle: metalxofficial
 - id: metapoly
   label: Metapoly
@@ -23138,6 +24468,7 @@ actors:
     defilama_ids:
     - mexbt.com
     refs:
+    - www.walletexplorer.com/wallet/MeXBT.com
     - www.crunchbase.com/organization/mexbt-crypto-exchange-of-the-americas
     legal_name: meXBT Trading Services Ltd.
     active: true
@@ -23199,6 +24530,16 @@ actors:
     images:
     - icons.llama.fi/midasdao.jpg
     twitter_handle: Midas_DAO
+- id: middleearthmarketplace
+  uri: middleearthmarketplace
+  categories:
+  - service
+  jurisdictions: []
+  label: MiddleEarthMarketplace
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/MiddleEarthMarketplace
+    active: false
 - id: milkofarm
   label: Milko Farm
   jurisdictions: []
@@ -23344,6 +24685,15 @@ actors:
     images:
     - icons.llama.fi/mind-games.png
     twitter_handle: MINDGames_io
+- id: minefieldbitcoinlaborg
+  uri: minefield.bitcoinlab.org
+  categories:
+  - gambling
+  jurisdictions: []
+  label: MineField.BitcoinLab.org
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/MineField.BitcoinLab.org
 - id: minerscenter
   label: Minerscenter
   jurisdictions:
@@ -23356,7 +24706,7 @@ actors:
     - finance.yahoo.com/news/bitcoin-investor-taking-things-level-200501853.html
     legal_name: Miners Center Inc.
     active: true
-    start_activity: 01/11/15
+    start_activity: '2015-11-01'
 - id: minerswap
   label: MinerSwap
   jurisdictions: []
@@ -23402,6 +24752,29 @@ actors:
     images:
     - icons.llama.fi/miningtycoon.png
     twitter_handle: NEXTYPE1
+- id: minipantherdao
+  label: MiniPanther DAO / Dogium Farm
+  jurisdictions: []
+  categories:
+  - organization
+  - service
+  - defi_dex
+  uri: minipanther.money
+  context:
+    uris:
+    - lithium.dog
+    coingecko_ids:
+    - minipanther
+    defilama_ids:
+    - minipanther-dao
+    - dogium-farm
+    refs:
+    - api.llama.fi/protocol/minipanther-dao
+    - api.llama.fi/protocol/dogium-farm
+    images:
+    - icons.llama.fi/minipanther-dao.png
+    - icons.llama.fi/dogium-farm.jpg
+    twitter_handle: PolyWantsAFarm
 - id: miniswap
   label: MiniSwap
   jurisdictions: []
@@ -23528,6 +24901,7 @@ actors:
   context:
     refs:
     - news.bitcoin.com/uk-police-force-investigates-the-defunct-mintpal-exchange-and-owner/
+    - www.walletexplorer.com/wallet/MintPal.com
     active: false
     twitter_handle: MintPalExchange
 - id: mintswap
@@ -23612,7 +24986,8 @@ actors:
     - icons.llama.fi/mixswap-finance.png
     twitter_handle: MixSwapFinance
 - id: mmfinance
-  label: MM Finance (Stableswap, Optimizer, DrachmaExchange, Savanna Finance, Dawn Star Finance, Madmex, METF Finance)
+  label: MM Finance (Stableswap, Optimizer, DrachmaExchange, Savanna Finance, Dawn
+    Star Finance, Madmex, METF Finance)
   jurisdictions: []
   categories:
   - organization
@@ -23622,16 +24997,16 @@ actors:
   uri: mm.finance
   context:
     uris:
-      - polymm.finance
-      - vaults.polymm.finance
-      - vaults.mm.finance
-      - stable.mm.finance
-      - drachma.exchange
-      - svn.finance
-      - dawnstar.finance
-      - madmex.io
-      - metf.finance
-    notes: 
+    - polymm.finance
+    - vaults.polymm.finance
+    - vaults.mm.finance
+    - stable.mm.finance
+    - drachma.exchange
+    - svn.finance
+    - dawnstar.finance
+    - madmex.io
+    - metf.finance
+    notes:
     - Cronos
     - Polygon
     coingecko_ids:
@@ -23891,6 +25266,15 @@ actors:
     images:
     - icons.llama.fi/moola-market.jpg
     twitter_handle: Moola_Market
+- id: moonbitcoin
+  uri: moonbit.co.in
+  categories:
+  - service
+  jurisdictions: []
+  label: MoonBit.co.in
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/MoonBit.co.in
 - id: moondao
   label: MoonDao
   jurisdictions: []
@@ -24113,8 +25497,18 @@ actors:
     refs:
     - en.bitcoin.it/wiki/MPEx
     active: true
-    start_activity: 11/04/12
+    start_activity: '2012-04-11'
     twitter_handle: mpex1
+- id: mpexco
+  uri: mpex.co
+  categories:
+  - service
+  jurisdictions: []
+  label: MPEx.co
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/MPEx.co
+    active: false
 - id: mstablecdp
   label: mStable (CDP, Yield)
   jurisdictions: []
@@ -24145,7 +25539,7 @@ actors:
     - www.crunchbase.com/organization/mt-gox
     - www.cryptowisser.com/exchange/mt-gox
     active: false
-    start_activity: 01/07/10
+    start_activity: '2010-07-01'
 - id: muesliswapmilkada
   label: MuesliSwap
   jurisdictions:
@@ -24298,6 +25692,16 @@ actors:
     images:
     - assets.coingecko.com/markets/images/409/small/MEXC_logo_square.jpeg?1673000123
     active: true
+- id: mybitcoincom
+  uri: mybitcoin.com
+  categories:
+  - service
+  jurisdictions: []
+  label: MyBitcoin.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/MyBitcoin.com
+    active: false
 - id: myceliumperpetualswaps
   label: Mycelium Perpetual (Swaps, Pools)
   jurisdictions: []
@@ -25109,6 +26513,15 @@ actors:
     images:
     - icons.llama.fi/nirvana.png
     twitter_handle: nirvana_fi
+- id: nitrogensportseu
+  uri: nitrogensports.eu
+  categories:
+  - gambling
+  jurisdictions: []
+  label: NitrogenSports.eu
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/NitrogenSports.eu
 - id: noaharkdao
   label: NoahArkDAO
   jurisdictions: []
@@ -25306,6 +26719,15 @@ actors:
     images:
     - icons.llama.fi/nsure.jpg
     twitter_handle: Nsure_network
+- id: nucleusmarket
+  uri: nucleusmarket
+  categories:
+  - service
+  jurisdictions: []
+  label: NucleusMarket
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/NucleusMarket
 - id: nudes
   label: NUDES
   jurisdictions: []
@@ -25462,39 +26884,6 @@ actors:
     images:
     - icons.llama.fi/obswap.png
     twitter_handle: defiob
-
-- id: Obyte
-  label: Obyte Ostable/Oswap/Prophet/Counterstake
-  jurisdictions: []
-  categories:
-  - organization
-  - defi_dex
-  - exchange
-  - defi_bridge
-  uri: ostable.org
-  context:
-    uris:
-    - oswap.io
-    - prophet.ooo
-    - counterstake.org
-    coingecko_ids:
-    - byteball
-    defilama_ids:
-    - ostable
-    - oswap
-    - prophet
-    - counterstake
-    refs:
-    - api.llama.fi/protocol/ostable
-    - api.llama.fi/protocol/oswap
-    - api.llama.fi/protocol/prophet
-    - api.llama.fi/protocol/counterstake
-    images:
-    - icons.llama.fi/ostable.png
-    - icons.llama.fi/oswap.jpg
-    - icons.llama.fi/prophet.png
-    - icons.llama.fi/counterstake.png
-    twitter_handle: ObyteOrg
 - id: occamx
   label: OccamX
   jurisdictions: []
@@ -25722,6 +27111,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/okcoin
     - www.crunchbase.com/organization/okcoin
+    - www.walletexplorer.com/wallet/OKCoin.com
     images:
     - assets.coingecko.com/markets/images/415/small/okcoin_Logomark_SatoshiBlack.png?1619574335
     legal_name: OKCoin USA Inc.
@@ -25764,10 +27154,12 @@ actors:
   - HK
   categories:
   - exchange
+  - service
   uri: www.oklink.com
   context:
     refs:
     - www.crunchbase.com/organization/oklink
+    - www.walletexplorer.com/wallet/OkLink.com
     active: true
     start_activity: '2016'
 - id: olive
@@ -26650,6 +28042,7 @@ actors:
     defilama_ids:
     - orderbook.net
     refs:
+    - www.walletexplorer.com/wallet/OrderBook.net
     - www.crunchbase.com/organization/orderbook-2
     active: true
 - id: orderlynetwork
@@ -26998,8 +28391,7 @@ actors:
     - icons.llama.fi/paladin-finance.jpg
     twitter_handle: Paladin_vote
 - id: pancakeswapnew
-  label: PancakeSwap (AMM, v2, Stableswap)
-    PancakeSwap StableSwap
+  label: PancakeSwap (AMM, v2, Stableswap) PancakeSwap StableSwap
   jurisdictions: []
   categories:
   - defi_dex
@@ -27007,7 +28399,7 @@ actors:
   uri: pancakeswap.finance
   context:
     notes:
-      - Ethereum
+    - Ethereum
     coingecko_ids:
     - pancakeswap_ethereum
     - pancakeswap_new
@@ -27058,6 +28450,16 @@ actors:
     images:
     - icons.llama.fi/pandora.png
     twitter_handle: Pandora_DEX
+- id: pandoraopenmarket
+  uri: pandoraopenmarket
+  categories:
+  - service
+  jurisdictions: []
+  label: PandoraOpenMarket
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/PandoraOpenMarket
+    active: false
 - id: pandoraswap
   label: Pandora Swap
   jurisdictions: []
@@ -27380,6 +28782,7 @@ actors:
     - paxful
     refs:
     - www.crunchbase.com/organization/paxful
+    - www.walletexplorer.com/wallet/Paxful.com
     legal_name: Paxful Inc.
     active: true
 - id: paybito
@@ -27395,7 +28798,7 @@ actors:
     - coinmarketcap.com/exchanges/paybito/
     - www.cryptowisser.com/exchange/paybito
     active: true
-    start_activity: 12/06/18
+    start_activity: '2018-06-12'
     twitter_handle: paybito
 - id: paycash
   label: PayCash
@@ -27419,6 +28822,7 @@ actors:
   - FR
   categories:
   - exchange
+  - service
   uri: www.paymium.com
   context:
     coingecko_ids:
@@ -27426,6 +28830,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/paymium
     - www.crunchbase.com/organization/paymium
+    - www.walletexplorer.com/wallet/Paymium.com
     images:
     - assets.coingecko.com/markets/images/133/small/paymium_logo-ico.png?1670424600
     active: true
@@ -27520,6 +28925,15 @@ actors:
     images:
     - icons.llama.fi/peel-defi.png
     twitter_handle: PeelDefi
+- id: peerbetorg
+  uri: peerbet.org
+  categories:
+  - gambling
+  jurisdictions: []
+  label: Peerbet.org
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Peerbet.org
 - id: pegasusdollar
   label: Pegasusdollar
   jurisdictions: []
@@ -27819,7 +29233,7 @@ actors:
   uri: www.philetairus-socius.com
   context:
     uris:
-      - mockingbird.philetairus-socius.com
+    - mockingbird.philetairus-socius.com
     coingecko_ids:
     - philetairus-socius
     defilama_ids:
@@ -28098,6 +29512,16 @@ actors:
     images:
     - icons.llama.fi/pilot-protocol.png
     twitter_handle: Pilotprotocol
+- id: pinballcoincom
+  uri: pinballcoin.com
+  categories:
+  - service
+  jurisdictions: []
+  label: PinballCoin.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/PinballCoin.com
+    active: false
 - id: pinkpeafinance
   label: PinkPea Finance
   jurisdictions: []
@@ -28300,6 +29724,16 @@ actors:
     - assets.coingecko.com/markets/images/862/small/logo-platypus-v2-icon-only.png?1652157572
     - icons.llama.fi/platypus.png
     twitter_handle: Platypusdefi
+- id: playtin
+  uri: playt.in
+  categories:
+  - service
+  jurisdictions: []
+  label: Playt.in
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Playt.in
+    active: false
 - id: pleasrdao
   label: PleasrDAO
   jurisdictions: []
@@ -28399,6 +29833,25 @@ actors:
     images:
     - icons.llama.fi/pnetwork.jpg
     twitter_handle: pNetworkDeFi
+- id: pocketdiceio
+  uri: pocketdice.io
+  categories:
+  - gambling
+  jurisdictions: []
+  label: PocketDice.io
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/PocketDice.io
+- id: pocketrocketscasinoeu
+  uri: pocketrocketscasino.eu
+  categories:
+  - service
+  jurisdictions: []
+  label: PocketRocketsCasino.eu
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/PocketRocketsCasino.eu
+    active: false
 - id: podsfinance
   label: Pods Finance (Yield)
   jurisdictions: []
@@ -28419,23 +29872,6 @@ actors:
     - icons.llama.fi/pods-finance.jpg
     - icons.llama.fi/pods-yield.png
     twitter_handle: PodsFinance
-- id: popsiclefinance
-  label: Popsicle Finance
-  jurisdictions: []
-  categories:
-  - organization
-  uri: popsicle.finance
-  context:
-    coingecko_ids:
-    - ice-token
-    defilama_ids:
-    - popsicle-finance
-    - popsicle
-    refs:
-    - api.llama.fi/protocol/popsicle-finance
-    images:
-    - icons.llama.fi/popsicle-finance.jpg
-    twitter_handle: PopsicleFinance
 - id: polarbearfinance
   label: Polar Bear Finance
   jurisdictions: []
@@ -28549,6 +29985,16 @@ actors:
     images:
     - icons.llama.fi/polly-finance.png
     twitter_handle: thebaoman
+- id: polminepl
+  uri: polmine.pl
+  categories:
+  - service
+  jurisdictions: []
+  label: Polmine.pl
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Polmine.pl
+    active: false
 - id: poloniex
   label: Poloniex
   jurisdictions:
@@ -28565,6 +30011,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/poloniex
     - www.crunchbase.com/organization/poloniex
+    - www.walletexplorer.com/wallet/Poloniex.com
     images:
     - assets.coingecko.com/markets/images/37/small/poloniex.png?1663310089
     legal_name: Poloniex
@@ -28812,7 +30259,7 @@ actors:
     - www.cryptowisser.com/exchange/polyx-exchange/
     - coinmarketcap.com/exchanges/polyx/
     active: true
-    start_activity: 01/11/18
+    start_activity: '2018-11-01'
     twitter_handle: Polyxchange
 - id: polyyeldfinance
   label: PolyYeld Finance
@@ -28873,6 +30320,16 @@ actors:
     images:
     - icons.llama.fi/pony-finance.jpg
     twitter_handle: PonyFinance
+- id: ponzicoinco
+  uri: ponzicoin.co
+  categories:
+  - service
+  jurisdictions: []
+  label: PonziCoin.co
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/PonziCoin.co
+    active: false
 - id: poofcash
   label: Poof Cash
   jurisdictions: []
@@ -28937,6 +30394,23 @@ actors:
     images:
     - icons.llama.fi/popcorn.png
     twitter_handle: Popcorn_DAO
+- id: popsiclefinance
+  label: Popsicle Finance
+  jurisdictions: []
+  categories:
+  - organization
+  uri: popsicle.finance
+  context:
+    coingecko_ids:
+    - ice-token
+    defilama_ids:
+    - popsicle-finance
+    - popsicle
+    refs:
+    - api.llama.fi/protocol/popsicle-finance
+    images:
+    - icons.llama.fi/popsicle-finance.jpg
+    twitter_handle: PopsicleFinance
 - id: poptown
   label: Pop Town
   jurisdictions: []
@@ -29204,6 +30678,15 @@ actors:
     images:
     - icons.llama.fi/premio.jpg
     twitter_handle: premiofinance
+- id: primedicecom
+  uri: primedice.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: PrimeDice.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/PrimeDice.com
 - id: primitive
   label: Primitive
   jurisdictions: []
@@ -29266,14 +30749,14 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/probit_kr
     - api.coingecko.com/api/v3/exchanges/probit
-    - https://coinmarketcap.com/exchanges/probit-korea/
-    - https://coinmarketcap.com/exchanges/probit-exchange/
+    - coinmarketcap.com/exchanges/probit-korea/
+    - coinmarketcap.com/exchanges/probit-exchange/
     - www.cryptowisser.com/exchange/probit/
     images:
     - assets.coingecko.com/markets/images/690/small/probit_kr.jpg?1627376209
     - assets.coingecko.com/markets/images/370/small/probit.png?1594886584
     active: true
-    start_activity: 01/11/18
+    start_activity: '2018-11-01'
     twitter_handle: ProBit_Exchange
 - id: procyon
   label: Procyon
@@ -29485,6 +30968,21 @@ actors:
     images:
     - icons.llama.fi/pulse-dao.png
     twitter_handle: ThePULSE_DAO
+- id: pumpkindao
+  label: Pumpkin DAO
+  jurisdictions: []
+  categories:
+  - organization
+  - service
+  uri: app.pumpkindao.com
+  context:
+    defilama_ids:
+    - pumpkin-dao
+    refs:
+    - api.llama.fi/protocol/pumpkin-dao
+    images:
+    - icons.llama.fi/pumpkin-dao.jpg
+    twitter_handle: pumpkindao_com
 - id: pup
   label: FantomPup / DogePup
   jurisdictions: []
@@ -29510,21 +31008,6 @@ actors:
     - icons.llama.fi/fantompup.png
     - icons.llama.fi/dogepup.png
     twitter_handle: PolyPup1
-- id: pumpkindao
-  label: Pumpkin DAO
-  jurisdictions: []
-  categories:
-  - organization
-  - service
-  uri: app.pumpkindao.com
-  context:
-    defilama_ids:
-    - pumpkin-dao
-    refs:
-    - api.llama.fi/protocol/pumpkin-dao
-    images:
-    - icons.llama.fi/pumpkin-dao.jpg
-    twitter_handle: pumpkindao_com
 - id: purcow
   label: Purcow
   jurisdictions:
@@ -29570,6 +31053,15 @@ actors:
     images:
     - icons.llama.fi/pureswap.jpg
     twitter_handle: Pureswap1
+- id: purseio
+  uri: purse.io
+  categories:
+  - service
+  jurisdictions: []
+  label: Purse.io
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Purse.io
 - id: puzzleswap
   label: Puzzle Swap
   jurisdictions: []
@@ -29705,6 +31197,7 @@ actors:
     defilama_ids:
     - quadrigacx
     refs:
+    - www.walletexplorer.com/wallet/QuadrigaCX.com
     - www.crunchbase.com/organization/quadriga-cx
     active: true
 - id: quarry
@@ -29753,8 +31246,7 @@ actors:
     - icons.llama.fi/qubit.jpg
     twitter_handle: QubitFin
 - id: quickswap
-  label: Quickswap Dex/Lend/v3
-    Quickswap
+  label: Quickswap Dex/Lend/v3 Quickswap
   jurisdictions: []
   categories:
   - defi_dex
@@ -29763,7 +31255,7 @@ actors:
   uri: quickswap.exchange
   context:
     notes:
-      - Dogechain
+    - Dogechain
     uris:
     - dogechain.quickswap.exchange
     coingecko_ids:
@@ -30832,6 +32324,15 @@ actors:
     images:
     - icons.llama.fi/roketo.png
     twitter_handle: roketostream
+- id: rollinio
+  uri: rollin.io
+  categories:
+  - gambling
+  jurisdictions: []
+  label: Rollin.io
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Rollin.io
 - id: rook
   label: Rook/Keeper DAO
   jurisdictions: []
@@ -31072,6 +32573,15 @@ actors:
     images:
     - icons.llama.fi/saddle-finance.jpg
     twitter_handle: saddlefinance
+- id: safedicecom
+  uri: safedice.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: SafeDice.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/SafeDice.com
 - id: safeohm
   label: SafeOHM
   jurisdictions: []
@@ -31316,13 +32826,67 @@ actors:
   uri: satang.com
   context:
     uris:
-      - satangcorp.com
+    - satangcorp.com
     refs:
     - www.crunchbase.com/organization/satang
     - coinmarketcap.com/exchanges/satang-pro/
     active: true
     start_activity: '2017'
     twitter_handle: satangcorp
+- id: satoshi-karoshicom
+  uri: satoshi-karoshi.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: Satoshi-Karoshi.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Satoshi-Karoshi.com
+- id: satoshibetcom
+  uri: satoshibet.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: SatoshiBet.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/SatoshiBet.com
+- id: satoshicirclecom
+  uri: satoshicircle.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: SatoshiCircle.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/SatoshiCircle.com
+- id: satoshidicecom
+  uri: satoshidice.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: SatoshiDice.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/SatoshiDice.com
+- id: satoshiminescom
+  uri: satoshimines.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: SatoshiMines.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/SatoshiMines.com
+- id: satoshiroulettecom
+  uri: satoshiroulette.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: SatoshiRoulette.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/SatoshiRoulette.com
 - id: saucerswapdex
   label: SaucerSwap
   jurisdictions: []
@@ -31537,6 +33101,16 @@ actors:
     images:
     - icons.llama.fi/sealightswap.png
     twitter_handle: sealight_swap
+- id: sealswithclubseu
+  uri: sealswithclubs.eu
+  categories:
+  - service
+  jurisdictions: []
+  label: SealsWithClubs.eu
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/SealsWithClubs.eu
+    active: false
 - id: secondbtc
   label: SecondBTC
   jurisdictions:
@@ -31551,6 +33125,15 @@ actors:
     - api.coingecko.com/api/v3/exchanges/secondbtc
     images:
     - assets.coingecko.com/markets/images/320/small/secondbtc.png?1554861587
+- id: secondstradecom
+  uri: secondstrade.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: SecondsTrade.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/SecondsTrade.com
 - id: secretnetwork
   label: Secret Network (Swap)
   jurisdictions: []
@@ -31596,6 +33179,15 @@ actors:
     images:
     - icons.llama.fi/securedao.png
     twitter_handle: SecureDao
+- id: securevpnto
+  uri: securevpn.to
+  categories:
+  - service
+  jurisdictions: []
+  label: SecureVPN.to
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/SecureVPN.to
 - id: securofinance
   label: Securo Finance
   jurisdictions: []
@@ -31839,6 +33431,16 @@ actors:
     images:
     - icons.llama.fi/sheepdex.jpg
     twitter_handle: SheepDex
+- id: sheepmarketplace
+  uri: sheepmarketplace
+  categories:
+  - service
+  jurisdictions: []
+  label: SheepMarketplace
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/SheepMarketplace
+    active: false
 - id: sheeshafinance
   label: Sheesha Finance
   jurisdictions: []
@@ -32128,6 +33730,26 @@ actors:
     - api.llama.fi/protocol/sigmausd
     images:
     - icons.llama.fi/sigmausd.png
+- id: silkroad2market
+  uri: silkroad2market
+  categories:
+  - service
+  jurisdictions: []
+  label: SilkRoad2Market
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/SilkRoad2Market
+    active: false
+- id: silkroadmarketplace
+  uri: silkroadmarketplace
+  categories:
+  - service
+  jurisdictions: []
+  label: SilkRoadMarketplace
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/SilkRoadMarketplace
+    active: false
 - id: silofinance
   label: Silo Finance
   jurisdictions: []
@@ -32171,6 +33793,7 @@ actors:
     - simplecoin.cz
     refs:
     - www.crunchbase.com/organization/simple-coin
+    - www.walletexplorer.com/wallet/SimpleCoin.cz
     active: true
 - id: sinegy
   label: SINEGY
@@ -32326,6 +33949,16 @@ actors:
     images:
     - icons.llama.fi/sleepearn-finance.jpg
     twitter_handle: sleepearn
+- id: slushpoolcom
+  uri: slushpool.com
+  categories:
+  - mining_service
+  - miner
+  jurisdictions: []
+  label: SlushPool.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/SlushPool.com
 - id: smartcoin
   label: SmartCoin
   jurisdictions: []
@@ -33132,6 +34765,7 @@ actors:
     - spectrocoin
     refs:
     - www.crunchbase.com/organization/spectrocoin
+    - www.walletexplorer.com/wallet/SpectroCoin.com
     legal_name: Spectro Finance Ltd.
     active: true
 - id: spectrumfinance
@@ -34172,7 +35806,7 @@ actors:
     images:
     - assets.coingecko.com/markets/images/62/small/stex.png?1538384870
     active: true
-    start_activity: 01/06/18
+    start_activity: '2018-06-01'
     twitter_handle: stexExchangeR
 - id: stonedefi
   label: StoneDefi
@@ -34318,6 +35952,15 @@ actors:
     images:
     - icons.llama.fi/strips-finance.png
     twitter_handle: StripsFinance
+- id: strongcoincom-fee
+  uri: strongcoin.com-fee
+  categories:
+  - service
+  jurisdictions: []
+  label: StrongCoin.com-fee
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/StrongCoin.com-fee
 - id: stronghands
   label: Stronghands
   jurisdictions: []
@@ -34735,6 +36378,16 @@ actors:
     images:
     - icons.llama.fi/suterusu.jpg
     twitter_handle: suterusu_io
+- id: suzukidicecom
+  uri: suzukidice.com
+  categories:
+  - service
+  jurisdictions: []
+  label: SuzukiDice.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/SuzukiDice.com
+    active: false
 - id: swaap
   label: Swaap
   jurisdictions: []
@@ -34966,6 +36619,15 @@ actors:
     images:
     - icons.llama.fi/swarm-markets.jpg
     twitter_handle: SwarmMarkets
+- id: swcpokereu
+  uri: swcpoker.eu
+  categories:
+  - gambling
+  jurisdictions: []
+  label: SwCPoker.eu
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/SwCPoker.eu
 - id: sweetswap
   label: SweetSwap
   jurisdictions: []
@@ -34997,6 +36659,23 @@ actors:
     images:
     - icons.llama.fi/swerve.jpg
     twitter_handle: SwerveFinance
+- id: swft
+  label: SWFT Allchain Bridge/Swap
+  jurisdictions: []
+  categories:
+  - organization
+  - defi_bridge
+  - defi_dex
+  uri: defi.swft.pro
+  context:
+    defilama_ids:
+    - allchainbridge
+    - swft
+    refs:
+    - api.llama.fi/protocol/swft
+    images:
+    - icons.llama.fi/swft.jpg
+    twitter_handle: SWFTBridge
 - id: swiftfinance
   label: Swift Finance
   jurisdictions: []
@@ -35554,6 +37233,16 @@ actors:
     images:
     - icons.llama.fi/tegro-finance.jpg
     twitter_handle: TegroDEX
+- id: telco214
+  uri: telco214.com
+  categories:
+  - mining_service
+  - miner
+  jurisdictions: []
+  label: Telco214
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Telco214
 - id: telcoin
   label: Telcoin
   jurisdictions: []
@@ -36023,6 +37712,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/therocktrading
     - www.cryptowisser.com/exchange/the-rock-trading/
+    - www.walletexplorer.com/wallet/TheRockTrading.com
     images:
     - assets.coingecko.com/markets/images/42/small/rocktrading.png?1551110313
     legal_name: The Rock Trading S.r.l.
@@ -36130,7 +37820,7 @@ actors:
     - coinmarketcap.com/exchanges/thodex/
     - www.cryptowisser.com/exchange/thodex/
     active: true
-    start_activity: 06/05/20
+    start_activity: '2020-05-06'
     twitter_handle: thodexofficial
 - id: thorchain
   label: Thorchain / Bepswap
@@ -36390,7 +38080,7 @@ actors:
     - www.cryptowisser.com/exchange/timex/
     - coinmarketcap.com/exchanges/timex/
     active: true
-    start_activity: 01/07/19
+    start_activity: '2019-07-01'
     twitter_handle: ExchangeTimex
 - id: tinyman
   label: Tinyman
@@ -36453,11 +38143,11 @@ actors:
   uri: tokencan.com
   context:
     uris:
-      - tokencan.net
+    - tokencan.net
     refs:
     - www.crunchbase.com/organization/tokencan
     active: true
-    start_activity: 01/11/17
+    start_activity: '2017-11-01'
     twitter_handle: Tokencan
 - id: tokenize
   label: Tokenize
@@ -36619,7 +38309,7 @@ actors:
   uri: topbtc.com
   context:
     uris:
-      - topbtc.one
+    - topbtc.one
     refs:
     - coinmarketcap.com/exchanges/topbtc
     - www.cryptowisser.com/exchange/topbtc
@@ -37603,10 +39293,10 @@ actors:
     uris:
     - app.uniswap.org
     notes:
-      - Ethereum
-      - Optimism
-      - Arbitrum One
-      - Polygon
+    - Ethereum
+    - Optimism
+    - Arbitrum One
+    - Polygon
     coingecko_ids:
     - uniswap_v2
     - uniswap_v3
@@ -37894,18 +39584,28 @@ actors:
     uris:
     - id.upbit.com
     notes:
-      - Includes Upbit Indonesia
+    - Includes Upbit Indonesia
     coingecko_ids:
     - upbit
     - upbit_indonesia
     refs:
-    - https://coinmarketcap.com/exchanges/upbit/
+    - coinmarketcap.com/exchanges/upbit/
     - api.coingecko.com/api/v3/exchanges/upbit
     - api.coingecko.com/api/v3/exchanges/upbit_indonesia
     images:
     - assets.coingecko.com/markets/images/117/small/upbit.png?1520388800
     - assets.coingecko.com/markets/images/483/small/UM9P5MNb_400x400.png?1571029017
     twitter_handle: upbitglobal,upbitID
+- id: updownbt
+  uri: updown.bt
+  categories:
+  - service
+  jurisdictions: []
+  label: UpDown.BT
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/UpDown.BT
+    active: false
 - id: upex
   label: Upex
   jurisdictions:
@@ -37947,8 +39647,9 @@ actors:
   uri: urdubit.com
   context:
     refs:
+    - www.walletexplorer.com/wallet/UrduBit.com-cold
     - www.crunchbase.com/organization/urdubit
-    - https://www.cryptowisser.com/exchange/urdubit
+    - www.cryptowisser.com/exchange/urdubit
     active: false
     end_activity: '2018'
 - id: usd
@@ -37993,6 +39694,7 @@ actors:
     - usecryptos.com
     refs:
     - tracxn.com/d/companies/usecryptos.com
+    - www.walletexplorer.com/wallet/UseCryptos.com
     active: true
 - id: uwulend
   label: UwU Lend
@@ -38309,11 +40011,13 @@ actors:
   - CA
   categories:
   - exchange
+  - service
   uri: www.vaultofsatoshi.com
   context:
     refs:
     - www.crunchbase.com/organization/vault-of-satoshi
-    active: true
+    - www.walletexplorer.com/wallet/VaultOfSatoshi.com
+    active: false
     start_activity: '2014'
 - id: vaultorocom
   label: vaultoro.com
@@ -38322,6 +40026,8 @@ actors:
   - exchange
   uri: vaultoro.com
   context:
+    refs:
+    - www.walletexplorer.com/wallet/Vaultoro.com
     defilama_ids:
     - vaultoro.com
 - id: vaultyfinance
@@ -38354,8 +40060,7 @@ actors:
     - coinmarketcap.com/exchanges/vcc-exchange/
     - www.cryptowisser.com/exchange/vcc-exchange
     notes:
-    - Cryptowisser, Cryptostats and crunchbase say vietnam but it is where it
-      operates
+    - Cryptowisser, Cryptostats and crunchbase say vietnam but it is where it operates
     active: true
     twitter_handle: VCCExchange
 - id: vectorfinance
@@ -38518,37 +40223,6 @@ actors:
     images:
     - icons.llama.fi/veno-finance.png
     twitter_handle: VenoFinance
-- id: Venomdao
-  label: VenomDao ViperSwap / CobraSwap / Comfy Money
-  jurisdictions: []
-  categories:
-  - defi_dex
-  - exchange
-  uri: viper.exchange
-  context:
-    uris:
-    - cobra.exchange
-    - comfy.money
-    coingecko_ids:
-    - comfy
-    - viper
-    - viperswap
-    - comfy
-    defilama_ids:
-    - viperswap
-    - cobraswap
-    - comfy-money
-    refs:
-    - api.llama.fi/protocol/viperswap
-    - api.coingecko.com/api/v3/exchanges/viperswap
-    - api.llama.fi/protocol/cobraswap
-    - api.llama.fi/protocol/comfy-money
-    images:
-    - icons.llama.fi/viperswap.png
-    - assets.coingecko.com/markets/images/666/small/viperswap.png?1620368750
-    - icons.llama.fi/cobraswap.png
-    - icons.llama.fi/comfy-money.svg
-    twitter_handle: VenomDAO
 - id: venus
   label: Venus
   jurisdictions: []
@@ -38710,6 +40384,15 @@ actors:
     images:
     - icons.llama.fi/vexchange.jpg
     twitter_handle: VexchangeIO
+- id: vic-socksto
+  uri: vic-socks.to
+  categories:
+  - service
+  jurisdictions: []
+  label: Vic-Socks.to
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/Vic-Socks.to
 - id: vidya
   label: Vidya
   jurisdictions: []
@@ -38774,7 +40457,15 @@ actors:
     images:
     - assets.coingecko.com/markets/images/388/small/uToizY7z_400x400.jpg?1556070669
     active: true
-
+- id: vip72com
+  uri: vip72.com
+  categories:
+  - service
+  jurisdictions: []
+  label: VIP72.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/VIP72.com
 - id: vircurex
   label: Vircurex
   jurisdictions:
@@ -38787,6 +40478,7 @@ actors:
     - vircurex.com
     refs:
     - 99bitcoins.com/cryptocurrency-exchange-vircurex-halts-withdrawals-avoid-insolvency/
+    - www.walletexplorer.com/wallet/Vircurex.com
     active: false
 - id: viresfinance
   label: Vires Finance
@@ -38818,7 +40510,7 @@ actors:
     - coinmarketcap.com/exchanges/virtuse-exchange/
     legal_name: Virtuse Group Pte Ltd
     active: true
-    start_activity: 15/05/2014
+    start_activity: '2014-05-15'
     twitter_handle: VirtuseExchange
 - id: virwox
   label: Virwox
@@ -38832,6 +40524,7 @@ actors:
     - virwox.com
     refs:
     - www.cryptowisser.com/exchange/virwox/
+    - www.walletexplorer.com/wallet/VirWoX.com
     active: false
 - id: vitcswap
   label: VITC Swap/BeefStake
@@ -38842,7 +40535,7 @@ actors:
   uri: swap.vitc.org
   context:
     uris:
-      - stake.vitc.org
+    - stake.vitc.org
     defilama_ids:
     - vitcswap
     - beefstake
@@ -39270,6 +40963,15 @@ actors:
     images:
     - icons.llama.fi/wasabix.jpg
     twitter_handle: WasabixFinance
+- id: watchmybitcom
+  uri: watchmybit.com
+  categories:
+  - service
+  jurisdictions: []
+  label: WatchMyBit.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/WatchMyBit.com
 - id: waterfall
   label: Waterfall Yield/WTF/JetMine DAO/Lavafall/GemMine/MyMine/DEX/Moneyrain Finance
   jurisdictions: []
@@ -39346,7 +41048,6 @@ actors:
     images:
     - icons.llama.fi/waterfall-defi.png
     twitter_handle: Waterfalldefi
-
 - id: waterloan
   label: WaterLoan
   jurisdictions: []
@@ -39904,7 +41605,7 @@ actors:
     - assets.coingecko.com/markets/images/919/small/WOOFi-Logo.png?1658231713
     - icons.llama.fi/woofi.png
     active: true
-    twitter_handle: WOOnetwork    
+    twitter_handle: WOOnetwork
 - id: wowswap
   label: WOWswap
   jurisdictions: []
@@ -40039,12 +41740,14 @@ actors:
   - US
   categories:
   - exchange
+  - service
   uri: xapo.com
   context:
     defilama_ids:
     - xapo
     refs:
     - www.crunchbase.com/organization/xapo
+    - www.walletexplorer.com/wallet/Xapo.com
     active: true
 - id: xbacked
   label: xBacked
@@ -40107,7 +41810,7 @@ actors:
     - api.llama.fi/protocol/xdai-stake-bridge
     images:
     - icons.llama.fi/xdai-stake.png
-    twitter_handle: xdaichain  
+    twitter_handle: xdaichain
 - id: xdefi
   label: XDeFi
   jurisdictions: []
@@ -40412,6 +42115,15 @@ actors:
     images:
     - icons.llama.fi/y2r.png
     twitter_handle: Y2R_Finance
+- id: yabtclcom
+  uri: yabtcl.com
+  categories:
+  - gambling
+  jurisdictions: []
+  label: YABTCL.com
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/YABTCL.com
 - id: yamfinance
   label: Yam Finance / degenerative
   jurisdictions: []
@@ -40687,6 +42399,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/yobit
     - www.cryptowisser.com/exchange/yobit/
+    - www.walletexplorer.com/wallet/YoBit.net
     images:
     - assets.coingecko.com/markets/images/46/small/yobit.png?1519799488
     active: true
@@ -40946,20 +42659,6 @@ actors:
     images:
     - icons.llama.fi/zappy.png
     twitter_handle: ZappyFi
-- id: ZBG
-  label: ZBG
-  jurisdictions:
-  - MT
-  categories:
-  - exchange
-  uri: www.zbg.com
-  context:
-    coingecko_ids:
-    - zbg
-    refs:
-    - api.coingecko.com/api/v3/exchanges/zbg
-    images:
-    - assets.coingecko.com/markets/images/256/small/zbg-exchange.jpg?1537878965
 - id: zbx
   label: ZBX
   jurisdictions:
@@ -41040,9 +42739,9 @@ actors:
   uri: zenlink.pro
   context:
     notes:
-      - Astar
-      - Moonriver
-      - Moonbeam
+    - Astar
+    - Moonriver
+    - Moonbeam
     uris:
     - dex.zenlink.pro
     coingecko_ids:

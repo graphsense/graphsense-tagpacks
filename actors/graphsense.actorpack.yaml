@@ -34005,7 +34005,7 @@ actors:
     images:
     - icons.llama.fi/smartdex.jpg
     twitter_handle: AI_smartdex
-- id: smartdex
+- id: smartdexbch
   label: SmartDEX BCH / Clever Protocol
   jurisdictions: []
   categories:

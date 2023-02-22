@@ -1,0 +1,26 @@
+title: Bybit reserve wallets
+creator: GraphSense Core Team
+confidence: service_data
+category: exchange
+source: https://blog.bybit.com/en-US/post/statement-from-ben-on-bybit-s-wallets-bltfb7a70c50462875b/
+lastmod: 2022-11-17
+is_cluster_definer: true
+label: Bybit reserve wallets
+tags:
+- address: bc1q2qqqt87kh33s0er58akh7v9cwjgd83z5smh9rp
+  currency: BTC
+- address: bc1q9w4g79ndel72lygvwtqzem67z6uqv4yncvqjz3yn8my9swnwflxsutg4cx
+  currency: BTC
+- address: bc1qjysjfd9t9aspttpjqzv68k0ydpe7pvyd5vlyn37868473lell5tqkz456m
+  currency: BTC
+- address:  1GrwDkr33gT6LuumniYjKEGjTLhsL5kmqC
+  currency: BTC
+  source: https://www.bybithelp.com/bybitHC_Article?id=000001880
+- address: '0x1Db92e2EeBC8E0c075a02BeA49a2935BcD2dFCF4'
+  currency: ETH
+- address: '0xA7A93fd0a276fc1C0197a5B5623eD117786eeD06'
+  currency: ETH
+- address: '0xe1ab8c08294F8ee707D4eFa458eaB8BbEeB09215'
+  currency: ETH
+- address: '0xee5B5B923fFcE93A870B3104b7CA09c3db80047A'
+  currency: ETH

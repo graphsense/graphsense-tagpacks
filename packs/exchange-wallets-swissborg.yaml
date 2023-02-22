@@ -1,0 +1,37 @@
+title: SwisBorg reserve wallets
+creator: GraphSense Core Team
+confidence: service_data
+category: exchange
+source: https://portfolio.nansen.ai/dashboard/APE-C3CMH1
+lastmod: 2022-11-16
+is_cluster_definer: true
+label: swisborg reserve wallets
+tags:
+- address: 18DowXoMUQT5EU8zPTDTrq4hrwmi8ddCcc
+  currency: BTC
+- address: 1JgXCkk3gjmgfgjT2vvnjpvqfvNNTFCRpM
+  currency: BTC
+- address: 1Mgs8zLJ7JyngcNRUscayyPHnnYJpJS5x2
+  currency: BTC
+- address: bc1qc8ee9860cdnkyej0ag5hf49pcx7uvz89lkwpr9
+  currency: BTC
+- address: bc1qfu6su3qz4tn0et634mv7p090a0cgameq6rdvuc
+  currency: BTC
+- address: bc1qutkfwnuq4v0zdkenqt5vyuxlrmsezldzue5znc
+  currency: BTC
+- address: '0x42b86A269fb3d5368D880c519BadABa77eC00130'
+  currency: ETH
+- address: '0x5770815B0c2a09A43C9E5AEcb7e2f3886075B605'
+  currency: ETH
+- address: '0x5cEDc1923c33B253aedf24bF038eeE6Cbbb68A6A'
+  currency: ETH
+- address: '0x6cf9aa65ebad7028536e353393630e2340ca6049'
+  currency: ETH
+- address: '0x7153D2ef9F14a6b1Bb2Ed822745f65E58d836C3F'
+  currency: ETH
+- address: '0x87cbc48075d7aa1760Ac71C41e8Bc289b6A31F56'
+  currency: ETH
+- address: '0x94596096320A6B4EaB43556AD1Ed8c4c3d51C9aA'
+  currency: ETH
+- address: '0xcDE4c1b984F3F02f997ECfF9980B06316de2577d'
+  currency: ETH

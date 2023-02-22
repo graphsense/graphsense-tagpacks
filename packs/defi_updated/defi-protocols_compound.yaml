@@ -1,0 +1,36 @@
+title: Compound addresses
+creator: CSH CryptoFinance Team
+is_cluster_definer: true
+description: Compound addresses
+lastmod: 2023-01-09
+confidence: forensic
+source: https://github.com/compound-finance/compound-config/blob/master/networks/mainnet.json
+currency: ETH
+category: defi_lending
+tags:
+- label: compound_cFEI
+  address: '0x7713DD9Ca933848F6819F38B8352D9A15EA73F67'
+- label: compound_cUSDP
+  address: '0x041171993284df560249b57358f931d9eb7b925d'
+- label: compound_Proposal72PriceFeed
+  address: '0x046728da7cb8272284238bd3e47909823d63a58d'
+- label: compound_CompoundLens
+  address: '0xdCbDb7306c6Ff46f77B349188dC18cEd9DF30299'
+- label: compound_Pair_LINK_ETH
+  address: '0xa2107fa5b38d9bbd2c461d6edf11b11a50f6b974'
+- label: compound_Pair_DAI_ETH
+  address: '0xA478c2975Ab1Ea89e8196811F51A7B7Ade33eB11'
+- label: compound_Pair_WBTC_ETH
+  address: '0xbb2b8038a1640196fbe3e38816f3e67cba72d940'
+- label: compound_Pair_ETH_USDC
+  address: '0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc'
+- label: compound_cUSDCv3
+  address: '0xc3d688B66703497DAA19211EEdff47f25384cdc3'
+- label: compound_Configurator
+  address: '0x316f9708bB98af7dA9c68C1C3b5e79039cD336E3'
+- label: compound_Compoundv3Admin
+  address: '0x1EC63B5883C3481134FD50D5DAebc83Ecd2E8779'
+- label: compound_Compoundv3Rewards
+  address: '0x1B0e765F6224C21223AeA2af16c1C46E38885a40'
+- label: compound_Bulker
+  address: '0x74a81F84268744a40FEBc48f8b812a1f188D80C3'

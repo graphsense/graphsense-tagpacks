@@ -33425,7 +33425,9 @@ actors:
     twitter_handle: ShadeCash_
 - id: shapeshift
   label: ShapeShift
-  jurisdictions: []
+  jurisdictions:
+  - US
+  - CH
   categories:
   - organization
   uri: shapeshift.com
@@ -33436,9 +33438,12 @@ actors:
     - shapeshift
     refs:
     - api.llama.fi/protocol/shapeshift
+    - www.crunchbase.com/organization/shapeshift
+    - coinmarketcap.com/currencies/fox-token/
     images:
     - icons.llama.fi/shapeshift.jpg
-    twitter_handle: ShapeShift_io
+    twitter_handle: ShapeShift_io,ShapeShift
+    github_organisation: shapeshift
 - id: sharedstake
   label: SharedStake
   jurisdictions: []

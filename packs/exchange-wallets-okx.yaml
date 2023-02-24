@@ -6,6 +6,7 @@ label: okx reserves wallets
 source: https://twitter.com/okx/status/1590812545346330624
 lastmod: 2022-11-15
 is_cluster_definer: true
+actor: okex
 tags:
 - address: 16rF2zwSJ9goQ9fZfYoti5LsUqqegb5RnA
   currency: BTC

@@ -5,6 +5,7 @@ category: exchange
 source: https://github.com/bitfinexcom/pub/blob/main/wallets.txt
 lastmod: 2022-12-12
 is_cluster_definer: true
+actor: bitfinex
 tags:
 - address: '1Kr6QSydW9bFQG1mXiPNNu6WpJGmUa9i1g'
   currency: BTC

@@ -20733,31 +20733,6 @@ actors:
     images:
     - icons.llama.fi/kassandra-dao.jpg
     twitter_handle: dao_kassandra
-- id: katana
-  label: Katana (DEX)
-  jurisdictions: []
-  categories:
-  - organization
-  - defi_dex
-  - exchange
-  uri: app.katana.so
-  context:
-    uris:
-    - katana.roninchain.com
-    coingecko_ids:
-    - katana
-    defilama_ids:
-    - katana
-    - katana-dex
-    refs:
-    - api.coingecko.com/api/v3/exchanges/katana
-    - api.llama.fi/protocol/katana-dex
-    - api.llama.fi/protocol/katana
-    images:
-    - icons.llama.fi/katana.png
-    - icons.llama.fi/katana.jpg
-    - assets.coingecko.com/markets/images/731/small/ronin-katana.png?1636437019
-    twitter_handle: Katana_HQ,AxieInfinity
 - id: kava
   label: Kava Mint/Swap/Lend/Boost/Earn/Liquid
   jurisdictions: []
@@ -25744,6 +25719,20 @@ actors:
     - icons.llama.fi/mycelium-perpetual-pools.jpg
     - icons.llama.fi/mycelium-perpetual-swaps.png
     twitter_handle: mycelium_xyz
+- id: myetherwallet
+  label: MyEtherWallet
+  jurisdictions:
+  - US
+  categories:
+  - wallet_service
+  uri: www.myetherwallet.com
+  context:
+    refs:
+    - www.crunchbase.com/organization/myetherwallet
+    images:
+    - www.myetherwallet.com/img/logo-simple.5d5fcba7.png
+    twitter_handle: myetherwallet
+    github_organisation: myetherwallet
 - id: myso
   label: MYSO
   jurisdictions: []
@@ -32352,6 +32341,37 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/Rollin.io
+- id: roninnetwork
+  uri: roninchain.com
+  categories:
+  - organization
+  - defi_dex
+  - exchange
+  - defi_bridge
+  jurisdictions:
+  - VN
+  label: Ronin Network (Bridge) / Katana (DEX)
+  context:
+    uris:
+    - bridge.roninchain.com
+    - www.skymavis.com
+    - app.katana.so
+    - katana.roninchain.com
+    coingecko_ids:
+    - katana
+    defilama_ids:
+    - katana
+    - katana-dex
+    refs:
+    - www.crunchbase.com/organization/sky-mavis
+    - api.coingecko.com/api/v3/exchanges/katana
+    - api.llama.fi/protocol/katana-dex
+    - api.llama.fi/protocol/katana
+    images:
+    - icons.llama.fi/katana.png
+    - icons.llama.fi/katana.jpg
+    - assets.coingecko.com/markets/images/731/small/ronin-katana.png?1636437019
+    twitter_handle: Ronin_Network,SkyMavisHQ,Katana_HQ,AxieInfinity
 - id: rook
   label: Rook/Keeper DAO
   jurisdictions: []
@@ -33770,16 +33790,6 @@ actors:
   uri: Sigmapool.com
   context:
     twitter_handle: sigmapool
-- id: silkroad2market
-  uri: silkroad2market
-  categories:
-  - service
-  jurisdictions: []
-  label: SilkRoad2Market
-  context:
-    refs:
-    - www.walletexplorer.com/wallet/SilkRoad2Market
-    active: false
 - id: silkroadmarketplace
   uri: silkroadmarketplace
   categories:

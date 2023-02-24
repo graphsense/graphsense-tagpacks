@@ -7,6 +7,7 @@ label: bitmex reserve wallet
 source: https://s3-eu-west-1.amazonaws.com/public.bitmex.com/data/porl/20221115-reserves-763269-20221115D113036434534000.yaml
 lastmod: 2022-11-16
 is_cluster_definer: true
+actor: bitmex
 tags:
 - address: 3BMEXobDVdehSdCNHqP6BdDBriedmEyBUv
 - address: 3BMEXrXiVP5JGYbZMB8R2ZzQ56mbnxHQYs

@@ -1,9 +1,10 @@
 title: Known DeFi protocol addresses
 creator: CSH CryptoFinance Team
 is_cluster_definer: true
-description: >
-  Manually collected and automatically expanded ETH addresses
-  belonging to known DeFi protocols.
+description: 'Manually collected and automatically expanded ETH addresses belonging
+  to known DeFi protocols.
+
+  '
 confidence: forensic
 source: https://arxiv.org/abs/2111.11933
 currency: ETH
@@ -11,4221 +12,5628 @@ tags:
 - label: renvm_Protocol
   address: '0xc25167ffa19b4d9d03c7d5aa4682c7063f345b66'
   category: defi
+  actor: ren
 - label: renvm_DarknodeSlasher
   address: '0x64512ff05a27756694e306e483cbb725f1754c0e'
   category: defi
+  actor: ren
 - label: renvm_DarknodeRegistry
   address: '0x2d7b6c95afeffa50c068d50f89c5c0014e054f0a'
   category: defi
+  actor: ren
 - label: renvm_DarknodeRegistryStore
   address: '0x60ab11fe605d2a2c3cf351824816772a131f8782'
   category: defi
+  actor: ren
 - label: renvm_DarknodePayment
   address: '0x098e1708b920efbdd7afe33adb6a4cba30c370b9'
   category: defi
+  actor: ren
 - label: renvm_DarknodePaymentStore
   address: '0xe33417797d6b8aec9171d0d6516e88002fbe23e7'
   category: defi
+  actor: ren
 - label: renvm_GatewayRegistry
   address: '0xe80d347df1209a76dd9d2319d62912ba98c54ddd'
   category: defi
+  actor: ren
 - label: renvm_RenBTC-gateway
   address: '0xeb4c2781e4eba804ce9a9803c67d0893436bb27d'
   category: defi
+  actor: ren
 - label: renvm_BTC-gateway
   address: '0xe4b679400f0f267212d5d812b95f58c83243ee71'
   category: defi
+  actor: ren
 - label: renvm_RenZEC-gateway
   address: '0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2'
   category: defi
+  actor: ren
 - label: renvm_ZECGateway
   address: '0xc3bbd5adb611dd74eca6123f05b18acc886e122d'
   category: defi
+  actor: ren
 - label: renvm_RenBCH-gateway
   address: '0x459086f2376525bdceba5bdda135e4e9d3fef5bf'
   category: defi
+  actor: ren
 - label: renvm_BCHGateway
   address: '0xcc4ff5b8a4a7adb35f00ff0cbf53784e07c3c52f'
   category: defi
+  actor: ren
 - label: renvm_BasicAdapter
   address: '0x32666b64e9fd0f44916e1378efb2cfa3b3b96e80'
   category: defi
+  actor: ren
 - label: renvm_REN Token
   address: '0x408e41876cccdc0f92210600ef50372656052a38'
   category: defi
+  actor: ren
 - label: convex_Booster
   address: '0xf403c135812408bfbe8713b5a23a04b3d48aae31'
   category: defi
+  actor: convex
 - label: convex_Voter Proxy
   address: '0x989aeb4d175e16225e39e87d0d97a3360524ad80'
   category: defi
+  actor: convex
 - label: convex_CVX
   address: '0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b'
   category: defi
+  actor: convex
 - label: convex_cvxCRV
   address: '0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7'
   category: defi
+  actor: convex
 - label: convex_CRV Depositor
   address: '0x8014595f2ab54cd7c604b00e9fb932176fdc86ae'
   category: defi
+  actor: convex
 - label: convex_Reward Factory
   address: '0xedccb35798fae4925718a43cc608ae136208aa8d'
   category: defi
+  actor: convex
 - label: convex_Token Factory
   address: '0x3c995e43e6ddd551e226f4c5544c77bfed147ab9'
   category: defi
+  actor: convex
 - label: convex_Stash Factory
   address: '0x877288c4e6eba4f635ba7428706447353b47de75'
   category: defi
+  actor: convex
 - label: convex_CVX Rewards
   address: '0xcf50b810e57ac33b91dcf525c6ddd9881b139332'
   category: defi
+  actor: convex
 - label: convex_cvxCRV Rewards
   address: '0x3fe65692bfcd0e6cf84cb1e7d24108e434a7587e'
   category: defi
+  actor: convex
 - label: convex_Pool Manager
   address: '0x3b2d30734491ad77880d31e8afe2a4d8ac135a9c'
   category: defi
+  actor: convex
 - label: convex_Arbitrator Vault
   address: '0x25e12482a25cf36ec70fda2a09c1ed077fc21616'
   category: defi
+  actor: convex
 - label: convex_Convex MasterChef
   address: '0x5f465e9fcffc217c5849906216581a657cd60605'
   category: defi
+  actor: convex
 - label: convex_Vested Escrow
   address: '0xe98984ad858075813ada4261af47e68a64e28fcc'
   category: defi
+  actor: convex
 - label: convex_Airdrop Factory
   address: '0xa1bc2cf69d474b39b91665e24e7f2606ed142991'
   category: defi
+  actor: convex
 - label: convex_Airdrop Factory
   address: '0x2e088a0a19dda628b4304301d1ea70b114e4accd'
   category: defi
+  actor: convex
 - label: convex_Claim Zap
   address: '0x8cb38a75ecd8572af23a8d086e9bda96ca521889'
   category: defi
+  actor: convex
 - label: convex_CVX/ETH SLP
   address: '0x05767d9ef41dc40689678ffca0608878fb3de906'
   category: defi
+  actor: convex
 - label: convex_cvxCRV/CRV SLP
   address: '0x33f6ddaea2a8a54062e021873bcaee006cdf4007'
   category: defi
+  actor: convex
 - label: convex_Convex Multisig
   address: '0xa3c5a1e09150b75ff251c1a7815a07182c3de2fb'
   category: defi
+  actor: convex
 - label: convex_Convex Deployer
   address: '0x947b7742c403f20e5faccdac5e092c943e7d0277'
   category: defi
+  actor: convex
 - label: convex_Treasury Vault
   address: '0x1389388d01708118b497f59521f6943be2541bb7'
   category: defi
+  actor: convex
 - label: harvestfinance_Deployer
   address: '0xf00dd244228f51547f0563e60bca65a30fbf5f7f'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_Harvester
   address: '0xbed04c43e74150794f2ff5b62b4f73820edaf661'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_Delay Minter
   address: '0x284d7200a0dabb05ee6de698da10d00df164f61d'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_Notify Helper
   address: '0xe20c31e3d08027f5aface84a3a46b7b3b165053c'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_VWAP Bot
   address: '0x008671ca953ec3baa8c1b9af4623d38789ee2236'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_Developer Fund
   address: '0x49d71131396f23f0bce31de80526d7c025981c4d'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_Operational Treasury
   address: '0x843002b1d545ef7abb71c716e6179570582faa40'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fWETH
   address: '0xfe09e53a81fe2808bc493ea64319109b5baa573e'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fCRV-HUSD
   address: '0x29780c39164ebbd62e9ddde50c151810070140f2'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fCRV-YPOOL
   address: '0x0fe4283e0216f94f5f9750a7a11ac54d3c9c38f3'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fCRV-3POOL
   address: '0x71b9ec42bb3cb40f017d8ad8011be8e384a95fa5'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fCRV-COMPOUND
   address: '0x998ceb152a42a3eac1f555b1e911642bebf00fad'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fCRV-BUSD
   address: '0x4b1cbd6f6d8676ace5e412c78b7a59b4a1bbb68a'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fCRV-USDN
   address: '0x683e683fbe6cf9b635539712c999f3b3edcb8664'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fUSDC
   address: '0xf0358e8c3cd5fa238a29301d0bea3d63a17bedbe'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fUSDT
   address: '0x053c80ea73dc6941f518a68e2fc52ac45bde7c9c'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fTUSD
   address: '0x7674622c63bee7f46e86a4a5a18976693d54441b'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fDAI
   address: '0xab7fa2b2985bccfc13c6d86b1d5a17486ab1e04c'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fCRV-HBTC
   address: '0xcc775989e76ab386e9253df5b0c0b473e22102e2'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fCRV-TBTC
   address: '0x640704d106e79e105fda424f05467f005418f1b5'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fCRV-RENWBTC
   address: '0x9aa8f427a17d6b0d91b6262989edc7d45d6aedf8'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fWBTC
   address: '0x5d9d25c7c457dd82fc8668ffc6b9746b674d4ecb'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fRENBTC
   address: '0xc391d1b08c1403313b0c28d47202dfda015633c4'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fSLP-DAI:WETH
   address: '0x203e97aa6eb65a1a02d9e80083414058303f241e'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fSLP-USDC:WETH
   address: '0x01bd09a1124960d9be04b638b142df9df942b04a'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fSLP-WETH:USDT
   address: '0x64035b583c8c694627a199243e863bb33be60745'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fSLP-WBTC:WETH
   address: '0x5c0a3f55aac52aa320ff5f280e77517cbaf85524'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fSLP-WBTC:TBTC
   address: '0xf553e1f826f42716cdfe02bde5ee76b2a52fc7eb'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fUNI-DAI:WETH
   address: '0x307e2752e8b8a9c29005001be66b1c012ca9cdb7'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fUNI-USDC:WETH
   address: '0xa79a083fdd87f73c2f983c5551ec974685d6bb36'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fUNI-WETH:USDT
   address: '0x7ddc3fff0612e75ea5ddc0d6bd4e268f70362cff'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fUNI-WBTC:WETH
   address: '0x01112a60f427205dca6e229425306923c3cc2073'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fUNI-DPI:WETH
   address: '0x2a32dcbb121d48c106f6d94cf2b4714c0b4dfe48'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_WETH Pool
   address: '0x3da9d911301f8144bdf5c3c67886e5373dcdff8e'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_Profit Sharing
   address: '0x25550cccbd68533fa04bfd3e3ac4d09f9e00fc50'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_Uniswap FARM:USDC
   address: '0x99b0d6641a63ce173e6eb063b3d3aed9a35cf9bf'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_Uniswap FARM:WETH
   address: '0x6555c79a8829b793f332f1535b0efb1fe4c11958'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_Uniswap GRAIN:FARM
   address: '0xe58f0d2956628921cded2ea6b195fc821c3a2b16'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_CRV-HUSD Pool
   address: '0x72c50e6fd8cc5506e166c273b6e814342aa0a3c1'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_CRV-YPOOL Pool
   address: '0x6d1b6ea108aa03c6993d8010690264ba96d349a8'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_CRV-3POOL Pool
   address: '0x27f12d1a08454402175b9f0b53769783578be7d9'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_CRV-COMPOUND Pool
   address: '0xc0f51a979e762202e9bef0f62b07f600d0697de1'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_CRV-BUSD Pool
   address: '0x093c2ae5e6f3d2a897459aa24551289d462449ad'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_CRV-USDN Pool
   address: '0xef4da1ce3f487da2ed0be23173f76274e0d47579'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_USDC Pool
   address: '0x4f7c28ccb0f1dbd1388209c67eec234273c878bd'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_USDT Pool
   address: '0x6ac4a7ab91e6fd098e13b7d347c6d4d1494994a2'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_TUSD Pool
   address: '0xec56a21cf0d7feb93c25587c12bffe094aa0ecda'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_DAI Pool
   address: '0x15d3a64b2d5ab9e152f16593cdebc4bb165b5b4a'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_CRV-HBTC Pool
   address: '0x01f9caad0f9255b0c0aa2fbd1c1aa06ad8af7254'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_CRV-TBTC Pool
   address: '0x017ec1772a45d2cf68c429a820ef374f0662c57c'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_CRV-RENWBTC Pool
   address: '0xa3cf8d1cee996253fad1f8e3d68bdcba7b3a3db5'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_WBTC Pool
   address: '0x917d6480ec60cbddd6cbd0c8ea317bcc709ea77b'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_RENBTC Pool
   address: '0x7b8ff8884590f44e10ea8105730fe637ce0cb4f6'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_Sushiswap DAI:WETH Pool
   address: '0x76aef359a33c02338902aca543f37de4b01ba1fa'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_Sushiswap USDC:WETH Pool
   address: '0x6b4e1e0656dd38f36c318b077134487b9b0cf7a6'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_Sushiswap WETH:USDT Pool
   address: '0xa56522bca0a09f57b85c52c0cc8ba1b5edbc64ef'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_Sushiswap WBTC:WETH Pool
   address: '0xe2d9fae95f1e68afca7907dfb36143781f917194'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_Uniswap DPI:WETH Pool
   address: '0xad91695b4bec2798829ac7a4797e226c78f22abd'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_WETH
   address: '0x8e298734681adbfc41ee5d17ff8b0d6d803e7098'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_DAI Vault
   address: '0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_USDC Vault
   address: '0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_USDT Vault
   address: '0xc7ee21406bb581e741fbb8b21f213188433d9f2f'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_WBTC Vault
   address: '0xc07eb91961662d275e2d285bdc21885a4db136b0'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_RENBTC Vault
   address: '0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_CRVRENBTC Vault
   address: '0x192e9d29d43db385063799bc239e772c3b6888f3'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_WETH-DAI-LP Vault
   address: '0x1a9f22b4c385f78650e7874d64e442839dc32327'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_WETH-USDC-LP Vault
   address: '0x63671425ef4d25ec2b12c7d05de855c143f16e3b'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_WETH-USDT-LP Vault
   address: '0xb19ebfb37a936cce783142955d39ca70aa29d43c'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_WETH-WBTC-LP Vault
   address: '0xb1feb6ab4ef7d0f41363da33868e85eb0f3a57ee'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_DAI Pool
   address: '0xf9e5f9024c2f3f2908a1d0e7272861a767c9484b'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_USDC Pool
   address: '0xe1f9a3ee001a2ecc906e8de637dbf20bb2d44633'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_USDT Pool
   address: '0x5bd997039fff16f653ef15d1428f2c791519f58d'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_WBTC Pool
   address: '0x6291ece696cb6682a9bb1d42fca4160771b1d7cc'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_RENBTC Pool
   address: '0xcfe1103863f9e7cf3452ca8932eef44d314bf9c5'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_CRVRENWBTC Pool
   address: '0x5365a2c47b90ee8c9317fac20edc3ce7037384fb'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_FARM - USDC 20/80 Balancer
   address: '0x346523a81f16030110e6c858ee0e11f156840bd1'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fDAI Uniswap
   address: '0xb492faeda6c9ffb9b9854a58f28d5333ff7a11bc'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fUSDC Uniswap
   address: '0x43286f57cf5981a5db56828df91a46cfab983e58'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_fUSDT Uniswap
   address: '0x316de40f36da4c54aff11c1d83081555cca41270'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_Sushiswap-WBTC:TBTC Pool
   address: '0x9523fdc055f503f73ff40d7f66850f409d80ef34'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_WETH Pool
   address: '0xe604fd5b1317babd0cf2c72f7f5f2ad8c00adbe1'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_LINK Pool
   address: '0xa112c2354d27c2fb3370cc5d027b28987117a268'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_YFI Pool
   address: '0x84646f736795a8bc22ab34e05c8982cd058328c7'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_SUSHI Pool
   address: '0x4938960c507a4d7094c53a8cddcf925835393b8f'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_YFII Pool
   address: '0xc97ddaa8091abaf79a4910b094830cce5cdd78f4'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_YFV Pool
   address: '0x3631a32c959c5c52bc90ab5b7d212a8d00321918'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_OGN Pool
   address: '0xf71042c88458ff1702c3870f62f4c764712cc9f0'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_BASED + sUSD LP Pool
   address: '0xb3b56c7bdc87f9deb7972cd8b5c09329ce421f89'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_PASTA + ETH LP Pool
   address: '0xc6f39cff6797bac5e29275177b6e8e315cf87d95'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_Balancer 5/95 pool
   address: '0x0395e4a17ff11d36dac9959f2d7c8eca10fe89c9'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_CRV:FARM
   address: '0x45a760b3e83ff8c107c4df955b1483de0982f393'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_SWRV:FARM
   address: '0x44356324864a30216e89193bc8b0f6309227d690'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_BASED/sUSD:FARM
   address: '0xf465573288d9d89c6e89b1bc3bc9ce2b997e77df'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_AMPL/ETH:FARM
   address: '0x7af4458d3abd61c3fd187bb9f1bbf917cd4be9b8'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_YFV:FARM
   address: '0x158edb94d0bfc093952fb3009deeed613042907c'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_SUSHI:FARM
   address: '0x26582bea67b30af166b7fcd3424ba1e0638ab136'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_LINK:FARM
   address: '0x19f8ce19c9730a1d0db5149e65e48c2f0daa9919'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_PASTA/ETH:FARM
   address: '0xb4d1d6150dac0d1a994afb2a196adadbe639ff95'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_PYLON:FARM
   address: '0x2f97d9f870a773186cb01742ff298777bbf6f244'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_FARM token
   address: '0xa0246c9032bc3a600820415ae600c6388619a14d'
   category: defi
+  actor: harvestfinance
 - label: harvestfinance_GRAIN token
   address: '0x6589fe1271a0f29346796c6baf0cdf619e25e58e'
   category: defi
+  actor: harvestfinance
 - label: badger_SmartVesting
   address: '0x07c0e4f4c977a29c46fb26597ea8c9105ca50b42'
   category: defi
+  actor: badger
 - label: badger_SmartTimelock
   address: '0x82c9e7dc49f800820d37a12a5a17548fe3a3a40b'
   category: defi
+  actor: badger
 - label: badger_RewardsEscrow
   address: '0xc2bc5fd13ce64efd249234c870d64569155609cd'
   category: defi
+  actor: badger
 - label: badger_BadgerGeyser
   address: '0x92b30e2b504c4afbbf518db8c74de5cdfbed369d'
   category: defi
+  actor: badger
 - label: badger_BadgerTree
   address: '0x75055d964233cc28de0cb9a3138b7283aa66453b'
   category: defi
+  actor: badger
 - label: badger_BadgerHunt
   address: '0xe0cc3f129ace3888b41a4f8f04fc01cd1974c727'
   category: defi
+  actor: badger
 - label: badger_SimpleTimelock
   address: '0x3841d891c3d28ce23efb52065f1c8d4f438e67d3'
   category: defi
+  actor: badger
 - label: badger_Controller
   address: '0x6354e79f21b56c11f48bcd7c451be456d7102a36'
   category: defi
+  actor: badger
 - label: badger_Sett
   address: '0xe4ae305b08434bf3d74e0086592627f913a258a9'
   category: defi
+  actor: badger
 - label: badger_StakingRewards
   address: '0x6dacced8d6d80b0e93a51a4303961678e8a46fa5'
   category: defi
+  actor: badger
 - label: badger_StrategyBadgerRewards
   address: '0x38b9344ffb931aba6476198095e088024cdac527'
   category: defi
+  actor: badger
 - label: badger_StrategyBadgerLpMetaFarm
   address: '0xb18d0bc54829bdfeae998b8fe9a8df10953dcaec'
   category: defi
+  actor: badger
 - label: badger_StrategyHarvestMetaFarm
   address: '0x17c118416bd713e00037125d85e58abac60c4a4e'
   category: defi
+  actor: badger
 - label: badger_StrategyPickleMetaFarm
   address: '0xf6bc36280f32398a031a7294e81131aee787d178'
   category: defi
+  actor: badger
 - label: badger_StrategyCurveGaugeTbtcCrv
   address: '0x1989c39bc167678eac6e9ade5d803cc3523011cf'
   category: defi
+  actor: badger
 - label: badger_StrategyCurveGaugeSbtcCrv
   address: '0xe3c63d747aca7fb9e9404a09520d7a2a4fefeeaa'
   category: defi
+  actor: badger
 - label: badger_StrategyCurveGaugeRenBtcCrv
   address: '0x8b60386a978dfc3241e9112db3ea009331838846'
   category: defi
+  actor: badger
 - label: badger_badger-token
   address: '0x3472a5a71965499acd81997a54bba8d852c6e53d'
   category: defi
+  actor: badger
 - label: badger_kernel
   address: '0x33d53383314190b0b885d1b6913b5a50e2d3a639'
   category: defi
+  actor: badger
 - label: badger_agent
   address: '0x8de82c4c968663a0284b01069dde6ef231d0ef9b'
   category: defi
+  actor: badger
 - label: badger_native
   address: '0x63cf44b2548e4493fd099222a1ec79f3344d9682'
   category: defi
+  actor: badger
 - label: badger_harvest
   address: '0x30392694c25fbbe5c026cf846e9b6525a2ac3ec8'
   category: defi
+  actor: badger
 - label: badger_native.badger-vault
   address: '0x19d97d8fa813ee2f51ad4b4e04ea08baf4dffc28'
   category: defi
+  actor: badger
 - label: badger_native.renCrv-vault
   address: '0x6def55d2e18486b9ddfaa075bc4e4ee0b28c1545'
   category: defi
+  actor: badger
 - label: badger_native.sbtcCrv-vault
   address: '0xd04c48a53c111300ad41190d63681ed3dad998ec'
   category: defi
+  actor: badger
 - label: badger_native.tbtcCrv0vault
   address: '0xb9d076fde463dbc9f915e5392f807315bf940334'
   category: defi
+  actor: badger
 - label: badger_native.uniBadgerWbtc-vault
   address: '0x235c9e24d3fb2fafd58a2e49d454fdcd2dbf7ff1'
   category: defi
+  actor: badger
 - label: badger_harvest.renCrv-vault
   address: '0xaf5a1decfa95baf63e0084a35c62592b774a2a87'
   category: defi
+  actor: badger
 - label: badger_native.digg-vault
   address: '0x7e7e112a68d8d2e221e11047a72ffc1065c38e1a'
   category: defi
+  actor: badger
 - label: badger_native.uniDiggWbtc-vault
   address: '0xc17078fdd324cc473f8175dc5290fae5f2e84714'
   category: defi
+  actor: badger
 - label: badger_yearn.wBtc-vault
   address: '0x4b92d19c11435614cd49af1b589001b7c08cd4d5'
   category: defi
+  actor: badger
 - label: badger_native.sushiDiggWbtc-vault
   address: '0x88128580acdd9c04ce47afce196875747bf2a9f6'
   category: defi
+  actor: badger
 - label: badger_native.badger-strategy
   address: '0x75b8e21bd623012efb3b69e1b562465a68944ee6'
   category: defi
+  actor: badger
 - label: badger_native.renCrv-strategy
   address: '0x444b860128b7bf8c0e864bdc3b7a36a940db7d88'
   category: defi
+  actor: badger
 - label: badger_native.sbtcCrv-strategy
   address: '0x3efc97a8e23f463e71bf28eb19690d097797eb17'
   category: defi
+  actor: badger
 - label: badger_native.tbtcCrv-strategy
   address: '0xe2fa197eaa5c726426003074147a08beaa59403b'
   category: defi
+  actor: badger
 - label: badger_native.sushiWbtcEth-strategy
   address: '0x7a56d65254705b4def63c68488c0182968c452ce'
   category: defi
+  actor: badger
 - label: badger_native.uniBadgerWbtc-strategy
   address: '0x95826c65eb1f2d2f0edbb7ecb176563b61c60bbf'
   category: defi
+  actor: badger
 - label: badger_native.sushiBadgerWbtc-strategy
   address: '0x3a494d79aa78118795daad8aeff5825c6c8df7f1'
   category: defi
+  actor: badger
 - label: badger_native.sushiDiggWbtc
   address: '0xaa8dddfe7dfa3c3269f1910d89e4413dd006d08a'
   category: defi
+  actor: badger
 - label: badger_native.uniDiggWbtc-strategy
   address: '0xadc8d7322f2e284c1d9254170dbe311e9d3356cf'
   category: defi
+  actor: badger
 - label: badger_native.digg-strategy
   address: '0x4a8651f2edd68850b944ad93f2c67af817f39f62'
   category: defi
+  actor: badger
 - label: badger_harvest.renCrv-strategy
   address: '0xaae82e3c89e15e6f26f60724f115d5012363e030'
   category: defi
+  actor: badger
 - label: badger_native.badger-geyser
   address: '0xa9429271a28f8543efffa136994c0839e7d7bf77'
   category: defi
+  actor: badger
 - label: badger_native.renCrv-geyser
   address: '0x2296f174374508278dc12b806a7f27c87d53ca15'
   category: defi
+  actor: badger
 - label: badger_native.sbtcCrv-geyser
   address: '0x10fc82867013fce1bd624fafc719bb92df3172fc'
   category: defi
+  actor: badger
 - label: badger_native.tbtcCrv-geyser
   address: '0x085a9340ff7692ab6703f17ab5ffc917b580a6fd'
   category: defi
+  actor: badger
 - label: badger_native.uniBadgerWbtc-geyser
   address: '0xa207d69ea6fb967e54baa8639c408c31767ba62d'
   category: defi
+  actor: badger
 - label: badger_harvest.renCrv
   address: '0x612f681bcd12a0b284518d42d2dbcc73b146eb65'
   category: defi
+  actor: harvestfinance
 - label: badger_native.badger-reward
   address: '0xbd9c69654b8f3e5978dfd138b00cb0be29f28ccf'
   category: defi
+  actor: badger
 - label: badger_native.uniBadgerWbtc-reward
   address: '0x0c79406977314847a9545b11783635432d7fe019'
   category: defi
+  actor: badger
 - label: badger_Uniswap BADGER/wBTC LP Pair
   address: '0xcd7989894bc033581532d2cd88da5db0a4b12859'
   category: defi
+  actor: badger
 - label: badger_daoBadgerTimelock
   address: '0x410ba37c9225c55f3a4d1764105c78ac7ba1a8b7'
   category: defi
+  actor: badger
 - label: badger_teamVesting
   address: '0x871e65e212c4d5515e72e8d011d3ebd7a427f55b'
   category: defi
+  actor: badger
 - label: badger_badgerHunt
   address: '0x394dcfbcf25c5400fcc147ebd9970ed34a474543'
   category: defi
+  actor: badger
 - label: badger_badgerTree
   address: '0x660802fc641b154aba66a62137e71f331b6d787a'
   category: defi
+  actor: badger
 - label: badger_rewardsEscrow
   address: '0x19d099670a21bc0a8211a89b84cedf59abb4377f'
   category: defi
+  actor: badger
 - label: badger_deployer
   address: '0xda25ee226e534d868f0dd8a459536b03fee9079b'
   category: defi
+  actor: badger
 - label: badger_guardian
   address: '0x29f7f8896fb913cf7f9949c623f896a154727919'
   category: defi
+  actor: badger
 - label: badger_keeper
   address: '0x872213e29c85d7e30f1c8202fc47ed1ec124bb1d'
   category: defi
+  actor: badger
 - label: badger_devProxyAdmin
   address: '0x20dce41acca85e8222d6861aa6d23b6c941777bf'
   category: defi
+  actor: badger
 - label: badger_daoProxyAdmin
   address: '0x11a9d034b1bbfbbdcac9cb3b86ca7d5df05140f2'
   category: defi
+  actor: badger
 - label: badger_devMultisig
   address: '0xb65cef03b9b89f99517643226d76e286ee999e77'
   category: defi
+  actor: badger
 - label: badger_digg
   address: '0x798d1be841a82a273720ce31c822c61a67a601c3'
   category: defi
+  actor: badger
 - label: fei_Core
   address: '0x8d5ed43dca8c2f7dfb20cf7b53cc7e593635d7b9'
   category: defi
+  actor: feiprotocol
 - label: fei_Tribe
   address: '0xc7283b66eb1eb5fb86327f08e1b5816b0720212b'
   category: defi
+  actor: feiprotocol
 - label: fei_Fei DAO
   address: '0xe087f94c3081e1832dc7a22b48c6f2b5faae579b'
   category: defi
+  actor: feiprotocol
 - label: fei_Fei DAO Timelock
   address: '0x639572471f2f318464dc01066a56867130e45e25'
   category: defi
+  actor: feiprotocol
 - label: fei_Fei
   address: '0x956f47f50a910163d8bf957cf5846d573e7f87ca'
   category: defi
+  actor: feiprotocol
 - label: fei_EthBondingCurve
   address: '0xe1578b4a32eaefcd563a9e6d0dc02a4213f673b7'
   category: defi
+  actor: feiprotocol
 - label: fei_EthLidoPCVDeposit
   address: '0xac38ee05c0204a1e119c625d0a560d6731478880'
   category: defi
+  actor: feiprotocol
 - label: fei_EthUniswapPCVDeposit
   address: '0x5d6446880fcd004c851ea8920a628c70ca101117'
   category: defi
+  actor: feiprotocol
 - label: fei_EthUniswapPCVController
   address: '0x0760dfe09bd6d04d0df9a60c51f01ecedceb5132'
   category: defi
+  actor: feiprotocol
 - label: fei_UniswapOracle
   address: '0x087f35bd241e41fc28e43f0e8c58d283dd55bd65'
   category: defi
+  actor: feiprotocol
 - label: fei_ETH-USD ChainlinkOracleWrapper
   address: '0xcd3c40ae1256922ba16c7872229385e20bc8351e'
   category: defi
+  actor: feiprotocol
 - label: fei_FEI-ETH ChainlinkOracleWrapper
   address: '0x060be7b51f78dffd04749332fd306ba1228e7444'
   category: defi
+  actor: feiprotocol
 - label: fei_FEI-USD CompositeOracle
   address: '0x8721f9eaba0b9081069970bcbce38763d3d4f28e'
   category: defi
+  actor: feiprotocol
 - label: fei_FeiRewardsDistributor
   address: '0xef1a94af192a88859eaf3f3d8c1b9705542174c5'
   category: defi
+  actor: feiprotocol
 - label: fei_FeiStakingRewards
   address: '0x18305daae09ea2f4d51faa33318be5978d251abd'
   category: defi
+  actor: feiprotocol
 - label: fei_GenesisGroup
   address: '0xbffb152b9392e38cddc275d818a3db7fe364596b'
   category: defi
+  actor: feiprotocol
 - label: fei_EthReserveStabilizer
   address: '0xa08a721dfb595753fff335636674d76c455b275c'
   category: defi
+  actor: feiprotocol
 - label: fei_EthPCVDripper
   address: '0xda079a280fc3e33eb11a78708b369d5ca2da54fe'
   category: defi
+  actor: feiprotocol
 - label: fei_RatioPCVController
   address: '0xfc1ad6eb84351597cd3b9b65179633697d65b920'
   category: defi
+  actor: feiprotocol
 - label: fei_EthPCVDepositAdapter
   address: '0xb72dded4fa321e093e2083b596404a56ffc5b574'
   category: defi
+  actor: feiprotocol
 - label: fei_FeiRari FEI (fFEI-8)
   address: '0xd8553552f8868c1ef160eedf031cf0bcf9686945'
   category: defi
+  actor: feiprotocol
 - label: fei_FeiRari FEI Interest Rate Model
   address: '0x8f47be5692180079931e2f983db6996647aba0a5'
   category: defi
+  actor: feiprotocol
 - label: fei_FeiRari TRIBE (fTRIBE-8)
   address: '0xfd3300a9a74b3250f1b2abc12b47611171910b07'
   category: defi
+  actor: feiprotocol
 - label: fei_FeiRari TRIBE Interest Rate Model
   address: '0x075538650a9c69ac8019507a7dd1bd879b12c1d7'
   category: defi
+  actor: feiprotocol
 - label: fei_FeiRari ETH (fETH-8)
   address: '0xbb025d470162cc5ea24daf7d4566064ee7f5f111'
   category: defi
+  actor: feiprotocol
 - label: fei_FeiRari ETH Interest Rate Model
   address: '0xbab47e4b692195bf064923178a90ef999a15f819'
   category: defi
+  actor: feiprotocol
 - label: fei_FeiRari DAI (fDAI-8)
   address: '0x7e9ce3caa9910cc048590801e64174957ed41d43'
   category: defi
+  actor: feiprotocol
 - label: fei_FeiRari DAI Interest Rate Model
   address: '0xede47399e2aa8f076d40dc52896331cba8bd40f7'
   category: defi
+  actor: feiprotocol
 - label: fei_FeiRari FEI PCV Deposit
   address: '0x37349d9cc523d28e6abfc03fc5f44879bc8bffd9'
   category: defi
+  actor: feiprotocol
 - label: fei_Fuse Pool 6 FEI PCV Deposit
   address: '0xb51f09b6f103d697dc5d64dc904ad6a2dad39987'
   category: defi
+  actor: feiprotocol
 - label: fei_Fuse Pool 7 FEI PCV Deposit
   address: '0x74b235fef146cdb5be0d3786a9f3774674b3615e'
   category: defi
+  actor: feiprotocol
 - label: fei_Fuse Pool 24 FEI PCV Deposit
   address: '0x1434f99edb2bd03decccfe21288767b8324b7403'
   category: defi
+  actor: feiprotocol
 - label: fei_Cream FEI PCV Deposit
   address: '0x243c601cc5daa3ac250b14509804188347bd2afb'
   category: defi
+  actor: feiprotocol
 - label: fei_Fuse Pool Party FEI PCV Deposit
   address: '0x5a8cb4556e5d5935af06beab8292905f48131479'
   category: defi
+  actor: feiprotocol
 - label: fei_Index Coop Fuse Pool PCV Deposit
   address: '0xd6960adba53212bbe96e54a7afeda2066437d000'
   category: defi
+  actor: feiprotocol
 - label: fei_FEI-ETH UniV2 Pair
   address: '0x94b0a3d511b6ecdb17ebf877278ab030acb0a878'
   category: defi
+  actor: feiprotocol
 - label: fei_FEI-TRIBE UniV2 Pair
   address: '0x9928e4046d7c6513326ccea028cd3e7a91c7590a'
   category: defi
+  actor: feiprotocol
 - label: fei_FEI-3CRV Curve Pool
   address: '0x152d13e62952a7c74c536bb3c8b7bd91853f076a'
   category: defi
+  actor: feiprotocol
 - label: fei_Chainlink FEI-ETH
   address: '0x7f0d2c2838c6ac24443d13e23d99490017bde370'
   category: defi
+  actor: feiprotocol
 - label: fei_Chainlink TRIBE-ETH
   address: '0x84a24deca415acc0c395872a9e6a63e27d6225c8'
   category: defi
+  actor: feiprotocol
 - label: yearn_YFI
   address: '0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e'
   category: defi
+  actor: yearnfinance
 - label: yearn_WOOFY
   address: '0xd0660cd418a64a1d44e9214ad8e459324d8157f1'
   category: defi
+  actor: yearnfinance
 - label: yearn_v2.registry.ychad.eth
   address: '0xfeb4acf3df3cdea7399794d0869ef76a6efaff52'
   category: defi
+  actor: yearnfinance
 - label: vesper_poolList
   address: '0xd559ba46da65959540405c9c73f51c76c62ec119'
   category: defi
+  actor: vesper
 - label: vesper_collateralManager
   address: '0x8d0b8e2b5584ce1487317f81da7d97397ef3e899'
   category: defi
+  actor: vesper
 - label: vesper_collateralManagerV2
   address: '0x6846470150e5273c61f16c5ffb94fff5fed259df'
   category: defi
+  actor: vesper
 - label: vesper_controller
   address: '0xa4f1671d3aee73c05b552d57f2d16d3cfcbd0217'
   category: defi
+  actor: vesper
 - label: vesper_vsp
   address: '0x1b40183efb4dd766f11bda7a7c3ad8982e998421'
   category: defi
+  actor: vesper
 - label: vesper_revenueSplitter
   address: '0x223809e09ec28c28219769c3ff05c790c213152c'
   category: defi
+  actor: vesper
 - label: vesper_vBetaETH-pool
   address: '0x2c361913e2da663e1898162ec01497c46eb87abf'
   category: defi
+  actor: vesper
 - label: vesper_vBetaETH-feeWhiteList
   address: '0x9520b477aa81180e6ddc006fc09fb6d3eb4e807a'
   category: defi
+  actor: vesper
 - label: vesper_vBetaETH-strategy-aaveMaker
   address: '0x25174c74222a62a9a5aa30e5975da0230f6856b2'
   category: defi
+  actor: vesper
 - label: vesper_vBetaETH-strategy-cream
   address: '0xb92d607dc7ddaaa6a3a213cd0a01c9dd4ce569e6'
   category: defi
+  actor: vesper
 - label: vesper_vBetaETH-strategy-compound
   address: '0x61bdfb070eaa448917317d7849e325e715b6389f'
   category: defi
+  actor: vesper
 - label: vesper_vBetaUSDC-pool
   address: '0x1e86044468b92c310800d4b350e0f83387a7097f'
   category: defi
+  actor: vesper
 - label: vesper_vBetaUSDC-feeWhiteList
   address: '0xc5002d54019af215e2c0d246726a3bf2ee152286'
   category: defi
+  actor: vesper
 - label: vesper_vBetaUSDC-strategy-aaveV2
   address: '0x85228b6387bab860eb218089d1d4f0417ef7d3fb'
   category: defi
+  actor: vesper
 - label: vesper_vBetaWBTC-pool
   address: '0x74cc5bc20b0c396df5680ee4aeb6169a6288a8af'
   category: defi
+  actor: vesper
 - label: vesper_vBetaWBTC-feeWhiteList
   address: '0xeb827288909927259d50c75673c9025f8f38f0cc'
   category: defi
+  actor: vesper
 - label: vesper_vBetaWBTC-strategy-compound
   address: '0xc6b905f224a2cc58047c84e4e6529b8c801a48b5'
   category: defi
+  actor: vesper
 - label: vesper_vBetaWBTC-strategy-aaveMaker
   address: '0x251fe6e78d0da0470ab2060e14cdb8216fdf5425'
   category: defi
+  actor: vesper
 - label: vesper_VLINK-pool
   address: '0x0a27e910aee974d05000e05eab8a4b8ebd93d40c'
   category: defi
+  actor: vesper
 - label: vesper_VLINK-feeWhiteList
   address: '0xef6fbb51dbdf0b8921587bba31ef245a60f1ea2c'
   category: defi
+  actor: vesper
 - label: vesper_VLINK-poolRewards
   address: '0xca9aeeb14ff396f8661f7df3128f88c31d2fdec5'
   category: defi
+  actor: vesper
 - label: vesper_VLINK-strategy-vesperMaker
   address: '0x59543a595b69897b295f12964d3c7c37b3ad29c0'
   category: defi
+  actor: vesper
 - label: vesper_VDAI-pool
   address: '0xca0c34a3f35520b9490c1d58b35a19ab64014d80'
   category: defi
+  actor: vesper
 - label: vesper_VDAI-feeWhiteList
   address: '0x97dbdb3c8a7a6b8a6be61be6cfbad891e0bc5741'
   category: defi
+  actor: vesper
 - label: vesper_VDAI-strategy-compound
   address: '0xc80573c8d53ea1bba1ed505bbb537dcd4adb9067'
   category: defi
+  actor: vesper
 - label: vesper_VETH-pool
   address: '0x103cc17c2b1586e5cd9bad308690bcd0bbe54d5e'
   category: defi
+  actor: vesper
 - label: vesper_VETH-feeWhiteList
   address: '0x07124d047d3dc8c09aea0c21f602a6dd377b2fe5'
   category: defi
+  actor: vesper
 - label: vesper_VETH-poolRewards
   address: '0x93567318aabd27e21c52f766d2844fc6de9dc738'
   category: defi
+  actor: vesper
 - label: vesper_VETH-strategy-aaveMaker
   address: '0x2010741f855d3cf16fd60e9cce14af6de9b526ff'
   category: defi
+  actor: vesper
 - label: vesper_VETH-strategy-compound
   address: '0xffc4c270244f9c0890c744f042f5f25f9ff8d4b5'
   category: defi
+  actor: vesper
 - label: vesper_VWBTC-pool
   address: '0x4b2e76ebbc9f2923d83f5fbde695d8733db1a17b'
   category: defi
+  actor: vesper
 - label: vesper_VWBTC-feeWhiteList
   address: '0x0cf7ecab8ae021d509b984c5649cfe9eac7eee9d'
   category: defi
+  actor: vesper
 - label: vesper_VWBTC-poolRewards
   address: '0x479a8666ad530af3054209db74f3c74ecd295f8d'
   category: defi
+  actor: vesper
 - label: vesper_VWBTC-strategy-aave
   address: '0x949424e8ef3a9fb1859e4a2fea8b891bc4d28385'
   category: defi
+  actor: vesper
 - label: vesper_VWBTC-strategy-aaveMaker
   address: '0xa3f6ea08d4083095ec4c363d9cbc629b85029490'
   category: defi
+  actor: vesper
 - label: vesper_VWBTC-strategy-compound
   address: '0x456bcf03c84ae67e840c7a0036562d360b6d09c1'
   category: defi
+  actor: vesper
 - label: vesper_VUSDC-pool
   address: '0x0c49066c0808ee8c673553b7cbd99bcc9abf113d'
   category: defi
+  actor: vesper
 - label: vesper_VUSDC-feeWhiteList
   address: '0x4b7dcdd319310e65e972d25b077d1aefff20113c'
   category: defi
+  actor: vesper
 - label: vesper_VUSDC-poolRewards
   address: '0xd59996055b5e0d154f2851a030e207e0df0343b0'
   category: defi
+  actor: vesper
 - label: vesper_VUSDC-strategy-aave
   address: '0x3a51f72104fd7c9257730c437b250e99516202fc'
   category: defi
+  actor: vesper
 - label: vesper_VVSP-pool
   address: '0xba4cfe5741b357fa371b506e5db0774abfecf8fc'
   category: defi
+  actor: vesper
 - label: vesper_VVSP-feeWhiteList
   address: '0xf98339af6fc8626478f9133833a6914dbf3c4a3a'
   category: defi
+  actor: vesper
 - label: vesper_VVSP-keeperList
   address: '0xba9b1fbd199ad4bebc88073f8dc15a358a5301e9'
   category: defi
+  actor: vesper
 - label: vesper_VVSP-strategy-vspStrategy
   address: '0x94c7c51a3ff556b46fc697da0be0dc811e334e7e'
   category: defi
+  actor: vesper
 - label: hegic_Hegic WBTC Options
   address: '0x3961245db602ed7c03eeccda33ea3846bd8723bd'
   category: defi
+  actor: hegic
 - label: hegic_Hegic ETH Options
   address: '0xefc0eeadc1132a12c9487d800112693bf49ecfa2'
   category: defi
+  actor: hegic
 - label: hegic_Hegic WBTC Bidirectional Liquidity Pool
   address: '0x20dd9e22d22dd0a6ef74a520cb08303b5fad5de7'
   category: defi
+  actor: hegic
 - label: hegic_Hegic ETH Bidirectional Liquidity Pool
   address: '0x878f15ffc8b894a1ba7647c7176e4c01f74e140b'
   category: defi
+  actor: hegic
 - label: hegic_Hegic WBTC Staking Lots
   address: '0x840a1ae46b7364855206eb5b7286ab7e207e515b'
   category: defi
+  actor: hegic
 - label: hegic_Hegic ETH Staking Lots
   address: '0x1ef61e3e5676ec182eed6f052f8920fd49c7f69a'
   category: defi
+  actor: hegic
 - label: 'hegic_BTC/USD ChainLink price feed '
   address: '0xf4030086522a5beea4988f8ca5b36dbc97bee88c'
   category: defi
+  actor: hegic
 - label: hegic_ETH/USD ChainLink price feed
   address: '0x5f4ec3df9cbd43714fe2740f5e3616155c5b8419'
   category: defi
+  actor: hegic
 - label: futureswap_Exchange - ETH/USDC
   address: '0x8fa7490cedb7207281a5ceabee12773046de664e'
   category: defi
+  actor: futureswap
 - label: futureswap_Wallet
   address: '0xd1ed35a3ee043683a1833509de8f2c1a0d8777b7'
   category: defi
+  actor: futureswap
 - label: futureswap_FST
   address: '0x0e192d382a36de7011f795acc4391cd302003606'
   category: defi
+  actor: futureswap
 - label: futureswap_Voting
   address: '0xef9d095cd04e4e8240771b5fdcb8f2f74d0815ff'
   category: defi
+  actor: futureswap
 - label: futureswap_FsToken
   address: '0xf2170f2374ebc64b2693d31a599b5983970cfdb6'
   category: defi
+  actor: futureswap
 - label: futureswap_FsProxyAdmin
   address: '0xd547bd7ebcda779f611192b2aae25c5cb6c7e497'
   category: defi
+  actor: futureswap
 - label: futureswap_Registry
   address: '0x3659ae5f9b009603a4900891aabef828c8350df1'
   category: defi
+  actor: futureswap
 - label: futureswap_ReplayTracker
   address: '0x7633b16c96c9a2d3ec40413b6cde49a6817bf284'
   category: defi
+  actor: futureswap
 - label: futureswap_Incentives
   address: '0x4ea5424c393869505cbd7f8d802595328aab89fe'
   category: defi
+  actor: futureswap
 - label: synthetix_AddressResolver
   address: '0x823be81bbf96bec0e25ca13170f5aacb5b79ba83'
   category: defi
+  actor: synthetix
 - label: synthetix_BinaryOptionMarketData
   address: '0xe523184876c97945da45998582526cdb6a3da260'
   category: defi
+  actor: synthetix
 - label: synthetix_BinaryOptionMarketFactory
   address: '0x211ba925b35b82246a3ccfa3a991a39a840f025c'
   category: defi
+  actor: synthetix
 - label: synthetix_BinaryOptionMarketManager
   address: '0x915d1c9df12142b535f6a7437f0196d80bccc1bd'
   category: defi
+  actor: synthetix
 - label: synthetix_CollateralErc20
   address: '0xaa03ab31b55dceeef845c8d17890cc61cd98ed04'
   category: defi
+  actor: synthetix
 - label: synthetix_CollateralEth
   address: '0x5c8344bcdc38f1ab5eb5c1d4a35ddeea522b5dfa'
   category: defi
+  actor: synthetix
 - label: synthetix_CollateralManager
   address: '0x067e398605e84f2d0aeec1806e62768c5110dcc6'
   category: defi
+  actor: synthetix
 - label: synthetix_CollateralManagerState
   address: '0x573e5105c4b92416d1544a188f1bf77d442bb52d'
   category: defi
+  actor: synthetix
 - label: synthetix_CollateralShort
   address: '0x1f2c3a1046c32729862fcb038369696e3273a516'
   category: defi
+  actor: synthetix
 - label: synthetix_CollateralStateErc20
   address: '0x8a1a00df7aa0102497c7591912ba8301e8db8cdb'
   category: defi
+  actor: synthetix
 - label: synthetix_CollateralStateEth
   address: '0xbe5b5a7c198bc156474ed5c33cbf2f3f604f8ff8'
   category: defi
+  actor: synthetix
 - label: synthetix_CollateralStateShort
   address: '0x13a114a3fa8a6ce03a0c5488be9e614d78eddb0c'
   category: defi
+  actor: synthetix
 - label: synthetix_DappMaintenance
   address: '0xab0b2f1cf979cdbf4676251f35353ec5af2732dd'
   category: defi
+  actor: synthetix
 - label: synthetix_DebtCache
   address: '0x9bb05ef2ca7dbaaffc3da1939d1492e6b00f39b8'
   category: defi
+  actor: synthetix
 - label: synthetix_DelegateApprovals
   address: '0x15fd6e554874b9e70f832ed37f231ac5e142362f'
   category: defi
+  actor: synthetix
 - label: synthetix_DelegateApprovalsEternalStorage
   address: '0x8f586f063ffbb89b186c8e604fc6614766f9c9d1'
   category: defi
+  actor: synthetix
 - label: synthetix_Depot
   address: '0xe1f64079ada6ef07b03982ca34f1dd7152aa3b86'
   category: defi
+  actor: synthetix
 - label: synthetix_EscrowChecker
   address: '0x3b399e00afd8201acf8a5a0eccf1c47d8d5e41da'
   category: defi
+  actor: synthetix
 - label: synthetix_EternalStorageLiquidations
   address: '0x0f7c200c4d3b5570c777764884ce6de67f31d3ba'
   category: defi
+  actor: synthetix
 - label: synthetix_EtherCollateral
   address: '0x7133aff303539b0a4f60ab9bd9656598bf49e272'
   category: defi
+  actor: synthetix
 - label: synthetix_EtherCollateralsUSD
   address: '0xfed77055b40d63dcf17ab250ffd6948fbff57b82'
   category: defi
+  actor: synthetix
 - label: synthetix_EtherWrapper
   address: '0xc1aae9d18bbe386b102435a8632c8063d31e747c'
   category: defi
+  actor: synthetix
 - label: synthetix_ExchangeRates
   address: '0xd69b189020ef614796578afe4d10378c5e7e1138'
   category: defi
+  actor: synthetix
 - label: synthetix_ExchangeState
   address: '0x545973f28950f50fc6c7f52aab4ad214a27c0564'
   category: defi
+  actor: synthetix
 - label: synthetix_Exchanger
   address: '0x613c773c7a1d85d2f1dcc051b0573d33470762eb'
   category: defi
+  actor: synthetix
 - label: synthetix_FeePool
   address: '0xcf9e60005c9aca983caf65d3669a24fdd0775fc0'
   category: defi
+  actor: synthetix
 - label: synthetix_FeePoolEternalStorage
   address: '0xc9dfff5fa5605fd94f8b7927b892f2b57391e8bb'
   category: defi
+  actor: synthetix
 - label: synthetix_FeePoolState
   address: '0x11164f6a47c3f8472d19b9add516fc780cb7ee02'
   category: defi
+  actor: synthetix
 - label: synthetix_FlexibleStorage
   address: '0xc757acba3c0506218b3022266a9dc7f3612d85f5'
   category: defi
+  actor: synthetix
 - label: synthetix_IssuanceEternalStorage
   address: '0x631e93a0fb06b5ec6d52c0a2d89a3f9672d6ba64'
   category: defi
+  actor: synthetix
 - label: synthetix_Issuer
   address: '0xb774711f0bc1306ce892ef8c02d0476dcccb46b7'
   category: defi
+  actor: synthetix
 - label: synthetix_Liquidations
   address: '0xad95c918af576c82df740878c3e983cbd175dab6'
   category: defi
+  actor: synthetix
 - label: synthetix_Math
   address: '0x385e1eb2ff28f4a637da2c9971f8caf5f5b1e77c'
   category: defi
+  actor: synthetix
 - label: synthetix_NativeEtherWrapper
   address: '0x7a3d898b717e50a96fd8b232e9d15f0a547a7eeb'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyERC20
   address: '0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyERC20sUSD
   address: '0x57ab1ec28d129707052df4df418d58a2d46d5f51'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyFeePool
   address: '0xb440dd674e1243644791a4adfe3a2abb0a92d309'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxySynthetixUse ProxyERC20
   address: '0xc011a72400e58ecd99ee497cf89e3775d4bd732f'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiAAVE
   address: '0x176c674ee533c6139b0dc8b458d72a93dcb3e705'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiADA
   address: '0x8a8079c7149b8a1611e5c5d978dca3be16545f83'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiBNB
   address: '0xafd870f32ce54efdbf677466b612bf8ad164454b'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiBTC
   address: '0xd6014ea05bde904448b743833ddf07c3c7837481'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiCEX
   address: '0x336213e1ddfc69f4701fc3f86f4ef4a160c1159d'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiCOMP
   address: '0x6345728b1cce16e6f8c509950b5c84fff88530d9'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiDASH
   address: '0xcb98f42221b2c251a4e74a1609722ee09f0cc08e'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiDEFI
   address: '0x14d10003807ac60d07bb0ba82caeac8d2087c157'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiDOT
   address: '0x46a97629c9c1f58de6ec18c7f536e7e6d6a6ecde'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiEOS
   address: '0xf4eebdd0704021ef2a6bbe993fdf93030cd784b4'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiETC
   address: '0xd50c1746d835d2770dda3703b69187bffeb14126'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiETH
   address: '0xa9859874e1743a32409f75bb11549892138bba1e'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiLINK
   address: '0x2d7ac061fc3db53c39fe1607fb8cec1b2c162b01'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiLTC
   address: '0x79da1431150c9b82d2e5dfc1c68b33216846851e'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiOIL
   address: '0xa5a5df41883cdc00c4ccc6e8097130535399d9a3'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiREN
   address: '0x0fed38108bdb8e62ef7b5680e8e0726e2f29e0de'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiTRX
   address: '0xc5807183a9661a533cb08cbc297594a0b864dc12'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiUNI
   address: '0x36a00ff9072570ef4b9292117850b8fe08d96cce'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiXMR
   address: '0x4adf728e2df4945082cdd6053869f51278fae196'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiXRP
   address: '0x27269b3e45a4d3e79a3d6bfee0c8fb13d0d711a6'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiXTZ
   address: '0x8deef89058090ac5655a99eeb451a4f9183d1678'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxyiYFI
   address: '0x592244301cea952d6dab2fdc1fe6bd9e53917306'
   category: defi
+  actor: synthetix
 - label: synthetix_Proxys1INCH
   address: '0xcd39b5434a0a92cf47d1f567a7df84be356814f0'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysAAPL
   address: '0x7537aae01f3b218dae75e10d952473823f961b87'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysAAVE
   address: '0xd2df355c19471c8bd7d8a3aa27ff4e26a21b4076'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysADA
   address: '0xe36e2d3c7c34281fa3bc737950a68571736880a1'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysAMZN
   address: '0x9cf7e61853ea30a41b02169391b393b901eac457'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysAUD
   address: '0xf48e200eaf9906362bb1442fca31e0835773b8b4'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysBNB
   address: '0x617aecb6137b5108d1e7d4918e3725c8cebdb848'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysBTC
   address: '0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysCEX
   address: '0xeabacd844a196d7faf3ce596edebf9900341b420'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysCHF
   address: '0x0f83287ff768d1c1e17a42f44d644d7f22e8ee1d'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysCOIN
   address: '0x9eef4ca7ab9fa8bc0650127341c2d3f707a40f8a'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysCOMP
   address: '0xeb029507d3e043dd6c87f2917c4e82b902c35618'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysCRV
   address: '0xd38aeb759891882e78e957c80656572503d8c1b1'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysDASH
   address: '0xfe33ae95a9f0da8a845af33516edc240dcd711d6'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysDEFI
   address: '0xe1afe1fd76fd88f78cbf599ea1846231b8ba3b6b'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysDOT
   address: '0x1715ac0743102bf5cd58efbb6cf2dc2685d967b6'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysEOS
   address: '0x88c8cf3a212c0369698d13fe98fcb76620389841'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysETC
   address: '0x22602469d704bffb0936c7a7cfcd18f7aa269375'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysETH
   address: '0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysEUR
   address: '0xd71ecff9342a5ced620049e616c5035f1db98620'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysFB
   address: '0xf50b5e535f62a56a9bd2d8e2434204e726c027fa'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysFTSE
   address: '0x23348160d7f5aca21195df2b70f28fce2b0be9fc'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysGBP
   address: '0x97fe22e7341a0cd8db6f6c021a24dc8f4dad855f'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysGOOG
   address: '0xc63b8ecce56ab9c46184ec6ab85e4771fea4c8ad'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysJPY
   address: '0xf6b1c627e95bfc3c1b4c9b825a032ff0fbf3e07d'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysKRW
   address: '0x269895a3df4d73b077fc823dd6da1b95f72aaf9b'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysLINK
   address: '0xbbc455cb4f1b9e4bfc4b73970d360c8f032efee6'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysLTC
   address: '0xc14103c2141e842e228fbac594579e798616ce7a'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysMSFT
   address: '0x745a824d6abbd236aa794b5530062778a6ad7523'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysNFLX
   address: '0x5a7e3c07604eb515c16b36cd51906a65f021f609'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysNIKKEI
   address: '0x757de3ac6b830a931ef178c6634c5c551773155c'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysOIL
   address: '0x6d16cf3ec5f763d4d99cb0b0b110eefd93b11b56'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysREN
   address: '0xd31533e8d0f3df62060e94b3f1318137bb6e3525'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysRUNE
   address: '0x0352557b007a4aae1511c114409b932f06f9e2f4'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysTRX
   address: '0xf2e08356588ec5cd9e437552da87c0076b4970b0'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysTSLA
   address: '0x918da91ccbc32b7a6a0cc4ecd5987bbab6e31e6d'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysUNI
   address: '0x30635297e450b930f8693297eba160d9e6c8ebcf'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysUSDUse ProxyERC20sUSD
   address: '0x57ab1e02fee23774580c119740129eac7081e9d3'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysXAG
   address: '0x6a22e5e94388464181578aa7a6b869e00fe27846'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysXAU
   address: '0x261efcdd24cea98652b9700800a13dfbca4103ff'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysXMR
   address: '0x5299d6f7472dcc137d7f3c4bcfbbb514babf341a'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysXRP
   address: '0xa2b0fde6d710e201d0d608e924a484d1a5fed57c'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysXTZ
   address: '0x2e59005c5c0f0a4d77cca82653d48b46322ee5cd'
   category: defi
+  actor: synthetix
 - label: synthetix_ProxysYFI
   address: '0x992058b7db08f9734d84485bfbc243c4ee6954a7'
   category: defi
+  actor: synthetix
 - label: synthetix_ReadProxyAddressResolver
   address: '0x4e3b31eb0e5cb73641ee1e65e7dcefe520ba3ef2'
   category: defi
+  actor: synthetix
 - label: synthetix_RewardEscrow
   address: '0xb671f2210b1f6621a2607ea63e6b2dc3e2464d1f'
   category: defi
+  actor: synthetix
 - label: synthetix_RewardEscrowV2
   address: '0xda4ef8520b1a57d7d63f1e249606d1a459698876'
   category: defi
+  actor: synthetix
 - label: synthetix_RewardsDistribution
   address: '0x29c295b046a73cde593f21f63091b072d407e3f2'
   category: defi
+  actor: synthetix
 - label: synthetix_SafeDecimalMath
   address: '0x84d626b2bb4d0f064067e4bf80fce7055d8f3e7b'
   category: defi
+  actor: synthetix
 - label: synthetix_ShortingRewardssBTC
   address: '0xced4055b47cfd0421f3727a35f69ce659c8baf7a'
   category: defi
+  actor: synthetix
 - label: synthetix_ShortingRewardssETH
   address: '0x12dc1273915a16ab8bd47ba7866b240c253e4c12'
   category: defi
+  actor: synthetix
 - label: synthetix_StakingRewardsSNXBalancer
   address: '0xfbaedde70732540ce2b11a8ac58eb2dc0d69de10'
   category: defi
+  actor: synthetix
 - label: synthetix_StakingRewardsiBTC
   address: '0x167009dcda2e49930a71712d956f02cc980dcc1b'
   category: defi
+  actor: synthetix
 - label: synthetix_StakingRewardsiETH
   address: '0x3f27c540adae3a9e8c875c61e3b970b559d7f65d'
   category: defi
+  actor: synthetix
 - label: synthetix_StakingRewardssAAPLBalancer
   address: '0x7af65f1740c0eb816a27fd808eaf6ab09f6fa646'
   category: defi
+  actor: synthetix
 - label: synthetix_StakingRewardssAMZNBalancer
   address: '0xdc338c7544654c7dadfeb7e44076e457963113b0'
   category: defi
+  actor: synthetix
 - label: synthetix_StakingRewardssBTCCurve
   address: '0x13c1542a468319688b89e323fe9a3be3a90ebb27'
   category: defi
+  actor: synthetix
 - label: synthetix_StakingRewardssCOINBalancer
   address: '0x1c1d97f6338759ab814a5a717ae359573ab5d5d4'
   category: defi
+  actor: synthetix
 - label: synthetix_StakingRewardssETHUniswapV1
   address: '0x48d7f315fedcad332f68aafa017c7c158bc54760'
   category: defi
+  actor: synthetix
 - label: synthetix_StakingRewardssEURCurve
   address: '0xc0d8994cd78ee1980885df1a0c5470fc977b5cfe'
   category: defi
+  actor: synthetix
 - label: synthetix_StakingRewardssFBBalancer
   address: '0x26fa0665660c1d3a3666584669511d3c66ad37cb'
   category: defi
+  actor: synthetix
 - label: synthetix_StakingRewardssGOOGBalancer
   address: '0x6fb7f0e78582746bd01bcb6dfbfe62ca5f4f9175'
   category: defi
+  actor: synthetix
 - label: synthetix_StakingRewardssMSFTBalancer
   address: '0x9d003cc298e7ea141a809c241c0a703176da3ba3'
   category: defi
+  actor: synthetix
 - label: synthetix_StakingRewardssNFLXBalancer
   address: '0x8ef8ca2acaaafec19fb366c11561718357f780f2'
   category: defi
+  actor: synthetix
 - label: synthetix_StakingRewardssTSLABalancer
   address: '0xf0de877f2f9e7a60767f9ba662f10751566ad01c'
   category: defi
+  actor: synthetix
 - label: synthetix_StakingRewardssUSDCurve
   address: '0xdcb6a51ea3ca5d3fd898fd6564757c7aaec3ca92'
   category: defi
+  actor: synthetix
 - label: synthetix_StakingRewardssXAUUniswapV2
   address: '0x8302fe9f0c509a996573d3cc5b0d5d51e4fdd5ec'
   category: defi
+  actor: synthetix
 - label: synthetix_SupplySchedule
   address: '0xa05e45396703babaa9c276b5e5a9b6e2c175b521'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthUtil
   address: '0x81aee4ea48f678e172640fb5813cf7a96afaf6c3'
   category: defi
+  actor: synthetix
 - label: synthetix_Synthetix
   address: '0x43ae8037179a5746d618da077a38ddeea9640cba'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthetixBridgeEscrow
   address: '0x5fd79d46eba7f351fe49bff9e87cdea6c821ef9f'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthetixBridgeToOptimism
   address: '0xcd9d4988c0ae61887b075ba77f08cbfad2b65068'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthetixEscrow
   address: '0x971e78e0c92392a4e39099835cf7e6ab535b2227'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthetixState
   address: '0x4b9ca5607f1ff8019c1c6a3c2f0cc8de622d5b82'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiAAVE
   address: '0x1cb27ac646afae192df9928a2808c0f7f586af7d'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiADA
   address: '0x931c5516ee121a177bd2b60e0122da5b27630abc'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiBNB
   address: '0xf7b8df8b16da302d85603b8e7f95111a768458cc'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiBTC
   address: '0x8350d1b2d6ef5289179fe49e5b0f208165b4e32e'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiCEX
   address: '0x6dc6a64724399524184c2c44a526a2cff1baa507'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiCOMP
   address: '0x9a5ea0d8786b8d17a70410a905aed1443fae5a38'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiDASH
   address: '0x947d5656725fb9a8f9c826a91b6082b07e2745b7'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiDEFI
   address: '0x87eb6e935e3c7e3e3a0e31a5658498bc87de646e'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiDOT
   address: '0xf6ce55e09de0f9f97210aaf6db88ed6b6792ca1f'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiEOS
   address: '0x806a599d60b2fdbda379d5890287d2fba1026cc0'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiETC
   address: '0xcea42504874586a718954746a564b72bc7eba3e3'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiETH
   address: '0x29dd4a59f4d339226867e77af211724eabb45c02'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiLINK
   address: '0x4d50a0e5f068acdc80a1da2dd1f0ad48845df2f8'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiLTC
   address: '0xb73c665825daa926d6ef09417fbe5654473c1b49'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiOIL
   address: '0x53869bda4b8d85aedcc9c6cacf015af9447cade7'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiREN
   address: '0xacaab69c2ba65a2db415605f309007e18d4f5e8c'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiTRX
   address: '0x0517a56da8a517e3b2d484cc5f1da4bdcfe68ec3'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiUNI
   address: '0x3dd7b893c25025cabfbd290a5e06baff3de335b8'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiXMR
   address: '0x186e56a62e7cace1308f1a1b0dbb27f33f80f16f'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiXRP
   address: '0x19cc1f63e344d74a87d955e3f3e95b28dddc61d8'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiXTZ
   address: '0x099cfad1640fc7ea686ab1d83f0a285ba0470882'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthiYFI
   address: '0x1a4505543c92084be57ed80113eab7241171e7a8'
   category: defi
+  actor: synthetix
 - label: synthetix_Synths1INCH
   address: '0x0e8fa2339314ab7e164818f26207897bbe29c3af'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsAAPL
   address: '0x815cef3b7773f35428b4353073b086ecb658f73c'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsAAVE
   address: '0xab38249f4f56ef868f6b5e01d9cfa26b952c1270'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsADA
   address: '0xc22e51fa362654ea453b4018b616ef6f6ab3b779'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsAMZN
   address: '0x9530fa32a3059114ac20a5812870da12d97d1174'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsAUD
   address: '0x37b648a07476f4941d3d647f81118afd55fa8a04'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsBNB
   address: '0xda3c83750b1fa31fda838136ef3f853b41cb7a5a'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsBTC
   address: '0xdb91e4b3b6e19bf22e810c43273eae48c9037e74'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsCEX
   address: '0x2acfe6265d358d982cb1c3b521199973cd443c71'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsCHF
   address: '0xcf9bb94b5d65589039607ba66e3dac686d3eff01'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsCOIN
   address: '0x249612f641111022f2f48769f3df5d85cb3e26a2'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsCOMP
   address: '0x34c76bc146b759e58886e821d62548ac1e0ba7bc'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsCRV
   address: '0x13d0f5b8630520ea04f694f17a001fb95eafd30e'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsDASH
   address: '0xcb6cb218d558ae7ff6415f95bda6616fcff669cb'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsDEFI
   address: '0x46a7af405093b27da6def193c508bd9240a255fa'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsDOT
   address: '0xfd0435a588bf5c5a6974ba19fa627b772833d4eb'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsEOS
   address: '0xaf090d6e583c082f2011908cf95c2518be7a53ac'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsETC
   address: '0x21ee4afbd6c151fd9a69c1389598170b1d45e0e3'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsETH
   address: '0xab4e760feee20c5c2509061b995e06b542d3112b'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsEUR
   address: '0xc61b352fcc311ae6b0301459a970150005e74b3e'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsFB
   address: '0xb0e0ba880775b7f2ba813b3800b3979d719f0379'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsFTSE
   address: '0x3e2da260b4a85782a629320eb027a3b7c28ea9f1'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsGBP
   address: '0xef285d339c91adf1dd7de0aeaa6250805fd68258'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsGOOG
   address: '0x8e082925e78538955bc0e2f363fc5d1ab3be739b'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsJPY
   address: '0x388fd1a8a7d36e03efa1ab100a1c5159a3a3d427'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsKRW
   address: '0xcec4e038371d32212c6dcdf36fdbcb6f8a34c6d8'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsLINK
   address: '0xcd980fc5ccdae62b18a52b83ec64200121a929db'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsLTC
   address: '0xa962208cdc8588f9238fae169d0f63306c353f4f'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsMSFT
   address: '0x04720dbbd4599ad26811545595d97fb813e84964'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsNFLX
   address: '0x399ba516a6d68d6ad4d5f3999902d0deacaacddd'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsNIKKEI
   address: '0xc02dd182ce029e6d7f78f37492dfd39e4feb1f8b'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsOIL
   address: '0x2962ea4e749e54b10cfa557770d597027ba67cb3'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsREN
   address: '0x4287dac1cc7434991119eba7413189a66ffe65cf'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsRUNE
   address: '0xe615df79ac987193561f37e77465bec2aefe9adb'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsTRX
   address: '0x47bd14817d7684082e04934878ee2dd3576ae19d'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsTSLA
   address: '0x0d1c4e5c07b071aa4e6a14a604d4f6478caac7b4'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsUNI
   address: '0xaa1b12e3e5f70abccd1714f4260a74ca21e7b17b'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsUSD
   address: '0x4d8dbd193d89b7b506be5dc9db75b91da00d6a1d'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsXAG
   address: '0x9745606da6e162866dad7bf80f2abf145edd7571'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsXAU
   address: '0x5edf7dd83fe2889d264fa9d3b93d0a6e6a45d6c6'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsXMR
   address: '0x7b29c9e188de18563b19d162374ce6836f31415a'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsXRP
   address: '0xe3d5e1c1ba874c0ff3ba31b999967f24d5ca04e5'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsXTZ
   address: '0x6f927644d55e32318629198081923894fbfe5c07'
   category: defi
+  actor: synthetix
 - label: synthetix_SynthsYFI
   address: '0x0f393ce493d8fb0b83915248a21a3104932ed97c'
   category: defi
+  actor: synthetix
 - label: synthetix_SystemSettings
   address: '0xd3c8d372bfcd36c2b452639a7ed6ef7dbfdc56f8'
   category: defi
+  actor: synthetix
 - label: synthetix_SystemStatus
   address: '0x1c86b3cdf2a60ae3a574f7f71d44e2c50bddb87e'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateSynthetix
   address: '0x5b1b5fea1b99d83ad479df0c222f0492385381dd'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiAAVE
   address: '0xc43c0d8b2a3509d193974695568164c190af2aaf'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiADA
   address: '0xd636802a5b903b23726189d9b89daad2750177fa'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiBNB
   address: '0xc4e4c442653fdc78a71401684fd6cf9d67b3b643'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiBTC
   address: '0xa1652766155d4debc31d01bf3f748cb46508745b'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiCEX
   address: '0x3fb1f228168432688b4e851fe909907248cf9ecd'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiCOMP
   address: '0x673be1f8b8e1f2ab64c475b44060ee39163423f0'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiDASH
   address: '0x01ada1140ca795897c45016dfd296382267b264a'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiDEFI
   address: '0x6e9bac2827dbba78d11b270115086cc357988928'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiDOT
   address: '0x41d85df6513a86eb2ea186e2cf4ec0fe5dd16754'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiEOS
   address: '0x68a8b098967ae077dcff5cc8e29b7cb15f1a3cc8'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiETC
   address: '0x71892d13ba2b19f196760f619ee9c67534a49e37'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiETH
   address: '0x7b6ab32ca02b31485fbf7265437c2853792cc5d9'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiLINK
   address: '0x3fdf819c3665d6866b5bb0f56e1eda0d7f69b714'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiLTC
   address: '0x7b1010586f923cbf61e7c314146853675705751f'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiOIL
   address: '0xf92be89bf1aeba61ac48d90cf7c9ac2b3616c4da'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiREN
   address: '0x348c3c80c4f23574bc8cdf669a0dc106a4e32bff'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiTRX
   address: '0xd69eabdf940174ca571a6d71dde9b9a4dbcdbb0f'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiUNI
   address: '0x13cab49e4484c2e0624d2bdf3dadfad43e5611f9'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiXMR
   address: '0xe20117888ab22acf65b02c196a9f8423b502876c'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiXRP
   address: '0xa9d6ae0f9e9da6ffc357cd155cce18e3491e135d'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiXTZ
   address: '0xca0d3004f5e771a129fb94619f8867a23e8a23de'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStateiYFI
   address: '0x643088ad7a6ceb1ec95be0e7b382438399ca8e7c'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStates1INCH
   address: '0xed1efd716c7e2e821bbd4ec1480d649df7fb2279'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesAAPL
   address: '0x830b48539d82a4d34dd670bfe163f9ef84b6c2f1'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesAAVE
   address: '0x9bced8a8e3ad81c9b146ffc880358f734a06f7c0'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesADA
   address: '0x9956c5019a24fbd5b506ad070b771577bac5c343'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesAMZN
   address: '0xc341bd8d6bb064fdd94b5142513027a01c1716c9'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesAUD
   address: '0xcb29d2cf2c65d3be1d00f07f3441390432d55203'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesBNB
   address: '0xf9bd94c6f93c1fa5f38174c5e424721e1046af07'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesBTC
   address: '0x4f6296455f8d754c19821cf1ec8febf2cd456e67'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesCEX
   address: '0xc5680d24c3086e10f618b5176a59e90d6284be9f'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesCHF
   address: '0x52496fe8a4feaefe14d9433e00d48e6929c13dec'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesCOIN
   address: '0x102e541a34aa7e7205c32ddf58308395d733ce1f'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesCOMP
   address: '0x5f298bd4391d32af25368fa78dc210a56c7ccc9c'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesCRV
   address: '0x602590f2aa35b71ccb1ca72e673a75b26ec7f4e8'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesDASH
   address: '0x136b1ec699c62b0606854056f02dc7bb80482d63'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesDEFI
   address: '0x7ac2d37098a65b0f711cffa3be635f1e6acacfab'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesDOT
   address: '0x73b1a2643507cd30f11dfcf2d974f4373e5bc077'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesEOS
   address: '0x631443c4121ca7b4c90dc79a37b1dce8b79adeec'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesETC
   address: '0xd4db55cf39c37beaa3a47f2555d57b4ea2d9ff39'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesETH
   address: '0x34a5ef81d18f3a305ae9c2d7df42beef4c79031c'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesEUR
   address: '0x6568d9e750fc44af00f857885dfb8281c00529c4'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesFB
   address: '0xbf416bdf37b1590a3a37a1504865354bf5d90b34'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesFTSE
   address: '0xd1b420854527e4b0e489bd37ec8f9db1e6305515'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesGBP
   address: '0x7e88d19a79b291cfe5696d496055f7e57f537a75'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesGOOG
   address: '0x272bbf5eef131a3eb4a3078a58cfcd0978585f98'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesJPY
   address: '0x4dfacfb15514c21c991ff75bc7bf6fb1f98361ed'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesKRW
   address: '0x93b6e9fbbd2c32a0dc3c2b943b7c3cbc2fe23730'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesLINK
   address: '0x577d4a7395c6a5f46d9981a5f83fa7294926abb0'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesLTC
   address: '0xe1a2c7957a4771031301f2e25b0f52039ad97270'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesMSFT
   address: '0x7ebeea83591c048a40502985254a3df19ea90067'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesNFLX
   address: '0x438d8701892ab7578ea34f8cdcdcadc93e48d443'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesNIKKEI
   address: '0xc69d8b688a309fdea9273dde1a46bf1e51928a55'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesOIL
   address: '0x98d7ccf403b8bd2f6dc3f3ca4161f1e8db3dd080'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesREN
   address: '0x6e6d86d88d2ce382918eb4f062f0fff82b8c9b99'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesRUNE
   address: '0x860c5f944b098ce28cf9f2da099913f01c9364d8'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesTRX
   address: '0x7ec5697c724895da7f2320bde063bef6215a72e2'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesTSLA
   address: '0x259f2584e8a672da3773f91d66567a3229dee93d'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesUNI
   address: '0x9234733bd0f3e227e431bbe7b09ceb0e3e9755e3'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesUSD
   address: '0x05a9cbe762b36632b3594da4f082340e0e5343e8'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesXAG
   address: '0x53d244fb46357568dbef082225ccc87cbd94aae8'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesXAU
   address: '0x20569b49d74c1ede765382574f7f3fdc2a078a4f'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesXMR
   address: '0x23d5381713841724a67b731026b32322228ca3c7'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesXRP
   address: '0xb90aaffb61dfc042e7a7abce069ddb4bae9ab192'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesXTZ
   address: '0x959894a82fbf99d35b12ed1ea81e783296229862'
   category: defi
+  actor: synthetix
 - label: synthetix_TokenStatesYFI
   address: '0xf61f4a57c63340ac1fd75578ae878c8a263aec06'
   category: defi
+  actor: synthetix
 - label: synthetix_TradingRewards
   address: '0x62922670313bf6b41c580143d1f6c173c5c20019'
   category: defi
+  actor: synthetix
 - label: synthetix_VirtualSynthMastercopy
   address: '0xf02ce48fd47d7fa1b7a45a0444805d320d035775'
   category: defi
+  actor: synthetix
 - label: dydx_AdminImpl1
   address: '0x8a6629feba4196e0a61b8e8c94d4905e525bc055'
   category: defi
+  actor: dydx
 - label: dydx_OperationImpl1
   address: '0x56e7d4520abfecf10b38368b00723d9bd3c21ee1'
   category: defi
+  actor: dydx
 - label: dydx_AdminImpl42
   address: '0x078d400c1a723b792de8afe240bf039b7069ac39'
   category: defi
+  actor: dydx
 - label: dydx_OperationImpl42
   address: '0xcfa0451d8d1f08504fa44a6f72d00f455b858a1d'
   category: defi
+  actor: dydx
 - label: dydx_SoloMargin1
   address: '0x1e0447b19bb6ecfdae1e4ae1694b0c3659614e4e'
   category: defi
+  actor: dydx
 - label: dydx_SoloMargin42
   address: '0x4ec3570cadaaee08ae384779b0f3a45ef85289de'
   category: defi
+  actor: dydx
 - label: dydx_PayableProxyForSoloMargin1
   address: '0xa8b39829ce2246f89b31c013b8cde15506fb9a76'
   category: defi
+  actor: dydx
 - label: dydx_PayableProxyForSoloMargin42
   address: '0x2b005af087bb14e3887a8572807095404796105a'
   category: defi
+  actor: dydx
 - label: dydx_PolynomialInterestSetter1
   address: '0xaee83ca85ad63dfa04993adcd76cb2b3589eca49'
   category: defi
+  actor: dydx
 - label: dydx_PolynomialInterestSetter42
   address: '0xe3e777529824f0394a4f9e9dc7f6970d38850d0e'
   category: defi
+  actor: dydx
 - label: dydx_TestPriceOracle42
   address: '0xab33e884ec8fed4f5867246e4300228f3d666561'
   category: defi
+  actor: dydx
 - label: dydx_TestInterestSetter42
   address: '0x1e5b6e89b4d10ee850e1893efc587353149790c4'
   category: defi
+  actor: dydx
 - label: dydx_Expiry1
   address: '0x0ece224fbc24d40b446c6a94a142dc41fae76f2d'
   category: defi
+  actor: dydx
 - label: dydx_Expiry42
   address: '0xa73245cadcaca4d96498f7d88ecf9709d84cf002'
   category: defi
+  actor: dydx
 - label: dydx_DaiPriceOracle1
   address: '0x52305c065579a8a620690cc39394514af905ff42'
   category: defi
+  actor: dydx
 - label: dydx_DaiPriceOracle42
   address: '0x6ee01435d5590992f037335a053b4b617947db42'
   category: defi
+  actor: dydx
 - label: dydx_SaiPriceOracle1
   address: '0x787f552bdc17332c98aa360748884513e3cb401a'
   category: defi
+  actor: dydx
 - label: dydx_WethPriceOracle1
   address: '0xe852877d3cdbc8fb469208cb318c346bacc51c5c'
   category: defi
+  actor: dydx
 - label: dydx_WethPriceOracle42
   address: '0x9018629372e73c727495ae23af6ecdbd622fc855'
   category: defi
+  actor: dydx
 - label: dydx_UsdcPriceOracle1
   address: '0x52f1c952a48a4588f9ae615d38cfdbf8df036e60'
   category: defi
+  actor: dydx
 - label: dydx_UsdcPriceOracle42
   address: '0xc53b68ba1c717df9a077d2a67cc87563d95b181c'
   category: defi
+  actor: dydx
 - label: dydx_LiquidatorProxyV1ForSoloMargin1
   address: '0xd4b6cd147ad8a0d5376b6fdba85fe8128c6f0686'
   category: defi
+  actor: dydx
 - label: dydx_LiquidatorProxyV1ForSoloMargin42
   address: '0x3074eb0091efadbbe4722a591c054bf6d83afe05'
   category: defi
+  actor: dydx
 - label: dydx_LimitOrders1
   address: '0xdef136d9884528e1eb302f39457af0e4d3ad24eb'
   category: defi
+  actor: dydx
 - label: dydx_LimitOrders42
   address: '0x0aab13e14f221415efda4e4fabfb04b5c2f9f529'
   category: defi
+  actor: dydx
 - label: dydx_StopLimitOrders1
   address: '0xbfb635e8c6689ac3874ad9a60fab1c29270f1710'
   category: defi
+  actor: dydx
 - label: dydx_StopLimitOrders42
   address: '0x6600d9321f760e63434c63de0657121301b57276'
   category: defi
+  actor: dydx
 - label: dydx_CanonicalOrders1
   address: '0xcd81398895bea7ad9eff273aeffc41a9d83b4dad'
   category: defi
+  actor: dydx
 - label: dydx_CanonicalOrders42
   address: '0x103993ff75159f2bf40566dbf92a686df3f7a5e8'
   category: defi
+  actor: dydx
 - label: dydx_SignedOperationProxy1
   address: '0x2a842bc64343fad4ec4a8424ba7ff3c0a70b6e55'
   category: defi
+  actor: dydx
 - label: dydx_SignedOperationProxy42
   address: '0x321b86ed5df4eb8614721800413b5740357b1103'
   category: defi
+  actor: dydx
 - label: dydx_Refunder1
   address: '0x7454df5d0758d4e7a538c3acf4841fa9137f0f74'
   category: defi
+  actor: dydx
 - label: dydx_Refunder42
   address: '0x6d23ef7eac5d4ad14597d2ebb1d28ef5e2df68c6'
   category: defi
+  actor: dydx
 - label: dydx_ExpiryV21
   address: '0x739a1df6725657f6a16dc2d5519dc36fd7911a12'
   category: defi
+  actor: dydx
 - label: dydx_ExpiryV242
   address: '0x4f1d5f59fbab20750266ea173267f3380e449f05'
   category: defi
+  actor: dydx
 - label: dydx_DoubleExponentInterestSetter1
   address: '0x0eed07ced0c8c36d4a5bff44f2536422bb09be45'
   category: defi
+  actor: dydx
 - label: dydx_DoubleExponentInterestSetter42
   address: '0x05e63c09cb4449a8f3d3e1642b3bdf193d1373e0'
   category: defi
+  actor: dydx
 - label: dydx_DaiMigrator1
   address: '0xabe234e0d2d518bdb1d5a655014de18b1cfffbea'
   category: defi
+  actor: dydx
 - label: nexus_ClaimProofs
   address: '0xcafea81b73dab8f42c5eca7d2e821a82660b6775'
   category: defi
+  actor: nexus
 - label: nexus_Claims
   address: '0xcafea332b66ee4b2c3a2d9c9a2f9618c9c94a1e9'
   category: defi
+  actor: nexus
 - label: nexus_ClaimsData
   address: '0xdc2d359f59f6a26162972c3bd0cfbfd8c9ef43af'
   category: defi
+  actor: nexus
 - label: nexus_ClaimsReward
   address: '0xcafea2a26f12901f0f4249144f53da60186c0722'
   category: defi
+  actor: nexus
 - label: nexus_CommunityStakingIncentives
   address: '0x27e6d3ce99fa5ec4019ce598af54bcb3a2fb2e5f'
   category: defi
+  actor: nexus
 - label: nexus_DistributorFactory
   address: '0x6752c6fbddc24ac88f3749d8921e00c77bffef8c'
   category: defi
+  actor: nexus
 - label: nexus_Gateway
   address: '0x089ab1536d032f54dfbc194ba47529a4351af1b5'
   category: defi
+  actor: nexus
 - label: nexus_Governance
   address: '0x4a5c681ddc32acc6cca51ac17e9d461e6be87900'
   category: defi
+  actor: nexus
 - label: nexus_Incidents
   address: '0x8ceba69a8e96a4ce71aa65859dbdb180b489a719'
   category: defi
+  actor: nexus
 - label: nexus_MCR
   address: '0xcafea8321b5109d22c53ac019d7a449c947701fb'
   category: defi
+  actor: nexus
 - label: nexus_MemberRoles
   address: '0x055cc48f7968fd8640ef140610dd4038e1b03926'
   category: defi
+  actor: nexus
 - label: nexus_NXMToken
   address: '0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b'
   category: defi
+  actor: nexus
 - label: nexus_NXMaster
   address: '0x01bfd82675dbcc7762c84019ca518e701c0cd07e'
   category: defi
+  actor: nexus
 - label: nexus_Pool
   address: '0xcafea35ce5a2fc4ced4464da4349f81a122fd12b'
   category: defi
+  actor: nexusprotocol
 - label: nexus_Pool2
   address: '0xcafeada4d15bbc7592113d5d5af631b5dcd53dcb'
   category: defi
+  actor: nexusprotocol
 - label: nexus_PooledStaking
   address: '0x84edffa16bb0b9ab1163abb0a13ff0744c11272f'
   category: defi
+  actor: nexus
 - label: nexus_ProposalCategory
   address: '0x888ea6ab349c854936b98586ce6a17e98bf254b2'
   category: defi
+  actor: nexus
 - label: nexus_Quotation
   address: '0xcafea28488fdb84588a27d31ff42c4206c702a4c'
   category: defi
+  actor: nexus
 - label: nexus_QuotationData
   address: '0x1776651f58a17a50098d31ba3c3cd259c1903f7a'
   category: defi
+  actor: nexus
 - label: nexus_SwapOperator
   address: '0xcafea19bb9ab657f8ea74363c937446c0846a320'
   category: defi
+  actor: nexus
 - label: nexus_TokenController
   address: '0x5407381b6c251cfd498ccd4a1d877739cb7960b8'
   category: defi
+  actor: nexus
 - label: nexus_TokenData
   address: '0xe20b3ae826cdb43676e418f7c3b84b75b5697a40'
   category: defi
+  actor: nexus
 - label: nexus_TokenFunction
   address: '0xcafea2d407f1307d1413e84b2730f0870fd72dc0'
   category: defi
+  actor: nexus
 - label: nexus_TwapOracle
   address: '0xcafea1c9f94e077df44d95c4a1ad5a5747a18b5c'
   category: defi
+  actor: nexus
 - label: barnbridge_BOND Token
   address: '0x0391d2021f89dc339f60fff84546ea23e337750f'
   category: defi
+  actor: barnbridge
 - label: barnbridge_Barn (Governance Staking)
   address: '0x10e138877df69ca44fdc68655f86c88cde142d7f'
   category: defi
+  actor: barnbridge
 - label: barnbridge_DiamondCutFacet
   address: '0x767f7d9e655161c9e6d8a3dbb565666fcaa2bdf4'
   category: defi
+  actor: barnbridge
 - label: barnbridge_DiamondLoupeFacet
   address: '0x04499b879f6a7e75802cd09354ef2b788bf4cf26'
   category: defi
+  actor: barnbridge
 - label: barnbridge_OwnershipFacet
   address: '0xeb8e3e48f770c5c13d9de2203fc307b6d04381ff'
   category: defi
+  actor: barnbridge
 - label: barnbridge_ChangeRewardsFacet
   address: '0xb93e511d913a17826d2df5ac8be122c0ebd1a26d'
   category: defi
+  actor: barnbridge
 - label: barnbridge_BarnFacet
   address: '0xa62da56e9a330646386365dc6b2945b5c4d120ed'
   category: defi
+  actor: barnbridge
 - label: barnbridge_bb_cUSDC (Compound)
   address: '0x4b8d90d68f26def303dcb6cfc9b63a1aaec15840'
   category: defi
+  actor: barnbridge
 - label: barnbridge_bb_cDAI (Compound)
   address: '0x673f9488619821ab4f4155fdffe06f6139de518f'
   category: defi
+  actor: barnbridge
 - label: barnbridge_bb_aUSDC (Aave)
   address: '0x3cf46da7d65e9aa2168a31b73dd4beea5ca1a1f1'
   category: defi
+  actor: barnbridge
 - label: barnbridge_bb_aUSDT (Aave)
   address: '0x660daf6643191cf0ed045b861d820f283ca078fc'
   category: defi
+  actor: barnbridge
 - label: barnbridge_bb_aDAI (Aave)
   address: '0x6c9dae2c40b1e5883847bf5129764e76cb69fc57'
   category: defi
+  actor: barnbridge
 - label: barnbridge_bb_aGUSD (Aave)
   address: '0x6324538cc222b43490dd95cebf72cf09d98d9dae'
   category: defi
+  actor: barnbridge
 - label: barnbridge_bb_crUSDC (Cream)
   address: '0x62e479060c89c48199fc7ad43b1432cc585ba1b9'
   category: defi
+  actor: barnbridge
 - label: barnbridge_bb_crUSDT (Cream)
   address: '0xc45f49be156888a1c0c93dc0fe7dc89091e291f5'
   category: defi
+  actor: barnbridge
 - label: barnbridge_bb_crDAI (Cream)
   address: '0x89d82fdf095083ded96b48fc6462ed5dbd14151f'
   category: defi
+  actor: barnbridge
 - label: barnbridge_Pool 2 (Uniswap BOND/USDC LP)
   address: '0xc25c37c387c5c909a94055f4f16184ca325d3a76'
   category: defi
+  actor: barnbridge
 - label: barnbridge_Controller
   address: '0x913d3924c2e52b500d5acc6f6080120045dc507b'
   category: defi
+  actor: barnbridge
 - label: barnbridge_EPool Helper
   address: '0x8a63822d8c1be5590bbf72fb58e69285a776a5df'
   category: defi
+  actor: barnbridge
 - label: barnbridge_EPool Periphery
   address: '0x33c8d6f8271675eda1a0e72558d4904c96c7a888'
   category: defi
+  actor: barnbridge
 - label: barnbridge_EToken Factory
   address: '0x3e2f548954a7f8169486936e2bb616aabce979e9'
   category: defi
+  actor: barnbridge
 - label: barnbridge_EPool WETH/USDC
   address: '0x9625885db4e75e9dccf856e640886853bc6d6584'
   category: defi
+  actor: barnbridge
 - label: barnbridge_EPool WETH/WBTC
   address: '0x1ff76b7cc4252f8281f49f005ccf2ea477344830'
   category: defi
+  actor: barnbridge
 - label: barnbridge_EToken WETH/USDC 25/75
   address: '0xa3991e7fe9e51e7b6fd116c36f8aafdf7e431758'
   category: defi
+  actor: barnbridge
 - label: barnbridge_EToken WETH/USDC 50/50
   address: '0x894b65cfae8a48f2098411a9e0ff3b138722ed12'
   category: defi
+  actor: barnbridge
 - label: barnbridge_EToken WETH/USDC 75/25
   address: '0xe59b4c22ba42e93029ded3bd1a1de1e3ce175d48'
   category: defi
+  actor: barnbridge
 - label: barnbridge_EToken WETH/WBTC 25/75
   address: '0x57977c37f1be0406cf0960f3d1ed1328341149f7'
   category: defi
+  actor: barnbridge
 - label: barnbridge_EToken WETH/WBTC 50/50
   address: '0xc2227743d7462f710bced7f35145fd3cea67bb43'
   category: defi
+  actor: barnbridge
 - label: barnbridge_WToken WETH/WBTC 75/25
   address: '0x09c1723110382bba314c1fb69081582ba2265eac'
   category: defi
+  actor: barnbridge
 - label: barnbridge_Keeper Subsidy Pool
   address: '0xd45ee2f2b70df3b7fb5e9f1053a38205cffca058'
   category: defi
+  actor: barnbridge
 - label: barnbridge_DAO Rewards Pool
   address: '0x9d0cf50547d848cc4b6a12bedcf7696e9b334a22'
   category: defi
+  actor: barnbridge
 - label: barnbridge_PoolFactory
   address: '0x2e93403c675ccb9c564edf2dc6001233d0650582'
   category: defi
+  actor: barnbridge
 - label: barnbridge_cUSDC Rewards Pool
   address: '0x68af34129755091e22f91899ceac48657e5a5062'
   category: defi
+  actor: barnbridge
 - label: barnbridge_crUSDC Rewards Pool
   address: '0x7f7d4dfd9733ae12e6a5991d42af16418f227b6e'
   category: defi
+  actor: barnbridge
 - label: barnbridge_crUSDT Rewards Pool
   address: '0xea32e4e751d49757906e1153ef7a30fcab1b6462'
   category: defi
+  actor: barnbridge
 - label: barnbridge_crDAI Rewards Pool
   address: '0x707c1bd52c4718bf040f350f7fe6ba0adb484e8d'
   category: defi
+  actor: barnbridge
 - label: barnbridge_aDAI Rewards Pool
   address: '0x69951b60b6253697f29c8311bfcea6da09bbac0d'
   category: defi
+  actor: barnbridge
 - label: barnbridge_aGUSD Rewards Pool
   address: '0xeadfc8b994bf3ee23dc0033e6f11dee4b166672e'
   category: defi
+  actor: barnbridge
 - label: barnbridge_aUSDC Rewards Pool
   address: '0xf4bde50cdf4ee4cf3fb8702fceb6fd499a92792d'
   category: defi
+  actor: barnbridge
 - label: barnbridge_aUSDT Rewards Pool
   address: '0x51d924bf2ff813a68bd5f86cdcc98918f2ae5868'
   category: defi
+  actor: barnbridge
 - label: balancer_Core Pool Factory
   address: '0x9424b1412450d0f8fc2255faf6046b98213b76bd'
   category: defi_dex
+  actor: balancer
 - label: balancer_BalancerSafeMath
   address: '0xcfe28868f6e0a24b7333d22d8943279e76ac2cdc'
   category: defi_dex
+  actor: balancer
 - label: balancer_RightsManager
   address: '0x0f811b1af2b6b447b008eff31ecceee5a0b1d842'
   category: defi_dex
+  actor: balancer
 - label: balancer_SmartPoolManager
   address: '0xa3f9145cb0b50d907930840bb2dcff4146df8ab4'
   category: defi_dex
+  actor: balancer
 - label: balancer_SmartPoolFactory
   address: '0xed52d8e202401645edad1c0aa21e872498ce47d0'
   category: defi_dex
+  actor: balancer
 - label: balancer_BActions
   address: '0xde4a25a0b9589689945d842c5ba0cf4f0d4eb3ac'
   category: defi_dex
+  actor: balancer
 - label: balancer_Exchange Proxy
   address: '0x3e66b66fd1d0b02fda6c811da9e0547970db2f21'
   category: defi_dex
+  actor: balancer
 - label: balancer_Onchain Registry
   address: '0x7226daaf09b3972320db05f5ab81ff38417dd687'
   category: defi_dex
+  actor: balancer
 - label: balancer_MerkleRedeem
   address: '0x6d19b2bf3a36a61530909ae65445a906d98a2fa8'
   category: defi_dex
+  actor: balancer
 - label: uniswap_UniswapV2Factory
   address: '0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f'
   category: defi_dex
+  actor: uniswap
 - label: uniswap_UniswapV2Router01
   address: '0xf164fc0ec4e93095b804a4795bbe1e041497b92a'
   category: defi_dex
+  actor: uniswap
 - label: uniswap_UniswapV2Router02
   address: '0x7a250d5630b4cf539739df2c5dacb4c659f2488d'
   category: defi_dex
+  actor: uniswap
 - label: uniswap_UniswapV3Factory
   address: '0x1f98431c8ad98523631ae4a59f267346ea31f984'
   category: defi_dex
+  actor: uniswap
 - label: uniswap_Multicall2
   address: '0x5ba1e12693dc8f9c48aad8770482f4739beed696'
   category: defi_dex
+  actor: uniswap
 - label: uniswap_ProxyAdmin
   address: '0xb753548f6e010e7e680ba186f9ca1bdab2e90cf2'
   category: defi_dex
+  actor: uniswap
 - label: uniswap_TickLens
   address: '0xbfd8137f7d1516d3ea5ca83523914859ec47f573'
   category: defi_dex
+  actor: uniswap
 - label: uniswap_Quoter
   address: '0xb27308f9f90d607463bb33ea1bebb41c27ce5ab6'
   category: defi_dex
+  actor: uniswap
 - label: uniswap_SwapRouter
   address: '0xe592427a0aece92de3edee1f18e0157c05861564'
   category: defi_dex
+  actor: uniswap
 - label: uniswap_NFTDescriptor
   address: '0x42b24a95702b9986e82d421cc3568932790a48ec'
   category: defi_dex
+  actor: uniswap
 - label: uniswap_NonfungibleTokenPositionDescriptor
   address: '0x91ae842a5ffd8d12023116943e72a606179294f3'
   category: defi_dex
+  actor: uniswap
 - label: uniswap_TransparentUpgradeableProxy
   address: '0xee6a57ec80ea46401049e92587e52f5ec1c24785'
   category: defi_dex
+  actor: uniswap
 - label: uniswap_NonfungiblePositionManager
   address: '0xc36442b4a4522e871399cd717abdd847ab11fe88'
   category: defi_dex
+  actor: uniswap
 - label: uniswap_V3Migrator
   address: '0xa5644e29708357803b5a882d272c41cc0df92b34'
   category: defi_dex
+  actor: uniswap
 - label: uniswap_UNI
   address: '0x1f9840a85d5af5bf1d1762f925bdaddc4201f984'
   category: defi_dex
+  actor: uniswap
 - label: 1inch_MooniswapFactory
   address: '0xbaf9a5d4b0052359326a6cdab54babaa3a3a9643'
   category: defi_dex
+  actor: 1inch
 - label: 1inch_Referral Fee Receiver
   address: '0x2eea44e40930b1984f42078e836c659a12301e40'
   category: defi_dex
+  actor: 1inch
 - label: 1inch_Offchain Oracle
   address: '0x07d91f5fb9bf7798734c3f606db065549f6893bb'
   category: defi_dex
+  actor: 1inch
 - label: 1inch_Multicall
   address: '0x8d035edd8e09c3283463dade67cc0d49d6868063'
   category: defi_dex
+  actor: 1inch
 - label: 1inch_Limit Order Protocol
   address: '0x3ef51736315f52d568d6d2cf289419b9cfffe782'
   category: defi_dex
+  actor: 1inch
 - label: 1inch_contractAddress
   address: '0x11111112542d85b3ef69ae05771c2dccff4faa26'
   category: defi_dex
+  actor: 1inch
 - label: 1inch_tokenAddress
   address: '0x111111111117dc0aa78b770fa6a738034120c302'
   category: defi_dex
+  actor: 1inch
 - label: 1inch_walletAddress
   address: '0x2c9b2dbdba8a9c969ac24153f5c1c23cb0e63914'
   category: defi_dex
+  actor: 1inch
 - label: 1inch_Governance Mothership
   address: '0xa0446d8804611944f1b527ecd37d7dcbe442caba'
   category: defi_dex
+  actor: 1inch
 - label: 1inch_Exchange Governance
   address: '0xb33839e05ce9fc53236ae325324a27612f4d110d'
   category: defi_dex
+  actor: 1inch
 - label: 1inch_Governance Rewards
   address: '0x0f85a912448279111694f4ba4f85dc641c54b594'
   category: defi_dex
+  actor: 1inch
 - label: 1inch_Mooni Factory
   address: '0x71cd6666064c3a1354a3b4dca5fa1e2d3ee7d303'
   category: defi_dex
+  actor: 1inch
 - label: 1inch_CHI token
   address: '0x0000000000004946c0e9f43f4dee607b0ef1fa1c'
   category: defi_dex
+  actor: 1inch
 - label: 1inch_Deployer
   address: '0x7e1e3334130355799f833ffec2d731bca3e68af6'
   category: defi_dex
+  actor: 1inch
 - label: 1inch_MultiKyber wrapper
   address: '0xbfc22e3b81bddc185eb7c50765a9f445589a12ae'
   category: defi_dex
+  actor: 1inch
 - label: 0x_ExchangeProxy-v4
   address: '0xdef1c0ded9bec7f1a1670819833240f027b25eff'
   category: defi_dex
+  actor: 0x
 - label: 0x_ExchangeProxyFlashWallet-v4
   address: '0x22f9dcf4647084d6c31b2765f6910cd85c178c18'
   category: defi_dex
+  actor: 0x
 - label: 0x_ExchangeProxyGovernor-v4
   address: '0x618f9c67ce7bf1a50afa1e7e0238422601b0ff6e'
   category: defi_dex
+  actor: 0x
 - label: 0x_ExchangeProxyLiquidityProviderSandbox-v4
   address: '0x407b4128e9ecad8769b2332312a9f655cb9f5f3a'
   category: defi_dex
+  actor: 0x
 - label: 0x_ExchangeProxyTransformerDeployer-v4
   address: '0x39dce47a67ad34344eab877eae3ef1fa2a1d50bb'
   category: defi_dex
+  actor: 0x
 - label: 0x_Exchange-v3
   address: '0x61935cbdd02287b511119ddb11aeb42f1593b7ef'
   category: defi_dex
+  actor: 0x
 - label: 0x_Forwarder-v3
   address: '0x6958f5e95332d93d21af0d7b9ca85b8212fee0a5'
   category: defi_dex
+  actor: 0x
 - label: 0x_Governor-v3
   address: '0x7d3455421bbc5ed534a83c88fd80387dc8271392'
   category: defi_dex
+  actor: 0x
 - label: 0x_Coordinator-v3
   address: '0x38a795580d0f687e399913a00ddef6a17612c722'
   category: defi_dex
+  actor: 0x
 - label: 0x_DevUtils-v3
   address: '0x161793cdca4ff9e766a706c2c49c36ac1340bbcd'
   category: defi_dex
+  actor: 0x
 - label: 0x_Staking-v3
   address: '0xa26e80e7dea86279c6d778d702cc413e6cffa777'
   category: defi_dex
+  actor: 0x
 - label: 0x_ZrxVault-v3
   address: '0xba7f8b5fb1b19c1211c5d49550fcd149177a5eaf'
   category: defi_dex
+  actor: 0x
 - label: 0x_Broker-v3
   address: '0xd4690a51044db77d91d7aa8f7a3a5ad5da331af0'
   category: defi_dex
+  actor: 0x
 - label: 0x_Exchange-v4
   address: '0x080bf510fcbf18b91105470639e9561022937712'
   category: defi_dex
+  actor: 0x
 - label: 0x_ERC20Proxy-v4
   address: '0x95e6f48254609a6ee006f7d493c8e5fb97094cef'
   category: defi_dex
+  actor: 0x
 - label: 0x_ERC721Proxy-v4
   address: '0xefc70a1b18c432bdc64b596838b4d138f6bc6cad'
   category: defi_dex
+  actor: 0x
 - label: 0x_Forwarder-v4
   address: '0x76481caa104b5f6bccb540dae4cefaf1c398ebea'
   category: defi_dex
+  actor: 0x
 - label: 0x_OrderValidator-v4
   address: '0xa09329c6003c9a5402102e226417738ee22cf1f2'
   category: defi_dex
+  actor: 0x
 - label: 0x_ZRXToken-v4
   address: '0xe41d2489571d322189246dafa5ebde1f4699f498'
   category: defi_dex
+  actor: 0x
 - label: 0x_EtherToken-v4
   address: '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2'
   category: defi_dex
+  actor: 0x
 - label: 0x_AssetProxyOwner-v4
   address: '0xdffe798c7172dd6deb32baee68af322e8f495ce0'
   category: defi_dex
+  actor: 0x
 - label: 0x_DutchAuction-v4
   address: '0xa3856622276a64fee0f17f67329fac24368d4aae'
   category: defi_dex
+  actor: 0x
 - label: 0x_CoordinatorRegistry-v4
   address: '0x45797531b873fd5e519477a070a955764c1a5b07'
   category: defi_dex
+  actor: 0x
 - label: 0x_Coordinator-v4
   address: '0xa14857e8930acd9a882d33ec20559beb5479c8a6'
   category: defi_dex
+  actor: 0x
 - label: 0x_MultiAssetProxy-v4
   address: '0xef701d5389ae74503d633396c4d654eabedc9d78'
   category: defi_dex
+  actor: 0x
 - label: 0x_StaticCallProxy-v4
   address: '0x3517b88c19508c08650616019062b898ab65ed29'
   category: defi_dex
+  actor: 0x
 - label: 0x_ERC1155Proxy-v4
   address: '0x7eefbd48fd63d441ec7435d024ec7c5131019add'
   category: defi_dex
+  actor: 0x
 - label: 0x_DevUtils-v4
   address: '0x92d9a4d50190ae04e03914db2ee650124af844e6'
   category: defi_dex
+  actor: 0x
 - label: sushiswap_SushiToken
   address: '0x6b3595068778dd592e39a122f4f5a5cf09c90fe2'
   category: defi_dex
+  actor: sushiswap
 - label: sushiswap_MasterChef
   address: '0xc2edad668740f1aa35e4d8f227fb8e17dca888cd'
   category: defi_dex
+  actor: sushiswap
 - label: sushiswap_SushiV2Factory
   address: '0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac'
   category: defi_dex
+  actor: sushiswap
 - label: sushiswap_SushiV2Router02
   address: '0xd9e1ce17f2641f24ae83637ab66a2cca9c378b9f'
   category: defi_dex
+  actor: sushiswap
 - label: sushiswap_SushiBar
   address: '0x8798249c2e607446efb7ad49ec89dd1865ff4272'
   category: defi_dex
+  actor: sushiswap
 - label: sushiswap_SushiMaker
   address: '0xe11fc0b43ab98eb91e9836129d1ee7c3bc95df50'
   category: defi_dex
+  actor: sushiswap
 - label: sushiswap_MasterChefV2
   address: '0xef0881ec094552b2e128cf945ef17a6752b4ec5d'
   category: defi_dex
+  actor: sushiswap
 - label: sushiswap_Kashi SushiMaker
   address: '0x08c82f7513c7952a95029fe3b1587b1fa52daced'
   category: defi_dex
+  actor: sushiswap
 - label: sushiswap_SushiRoll
   address: '0x16e58463eb9792bc236d8860f5bc69a81e26e32b'
   category: defi_dex
+  actor: sushiswap
 - label: sushiswap_TimeLock
   address: '0x9a8541ddf3a932a9a922b607e9cf7301f1d47bd1'
   category: defi_dex
+  actor: sushiswap
 - label: sushiswap_Operations Multisig
   address: '0x19b3eb3af5d93b77a5619b047de0eed7115a19e7'
   category: defi_dex
+  actor: sushiswap
 - label: sushiswap_Treasury Multisig
   address: '0xe94b5eec1fa96ceecbd33ef5baa8d00e4493f4f3'
   category: defi_dex
+  actor: sushiswap
 - label: curvefinance_3Pool-StableSwap3Pool
   address: '0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7'
   category: defi_dex
+  actor: curve
 - label: curvefinance_3Pool-CurveTokenV2
   address: '0x6c3f90f043a72fa612cbac8115ee7e52bde6e490'
   category: defi_dex
+  actor: curve
 - label: curvefinance_AAVE-CurveTokenV3
   address: '0xfd2a8fa60abd58efe3eee34dd494cd491dc14900'
   category: defi_dex
+  actor: curve
 - label: curvefinance_AAVE-StableSwapAave
   address: '0xdebf20617708857ebe4f679508e7b7863a8a8eee'
   category: defi_dex
+  actor: curve
 - label: curvefinance_ankrETH-StableSwapAETH
   address: '0xa96a65c051bf88b4095ee1f2451c2a9d43f53ae2'
   category: defi_dex
+  actor: curve
 - label: curvefinance_ankrETH-CurveTokenV3
   address: '0xaa17a236f2badc98ddc0cf999abb47d47fc0a6cf'
   category: defi_dex
+  actor: curve
 - label: curvefinance_BUSD-StableSwapBUSD
   address: '0x79a8c46dea5ada233abaffd40f3a0a2b1e5a4f27'
   category: defi_dex
+  actor: curve
 - label: curvefinance_BUSD-DepositBUSD
   address: '0xb6c057591e073249f2d9d88ba59a46cfc9b59edb'
   category: defi_dex
+  actor: curve
 - label: curvefinance_BUSD-CurveTokenV1
   address: '0x3b3ac5386837dc563660fb6a0937dfaa5924333b'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Compound-StableSwapCompound
   address: '0xa2b47e3d5c44877cca798226b7b8118f9bfb7a56'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Compound-DepositCompound
   address: '0xeb21209ae4c2c9ff2a86aca31e123764a3b6bc06'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Compound-CurveContractV1
   address: '0x845838df265dcd2c412a1dc9e959c7d08537f8a2'
   category: defi_dex
+  actor: curve
 - label: curvefinance_EURS-StableSwapEURS
   address: '0x0ce6a5ff5217e38315f87032cf90686c96627caa'
   category: defi_dex
+  actor: curve
 - label: curvefinance_EURS-CurveTokenV3
   address: '0x194ebd173f6cdace046c53eacce9b953f28411d1'
   category: defi_dex
+  actor: curve
 - label: curvefinance_hBTC-StableSwapHBTC
   address: '0x4ca9b3063ec5866a4b82e437059d2c43d1be596f'
   category: defi_dex
+  actor: curve
 - label: curvefinance_hBTC-CurveTokenV2
   address: '0xb19059ebb43466c323583928285a49f558e572fd'
   category: defi_dex
+  actor: curve
 - label: curvefinance_IronBank-StableSwapIB
   address: '0x2dded6da1bf5dbdf597c45fcfaa3194e53ecfeaf'
   category: defi_dex
+  actor: curve
 - label: curvefinance_IronBank-CurveTokenV3
   address: '0x5282a4ef67d9c33135340fb3289cc1711c13638c'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Link-StableSwapLINK
   address: '0xf178c0b5bb7e7abf4e12a4838c7b7c5ba2c623c0'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Link-CurveTokenV3
   address: '0xcee60cfa923170e4f8204ae08b4fa6a3f5656f3a'
   category: defi_dex
+  actor: curve
 - label: curvefinance_PAX-DepositPax
   address: '0xa50ccc70b6a011cffddf45057e39679379187287'
   category: defi_dex
+  actor: curve
 - label: curvefinance_PAX-StableSwapPax
   address: '0x06364f10b501e868329afbc005b3492902d6c763'
   category: defi_dex
+  actor: curve
 - label: curvefinance_PAX-CurveTokenV1
   address: '0xd905e2eaebe188fc92179b6350807d8bd91db0d8'
   category: defi_dex
+  actor: curve
 - label: curvefinance_renBTC-StableSwapRen
   address: '0x93054188d876f558f4a66b2ef1d97d16edf0895b'
   category: defi_dex
+  actor: curve
 - label: curvefinance_renBTC-CurveTokenV1
   address: '0x49849c98ae39fff122806c06791fa73784fb3675'
   category: defi_dex
+  actor: curve
 - label: curvefinance_rETH-StableSwapRETH
   address: '0xf9440930043eb3997fc70e1339dbb11f341de7a8'
   category: defi_dex
+  actor: curve
 - label: curvefinance_rETH-CurveTokenV3
   address: '0x53a901d48795c58f485cbb38df08fa96a24669d5'
   category: defi_dex
+  actor: curve
 - label: curvefinance_sAAVE-StableSwapSAAVE
   address: '0xeb16ae0052ed37f479f7fe63849198df1765a733'
   category: defi_dex
+  actor: curve
 - label: curvefinance_sAAVE-CurveTokenV3
   address: '0x02d341ccb60faaf662bc0554d13778015d1b285c'
   category: defi_dex
+  actor: curve
 - label: curvefinance_sBTC-StableSwapSBTC
   address: '0x7fc77b5c7614e1533320ea6ddc2eb61fa00a9714'
   category: defi_dex
+  actor: curve
 - label: curvefinance_sBTC-CurveTokenV1
   address: '0x075b1bb99792c9e1041ba13afef80c91a1e70fb3'
   category: defi_dex
+  actor: curve
 - label: curvefinance_sETH-StableSwapSETH
   address: '0xc5424b857f758e906013f3555dad202e4bdb4567'
   category: defi_dex
+  actor: curve
 - label: curvefinance_sETH-CurveTokenV3
   address: '0xa3d87fffce63b53e0d54faa1cc983b7eb0b74a9c'
   category: defi_dex
+  actor: curve
 - label: curvefinance_stETH-StableSwapSTETH
   address: '0xdc24316b9ae028f1497c275eb9192a3ea0f67022'
   category: defi_dex
+  actor: curve
 - label: curvefinance_stETH-CurveTokenV3
   address: '0x06325440d014e39736583c165c2963ba99faf14e'
   category: defi_dex
+  actor: curve
 - label: curvefinance_sUSD-DepositSUSD
   address: '0xfcba3e75865d2d561be8d220616520c171f12851'
   category: defi_dex
+  actor: curve
 - label: curvefinance_sUSD-StableSwapSUSD
   address: '0xa5407eae9ba41422680e2e00537571bcc53efbfd'
   category: defi_dex
+  actor: curve
 - label: curvefinance_sUSD-CurveTokenV1
   address: '0xc25a3a3b969415c80451098fa907ec722572917f'
   category: defi_dex
+  actor: curve
 - label: curvefinance_TriCrypto-CurveCryptoSwap
   address: '0x80466c64868e1ab14a1ddf27a676c3fcbe638fe5'
   category: defi_dex
+  actor: curve
 - label: curvefinance_TriCrypto-DepositZap
   address: '0x331af2e331bd619defaa5dac6c038f53fcf9f785'
   category: defi_dex
+  actor: curve
 - label: curvefinance_TriCrypto-CurveTokenV4
   address: '0xca3d75ac011bf5ad07a98d02f18225f9bd9a6bdf'
   category: defi_dex
+  actor: curve
 - label: curvefinance_USDT-DepositUSDT
   address: '0xac795d2c97e60df6a99ff1c814727302fd747a80'
   category: defi_dex
+  actor: curve
 - label: curvefinance_USDT-StableSwapUSDT
   address: '0x52ea46506b9cc5ef470c5bf89f17dc28bb35d85c'
   category: defi_dex
+  actor: curve
 - label: curvefinance_USDT-CurveTokenV1
   address: '0x9fc689ccada600b6df723d9e47d84d76664a1f23'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Y-DepositY
   address: '0xbbc81d23ea2c3ec7e56d39296f0cbb648873a5d3'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Y-StableSwapY
   address: '0x45f783cce6b7ff23b2ab2d70e416cdb7d6055f51'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Y-CurveTokenV1
   address: '0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Yv2-StableSwapYv2
   address: '0x8925d9d9b4569d737a48499def3f67baa5a144b9'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Yv2-CurveTokenV3
   address: '0x571ff5b7b346f706aa48d696a9a4a288e9bb4091'
   category: defi_dex
+  actor: curve
 - label: curvefinance_bBTC-StableSwapBBTC
   address: '0x071c661b4deefb59e2a3ddb20db036821eee8f4b'
   category: defi_dex
+  actor: curve
 - label: curvefinance_bBTC-DepositBBTC
   address: '0xc45b2eee6e09ca176ca3bb5f7eee7c47bf93c756'
   category: defi_dex
+  actor: curve
 - label: curvefinance_bBTC-CurveTokenV3
   address: '0x410e3e86ef427e30b9235497143881f717d93c2a'
   category: defi_dex
+  actor: curve
 - label: curvefinance_DUSD-DepositDUSD
   address: '0x61e10659fe3aa93d036d099405224e4ac24996d0'
   category: defi_dex
+  actor: curve
 - label: curvefinance_DUSD-StableSwapDUSD
   address: '0x8038c01a0390a8c547446a0b2c18fc9aefecc10c'
   category: defi_dex
+  actor: curve
 - label: curvefinance_DUSD-CurveTokenV2
   address: '0x3a664ab939fd8482048609f652f9a0b0677337b9'
   category: defi_dex
+  actor: curve
 - label: curvefinance_GUSD-StableSwapGUSD
   address: '0x4f062658eaaf2c1ccf8c8e36d6824cdf41167956'
   category: defi_dex
+  actor: curve
 - label: curvefinance_GUSD-DepositGUSD
   address: '0x64448b78561690b70e17cbe8029a3e5c1bb7136e'
   category: defi_dex
+  actor: curve
 - label: curvefinance_GUSD-CurveTokenV2
   address: '0xd2967f45c4f384deea880f807be904762a3dea07'
   category: defi_dex
+  actor: curve
 - label: curvefinance_HUSD-DepositHUSD
   address: '0x09672362833d8f703d5395ef3252d4bfa51c15ca'
   category: defi_dex
+  actor: curve
 - label: curvefinance_HUSD-StableSwapHUSD
   address: '0x3ef6a01a0f81d6046290f3e2a8c5b843e738e604'
   category: defi_dex
+  actor: curve
 - label: curvefinance_HUSD-CurveTokenV2
   address: '0x5b5cfe992adac0c9d48e05854b2d91c73a003858'
   category: defi_dex
+  actor: curve
 - label: curvefinance_LinkUSD-DepositLinkUSD
   address: '0x1de7f0866e2c4adac7b457c58cc25c8688cda1f2'
   category: defi_dex
+  actor: curve
 - label: curvefinance_LinkUSD-StableSwapLinkUSD
   address: '0xe7a24ef0c5e95ffb0f6684b813a78f2a3ad7d171'
   category: defi_dex
+  actor: curve
 - label: curvefinance_LinkUSD-CurveTokenV2
   address: '0x6d65b498cb23deaba52db31c93da9bffb340fb8f'
   category: defi_dex
+  actor: curve
 - label: curvefinance_MUSD-DepositMUSD
   address: '0x803a2b40c5a9bb2b86dd630b274fa2a9202874c2'
   category: defi_dex
+  actor: curve
 - label: curvefinance_MUSD-StableSwapMUSD
   address: '0x8474ddbe98f5aa3179b3b3f5942d724afcdec9f6'
   category: defi_dex
+  actor: curve
 - label: curvefinance_MUSD-CurveTokenV2
   address: '0x1aef73d49dedc4b1778d0706583995958dc862e6'
   category: defi_dex
+  actor: curve
 - label: curvefinance_oBTC-DepositOBTC
   address: '0xd5bcf53e2c81e1991570f33fa881c49eea570c8d'
   category: defi_dex
+  actor: curve
 - label: curvefinance_oBTC-StableSwapOBTC
   address: '0xd81da8d904b52208541bade1bd6595d8a251f8dd'
   category: defi_dex
+  actor: curve
 - label: curvefinance_oBTC-CurveTokenV3
   address: '0x2fe94ea3d5d4a175184081439753de15aef9d614'
   category: defi_dex
+  actor: curve
 - label: curvefinance_pBTC-DepositPBTC
   address: '0x11f419adabbff8d595e7d5b223eee3863bb3902c'
   category: defi_dex
+  actor: curve
 - label: curvefinance_pBTC-StableSwapPBTC
   address: '0x7f55dde206dbad629c080068923b36fe9d6bdbef'
   category: defi_dex
+  actor: curve
 - label: curvefinance_pBTC-CurveTokenV2
   address: '0xde5331ac4b3630f94853ff322b66407e0d6331e8'
   category: defi_dex
+  actor: curve
 - label: curvefinance_RSV-DepositRSV
   address: '0xbe175115bf33e12348ff77ccfee4726866a0fbd5'
   category: defi_dex
+  actor: curve
 - label: curvefinance_RSV-StableSwapRSV
   address: '0xc18cc39da8b11da8c3541c598ee022258f9744da'
   category: defi_dex
+  actor: curve
 - label: curvefinance_RSV-CurveTokenV2
   address: '0xc2ee6b0334c261ed60c72f6054450b61b8f18e35'
   category: defi_dex
+  actor: curve
 - label: curvefinance_tBTC-DepositTBTC
   address: '0xaa82ca713d94bba7a89ceab55314f9effeddc78c'
   category: defi_dex
+  actor: curve
 - label: curvefinance_tBTC-StableSwapTBTC
   address: '0xc25099792e9349c7dd09759744ea681c7de2cb66'
   category: defi_dex
+  actor: curve
 - label: curvefinance_tBTC-CurveTokenV2
   address: '0x64eda51d3ad40d56b9dfc5554e06f94e1dd786fd'
   category: defi_dex
+  actor: curve
 - label: curvefinance_USDK-DepositUSDK
   address: '0xf1f85a74ad6c64315f85af52d3d46bf715236adc'
   category: defi_dex
+  actor: curve
 - label: curvefinance_USDK-StableSwapUSDK
   address: '0x3e01dd8a5e1fb3481f0f589056b428fc308af0fb'
   category: defi_dex
+  actor: curve
 - label: curvefinance_USDK-CurveTokenV2
   address: '0x97e2768e8e73511ca874545dc5ff8067eb19b787'
   category: defi_dex
+  actor: curve
 - label: curvefinance_USDN-DepositUSDN
   address: '0x094d12e5b541784701fd8d65f11fc0598fbc6332'
   category: defi_dex
+  actor: curve
 - label: curvefinance_USDN-StableSwapUSDN
   address: '0x0f9cb53ebe405d49a0bbdbd291a65ff571bc83e1'
   category: defi_dex
+  actor: curve
 - label: curvefinance_USDN-CurveTokenV2
   address: '0x4f3e8f405cf5afc05d68142f3783bdfe13811522'
   category: defi_dex
+  actor: curve
 - label: curvefinance_USDP-DepositUSDP
   address: '0x3c8caee4e09296800f8d29a68fa3837e2dae4940'
   category: defi_dex
+  actor: curve
 - label: curvefinance_USDP-StableSwapUSDP
   address: '0x42d7025938bec20b69cbae5a77421082407f053a'
   category: defi_dex
+  actor: curve
 - label: curvefinance_USDP-CurveTokenV3
   address: '0x7eb40e450b9655f4b3cc4259bcc731c63ff55ae6'
   category: defi_dex
+  actor: curve
 - label: curvefinance_UST-DepositUST
   address: '0xb0a0716841f2fc03fba72a891b8bb13584f52f2d'
   category: defi_dex
+  actor: curve
 - label: curvefinance_UST-StableSwapUST
   address: '0x890f4e345b1daed0367a877a1612f86a1f86985f'
   category: defi_dex
+  actor: curve
 - label: curvefinance_UST-CurveTokenV3
   address: '0x94e131324b6054c0d789b190b2dac504e4361b53'
   category: defi_dex
+  actor: curve
 - label: curvefinance_3pool-LiquidityGauge.sol
   address: '0xbfcf63294ad7105dea65aa58f8ae5be2d9d0952a'
   category: defi_dex
+  actor: curve
 - label: curvefinance_AAVE-LiquidityGaugeV2
   address: '0xd662908ada2ea1916b3318327a97eb18ad588b5d'
   category: defi_dex
+  actor: curve
 - label: curvefinance_alUSD-LiquidityGaugeV3
   address: '0x9582c4adacb3bce56fea3e590f05c3ca2fb9c477'
   category: defi_dex
+  actor: curve
 - label: curvefinance_ankrETH-LiquidityGaugeV2
   address: '0x6d10ed2cf043e6fcf51a0e7b4c2af3fa06695707'
   category: defi_dex
+  actor: curve
 - label: curvefinance_bBTC-LiquidityGaugeV2
   address: '0xdfc7adfa664b08767b735de28f9e84cd30492aee'
   category: defi_dex
+  actor: curve
 - label: curvefinance_BUSD-LiquidityGauge
   address: '0x69fb7c45726cfe2badee8317005d3f94be838840'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Compound-LiquidityGauge.sol
   address: '0x7ca5b0a2910b33e9759dc7ddb0413949071d7575'
   category: defi_dex
+  actor: curve
 - label: curvefinance_DUSD-LiquidityGaugeReward
   address: '0xaea6c312f4b3e04d752946d329693f7293bc2e6d'
   category: defi_dex
+  actor: curve
 - label: curvefinance_EURS-LiquidityGaugeV2
   address: '0x90bb609649e0451e5ad952683d64bd2d1f245840'
   category: defi_dex
+  actor: curve
 - label: curvefinance_FRAX-LiquidityGaugeV2
   address: '0x72e158d38dbd50a483501c24f792bdaaa3e7d55c'
   category: defi_dex
+  actor: curve
 - label: curvefinance_GUSD-LiquidityGauge
   address: '0xc5cfada84e902ad92dd40194f0883ad49639b023'
   category: defi_dex
+  actor: curve
 - label: curvefinance_hBTC-LiquidityGauge
   address: '0x4c18e409dc8619bfb6a1cb56d114c3f592e0ae79'
   category: defi_dex
+  actor: curve
 - label: curvefinance_HUSD-LiquidityGauge
   address: '0x2db0e83599a91b508ac268a6197b8b14f5e72840'
   category: defi_dex
+  actor: curve
 - label: curvefinance_MUSD-LiquidityGaugeReward
   address: '0x5f626c30ec1215f4edcc9982265e8b1f411d1352'
   category: defi_dex
+  actor: curve
 - label: curvefinance_oBTC-LiquidityGaugeV2
   address: '0x11137b10c210b579405c21a07489e28f3c040ab1'
   category: defi_dex
+  actor: curve
 - label: curvefinance_PAX-LiquidityGauge
   address: '0x64e3c23bfc40722d3b649844055f1d51c1ac041d'
   category: defi_dex
+  actor: curve
 - label: curvefinance_IronBank-LiquidityGaugeV2
   address: '0xf5194c3325202f456c95c1cf0ca36f8475c1949f'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Link-LiquidityGaugeV2
   address: '0xfd4d8a17df4c27c1dd245d153ccf4499e806c87d'
   category: defi_dex
+  actor: curve
 - label: curvefinance_pBTC-LiquidityGaugeV2
   address: '0xd7d147c6bb90a718c3de8c0568f9b560c79fa416'
   category: defi_dex
+  actor: curve
 - label: curvefinance_renBTC-LiquidityGauge
   address: '0xb1f2cdec61db658f091671f5f199635aef202cac'
   category: defi_dex
+  actor: curve
 - label: curvefinance_RSV-LiquidityGaugeReward
   address: '0x4dc4a289a8e33600d8bd4cf5f6313e43a37adec7'
   category: defi_dex
+  actor: curve
 - label: curvefinance_sAAVE-LiquidityGaugeV2
   address: '0x462253b8f74b72304c145db0e4eebd326b22ca39'
   category: defi_dex
+  actor: curve
 - label: curvefinance_sBTC-LiquidityGaugeReward
   address: '0x705350c4bcd35c9441419ddd5d2f097d7a55410f'
   category: defi_dex
+  actor: curve
 - label: curvefinance_sETH-LiquidityGaugeV2
   address: '0x3c0ffff15ea30c35d7a85b85c0782d6c94e1d238'
   category: defi_dex
+  actor: curve
 - label: curvefinance_stETH-LiquidityGaugeV2
   address: '0x182b723a58739a9c974cfdb385ceadb237453c28'
   category: defi_dex
+  actor: curve
 - label: curvefinance_sUSDv2-LiquidityGaugeReward
   address: '0xa90996896660decc6e997655e065b23788857849'
   category: defi_dex
+  actor: curve
 - label: curvefinance_rETH-LiquidityGaugeV3
   address: '0x824f13f1a2f29cfeea81154b46c0fc820677a637'
   category: defi_dex
+  actor: curve
 - label: curvefinance_tBTC-LiquidityGaugeReward
   address: '0x6828bcf74279ee32f2723ec536c22c51eed383c6'
   category: defi_dex
+  actor: curve
 - label: curvefinance_TriCrypto-LiquidityGaugeV3
   address: '0x6955a55416a06839309018a8b0cb72c4ddc11f15'
   category: defi_dex
+  actor: curve
 - label: curvefinance_USDK-LiquidityGauge
   address: '0xc2b1df84112619d190193e48148000e3990bf627'
   category: defi_dex
+  actor: curve
 - label: curvefinance_USDN-LiquidityGauge
   address: '0xf98450b5602fa59cc66e1379dffb6fddc724cfc4'
   category: defi_dex
+  actor: curve
 - label: curvefinance_USDP-LiquidityGaugeV2
   address: '0x055be5ddb7a925bfef3417fc157f53ca77ca7222'
   category: defi_dex
+  actor: curve
 - label: curvefinance_USDT-LiquidityGauge
   address: '0xbc89cd85491d81c6ad2954e6d0362ee29fca8f53'
   category: defi_dex
+  actor: curve
 - label: curvefinance_UST-LiquidityGaugeV2
   address: '0x3b7020743bc2a4ca9eaf9d0722d42e20d6935855'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Y-LiquidityGauge
   address: '0xfa712ee4788c042e2b7bb55e6cb8ec569c4530c1'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Yv2-LiquidityGaugeV2
   address: '0x8101e6760130be2c8ace79643ab73500571b7162'
   category: defi_dex
+  actor: curve
 - label: curvefinance_CRV Token
   address: '0xd533a949740bb3306d119cc777fa900ba034cd52'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Fee Distributor
   address: '0xa464e6dcda8ac41e03616f95f4bc98a13b8922dc'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Gauge Controller
   address: '0x2f50d538606fa9edd2b11e2446beb18c9d5846bb'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Minter
   address: '0xd061d61a4d941c39e5453435b6345dc261c2fce0'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Voting Escrow
   address: '0x5f3b5dfeb7b28cdbd7faba78963ee202a494e2a2'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Vesting Escrow
   address: '0x575ccd8e2d300e2377b43478339e364000318e2c'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Gauge Owner
   address: '0x519afb566c05e00cfb9af73496d00217a630e4d5'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Pool Owner
   address: '0xecb456ea5365865ebab8a2661b0c503410e9b347'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Crypto Pool Owner
   address: '0x3687367ccaebbe89f1bc8eae7592b4eed44ac0bd'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Factory Pool Owner
   address: '0x8cf8af108b3b46ddc6ad596aebb917e053f0d72b'
   category: defi_dex
+  actor: curve
 - label: curvefinance_ABurner
   address: '0x12220a63a2013133d54558c9d03c35288eac9b34'
   category: defi_dex
+  actor: curve
 - label: curvefinance_CryptoLPBurner
   address: '0x0b5b9210d5015fd0c97fb19b32675b19703b0453'
   category: defi_dex
+  actor: curve
 - label: curvefinance_CBurner
   address: '0xdd0e10857d952c73b2fa39ce86308299df8774b8'
   category: defi_dex
+  actor: curve
 - label: curvefinance_LPBurner
   address: '0xaa42c0cd9645a58dfeb699ccaefbd30f19b1ff81'
   category: defi_dex
+  actor: curve
 - label: curvefinance_MetaBurner
   address: '0xe4b65889469ad896e866331f0ab5652c1ecfb3e6'
   category: defi_dex
+  actor: curve
 - label: curvefinance_SynthBurner
   address: '0x67a0213310202dbc2cbe788f4349b72fba90f9fa'
   category: defi_dex
+  actor: curve
 - label: curvefinance_USDNBurner
   address: '0x06534b0bf7ff378f162d4f348390bda53b15fa35'
   category: defi_dex
+  actor: curve
 - label: curvefinance_UnderlyingBurner
   address: '0x786b374b5eef874279f4b7b4de16940e57301a58'
   category: defi_dex
+  actor: curve
 - label: curvefinance_UniswapBurner
   address: '0xf3b64840b39121b40d8685f1576b64c157ce2e24'
   category: defi_dex
+  actor: curve
 - label: curvefinance_YBurner
   address: '0xd16ea3e5681234da84419512eb597362135cd8c9'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Address Provider
   address: '0x0000000022d53366457f9d5e68ec105046fc4383'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Curve Calculator
   address: '0xc1db00a8e5ef7bfa476395cdbcc98235477cde4e'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Pool Info
   address: '0xe64608e223433e8a03a1daaefd8cb638c14b552c'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Registry
   address: '0x90e00ace148ca3b23ac1bc8c240c2a7dd9c2d7f5'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Factory
   address: '0x0959158b6040d32d04c301a72cbfd6b39e21c9ae'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Migrator
   address: '0xd6930b7f661257da36f93160149b031735237594'
   category: defi_dex
+  actor: curve
 - label: curvefinance_3pool Deposit Zap
   address: '0xa79828df1850e8a3a3064576f380d90aecdd3359'
   category: defi_dex
+  actor: curve
 - label: curvefinance_sBTC Deposit Zap
   address: '0x7abdbaf29929e7f8621b757d2a7c04d78d633834'
   category: defi_dex
+  actor: curve
 - label: curvefinance_alUSD-Metaimplementation
   address: '0x43b4fdfd4ff969587185cdb6f0bd875c5fc83f8c'
   category: defi_dex
+  actor: curve
 - label: curvefinance_FRAX-Metaimplementation
   address: '0xd632f22692fac7611d2aa1c0d552930d43caed3b'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Ownership-Agent
   address: '0x40907540d8a6c65c637785e8f8b742ae6b0b9968'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Parameter-Agent
   address: '0x4eeb3ba4f221ca16ed4a0cc7254e2e32df948c5f'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Emergency-Agent
   address: '0x00669df67e4827fcc0e48a1838a8d5ab79281909'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Ownership-VotingApp
   address: '0xe478de485ad2fe566d49342cbd03e49ed7db3356'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Parameter-VotingApp
   address: '0xbcff8b0b9419b9a88c44546519b1e909cf330399'
   category: defi_dex
+  actor: curve
 - label: curvefinance_Emergency-VotingApp
   address: '0x1115c9b3168563354137cdc60efb66552dd50678'
   category: defi_dex
+  actor: curve
 - label: compound_cAAVE
   address: '0xe65cdb6479bac1e22340e4e755fae7e509ecd06c'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cSUSHI
   address: '0x4b0181102a0112a2ef11abee5563bb4a3176c9d7'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cYFI
   address: '0x80a2ae356fc9ef4305676f7a3e2ed04e12c33946'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cTUSDDelegate
   address: '0xce526fa199d2f772abbc5b40b3284cdab1b8e6de'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cTUSD
   address: '0x12392f67bdf24fae0af363c24ac620a2f67dad86'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cLINK
   address: '0xface851a4921ce59e912d19329929ce6da6eb0c7'
   category: defi_lending
+  actor: compoundv3
 - label: compound_GovernorBravo
   address: '0xc0da02939e1441f497fd74f78ce7decb17b66529'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cLINK+WBTC2Delegate_MultiLabel
   address: '0x24aa720906378bb8364228bddb8cabbc1f6fe1ba'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cWBTC2
   address: '0xccf4429db6322d5c611ee964527d42e5d685dd6a'
   category: defi_lending
+  actor: compoundv3
 - label: compound_wbtc2_irm
   address: '0xf2e5db36b0682f2cd6bc805c3a4236194e01f4d5'
   category: defi_lending
+  actor: compoundv3
 - label: compound_IRM_COMP_Updateable
   address: '0xd956188795ca6f4a74092ddca33e0ea4ca3a1395'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cCOMP
   address: '0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cUSDC
   address: '0x39aa39c021dfbae8fac545936693ac917d5e7563'
   category: defi_lending
+  actor: compoundv3
 - label: compound_PriceOracle
   address: '0x02557a5e05defeffd4cae6d83ea3d173b272c904'
   category: defi_lending
+  actor: compoundv3
 - label: compound_PriceOracleProxy
   address: '0xddc46a3b076aec7ab3fc37420a8edd2959764ec4'
   category: defi_lending
+  actor: compoundv3
 - label: compound_Maximillion
   address: '0xf859a1ad94bcf445a406b892ef0d3082f4174088'
   category: defi_lending
+  actor: compoundv3
 - label: compound_Base200bps_Slope2000bps_Jump20000bps_Kink90
   address: '0x6bc8fe27d0c7207733656595e73c0d5cf7afae36'
   category: defi_lending
+  actor: compoundv3
 - label: compound_GovernorAlpha
   address: '0xc0da01a04c3f3e0be433606045bb7017a7323e38'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cDAI
   address: '0x5d3a536e4d6dbd6114cc1ead35777bab948e3643'
   category: defi_lending
+  actor: compoundv3
 - label: compound_CompoundLens
   address: '0xa1bd4a10185f30932c78185f86641f11902e873f'
   category: defi_lending
+  actor: compoundv3
 - label: compound_StdComptroller
   address: '0x62f18c451af964197341d3c86d27e98c41bb8fcc'
   category: defi_lending
+  actor: compoundv3
 - label: compound_Poster
   address: '0x3c6809319201b978d821190ba03fa19a3523bd96'
   category: defi_lending
+  actor: compoundv3
 - label: compound_Reservoir
   address: '0x2775b1c75658be0f640272ccb8c72ac986009e38'
   category: defi_lending
+  actor: compoundv3
 - label: compound_Uni+Comptroller_MultiLabel
   address: '0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b'
   category: defi_lending
+  actor: compoundv3
 - label: compound_COMP
   address: '0xc00e94cb662c3520282e6f5717214004a7f26888'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cUSDT
   address: '0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cBAT
   address: '0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e'
   category: defi_lending
+  actor: compoundv3
 - label: compound_Base500bps_Slope1500bps
   address: '0xd928c8ead620bb316d2cefe3caf81dc2dec6ff63'
   category: defi_lending
+  actor: compoundv3
 - label: compound_DSR_Kink_9000bps_Jump_12000bps_AssumedRF_500bps
   address: '0xec163986cc9a6593d6addcbff5509430d348030f'
   category: defi_lending
+  actor: compoundv3
 - label: compound_DSR_Updateable
   address: '0xfed941d39905b23d6faf02c8301d40bd4834e27f'
   category: defi_lending
+  actor: compoundv3
 - label: compound_Base0bps_Slope2000bps
   address: '0xc64c4cba055efa614ce01f4bad8a9f519c4f8fab'
   category: defi_lending
+  actor: compoundv3
 - label: compound_StdComptroller_2_6
   address: '0x97bd4cc841fc999194174cd1803c543247a014fe'
   category: defi_lending
+  actor: compoundv3
 - label: compound_Base200bps_Slope1000bps
   address: '0x0c3f8df27e1a00b47653fde878d68d35f00714c0'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cETH
   address: '0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cDaiDelegate
   address: '0xbb8be4772faa655c255309afc3c5207aa7b896fd'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cUsdtDelegate
   address: '0x976aa93ca5aaa569109f4267589c619a097f001d'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cCOMP+Uni_Delegate_MultiLabel
   address: '0x338f7e5d19d9953b76dd81446b142c2d9fe03482'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cUNI
   address: '0x35a18000230da775cac24873d00ff85bccded550'
   category: defi_lending
+  actor: compoundv3
 - label: compound_StdComptrollerG2
   address: '0xf592ef673057a451c49c9433e278c5d59b56132c'
   category: defi_lending
+  actor: compoundv3
 - label: compound_DSR_Kink_9000bps_Jump_12000bps_AssumedRF_20000bps
   address: '0x000000007675b5e1da008f037a0800b309e0c493'
   category: defi_lending
+  actor: compoundv3
 - label: compound_Base500bps_Slope1200bps
   address: '0xa1046abfc2598f48c44fb320d281d3f3c0733c9a'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cSAI
   address: '0xf5dce57282a584d2746faf1593d3121fcac444dc'
   category: defi_lending
+  actor: compoundv3
 - label: compound_StdComptrollerG3
   address: '0x9d0a0443ff4bb04391655b8cd205683d9fa75550'
   category: defi_lending
+  actor: compoundv3
 - label: compound_Timelock
   address: '0x6d903f6003cca6255d85cca4d3b5e5146dc33925'
   category: defi_lending
+  actor: compoundv3
 - label: compound_Base200bps_Slope3000bps
   address: '0xbae04cbf96391086dc643e842b517734e214d698'
   category: defi_lending
+  actor: compoundv3
 - label: compound_StdComptrollerG4
   address: '0xaf601cbff871d0be62d18f79c31e387c76fa0374'
   category: defi_lending
+  actor: compoundv3
 - label: compound_StdComptrollerG5
   address: '0x7b5e3521a049c8ff88e6349f33044c6cc33c113c'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cREP
   address: '0x158079ee67fce2f58472a96584a73c7ab9ac95c1'
   category: defi_lending
+  actor: compoundv3
 - label: compound_Base200bps_Slope2000bps_Jump8000bps_Kink90
   address: '0x40c0c2c565335fa9c4235ac8e1cbfe2c97bac13a'
   category: defi_lending
+  actor: compoundv3
 - label: compound_Base200bps_Slope222bps_Kink90_Jump40
   address: '0x5562024784cc914069d67d89a28e3201bf7b57e7'
   category: defi_lending
+  actor: compoundv3
 - label: compound_SAI
   address: '0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359'
   category: defi_lending
+  actor: compoundv3
 - label: compound_REP
   address: '0x1985365e9f78359a9b6ad760e32412f4a445e862'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cZRX
   address: '0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cWBTC
   address: '0xc11b1268c1a384e55c48c2391d8d480264a3a7f4'
   category: defi_lending
+  actor: compoundv3
 - label: compound_PriceData
   address: '0xc629c26dced4277419cde234012f8160a0278a79'
   category: defi_lending
+  actor: compoundv3
 - label: compound_PriceFeed
   address: '0x6d2299c48a8dd07a872fdd0f8233924872ad1071'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cMKR
   address: '0x95b4ef2869ebd94beb4eee400a99824bf5dc325b'
   category: defi_lending
+  actor: compoundv3
 - label: compound_cAAVE+SUSHI+YFI+MKRDelegate_MuliLabel
   address: '0xa035b9e130f2b1aedc733eefb1c67ba4c503491f'
   category: defi_lending
+  actor: compoundv3
 - label: compound_Pair_ETH_ZRX
   address: '0xc6f348dd3b91a56d117ec0071c1e9b83c0996de4'
   category: defi_lending
+  actor: compoundv3
 - label: compound_Pair_ETH_KNC
   address: '0xf49c43ae0faf37217bdcb00df478cf793edd6687'
   category: defi_lending
+  actor: compoundv3
 - label: compound_Pair_COMP_ETH
   address: '0xcffdded873554f362ac02f8fb1f02e5ada10516f'
   category: defi_lending
+  actor: compoundv3
 - label: compound_Pair_REP_ETH
   address: '0xec2d2240d02a8cf63c3fa0b7d2c5a3169a319496'
   category: defi_lending
+  actor: compoundv3
 - label: compound_Pair_BAT_ETH
   address: '0xb6909b960dbbe7392d405429eb2b3649752b4838'
   category: defi_lending
+  actor: compoundv3
 - label: compound_CrowdProposalFactory
   address: '0x54a06047087927d9b0fb21c1cf0ebd792764ddb8'
   category: defi_lending
+  actor: compoundv3
 - label: compound_IRM_USDT_Updateable
   address: '0xfb564da37b41b2f6b6edcc3e56fbf523bd9f2012'
   category: defi_lending
+  actor: compoundv3
 - label: compound_IRM_USDC_Updateable
   address: '0xd8ec56013ea119e7181d231e5048f90fbbe753c0'
   category: defi_lending
+  actor: compoundv3
 - label: compound_IRM_UNI_Updateable
   address: '0xd88b94128ff2b8cf2d7886cd1c1e46757418ca2a'
   category: defi_lending
+  actor: compoundv3
 - label: maker_CHANGELOG
   address: '0xda0ab1e0017debcd72be8599041a2aa3ba7e740f'
   category: defi_lending
+  actor: maker
 - label: maker_MULTICALL
   address: '0x5e227ad1969ea493b43f840cff78d08a6fc17796'
   category: defi_lending
+  actor: maker
 - label: maker_FAUCET
   address: '0x0000000000000000000000000000000000000000'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_DEPLOY
   address: '0xbaa65281c2fa2baacb2cb550ba051525a480d3f4'
   category: defi_lending
+  actor: maker
 - label: maker_FLIP_FAB
   address: '0x4acdbe9dd0d00b36ec2050e805012b8fc9974f2b'
   category: defi_lending
+  actor: maker
 - label: maker_CLIP_FAB
   address: '0x0716f25fbaaae9b63803917b6125c10c313df663'
   category: defi_lending
+  actor: maker
 - label: maker_LERP_FAB
   address: '0x00b416da876fe42dd02813da435cc030f0d72434'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_GOV
   address: '0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2'
   category: defi_lending
+  actor: maker
 - label: maker_GOV_GUARD
   address: '0x6eeb68b2c7a918f36b78e2db80dcf279236ddfb8'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_ADM
   address: '0x0a3f6849f78076aefadf113f5bed87720274ddc0'
   category: defi_lending
+  actor: maker
 - label: maker_VOTE_PROXY_FACTORY
   address: '0x6fcd258af181b3221073a96dd90d1f7ae7eec408'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_VAT
   address: '0x35d1b3f3d7966a1dfe207aa4514c12a259a0492b'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JUG
   address: '0x19c0976f590d67707e62397c87829d896dc0f1f1'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CAT
   address: '0xa5679c04fc3d9d8b0aab1f0ab83555b301ca70ea'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_DOG
   address: '0x135954d155898d42c90d2a57824c690e0c7bef1b'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_VOW
   address: '0xa950524441892a31ebddf91d3ceefa04bf454466'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_DAI
   address: '0x9759a6ac90977b93b58547b4a71c78317f391a28'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_FLAP
   address: '0xc4269cc7acdedc3794b221aa4d9205f564e27f0d'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_FLOP
   address: '0xa41b6ef151e06da0e34b009b86e828308986736d'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_PAUSE
   address: '0xbe286431454714f511008713973d3b053a2d38f3'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_PAUSE_PROXY
   address: '0xbe8e3e3618f7474f8cb1d074a26affef007e98fb'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_GOV_ACTIONS
   address: '0x4f5f0933158569c026d617337614d00ee6589b6e'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_DAI
   address: '0x6b175474e89094c44da98b954eedeac495271d0f'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_SPOT
   address: '0x65c79fcb50ca1594b025960e539ed7a9a6d434a3'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_POT
   address: '0x197e90f9fad81970ba7976f33cbd77088e5d7cf7'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_END
   address: '0xbb856d1742fd182a90239d7ae85706c2fe4e5922'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_ESM
   address: '0x29cfbd381043d00a98fd9904a431015fef07af2f'
   category: defi_lending
+  actor: maker
 - label: maker_PROXY_ACTIONS
   address: '0x82ecd135dce65fbc6dbdd0e4237e0af93ffd5038'
   category: defi_lending
+  actor: maker
 - label: maker_PROXY_ACTIONS_END
   address: '0x7aff9fc9fad225e3c88cda06bc56d8aca774bc57'
   category: defi_lending
+  actor: maker
 - label: maker_PROXY_ACTIONS_DSR
   address: '0x07ee93aeea0a36fff2a9b95dd22bd6049ee54f26'
   category: defi_lending
+  actor: maker
 - label: maker_CDP_MANAGER
   address: '0x5ef30b9986345249bc32d8928b7ee64de9435e39'
   category: defi_lending
+  actor: maker
 - label: maker_DSR_MANAGER
   address: '0x373238337bfe1146fb49989fc222523f83081ddb'
   category: defi_lending
+  actor: maker
 - label: maker_GET_CDPS
   address: '0x36a724bd100c39f0ea4d3a20f7097ee01a8ff573'
   category: defi_lending
+  actor: maker
 - label: maker_ILK_REGISTRY
   address: '0x5a464c28d19848f44199d003bef5ecc87d090f87'
   category: defi_lending
+  actor: maker
 - label: maker_OSM_MOM
   address: '0x76416a4d5190d071bfed309861527431304aa14f'
   category: defi_lending
+  actor: maker
 - label: maker_FLIPPER_MOM
   address: '0xc4be7f74ee3743bded8e0fa218ee5cf06397f472'
   category: defi_lending
+  actor: maker
 - label: maker_CLIPPER_MOM
   address: '0x79fbdf16b366dfb14f66ce4ac2815ca7296405a0'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_IAM_AUTO_LINE
   address: '0xc7bdd1f2b16447dcf3de045c4a039a60ec2f0ba3'
   category: defi_lending
+  actor: maker
 - label: maker_PROXY_FACTORY
   address: '0xa26e15c895efc0616177b7c1e7270a4c7d51c997'
   category: defi_lending
+  actor: maker
 - label: maker_PROXY_REGISTRY
   address: '0x4678f0a6958e4d2bc4f1baf7bc52e8f3564f3fe4'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_ETH
   address: '0x81fe72b5a8d1a857d176c3e7d5bd2679a9b85763'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_ETH_A
   address: '0x2f0b23f53734252bda2277357e97e1517d6b042a'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_ETH_A
   address: '0xc67963a226eddd77b91ad8c421630a1b0adff270'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_ETH_A
   address: '0x7d9f92daa9254bbd1f479dbe5058f74c2381a898'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_ETH_B
   address: '0x08638ef1a205be6762a8b935f5da9b700cf7322c'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_ETH_B
   address: '0x71eb894330e8a4b96b8d6056962e7f116f50e06f'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_ETH_B
   address: '0x19e26067c4a69b9534adf97ed8f986c49179de18'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_ETH_C
   address: '0xf04a5cc80b1e94c69b48f5ee68a08cd2f09a7c3e'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_ETH_C
   address: '0xc2b12567523e3f3cbd9931492b91fe65b240bc47'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_ETH_C
   address: '0x1c4fc274d12b2e1bbdf97795193d3148fcda6108'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_BAT
   address: '0xb4eb54af9cc7882df0121d26c5b97e802915abe6'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_BAT_A
   address: '0x3d0b1912b66114d4096f48a8cee3a56c231772ca'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_BAT_A
   address: '0x3d22e6f643e2f4c563fd9db22b229cbb0cd570fb'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_BAT_A
   address: '0x2e118153d304a0d9c5838d5fcb70cefcbec81dc2'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_USDC
   address: '0x77b68899b99b686f415d074278a9a16b336085a0'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_USDC_A
   address: '0xa191e578a6736167326d05c119ce0c90849e84b7'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_USDC_A
   address: '0x046b1a5718da6a226d912cfd306ba19980772908'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_USDC_A
   address: '0x0fca4ba0b80123b5d22dd3c8bf595f3e561d594d'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_USDC_B
   address: '0x2600004fd1585f7270756ddc88ad9cfa10dd0428'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_USDC_B
   address: '0x5590f23358fe17361d7e4e4f91219145d8ccfcb3'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_USDC_B
   address: '0xd6fe411284b92d309f79e502dd905d7a3b02f561'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_WBTC_A
   address: '0xbf72da2bd84c5170618fbe5914b0eca9638d5eb5'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_WBTC_A
   address: '0x0227b54adbfaeec5f1ed1dfa11f54dcff9076e2c'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_WBTC_A
   address: '0x5f4cea97ca1030c6bd38429c8a0de7cd4981c70a'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_TUSD
   address: '0xee13831ca96d191b688a670d47173694ba98f1e5'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_TUSD_A
   address: '0x4454af7c8bb9463203b66c816220d41ed7837f44'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_TUSD_A
   address: '0x0f6f88f8a4b918584e3539182793a0c276097f44'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_TUSD_A
   address: '0x059acdf311e38aaf77139638228d393ff27639bf'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_ZRX
   address: '0x7382c066801e7acb2299ac8562847b9883f5cd3c'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_ZRX_A
   address: '0xc7e8cd72bdee38865b4f5615956ef47ce1a7e5d0'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_ZRX_A
   address: '0xdc90d461e148552387f3ab3ebee0bdc58aa16375'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_ZRX_A
   address: '0xebe5e9d77b9dbba8907a197f4c2ab00a81fb0c4e'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_KNC
   address: '0xf36b79bd4c0904a5f350f1e4f776b81208c13069'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_KNC_A
   address: '0x475f1a89c1ed844a08e8f6c50a00228b5e59e4a9'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_KNC_A
   address: '0x006aa3eb5e666d8e006aa647d4afab212555ddea'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_KNC_A
   address: '0x82c41e2ade28c066a5d3a1e3f5b444a4075c1584'
   category: defi_lending
+  actor: maker
 - label: maker_MANA
   address: '0x0f5d2fb29fb7d3cfee444a200298f468908cc942'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_MANA
   address: '0x8067259ea630601f319fcce477977e55c6078c13'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_MANA_A
   address: '0xa6ea3b9c04b8a38ff5e224e7c3d6937ca44c0ef9'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_MANA_A
   address: '0xf5c8176e1eb0915359e46ded16e52c071bb435c0'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_MANA_A
   address: '0xabbcd14fedbb2d39038327055d9e615e178fd64d'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_USDT
   address: '0x7a5918670b0c390ad25f7bee908c1acc2d314a3c'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_USDT_A
   address: '0x0ac6a1d74e84c2df9063bddc31699ff2a2bb22a2'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_USDT_A
   address: '0xfc9d6dd08bee324a5a8b557d2854b9c36c2aec5d'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_USDT_A
   address: '0x1cf3de6d570291cdb88229e70037d1705d5be748'
   category: defi_lending
+  actor: maker
 - label: maker_PAXUSD
   address: '0x8e870d67f660d95d5be530380d0ec0bd388289e1'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_PAXUSD
   address: '0x043b963e1b2214ec90046167ea29c2c8bdd7c0ec'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_PAXUSD_A
   address: '0x7e62b7e279dfc78deb656e34d6a435cc08a44666'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_PAXUSD_A
   address: '0xbcb396cd139d1116bd89562b49b9d1d6c25378b0'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_PAXUSD_A
   address: '0xab98de83840b8367046383d2adef9959e130923e'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_COMP
   address: '0xbed0879953e633135a48a157718aa791ac0108e4'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_COMP_A
   address: '0xbea7cdfb4b49ec154ae1c0d731e4dc773a3265aa'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_COMP_A
   address: '0x2bb690931407dca7ece84753ea931ffd304f0f38'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_COMP_A
   address: '0x1f546560eaa70985d962f1562b65d4b182341a63'
   category: defi_lending
+  actor: maker
 - label: maker_LRC
   address: '0xbbbbca6a901c926f240b89eacb641d8aec7aeafd'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_LRC
   address: '0x9eb923339c24c40bef2f4af4961742aa7c23ef3a'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_LRC_A
   address: '0x6c186404a7a238d3d6027c0299d1822c1cf5d8f1'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_LRC_A
   address: '0x81c5cdf4817dbf75c7f08b8a1cdab05c9b3f70f7'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_LRC_A
   address: '0x6856cca4c881caf29b6563ba046c7bb73121fb9d'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_LINK
   address: '0x9b0c694c6939b5ea9584e9b61c7815e8d97d9cc7'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_LINK_A
   address: '0xdfccaf8fdbd2f4805c174f856a317765b49e4a50'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_LINK_A
   address: '0x832dd5f17b30078a5e46fdb8130a68cbc4a74dc0'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_LINK_A
   address: '0x7b1696677107e48b152e9bf400293e98b7d86eb1'
   category: defi_lending
+  actor: maker
 - label: maker_BAL
   address: '0xba100000625a3754423978a60c9317c58a424e3d'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_BAL
   address: '0x3ff860c0f28d69f392543a16a397d0dae85d16de'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_BAL_A
   address: '0x4a03aa7fb3973d8f0221b466eefb53d0ac195f55'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_BAL_A
   address: '0x6aac067bb903e633a422de7be9355e62b3ce0378'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_BAL_A
   address: '0x79564a41508da86721edadac07a590b5a51b2c01'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_YFI
   address: '0x5f122465bcf86f45922036970be6dd7f58820214'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_YFI_A
   address: '0x3ff33d9162ad47660083d7dc4bc02fb231c81677'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_YFI_A
   address: '0x9dacc11dcd0aa13386d295eaeebbd38130897e6f'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_YFI_A
   address: '0x1f206d7916fd3b1b5b0ce53d5cab11fcebc124da'
   category: defi_lending
+  actor: maker
 - label: maker_GUSD
   address: '0x056fd409e1d7a124bd7017459dfea2f387b6d5cd'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_GUSD
   address: '0xf45ae69cca1b9b043dae2c83a5b65bc605bec5f5'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_GUSD_A
   address: '0xe29a14bcdea40d83675aa43b72df07f649738c8b'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_GUSD_A
   address: '0xa47d68b9db0a0361284fa04ba40623fcbd1a263e'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_GUSD_A
   address: '0xf7e80359cb9c4e6d178e6689ed8a6a6f91060747'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_UNI
   address: '0xf363c7e351c96b910b92b45d34190650df4ae8e7'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_UNI_A
   address: '0x3bc3a58b4fc1cbe7e98bb4ab7c99535e8ba9b8f1'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_UNI_A
   address: '0x3713f83ee6d138ce191294c131148176015bc29a'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_UNI_A
   address: '0xea7fe6610e6708e2affa202948ca19ace3f580ae'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_W+RENBTC_MultiLabel
   address: '0xf185d0682d50819263941e5f4eacc763cc5c6c42'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_RENBTC_A
   address: '0xfd5608515a47c37afba68960c1916b79af9491d0'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_RENBTC_A
   address: '0x834719bea8da68c46484e001143bdde29370a6a3'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_RENBTC_A
   address: '0xcc89f368aad8d424d3e759c1525065e56019a0f4'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_AAVE
   address: '0x8df8f06dc2de0434db40dcbb32a82a104218754c'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_AAVE_A
   address: '0x24e459f61ceaa7b1ce70dbaea938940a7c5ad46e'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_AAVE_A
   address: '0x8723b74f598de2ea49747de5896f9034cc09349e'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_AAVE_A
   address: '0x76024a8effcfe270e089964a562ece6ea5f3a14c'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_UNIV2DAIETH
   address: '0xfc8137e1a45baf0030563ec4f0f851bd36a85b7d'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_UNIV2DAIETH_A
   address: '0x2502f65d77ca13f183850b5f9272270454094a08'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_UNIV2DAIETH_A
   address: '0x9f6981ba5c77211a34b76c6385c0f6fa10414035'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_UNIV2DAIETH_A
   address: '0xf738c272d648cc4565eafb43c0c5b35bba3bf29d'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_UNIV2WBTCETH
   address: '0x8400d2edb8b97f780356ef602b1bdbc082c2ad07'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_UNIV2WBTCETH_A
   address: '0xdc26c9b7a8fe4f5df648e314ec3e6dc3694e6dd2'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_UNIV2WBTCETH_A
   address: '0xb15afab996904170f87a64fe42db0b64a6f75d24'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_UNIV2WBTCETH_A
   address: '0xc94ee71e909dbe08d63aa9e6efbc9976751601b4'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_UNIV2USDCETH
   address: '0xf751f24dd9cfad885984d1ba68860f558d21e52a'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_UNIV2USDCETH_A
   address: '0x03ae53b33feeac1222c3f372f32d37ba95f0f099'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_UNIV2USDCETH_A
   address: '0x93ae03815baf1f19d7f18d9116e4b637cc32a131'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_UNIV2USDCETH_A
   address: '0x022ff40643e8b94c43f0a1e54f51ef6d070acbc4'
   category: defi_lending
+  actor: maker
 - label: maker_UNIV2DAIUSDC
   address: '0xae461ca67b15dc8dc81ce7615e0320da1a9ab8d5'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_UNIV2DAIUSDC
   address: '0x25d03c2c928ade19ff9f4ffecc07d991d0df054b'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_UNIV2DAIUSDC_A
   address: '0xa81598667ac561986b70ae11bbe2dd5348ed4327'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_UNIV2DAIUSDC_A
   address: '0x9b3310708af333f6f379fa42a5d09cbaa10ab309'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_UNIV2DAIUSDC_A
   address: '0xbef2ab2aa5cc780a03bccf22ad3320c8cf35af6a'
   category: defi_lending
+  actor: maker
 - label: maker_UNIV2ETHUSDT
   address: '0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_UNIV2ETHUSDT
   address: '0x5f6dd5b421b8d92c59dc6d907c9271b1dbfe3016'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_UNIV2ETHUSDT_A
   address: '0x4aad139a88d2dd5e7410b408593208523a3a891d'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_UNIV2ETHUSDT_A
   address: '0x2ac4c9b49051275acb4c43ec973082388d015d48'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_UNIV2ETHUSDT_A
   address: '0xa475582e3d6ec35091eae81da3b423c1b27fa029'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_UNIV2LINKETH
   address: '0xd7d31e62ae5bfc3bfaa24eda33e8c32d31a1746f'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_UNIV2LINKETH_A
   address: '0xdae88bde1fb38cf39b6a02b595930a3449e593a6'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_UNIV2LINKETH_A
   address: '0x6aa0520354d1b84e1c6abfe64a708939529b619e'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_UNIV2LINKETH_A
   address: '0x8acec2d937a4a4caf42565afbbb05ac242134f14'
   category: defi_lending
+  actor: maker
 - label: maker_UNIV2UNIETH
   address: '0xd3d2e2692501a5c9ca623199d38826e513033a17'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_UNIV2UNIETH
   address: '0x8462a88f50122782cc96108f476dedb12248f931'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_UNIV2UNIETH_A
   address: '0xf11a98339fe1cde648e8d1463310ce3ccc3d7cc1'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_UNIV2UNIETH_A
   address: '0xb0ece6f5542a4577e2f1be491a937ccbbec8479e'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_UNIV2UNIETH_A
   address: '0xad609ed16157014ef955c94553e40e94a09049f0'
   category: defi_lending
+  actor: maker
 - label: maker_UNIV2WBTCDAI
   address: '0x231b7589426ffe1b75405526fc32ac09d44364c4'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_UNIV2WBTCDAI
   address: '0x5bb72127a196392cf4ac00cf57ab278394d24e55'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_UNIV2WBTCDAI_A
   address: '0xd40798267795cbf3aeea8e9f8dcbdba9b5281fcc'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_UNIV2WBTCDAI_A
   address: '0x4fc53a57262b87abda61d6d0db2be7e9be68f6b8'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_UNIV2WBTCDAI_A
   address: '0x863aea7d2c4bf2b5aa191b057240b6dc29f532eb'
   category: defi_lending
+  actor: maker
 - label: maker_UNIV2AAVEETH
   address: '0xdfc14d2af169b0d36c4eff567ada9b2e0cae044f'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_UNIV2AAVEETH
   address: '0x32d8416e8538ac36272c44b0cd962cd7e0198489'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_UNIV2AAVEETH_A
   address: '0x42afd448df7d96291551f1efe1a590101afb1dff'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_UNIV2AAVEETH_A
   address: '0x854b252ba15eafa4d1609d3b98e00cc10084ec55'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_UNIV2AAVEETH_A
   address: '0x5396e541e1f648ec03faf338389045f1d7691960'
   category: defi_lending
+  actor: maker
 - label: maker_UNIV2DAIUSDT
   address: '0xb20bd5d04be54f870d5c0d3ca85d82b34b836405'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_UNIV2DAIUSDT
   address: '0x9a1cd705dc7ac64b50777bceca3529e58b1292f1'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_UNIV2DAIUSDT_A
   address: '0xaf034d882169328caf43b823a4083dabc7eee0f4'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_UNIV2DAIUSDT_A
   address: '0xe4b82be84391b9e7c56a1fc821f47569b364dd4a'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_CLIP_CALC_UNIV2DAIUSDT_A
   address: '0x4e88ce740f6bea31c2b14134f6c5eb2a63104fcf'
   category: defi_lending
+  actor: maker
 - label: maker_RWA001
   address: '0x10b2aa5d77aa6484886d8e244f0686ab319a270d'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_RWA001
   address: '0x76a9f30b45f4ebfd60ce8a1c6e963b1605f7cb6d'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_RWA001_A
   address: '0x476b81c12dc71edfad1f64b9e07caa60f4b156e2'
   category: defi_lending
+  actor: maker
 - label: maker_MIP21_LIQUIDATION_ORACLE
   address: '0x88f88bb9e66241b73b84f3a6e197fbba487b1e30'
   category: defi_lending
+  actor: maker
 - label: maker_RWA001_A_URN
   address: '0xa3342059bcdcfa57a13b12a35ed4bbe59b873005'
   category: defi_lending
+  actor: maker
 - label: maker_RWA001_A_INPUT_CONDUIT
   address: '0x486c85e2bb9801d14f6a8fdb78f5108a0fd932f2'
   category: defi_lending
+  actor: maker
 - label: maker_RWA001_A_OUTPUT_CONDUIT
   address: '0xb3efb912e1cbc0b26fc17388dd433cecd2206c3d'
   category: defi_lending
+  actor: maker
 - label: maker_RWA002
   address: '0xaaa760c2027817169d7c8db0dc61a2fb4c19ac23'
   category: defi_lending
+  actor: maker
 - label: maker_PIP_RWA002
   address: '0xd2473237e20bd52f8e7ce0fd79403a6a82fbaec8'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_JOIN_RWA002_A
   address: '0xe72c7e90bc26c11d45dbee736f0acf57fc5b7152'
   category: defi_lending
+  actor: maker
 - label: maker_RWA002_A_URN
   address: '0x225b3da5be762ee52b182157e67bea0b31968163'
   category: defi_lending
+  actor: maker
 - label: maker_RWA002_A_INPUT+OUTPUT_CONDUIT_MultiLabel
   address: '0x2474f297214e5d96ba4c81986a9f0e5c260f445d'
   category: defi_lending
+  actor: maker
 - label: maker_PROXY_PAUSE_ACTIONS
   address: '0x6bda13d43b7edd6cafe1f70fb98b5d40f61a1370'
   category: defi_lending
+  actor: maker
 - label: maker_PROXY_DEPLOYER
   address: '0x1b93556ab8dccef01cd7823c617a6d340f53fb58'
   category: defi_lending
+  actor: maker
 - label: maker_MCD_FLASH
   address: '0x1eb4cf3a948e7d72a198fe073ccb8c7a948cd853'
   category: defi_lending
+  actor: maker
 - label: instadapp_Mainnet-InstaIndex
   address: '0x2971adfa57b20e5a416ae5a708a8655a9c74f723'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_Mainnet-InstaList
   address: '0x4c8a1beb8a87765788946d6b19c6c6355194abeb'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_mainnet-v1-InstaAccount
   address: '0x939daad09fc4a9b8f8a9352a485dab2df4f4b3f8'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_mainnet-v1-InstaConnectors
   address: '0xd6a602c01a023b98ecfb29df02fba380d3b21e0c'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_mainnet-v1-InstaEvent
   address: '0x2af7ea6cb911035f3eb1ed895cb6692c39ecba97'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_mainnet-v1-InstaMemory
   address: '0x8a5419cfc711b2343c17a6abf4b2bafabb06957f'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_mainnet-v2-InstaAccountV2
   address: '0xfe02a32cbe0cb9ad9a945576a5bb53a3c123a3a3'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_mainnet-v2-InstaConnectorsV2Proxy
   address: '0x7d53e606308a2e0a1d396f30dc305cc7f8483436'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_mainnet-v2-InstaConnectorsV2
   address: '0x97b0b3a8bdefe8cb9563a3c610019ad10db8ad11'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_mainnet-v2-InstaImplementations
   address: '0xcba828153d3a85b30b5b912e1f2dacac5816ae9d'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_mainnet-v2-InstaDefaultImplementation
   address: '0x28adcdc02ca7b3edf11924102726066aa0fa7010'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_mainnet-v2-InstaImplementationM1
   address: '0x8a3462a50e1a9fe8c9e7d9023cacbd9a98d90021'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_mainnet-v2-InstaChiefTimelockContract
   address: '0xb3e586bce929312e8b0685e2c12c1d6dbbcdc370'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_Polygon-InstaIndex
   address: '0xa9b99766e6c676cf1975c0d3166f96c0848ff5ad'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_Polygon-InstaList
   address: '0x839c2d3ade63df5b0b8f3e57d5e145057ab41556'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_polygon-v1-InstaAccount
   address: '0xa7c805e4ad4e7b51d2a1eb442b2014a9b63d3703'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_polygon-v1-InstaConnectors
   address: '0x3254ce8f5b1c82431b8f21df01918342215825c2'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_polygon-v1-InstaMemory
   address: '0x6c7256cf7c003dd85683339f75dde9971f98f2fd'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_Polygon-v2-InstaAccountV2
   address: '0x28846f4051eb05594b3ff9de76b7b5bf00431155'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_polygon-v2-InstaConnectorsV2Proxy
   address: '0x01fef4d2b513c9f69e34b2f93ef707fa9ff60109'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_polygon-v2-InstaConnectorsV2
   address: '0x2a00684bfab9717c21271e0751bccb7d2d763c88'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_polygon-v2-InstaImplementations
   address: '0x39d3d5e7c11d61e072511485878dd84711c19d4a'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_polygon-v2-InstaDefaultImplementation
   address: '0x2240770bec8cb22ed716f2dccc4f24980a904bc5'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_polygon-v2-InstaImplementationM1
   address: '0x4aec8c5b1cf3498bef061e13d8e7f646feeb7029'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_polygon-v2-InstaImplementationM2
   address: '0x2638c8950e04ef002d083f62aeaa10ee32f1ae60'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_AUTHORITY-A
   address: '0x351bb32e90c35647df7a584f3c1a3a0c38f31c68'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_BASIC-A
   address: '0x9926955e0dd681dc303370c52f4ad0a4dd061687'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_1INCH-A
   address: '0x235fca310ac7be45c7ad45f111203468743e4b7c'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_1INCH-B
   address: '0xabac3dcf164ed827eafda8e05ecc8208d6bc5e04'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_COMPOUND-A
   address: '0xbb153cf09a123746e0eb3b3a436c544a7eeb24b6'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_AAVE-V1-A
   address: '0x612c5ca43230d9f97a0ac87e4420f66b8df97e9d'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_AAVE-V2-A
   address: '0x68b27a84101ac5120bbab7ce8d6b096c961df52c'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_MAKERDAO-A
   address: '0x4049db23c605b197f764072569b8db2464653ef6'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_UNISWAP-V2-A
   address: '0x1e5ce41bdb653734445fec3553b61febddafc43c'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_COMP-A
   address: '0xb446e325d44c52b93ec122bf76301f235f90b9c9'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_UNISWAP-A
   address: '0xa4bf319968986d2352fa1c550d781bbfcce3fcab'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_POLYGON-BRIDGE-A
   address: '0x1b79b302132370b434fb7807b36cb72fb0510ad5'
   category: defi_lending
+  actor: polygonbridgestaking
 - label: instadapp_AAVE-CLAIM-A
   address: '0x611c1fa59aa1d6352c4c8bd44882063c6aee85e0'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_AAVE-STAKE-A
   address: '0xf73c94402bc24148b744083ed02654eec2c37d5b'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_G-UNISWAP-A
   address: '0x2fca923c7535083f25f761dcf289d7d81f024dda'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_INST-STAKING-A
   address: '0x37a63939e128d284e0eae5d3e517aad44f5204d4'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_AAVE-V2-IMPORT-B
   address: '0x6fe05374924830b6ac98849f75a3d5766e51ef10'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_COMPOUND-IMPORT-B
   address: '0xda101870ca6136539628f28041e1b55baf4eb6c0'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_INSTAPOOL-A
   address: '0x5806af7ab22e2916fa582ff05731bf7c682387b2'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_MAKERDAO-CLAIM-A"
   address: '0x2f8cbe650af98602a215b6482f2ad60893c5a4e8'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_WETH-A
   address: '0x22075fa719efb02ca3cf298afa9c974b7465e5d3'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_REFINANCE-A
   address: '0x9ea34be6da51aa9f6408fea79c946fdcfa424442'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_INST-A
   address: '0x52c2c4a0db049255ff345eb9d3fb1f555b7a924a'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_1INCH-A
   address: '0xc0d9210496afe9763f5d8ceb8deffba817232a9e'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_AAVE-V2-A
   address: '0xe84d8010afc3663919f44685cb53ed88866da3ee'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_BASIC-A
   address: '0x1caf5ec802ca602e98139ad96a8f2b7bc524264e'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_AAVE-CLAIM-A
   address: '0xc7cb1de2721bfc0e0da1b9d526bcdc54ef1c0efc'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_PARASWAP-A
   address: '0xfb3a1d56ed56f046721b9aca749895100754578b'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_InstaVestingFactory
   address: '0x3b05a5295aa749d78858e33ece3b97bb3ef4f029'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_InstaTokenVesting
   address: '0xc3c6dfe03c70247651b005dd1f7df8a6f8e6e058'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_InstaVestingResolver
   address: '0x2170aff22d2457b4418b3cbb66c7ffc2c6a9751d'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_ConnectMaker
   address: '0x99369e4163af2e8763416ac83a01756365d44dad'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_ConnectAave
   address: '0x8f4b452225df22fc1e449bda0202f7162a71de62'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_ConnectCompound
   address: '0xc4c77f9a56bb841952b452cf504ebd614368e6fa'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_InstapoolCompoundMapping
   address: '0x309effce30436c50a872fd9d2b431d7a77341f4c'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_InstaPoolV2Implementation
   address: '0xaeace9781f7354080f09818dc639584758e6768e'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_InstaPoolV2
   address: '0x2a1739d7f07d40e76852ca8f0d82275aa087992f'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_connectors 1
   address: '0x2a26228e607ffd2ab2bd3aa49cbae0edc6469bf8'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_InstaAaveV2MigratorSender1
   address: '0xa0557234eb7b3c503388202d3768cfa2f1ae9dc2'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_InstaMasterProxy1
   address: '0xa471d83e526b6b5d6c876088d34834b44d4064ff'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_Instapool1
   address: '0xd7e8e6f5decc5642b77a5dd0e445965b128a585d'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_ConnectAaveV2PolygonMigrator1
   address: '0x9686ce6ad5c3f7b212caf401b928c4bb3422e7ba'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_InstaAaveV2MigratorSenderImplementation1
   address: '0xba577da4cd3dd740c52ff1193e0409f48569b327'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_InstaAaveV2MigratorReceiver137
   address: '0x4a090897f47993c2504144419751d6a91d79abf4'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_InstaMasterProxy137
   address: '0x697860cee594c577f18f71caf3d8b68d913c7366'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_InstaAaveV2MigratorReceiverImplementation137
   address: '0xfb8a92e017e3416c0f63c28c53195337ebdeba2e'
   category: defi_lending
+  actor: instadapp
 - label: instadapp_InstaImplementationM2137
   address: '0xeaac5739eb532110431b14d01017506dba8f7b07'
   category: defi_lending
+  actor: instadapp
 - label: aave_LendingPoolAddressesProvider
   address: '0xb53c1a33016b2dc2ff3653530bff1848a515c8c5'
   category: defi_lending
+  actor: aave
 - label: aave_LendingPoolAddressesProviderRegistry
   address: '0x52d306e36e3b6b02c153d0266ff0f85d18bcd413'
   category: defi_lending
+  actor: aave
 - label: aave_LendingPool
   address: '0x7d2768de32b0b80b7a3454c06bdac94a69ddc7a9'
   category: defi_lending
+  actor: aave
 - label: aave_LendingPoolCollateralManager
   address: '0xbd4765210d4167ce2a5b87280d9e8ee316d5ec7c'
   category: defi_lending
+  actor: aave
 - label: aave_LendingPoolConfigurator
   address: '0x311bb771e4f8952e6da169b425e7e92d6ac45756'
   category: defi_lending
+  actor: aave
 - label: aave_LendingRateOracle
   address: '0x8a32f49ffba88aba6eff96f45d8bd1d4b3f35c7d'
   category: defi_lending
+  actor: aave
 - label: aave_Price Oracle
   address: '0xa50ba011c48153de246e5192c8f9258a2ba79ca9'
   category: defi_lending
+  actor: aave
 - label: aave_Emergency Admin
   address: '0xb9062896ec3a615a4e4444df183f0531a77218ae'
   category: defi_lending
+  actor: aave
 - label: aave_ProtocolDataProvider
   address: '0x057835ad21a177dbdd3090bb1cae03eacf78fc6d'
   category: defi_lending
+  actor: aave
 - label: aave_WETHGateway
   address: '0xdcd33426ba191383f1c9b431a342498fdac73488'
   category: defi_lending
+  actor: aave
 - label: aave_Collector contract
   address: '0x464c71f6c2f760dda6093dcb91c24c39e5d6e18c'
   category: defi_lending
+  actor: aave
 - label: aave_aUSDT
   address: '0x3ed3b47dd13ec9a98b44e6204a523e766b225811'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aUSDT
   address: '0xe91d55ab2240594855abd11b3faae801fd4c4687'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aUSDT
   address: '0x531842cebbdd378f8ee36d171d6cc9c4fcf475ec'
   category: defi_lending
+  actor: aave
 - label: aave_aWBTC
   address: '0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aWBTC
   address: '0x51b039b9afe64b78758f8ef091211b5387ea717c'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aWBTC
   address: '0x9c39809dec7f95f5e0713634a4d0701329b3b4d2'
   category: defi_lending
+  actor: aave
 - label: aave_aWETH
   address: '0x030ba81f1c18d280636f32af80b9aad02cf0854e'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aWETH
   address: '0x4e977830ba4bd783c0bb7f15d3e243f73ff57121'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aWETH
   address: '0xf63b34710400cad3e044cffdcab00a0f32e33ecf'
   category: defi_lending
+  actor: aave
 - label: aave_aYFI
   address: '0x5165d24277cd063f5ac44efd447b27025e888f37'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aYFI
   address: '0xca823f78c2dd38993284bb42ba9b14152082f7bd'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aYFI
   address: '0x7ebd09022be45ad993baa1cec61166fcc8644d97'
   category: defi_lending
+  actor: aave
 - label: aave_aZRX
   address: '0xdf7ff54aacacbff42dfe29dd6144a69b629f8c9e'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aZRX
   address: '0x071b4323a24e73a5afeebe34118cd21b8faaf7c3'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aZRX
   address: '0x85791d117a392097590bded3bd5abb8d5a20491a'
   category: defi_lending
+  actor: aave
 - label: aave_aUNI
   address: '0xb9d7cb55f463405cdfbe4e90a6d2df01c2b92bf1'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aUNI
   address: '0xd939f7430dc8d5a427f156de1012a56c18acb6aa'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aUNI
   address: '0x5bdb050a92cadccfcdcccbfc17204a1c9cc0ab73'
   category: defi_lending
+  actor: aave
 - label: aave_aAAVE
   address: '0xffc97d72e13e01096502cb8eb52dee56f74dad7b'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aAAVE
   address: '0x079d6a3e844bcecf5720478a718edb6575362c5f'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aAAVE
   address: '0xf7dba49d571745d9d7fcb56225b05bea803ebf3c'
   category: defi_lending
+  actor: aave
 - label: aave_aBAT
   address: '0x05ec93c0365baaeabf7aeffb0972ea7ecdd39cf1'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aBAT
   address: '0x277f8676facf4daa5a6ea38ba511b7f65aa02f9f'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aBAT
   address: '0xfc218a6dfe6901cb34b1a5281fc6f1b8e7e56877'
   category: defi_lending
+  actor: aave
 - label: aave_aBUSD
   address: '0xa361718326c15715591c299427c62086f69923d9'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aBUSD
   address: '0x4a7a63909a72d268b1d8a93a9395d098688e0e5c'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aBUSD
   address: '0xba429f7011c9fa04cdd46a2da24dc0ff0ac6099c'
   category: defi_lending
+  actor: aave
 - label: aave_aDAI
   address: '0x028171bca77440897b824ca71d1c56cac55b68a3'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aDAI
   address: '0x778a13d3eeb110a4f7bb6529f99c000119a08e92'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aDAI
   address: '0x6c3c78838c761c6ac7be9f59fe808ea2a6e4379d'
   category: defi_lending
+  actor: aave
 - label: aave_aENJ
   address: '0xac6df26a590f08dcc95d5a4705ae8abbc88509ef'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aENJ
   address: '0x943dcca156b5312aa24c1a08769d67fece4ac14c'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress -aENJ
   address: '0x38995f292a6e31b78203254fe1cdd5ca1010a446'
   category: defi_lending
+  actor: aave
 - label: aave_aKNC
   address: '0x39c6b3e42d6a679d7d776778fe880bc9487c2eda'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aKNC
   address: '0x9915dfb872778b2890a117da1f35f335eb06b54f'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aKNC
   address: '0x6b05d1c608015ccb8e205a690cb86773a96f39f1'
   category: defi_lending
+  actor: aave
 - label: aave_aLINK
   address: '0xa06bc25b5805d5f8d82847d191cb4af5a3e873e0'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aLINK
   address: '0xfb4aec4cc858f2539ebd3d37f2a43eae5b15b98a'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aLINK
   address: '0x0b8f12b1788bfde65aa1ca52e3e9f3ba401be16d'
   category: defi_lending
+  actor: aave
 - label: aave_aMANA
   address: '0xa685a61171bb30d4072b338c80cb7b2c865c873e'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aMANA
   address: '0xd86c74ea2224f4b8591560652b50035e4e5c0a3b'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aMANA
   address: '0x0a68976301e46ca6ce7410db28883e309ea0d352'
   category: defi_lending
+  actor: aave
 - label: aave_aMKR
   address: '0xc713e5e149d5d0715dcd1c156a020976e7e56b88'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aMKR
   address: '0xc01c8e4b12a89456a9fd4e4e75b72546bf53f0b5'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aMKR
   address: '0xba728ead5e496be00dcf66f650b6d7758ecb50f8'
   category: defi_lending
+  actor: aave
 - label: aave_aREN
   address: '0xcc12abe4ff81c9378d670de1b57f8e0dd228d77a'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aREN
   address: '0x3356ec1efa75d9d150da1ec7d944d9edf73703b7'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aREN
   address: '0xcd9d82d33bd737de215cdac57fe2f7f04df77fe0'
   category: defi_lending
+  actor: aave
 - label: aave_aSNX
   address: '0x35f6b052c598d933d69a4eec4d04c73a191fe6c2'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aSNX
   address: '0x8575c8ae70bdb71606a53aea1c6789cb0fbf3166'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aSNX
   address: '0x267eb8cf715455517f9bd5834aeae3cea1ebdbd8'
   category: defi_lending
+  actor: aave
 - label: aave_aSUSD
   address: '0x6c5024cd4f8a59110119c56f8933403a539555eb'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aSUSD
   address: '0x30b0f7324fedf89d8eff397275f8983397efe4af'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aSUSD
   address: '0xdc6a3ab17299d9c2a412b0e0a4c1f55446ae0817'
   category: defi_lending
+  actor: aave
 - label: aave_aTUSD
   address: '0x101cc05f4a51c0319f570d5e146a8c625198e636'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aTUSD
   address: '0x7f38d60d94652072b2c44a18c0e14a481ec3c0dd'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aTUSD
   address: '0x01c0eb1f8c6f1c1bf74ae028697ce7aa2a8b0e92'
   category: defi_lending
+  actor: aave
 - label: aave_aUSDC
   address: '0xbcca60bb61934080951369a648fb03df4f96263c'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aUSDC
   address: '0xe4922afab0bbadd8ab2a88e0c79d884ad337fca6'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aUSDC
   address: '0x619beb58998ed2278e08620f97007e1116d5d25b'
   category: defi_lending
+  actor: aave
 - label: aave_aCRV
   address: '0x8dae6cb04688c62d939ed9b68d32bc62e49970b1'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aCRV
   address: '0x9288059a74f589c919c7cf1db433251cdfeb874b'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aCRV
   address: '0x00ad8ebf64f141f1c81e9f8f792d3d1631c6c684'
   category: defi_lending
+  actor: aave
 - label: aave_aGUSD
   address: '0xd37ee7e4f452c6638c96536e68090de8cbcdb583'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aGUSD
   address: '0xf8ac64ec6ff8e0028b37eb89772d21865321bce0'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aGUSD
   address: '0x279af5b99540c1a3a7e3cdd326e19659401ef99e'
   category: defi_lending
+  actor: aave
 - label: aave_aBAL
   address: '0x272f97b7a56a387ae942350bbc7df5700f8a4576'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aBAL
   address: '0xe569d31590307d05da3812964f1edd551d665a0b'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aBAL
   address: '0x13210d4fe0d5402bd7ecbc4b5bc5cfca3b71adb0'
   category: defi_lending
+  actor: aave
 - label: aave_aXSUSHI
   address: '0xf256cc7847e919fac9b808cc216cac87ccf2f47a'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress - aXSUSHI
   address: '0x73bfb81d7dba75c904f430ea8bae82db0d41187b'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress - aXSUSHI
   address: '0xfafedf95e21184e3d880bd56d4806c4b8d31c69a'
   category: defi_lending
+  actor: aave
 - label: aave_AaveGovernanceV2
   address: '0xec568fffba86c094cf06b22134b23074dfe2252c'
   category: defi_lending
+  actor: aave
 - label: aave_Executor (short)
   address: '0xee56e2b3d491590b5b31738cc34d5232f378a8d5'
   category: defi_lending
+  actor: aave
 - label: aave_Executor (long)
   address: '0x61910ecd7e8e942136ce7fe7943f956cea1cc2f7'
   category: defi_lending
+  actor: aave
 - label: aave_GovernanceStrategy
   address: '0xb7e383ef9b1e9189fc0f71fb30af8aa14377429e'
   category: defi_lending
+  actor: aave
 - label: aave_AAVE
   address: '0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9'
   category: defi_lending
+  actor: aave
 - label: aave_stkAAVE
   address: '0x4da27a545c0c5b758a6ba100e3a049001de870f5'
   category: defi_lending
+  actor: aave
 - label: aave_GovV2Helper
   address: '0x16ff7583ea21055bf5f929ec4b896d997ff35847'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmWETH
   address: '0xf9fb4ad91812b704ba883b11d2b576e890a6730a'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmWETH
   address: '0x118ee405c6be8f9ba7cc7a98064eb5da462235cf'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmWETH
   address: '0xa4c273d9a0c1fe2674f0e845160d6232768a3064'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmDAI
   address: '0x79be75ffc64dd58e66787e4eae470c8a1fd08ba4'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmDAI
   address: '0x8da51a5a3129343468a63a96ccae1ff1352a3dfe'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmDAI
   address: '0x3f4fa4937e72991367dc32687bc3278f095e7eaa'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmUSDC
   address: '0xd24946147829deaa935be2ad85a3291dbf109c80'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmUSDC
   address: '0xe5971a8a741892f3b3ac3e9c94d02588190ce220'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmUSDC
   address: '0xcfdc74b97b69319683fec2a4ef95c4ab739f1b12'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmUSDT
   address: '0x17a79792fe6fe5c95dfe95fe3fcee3caf4fe4cb7'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmUSDT
   address: '0x04a0577a89e1b9e8f6c87ee26cce6a168fffc5b5'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmUSDT
   address: '0xdcfe9bfc246b02da384de757464a35efca402797'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmWBTC
   address: '0x13b2f6928d7204328b0e8e4bcd0379aa06ea21fa'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmWBTC
   address: '0x55e575d092c934503d7635a837584e2900e01d2b'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmWBTC
   address: '0x3b99fdafdfe70d65101a4ba8cdc35dafbd26375f'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmUniDAIWETH
   address: '0x9303eabc860a743aabcc3a1629014cabcc3f8d36'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmUniDAIWETH
   address: '0xe9562bf0a11315a1e39f9182f446ea58002f010e'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmUniDAIWETH
   address: '0x23bcc861b989762275165d08b127911f09c71628'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmUniWBTCWETH
   address: '0xc58f53a8adff2fb4eb16ed56635772075e2ee123'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmUniWBTCWETH
   address: '0xeef7d082d9be2f5ec73c072228706286dea1f492'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmUniWBTCWETH
   address: '0x02aaeb4c7736177242ee0f71f6f6a0f057aba87d'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmUniAAVEWETH
   address: '0xe59d2ff6995a926a574390824a657eed36801e55'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmUniAAVEWETH
   address: '0x997b26eff106f138e71160022caab0afc5814643'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmUniAAVEWETH
   address: '0x859ed7d9e92d1fe42ff95c3bc3a62f7cb59c373e'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmUniBATWETH
   address: '0xa1b0edf4460cc4d8bfaa18ed871bff15e5b57eb4'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmUniBATWETH
   address: '0x27c67541a4ea26a436e311b2e6ffec82083a6983'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmUniBATWETH
   address: '0x3fbef89a21dc836275bc912849627b33c61b09b4'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmUniDAIUSDC
   address: '0xe340b25fe32b1011616bb8ec495a4d503e322177'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmUniDAIUSDC
   address: '0x6bb2bdd21920fcb2ad855ab5d523222f31709d1f'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmUniDAIUSDC
   address: '0x925e3fdd927e20e33c3177c4ff6fb72ad1133c87'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmUniCRVWETH
   address: '0x0ea20e7ffb006d4cfe84df2f72d8c7bd89247db0'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmUniCRVWETH
   address: '0xd6035f8803ee9f173b1d3ebc3bde0ea6b5165636'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmUniCRVWETH
   address: '0xf3f1a76ca6356a908cdcde6b2ac2eaace3739cd0'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmUniLINKWETH
   address: '0xb8db81b84d30e2387de0ff330420a4aaa6688134'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmUniLINKWETH
   address: '0xeb32b3a1de9a1915d2b452b673c53883b9fa6a97'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmUniLINKWETH
   address: '0xede4052ed8e1f422f4e5062c679f6b18693fecdc'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmUniMKRWETH
   address: '0x370adc71f67f581158dc56f539df5f399128ddf9'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmUniMKRWETH
   address: '0x6e7e38bb73e19b62ab5567940caaa514e9d85982'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmUniMKRWETH
   address: '0xf36c394775285f89bbbdf09533421e3e81e8447c'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmUniRENWETH
   address: '0xa9e201a4e269d6cd5e9f0fcbcb78520cf815878b'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmUniRENWETH
   address: '0x312edeadf68e69a0f53518bf27eacd1abcc2897e'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmUniRENWETH
   address: '0x2a8d5b1c1de15bfcd5ec41368c0295c60d8da83c'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmUniSNXWETH
   address: '0x38e491a71291cd43e8de63b7253e482622184894'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmUniSNXWETH
   address: '0xef62a0c391d89381ddf8a8c90ba772081107d287'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmUniSNXWETH
   address: '0xfd15008efa339a2390b48d2e0ca8abd523b406d3'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmUniUNIWETH
   address: '0x3d26dcd840fcc8e4b2193ace8a092e4a65832f9f'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmUniUNIWETH
   address: '0x6febce732191dc915d6fb7dc5fe3aefddb85bd1b'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmUniUNIWETH
   address: '0x0d878fbb01fbeea7ddefb896d56f1d3167af919f'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmUniUSDCWETH
   address: '0x391e86e2c002c70dee155eaceb88f7a3c38f5976'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmUniUSDCWETH
   address: '0xfab4c9775a4316ec67a8223ecd0f70f87ff532fc'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmUniUSDCWETH
   address: '0x26625d1ddf520fc8d975cc68ec6e0391d9d3df61'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmUniWBTCUSDC
   address: '0x2365a4890ed8965e564b7e2d27c38ba67fec4c6f'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmUniWBTCUSDC
   address: '0xc66bfa05cce646f05f71dee333e3229ce24bbb7e'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmUniWBTCUSDC
   address: '0x36da0c5dc23397cbf9d13bbd74e93c04f99633af'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmUniYFIWETH
   address: '0x5394794be8b6ed5572fcd6b27103f46b5f390e8f'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmUniYFIWETH
   address: '0x9b054b76d6de1c4892ba025456a9c4f9be5b1766'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmUniYFIWETH
   address: '0xdf70bdf01a3ebcd0d918ff97390852a914a92df7'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmBptWBTCWETH
   address: '0x358bd0d980e031e23eba9aa793926857703783bd'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmBptWBTCWETH
   address: '0x46406ecd20fde1df4d80f15f07c434fa95cb6b33'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmBptWBTCWETH
   address: '0xf655df3832859cfb0acfd88edff3452b9aa6db24'
   category: defi_lending
+  actor: aave
 - label: aave_aAmmBptBALWETH
   address: '0xd109b2a304587569c84308c55465cd9ff0317bfb'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aAmmBptBALWETH
   address: '0x6474d116476b8eda1b21472a599ff76a829abcbb'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress-aAmmBptBALWETH
   address: '0xf41a5cc7a61519b08056176d7b4b87ab34df55ad'
   category: defi_lending
+  actor: aave
 - label: aave_aRENFIL
   address: '0x514cd6756ccbe28772d4cb81bc3156ba9d1744aa'
   category: defi_lending
+  actor: aave
 - label: aave_stableDebtTokenAddress-aRENFIL
   address: '0x348e2ebd5e962854871874e444f4122399c02755'
   category: defi_lending
+  actor: aave
 - label: aave_variableDebtTokenAddress
   address: '0xcaad05c49e14075077915cb5c820eb3245afb950'
   category: defi_lending
+  actor: aave
 - label: aave_Ecosystem Reserve
   address: '0x25f2226b597e8f9514b3f68f00f494cf4f286491'
   category: defi_lending
+  actor: aave

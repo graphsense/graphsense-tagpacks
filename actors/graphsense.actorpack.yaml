@@ -14740,6 +14740,24 @@ actors:
     images:
     - icons.llama.fi/ethernity-chain.jpg
     twitter_handle: EthernityChain
+- id: ethhorse
+  label: Ethhorse
+  jurisdictions:
+  - KY
+  categories:
+  - organization
+  - gambling 
+  uri: ethorse.com
+  context:
+    coingecko_ids:
+    - ethorse
+    refs:
+    - icomarks.com/ico/ethorse
+    - api.coingecko.com/api/v3/coins/ethorse
+    images:
+    - assets.coingecko.com/coins/images/2531/large/ethorse.png
+    twitter_handle: EthorseTeam
+    github_organisation: ethorse
 - id: ethichub
   label: EthicHub
   jurisdictions: []

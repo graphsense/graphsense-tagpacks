@@ -4869,6 +4869,7 @@ actors:
   - organization
   - defi_dex
   - exchange
+  - mining_service
   uri: binance.com
   context:
     uris:
@@ -19004,6 +19005,7 @@ actors:
   categories:
   - organization
   - exchange
+  - mining_service
   uri: huobi.com
   context:
     uris:
@@ -23736,23 +23738,6 @@ actors:
     images:
     - icons.llama.fi/marshmallowdefi.png
     twitter_handle: SwapMarshmallow
-- id: marspoolin
-  label: Mars Poolin
-  jurisdictions: []
-  categories:
-  - organization
-  uri: mars.poolin.fi
-  context:
-    coingecko_ids:
-    - mars
-    defilama_ids:
-    - marspoolin
-    - mars-poolin
-    refs:
-    - api.llama.fi/protocol/mars-poolin
-    images:
-    - icons.llama.fi/mars-poolin.jpg
-    twitter_handle: MarsProject2020
 - id: marsprotocol
   label: Mars Protocol
   jurisdictions: []
@@ -30354,6 +30339,28 @@ actors:
     images:
     - icons.llama.fi/poof-cash.png
     twitter_handle: PoofCash
+- id: poolin
+  label: Poolin (Mars)
+  jurisdictions:
+  - CN
+  categories:
+  - organization
+  - mining_service
+  uri: poolin.com
+  context:
+    uris:
+    - mars.poolin.fi
+    coingecko_ids:
+    - mars
+    defilama_ids:
+    - marspoolin
+    - mars-poolin
+    refs:
+    - api.llama.fi/protocol/mars-poolin
+    - https://www.crunchbase.com/organization/poolin
+    images:
+    - icons.llama.fi/mars-poolin.jpg
+    twitter_handle: MarsProject2020
 - id: pooltogether
   label: PoolTogether
   jurisdictions: []

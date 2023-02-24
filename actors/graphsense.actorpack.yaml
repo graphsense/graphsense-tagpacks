@@ -15604,6 +15604,20 @@ actors:
     images:
     - icons.llama.fi/firedao.png
     twitter_handle: FIREDAO_
+- id: fixedfloat
+  label: Fixed Float
+  jurisdictions:
+  - SC
+  categories:
+  - organization
+  - service
+  - exchange
+  uri: fixedfloat.com
+  context:
+    refs:
+    - www.crunchbase.com/organization/fixedfloat
+    - coinpedia.org/exchange/fixedfloat-review/
+    twitter_handle: fixedfloat
 - id: flamedefi
   label: Flame DeFi
   jurisdictions: []
@@ -41506,6 +41520,22 @@ actors:
     images:
     - icons.llama.fi/winkyverse.png
     twitter_handle: thewinkies1
+- id: wirex
+  label: Wire Ex App
+  jurisdictions:
+  - GB
+  - CZ
+  categories:
+  - organization
+  - exchange
+  uri: wirexapp.com
+  context:
+    coingecko_ids:
+    - wirex
+    refs:
+    - www.cryptowisser.com/exchange/wirex-exchange/
+    - www.crunchbase.com/organization/wirex-limited
+    twitter_handle: wirexapp   
 - id: witswap
   label: WitSwap
   jurisdictions: []

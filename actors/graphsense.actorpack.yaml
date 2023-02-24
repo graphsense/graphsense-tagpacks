@@ -6083,6 +6083,7 @@ actors:
   context:
     uris:
     - links.bitstamp.net
+    - bitstamp.com
     coingecko_ids:
     - bitstamp
     defilama_ids:
@@ -33748,6 +33749,27 @@ actors:
     - api.llama.fi/protocol/sigmausd
     images:
     - icons.llama.fi/sigmausd.png
+- id: silkroad2market
+  uri: silkroad2market
+  categories:
+  - service
+  jurisdictions: []
+  label: SilkRoad2Market
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/SilkRoad2Market
+    active: false
+- id: sigmapool
+  label: sigmapool 
+  jurisdictions:
+  - SG
+  categories:
+  - organization
+  - miner
+  - mining_service
+  uri: Sigmapool.com
+  context:
+    twitter_handle: sigmapool
 - id: silkroad2market
   uri: silkroad2market
   categories:

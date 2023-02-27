@@ -6004,17 +6004,22 @@ actors:
   - AT
   categories:
   - exchange
-  uri: exchange.bitpanda.com
+  uri: www.bitpanda.com
   context:
+    uris:
+    - exchange.bitpanda.com
     coingecko_ids:
     - bitpanda
     refs:
     - www.crunchbase.com/organization/bitpanda
     - api.coingecko.com/api/v3/exchanges/bitpanda
+    - coinmarketcap.com/exchanges/bitpanda-pro/
+    - coinmarketcap.com/exchanges/bitpanda-broker/
     images:
     - assets.coingecko.com/markets/images/474/small/appicon-ios-pro.png?1622626638
     legal_name: Bitpanda GmbH
     active: true
+    twitter_handle: BitpandaPro,bitpanda
 - id: bitpaycom
   uri: bitpay.com
   categories:
@@ -16986,16 +16991,20 @@ actors:
   - US
   categories:
   - exchange
-  uri: gemini.sjv.io
+  uri:  gemini.com
   context:
+    uris:
+    - gemini.sjv.io
     coingecko_ids:
     - gemini
     refs:
     - www.cryptowisser.com/exchange/gemini/
     - api.coingecko.com/api/v3/exchanges/gemini
+    - coinmarketcap.com/exchanges/gemini/
     images:
     - assets.coingecko.com/markets/images/50/small/gemini.png?1605704107
     active: true
+    twitter_handle: Gemini
 - id: gemkeeper
   label: GemKeeper
   jurisdictions: []

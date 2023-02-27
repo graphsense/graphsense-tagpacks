@@ -31831,6 +31831,21 @@ actors:
     images:
     - icons.llama.fi/relaychain.jpg
     twitter_handle: relay_chain
+- id: remitano
+  label: Remitano
+  jurisdictions:
+  - SC
+  categories:
+  - organization
+  - exchange
+  uri: remitano.com
+  context:
+    refs:
+    - coinmarketcap.com/exchanges/remitano/
+    - www.crunchbase.com/organization/remitano
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/567.png
+    twitter_handle: remitano
 - id: ren
   label: RenVM
   jurisdictions: []

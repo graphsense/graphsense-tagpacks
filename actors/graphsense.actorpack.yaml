@@ -942,6 +942,7 @@ actors:
     images:
     - icons.llama.fi/afraswap.jpg
     twitter_handle: afraswap
+    github_organisation: afraswap
 - id: agarthadao
   label: AgarthaDAO
   jurisdictions: []

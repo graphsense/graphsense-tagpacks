@@ -181,7 +181,8 @@ actors:
     start_activity: '2021-06-07'
 - id: 1inch
   label: 1inch Network
-  jurisdictions: []
+  jurisdictions:
+  - KN
   categories:
   - exchange
   - defi_dex
@@ -198,10 +199,12 @@ actors:
     refs:
     - api.llama.fi/protocol/1inch-network
     - api.coingecko.com/api/v3/exchanges/one_inch_liquidity_protocol
+    - www.crunchbase.com/organization/1inch-limited
     images:
     - icons.llama.fi/1inch-network.jpg
     - assets.coingecko.com/markets/images/611/small/1inch-liquidity-protocol.png?1608873020
     twitter_handle: 1inchNetwork
+    github_organisation: 1inch
 - id: 1swap
   label: 1Swap
   jurisdictions: []
@@ -3752,7 +3755,8 @@ actors:
     twitter_handle: BalancedDAO
 - id: balancer
   label: Balancer v1/v2
-  jurisdictions: []
+  jurisdictions:
+  - PT
   categories:
   - defi_dex
   - exchange
@@ -3780,6 +3784,9 @@ actors:
     - api.llama.fi/protocol/balancer
     - api.coingecko.com/api/v3/exchanges/balancer
     - api.coingecko.com/api/v3/exchanges/balancer_polygon
+    - www.crunchbase.com/organization/balancer-labs
+    - coinmarketcap.com/exchanges/balancer-v2/
+    - coinmarketcap.com/exchanges/balancer/
     images:
     - assets.coingecko.com/markets/images/694/small/Balancer.png?1628656480
     - assets.coingecko.com/markets/images/716/small/balancer.png?1634040072
@@ -5485,7 +5492,8 @@ actors:
     - assets.coingecko.com/markets/images/375/small/logo_bitexbook.png?1553668542
 - id: bitexen
   label: Bitexen
-  jurisdictions: []
+  jurisdictions:
+  - TR
   categories:
   - exchange
   uri: www.bitexen.com
@@ -5494,6 +5502,8 @@ actors:
     - bitexen
     refs:
     - api.coingecko.com/api/v3/exchanges/bitexen
+    - coinmarketcap.com/exchanges/bitexen/
+    - www.crunchbase.com/organization/bitexen
     images:
     - assets.coingecko.com/markets/images/693/small/Bitexen_Logo_Short.png?1634198471
 - id: bitexlive
@@ -11538,7 +11548,8 @@ actors:
     active: true
 - id: curve
   label: Curve (Xdai, Ethereum, Arbitrum, Fantom, Avalanche, Moonbeam, Polygon)
-  jurisdictions: []
+  jurisdictions:
+    - CH
   categories:
   - organization
   - defi_dex
@@ -11577,6 +11588,7 @@ actors:
     - api.coingecko.com/api/v3/exchanges/curve_optimism
     - api.coingecko.com/api/v3/exchanges/curve_polygon
     - api.llama.fi/protocol/curve
+    - coinmarketcap.com/exchanges/curve-finance/
     images:
     - icons.llama.fi/curve.png
     - assets.coingecko.com/markets/images/930/small/W1sQNVWo_400x400.jpeg?1660125046
@@ -16622,7 +16634,8 @@ actors:
     twitter_handle: NovaFinOfficial
 - id: futureswap
   label: FutureSwap
-  jurisdictions: []
+  jurisdictions:
+  - US
   categories:
   - organization
   - defi_dex
@@ -16637,6 +16650,8 @@ actors:
     - futureswap
     refs:
     - api.llama.fi/protocol/futureswap
+    - coinmarketcap.com/exchanges/futureswap
+    - www.crunchbase.com/organization/futureswap
     images:
     - icons.llama.fi/futureswap.jpg
     twitter_handle: futureswapx
@@ -26319,7 +26334,8 @@ actors:
     active: true
 - id: nexus
   label: Nexus Mutual
-  jurisdictions: []
+  jurisdictions:
+  - GB
   categories:
   - organization
   - exchange
@@ -26335,6 +26351,8 @@ actors:
     refs:
     - api.llama.fi/protocol/nexus-mutual
     - api.coingecko.com/api/v3/exchanges/nexus_mutual
+    - coinmarketcap.com/exchanges/nexus-mutual/
+    - uploads-ssl.webflow.com/62d8193ce9880895261daf4a/63d0f00d1f7d3b1d7de7683e_Nexus%20Mutual%20Terms-of-Use.pdf
     images:
     - assets.coingecko.com/markets/images/549/small/nexus-mutual.jpg?1594547672
     - icons.llama.fi/nexus-mutual.png
@@ -30381,7 +30399,7 @@ actors:
     - mars-poolin
     refs:
     - api.llama.fi/protocol/mars-poolin
-    - https://www.crunchbase.com/organization/poolin
+    - www.crunchbase.com/organization/poolin
     images:
     - icons.llama.fi/mars-poolin.jpg
     twitter_handle: MarsProject2020
@@ -36396,7 +36414,8 @@ actors:
     twitter_handle: SurfswapDEX
 - id: sushiswap
   label: Sushiswap (Celo/Kashi/Furo/Trident/BentoBox)
-  jurisdictions: []
+  jurisdictions:
+  - JP
   categories:
   - organization
   - defi_dex
@@ -36451,6 +36470,8 @@ actors:
     - api.llama.fi/protocol/sushi-bentobox
     - api.llama.fi/protocol/sushi-trident
     - api.llama.fi/protocol/sushi-furo
+    - www.crunchbase.com/organization/sushiswap
+    - coinmarketcap.com/exchanges/sushiswap/
     images:
     - assets.coingecko.com/markets/images/944/small/sushiswap-arbitrum-nova.png?1661179683
     - assets.coingecko.com/markets/images/677/small/sushiswap-fantom.png?1621508759
@@ -36846,7 +36867,8 @@ actors:
     twitter_handle: Swipe
 - id: swissborg
   label: SwissBorg
-  jurisdictions: []
+  jurisdictions:
+  - CH
   categories:
   - exchange
   uri: swissborg.com
@@ -36855,6 +36877,7 @@ actors:
     - swissborg
     refs:
     - api.llama.fi/protocol/swissborg
+    - www.crunchbase.com/organization/swissborg
     images:
     - icons.llama.fi/swissborg.png
     twitter_handle: swissborg
@@ -39394,7 +39417,8 @@ actors:
     twitter_handle: UnirexFinance
 - id: uniswap
   label: Uniswap V1/V2/V3
-  jurisdictions: []
+  jurisdictions:
+  - US
   categories:
   - organization
   - defi_dex
@@ -39429,6 +39453,10 @@ actors:
     - api.coingecko.com/api/v3/exchanges/uniswap_v3_optimism
     - api.coingecko.com/api/v3/exchanges/uniswap_v3_arbitrum
     - api.coingecko.com/api/v3/exchanges/uniswap_v3_polygon_pos
+    - www.crunchbase.com/organization/uniswap-labs
+    - coinmarketcap.com/exchanges/uniswap-v3/
+    - coinmarketcap.com/exchanges/uniswap-v2/
+    - coinmarketcap.com/exchanges/uniswap-v1/
     images:
     - icons.llama.fi/uniswap-v3.png
     - icons.llama.fi/uniswap-v2.png

@@ -37900,6 +37900,25 @@ actors:
     images:
     - icons.llama.fi/thetaswap.png
     twitter_handle: Theta_Network
+- id: tether
+  label: Tether (USDT)
+  jurisdictions:
+  - HK
+  categories:
+  - payment_processor
+  - defi
+  uri: tether.to
+  context:
+    coingecko_ids:
+    - tether
+    refs:
+    - api.coingecko.com/api/v3/coins/tether
+    - coinmarketcap.com/currencies/tether/
+    - www.crunchbase.com/organization/tether-50cc
+    images:
+    - assets.coingecko.com/coins/images/325/large/Tether.png?1668148663
+    twitter_handle: Tether_to
+https://tether.to/
 - id: thodex
   label: Thodex
   jurisdictions:

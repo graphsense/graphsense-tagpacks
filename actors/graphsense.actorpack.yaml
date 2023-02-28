@@ -37918,7 +37918,6 @@ actors:
     images:
     - assets.coingecko.com/coins/images/325/large/Tether.png?1668148663
     twitter_handle: Tether_to
-https://tether.to/
 - id: thodex
   label: Thodex
   jurisdictions:

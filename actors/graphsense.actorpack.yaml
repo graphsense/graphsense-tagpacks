@@ -32902,21 +32902,28 @@ actors:
     - icons.llama.fi/sashimiswap.png
     twitter_handle: SASHIMISASHIMI5
 - id: satangpro
-  label: Satang Pro
+  label: Satang Pro / Tdax
   jurisdictions:
   - TH
   categories:
   - exchange
   uri: satang.com
   context:
+    coingecko_ids:
+    - tdax
+    refs:
+    - api.coingecko.com/api/v3/exchanges/tdax
+    images:
+    - assets.coingecko.com/markets/images/231/small/satangpro.jpg?1549866880
     uris:
     - satangcorp.com
+    - satang.pro
     refs:
     - www.crunchbase.com/organization/satang
     - coinmarketcap.com/exchanges/satang-pro/
     active: true
     start_activity: '2017'
-    twitter_handle: satangcorp
+    twitter_handle: satangcorp,statangpro
 - id: satoshi-karoshicom
   uri: satoshi-karoshi.com
   categories:
@@ -37243,20 +37250,6 @@ actors:
     images:
     - icons.llama.fi/tbtc.png
     twitter_handle: TheTNetwork
-- id: tdax
-  label: Satang Pro
-  jurisdictions:
-  - TH
-  categories:
-  - exchange
-  uri: satang.pro
-  context:
-    coingecko_ids:
-    - tdax
-    refs:
-    - api.coingecko.com/api/v3/exchanges/tdax
-    images:
-    - assets.coingecko.com/markets/images/231/small/satangpro.jpg?1549866880
 - id: tealswap
   label: Tealswap
   jurisdictions: []

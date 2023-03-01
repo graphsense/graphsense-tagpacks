@@ -3056,17 +3056,6 @@ actors:
     images:
     - icons.llama.fi/atomichub.png
     twitter_handle: AtomicHub
-- id: atomictrade
-  label: Atomic Trade
-  jurisdictions:
-  - US
-  categories:
-  - exchange
-  uri: www.atomic-trade.com
-  context:
-    refs:
-    - www.theasianbanker.com/publication/virtual-currency-services
-    active: false
 - id: atrix
   label: Atrix
   jurisdictions: []
@@ -3472,7 +3461,8 @@ actors:
     twitter_handle: AxlToken
 - id: azbit
   label: Azbit
-  jurisdictions: []
+  jurisdictions:
+  - MH
   categories:
   - exchange
   uri: azbit.com
@@ -3481,9 +3471,11 @@ actors:
     - azbit
     refs:
     - api.coingecko.com/api/v3/exchanges/azbit
+    - www.crunchbase.com/organization/azbit
     images:
     - assets.coingecko.com/markets/images/787/small/azbit.jpeg?1643539663
     active: true
+    twitter_handle: azbit_news
 - id: aztec
   label: Aztec
   jurisdictions: []
@@ -4002,16 +3994,24 @@ actors:
   context:
     active: true
 - id: banxio
-  label: banx.io
-  jurisdictions: []
+  label: Atomic Trade / Banx io
+  jurisdictions:
+  - US
   categories:
   - exchange
-  uri: banx.io
+  uri: www.atomic-trade.com
   context:
+    uris:
+    - banx.io
     defilama_ids:
     - banx.io
     refs:
     - www.walletexplorer.com/wallet/Banx.io
+    - www.theasianbanker.com/publication/virtual-currency-services
+    - news.marketersmedia.com/banx-io-announces-new-partnership-with-prominent-cryptocurrency-exchange/75721
+    active: false
+    notes:
+    - banx.io renamed to atomic trade
 - id: bao
   label: Bao (Swap, USD, Ballast, Markets, Basket, Masterchef V1) / Panda (Swap, Chef)
   jurisdictions: []
@@ -6459,7 +6459,8 @@ actors:
     active: true
 - id: bityes
   label: Bityes
-  jurisdictions: []
+  jurisdictions:
+  - HK
   categories:
   - exchange
   - service
@@ -6469,6 +6470,8 @@ actors:
     - coinmarketcap.com/exchanges/bityes/
     - www.coindesk.com/tag/bityes/
     - www.walletexplorer.com/wallet/BitYes.com
+    - coinmarketcap.com/exchanges/bityes/
+    - www.reddit.com/r/Bitcoin/comments/2gfzb6/bityescom_a_new_usdbtc_trading_platform/
     notes:
     - related to huobi?
     active: false
@@ -10377,16 +10380,21 @@ actors:
     - assets.coingecko.com/markets/images/1028/small/cointr.png?1673681204
 - id: cointrader
   label: Cointrader Net
-  jurisdictions: []
+  jurisdictions:
+  - US
   categories:
   - exchange
   uri: CoinTrader.net
   context:
     refs:
     - www.walletexplorer.com/wallet/CoinTrader.net
+    - www.crunchbase.com/organization/cointrader-net
+    - https://cointrader.net/pages/terms
     images:
     - cointrader.net/upload/CT-03.png
     twitter_handle: CoinTraderNet
+    notes:
+    - crunchbase says CA
 - id: coinurlcom
   uri: coinurl.com
   categories:
@@ -15421,7 +15429,8 @@ actors:
     start_activity: '2014'
 - id: exchanging
   label: Exchanging
-  jurisdictions: []
+  jurisdictions:
+  - IR
   categories:
   - exchange
   uri: exchanging.ir
@@ -15431,6 +15440,7 @@ actors:
     defilama_ids:
     - exchanging.ir
     active: true
+    twitter_handle: Exchanging_App
 - id: exinpool
   label: ExinPool
   jurisdictions: []
@@ -17891,7 +17901,7 @@ actors:
   uri: www.goldsilverbitcoin.com
   context:
     refs:
-    - https://www.theasianbanker.com/publication/virtual-currency-services
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: true
 - id: golffprotocol
   label: Golff Protocol
@@ -24314,7 +24324,8 @@ actors:
     twitter_handle: muxprotocol
 - id: mcxnow
   label: Mcxnow
-  jurisdictions: []
+  jurisdictions:
+  - SC
   categories:
   - exchange
   - service
@@ -24323,6 +24334,8 @@ actors:
     refs:
     - en.bitcoin.it/wiki/McxNOW
     - www.walletexplorer.com/wallet/McxNOW.com
+    - coinmarketcap.com/exchanges/mcxnow/
+    - coinsutra.com/mxc-exchange-review/
     active: false
     end_activity: '2014-11-15'
 - id: mdex
@@ -24485,7 +24498,8 @@ actors:
     active: true
 - id: mercatox
   label: Mercatox
-  jurisdictions: []
+  jurisdictions:
+  - MH
   categories:
   - exchange
   uri: mercatox.com
@@ -24494,8 +24508,11 @@ actors:
     - mercatox
     refs:
     - api.coingecko.com/api/v3/exchanges/mercatox
+    - mercatox.com/terms
+    - coinmarketcap.com/exchanges/mercatox/
     images:
     - assets.coingecko.com/markets/images/53/small/mercatox.jpg?1520933436
+    twitter_handle: MercatoxCom,Mercatox_info
 - id: mercurity
   label: Mercurity
   jurisdictions: []
@@ -37128,6 +37145,8 @@ actors:
     - It seems it is a DeFi protocol
     uris:
     - swapr.eth.limo
+    - www.levelk.io
+    - dxdao.eth.limo
     coingecko_ids:
     - swapr
     - swapr_xdai
@@ -37146,7 +37165,8 @@ actors:
     - icons.llama.fi/swapr.svg
     - assets.coingecko.com/markets/images/689/small/dxswap-black.png?1627464962
     - assets.coingecko.com/markets/images/710/small/swapr.jpeg?1633429570
-    twitter_handle: SwaprEth
+    twitter_handle: SwaprEth,dxdao_
+    github_organisation: levelkdev
     active: true
 - id: swapscanner
   label: Swapscanner
@@ -39118,7 +39138,8 @@ actors:
     active: true
 - id: tradeogre
   label: TradeOgre
-  jurisdictions: []
+  jurisdictions:
+  - US
   categories:
   - exchange
   uri: tradeogre.com
@@ -39127,8 +39148,12 @@ actors:
     - trade_ogre
     refs:
     - api.coingecko.com/api/v3/exchanges/trade_ogre
+    - coinmarketcap.com/exchanges/tradeogre/
+    - www.cryptowisser.com/exchange/tradeogre
+    - tokenhell.com/tradeogre/
     images:
     - assets.coingecko.com/markets/images/101/small/tradeogre.jpeg?1521428643
+    twitter_handle: Tradeogre
 - id: traderjoe
   label: Trader Joe v1/v2/Dex/Lend
   jurisdictions: []
@@ -40665,15 +40690,19 @@ actors:
     start_activity: '2014'
 - id: vaultorocom
   label: vaultoro.com
-  jurisdictions: []
+  jurisdictions:
+  - GB
   categories:
   - exchange
   uri: vaultoro.com
   context:
     refs:
     - www.walletexplorer.com/wallet/Vaultoro.com
+    - www.crunchbase.com/organization/vaultoro-com-the-real-time-bitcoin-gold-trading-platform-and-api
+    - https://www.cryptowisser.com/exchange/vaultoro
     defilama_ids:
     - vaultoro.com
+    twitter_handle: vaultoro
 - id: vaultyfinance
   label: Vaulty Finance
   jurisdictions: []

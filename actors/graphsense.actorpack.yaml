@@ -171,6 +171,7 @@ actors:
   uri: 1coin.io
   jurisdictions:
   - CA
+  - US
   categories:
   - exchange
   context:
@@ -179,6 +180,17 @@ actors:
     legal_name: 1COIN Assets Inc.
     active: true
     start_activity: '2021-06-07'
+- id: 1coincom
+  label: 1Coin
+  uri: 1coin.com
+  jurisdictions:
+  - CN
+  categories:
+  - exchange
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false
 - id: 1inch
   label: 1inch Network
   jurisdictions:
@@ -1331,6 +1343,17 @@ actors:
     images:
     - icons.llama.fi/alita-finance.png
     twitter_handle: AlitaFinance
+- id: alitinexchange
+  label: Alitin Exchange
+  jurisdictions:
+  - US
+  categories:
+  - exchange
+  uri: alitinexchange.com
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false
 - id: aliumswap
   label: Alium Swap
   jurisdictions: []
@@ -1397,15 +1420,18 @@ actors:
   uri: allcoin.com
   categories:
   - service
-  jurisdictions: []
+  jurisdictions:
+  - GB
   label: AllCoin.com
   context:
     refs:
     - www.walletexplorer.com/wallet/AllCoin.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: false
 - id: allcrypt
   label: Allcrypt
-  jurisdictions: []
+  jurisdictions:
+  - US
   categories:
   - exchange
   - service
@@ -1414,6 +1440,7 @@ actors:
     refs:
     - bitcoinist.com/42-btc-stolen-allcrypt-exchange/
     - www.walletexplorer.com/wallet/AllCrypt.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: false
     end_activity: '2015'
 - id: alligator
@@ -1959,16 +1986,19 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/AntPool.com
 - id: anxpro
-  label: Anxpro
+  label: Anx Pro
   jurisdictions:
   - HK
   uri: anxpro.com
   categories:
   - exchange
   context:
+    uris:
+    - anxbtc.com
     refs:
     - www.cryptowisser.com/exchange/anxpro/
     - www.walletexplorer.com/wallet/AnxPro.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     notes:
     - still active according to crunchbase (but see also www.anxpro-closing.com/)
     active: false
@@ -2185,7 +2215,7 @@ actors:
 - id: aprobit
   label: Aprobit
   jurisdictions:
-  - KP
+  - KR
   categories:
   - exchange
   uri: www.aprobit.com
@@ -2899,6 +2929,17 @@ actors:
     images:
     - icons.llama.fi/athos-finance.png
     twitter_handle: Athos_Finance
+- id: atlantabitcoin
+  label: Atlanta Bitcoin
+  jurisdictions:
+  - US
+  categories:
+  - exchange
+  uri: www.atlantabitcoin.com
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false
 - id: atlantisloans
   label: Atlantis Loans
   jurisdictions: []
@@ -2915,6 +2956,17 @@ actors:
     images:
     - icons.llama.fi/atlantis-loans.png
     twitter_handle: atlantis_loans
+- id: atlasats
+  label: Atlas ATS
+  jurisdictions:
+  - US
+  categories:
+  - exchange
+  uri: atlasats.com
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false
 - id: atlasusv
   label: Atlas USV
   jurisdictions: []
@@ -3004,6 +3056,17 @@ actors:
     images:
     - icons.llama.fi/atomichub.png
     twitter_handle: AtomicHub
+- id: atomictrade
+  label: Atomic Trade
+  jurisdictions:
+  - US
+  categories:
+  - exchange
+  uri: www.atomic-trade.com
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false
 - id: atrix
   label: Atrix
   jurisdictions: []
@@ -5063,8 +5126,10 @@ actors:
     - bit2c
     refs:
     - api.coingecko.com/api/v3/exchanges/bit2c
+    - www.theasianbanker.com/publication/virtual-currency-services
     images:
     - assets.coingecko.com/markets/images/145/small/bit2c.jpeg?1523867875
+    active: true
 - id: bitacesme
   uri: bitaces.me
   categories:
@@ -5174,6 +5239,17 @@ actors:
     images:
     - assets.coingecko.com/markets/images/2/small/logo_zonda.png?1638780494
     active: true
+- id: bitbaypl
+  label: bitbay.pl
+  jurisdictions:
+  - PL
+  categories:
+  - exchange
+  uri: bitbay.pl
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false    
 - id: bitbegin
   label: Bitbegin
   jurisdictions:
@@ -5269,6 +5345,28 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/BitClix.com
+- id: bitcm
+  uri: bit.cm
+  categories:
+  - exchange
+  jurisdictions:
+  - US
+  label: bit cm
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false
+- id: bitcoin-bourse
+  uri: bitcoinbourse.eu/
+  categories:
+  - exchange
+  jurisdictions:
+  - FR
+  label: Bitcoin Bourse
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false
 - id: bitcoin-roulettecom
   uri: bitcoin-roulette.com
   categories:
@@ -5304,6 +5402,17 @@ actors:
     refs:
     - bitcoinbon.at/
     active: true
+- id: bitcoincoid
+  label: bitcoin.co.id
+  jurisdictions:
+  - ID
+  categories:
+  - exchange
+  uri: www.bitcoin.co.id
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false
 - id: bitcoincom
   label: Bitcoin-Com (FMFW.io)
   jurisdictions:
@@ -5334,6 +5443,7 @@ actors:
     refs:
     - www.cryptowisser.com/exchange/bitcoin-de/
     - www.walletexplorer.com/wallet/Bitcoin.de
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: true
 - id: bitcoinfog
   uri: bitcoinfog.me
@@ -5448,6 +5558,7 @@ actors:
     refs:
     - www.crunchbase.com/organization/bitcurex
     - www.walletexplorer.com/wallet/Bitcurex.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: false
 - id: bitdao
   label: BitDAO
@@ -5559,8 +5670,9 @@ actors:
     - api.coingecko.com/api/v3/exchanges/bitfinex
     - www.cryptowisser.com/exchange/bitfinex/?lang=de
     - www.walletexplorer.com/wallet/Bitfinex.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     notes:
-    - also cryptostats says BVI while crunchbase says Taiwan
+    - also cryptostats says BVI while crunchbase says Taiwan, the asian banker says HK
     images:
     - icons.llama.fi/bitfinex.png
     - assets.coingecko.com/markets/images/4/small/BItfinex.png?1615895883
@@ -5718,6 +5830,17 @@ actors:
     images:
     - assets.coingecko.com/markets/images/405/small/bitgloball.png?1639543042
     active: true
+- id: bitgoinc
+  label: BitGo
+  jurisdictions:
+  - US
+  categories:
+  - exchange
+  uri: bitgoinc.com
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false
 - id: bithash
   label: BitHash
   jurisdictions:
@@ -5735,7 +5858,7 @@ actors:
 - id: bithumb
   label: Bithumb
   jurisdictions:
-  - KP
+  - KR
   categories:
   - exchange
   uri: www.bithumb.com
@@ -5796,6 +5919,7 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/BitKonan.com
     - www.cryptowisser.com/exchange/bitkonan/
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: true
 - id: bitkub
   label: Bitkub
@@ -5864,6 +5988,30 @@ actors:
     legal_name: Bitmain Technologies Inc.
     active: true
     start_activity: '2013'
+- id: bitmarktph
+  label: Bitmarket.ph
+  jurisdictions:
+  - PH
+  categories:
+  - exchange
+  uri: bitmarket.ph
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false
+- id: bitmarktpl
+  label: BitMarket.pl
+  jurisdictions:
+  - PL
+  categories:
+  - exchange
+  uri: bitmarket.pl
+  context:
+    uris:
+    - egera.com
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: true
 - id: bitmart
   label: BitMart
   jurisdictions:
@@ -5897,6 +6045,18 @@ actors:
     - api.coingecko.com/api/v3/exchanges/bitmax
     images:
     - assets.coingecko.com/markets/images/277/small/%E5%8E%9F%E8%89%B2.png?1650557355
+    active: true
+- id: bitme
+  label: Bitme
+  jurisdictions:
+  - US
+  categories:
+  - exchange
+  uri: bitme.com
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    twitter_handle: bitme
     active: true
 - id: bitmex
   label: BitMEX
@@ -5953,29 +6113,18 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/Bitmit.net
     active: false
-- id: bitnz
-  label: Bitnz
-  jurisdictions:
-  - CN
-  categories:
-  - exchange
-  uri: bitz.com
-  context:
-    refs:
-    - finance.yahoo.com/news/chinese-crypto-exchange-bitz-announces-180919112.html
-    - coinmarketcap.com/exchanges/bitz/
-    active: false
-    end_activity: '2021'
-    twitter_handle: BitZ_Group
 - id: bitnzcom
   uri: bitnz.com
   categories:
   - service
-  jurisdictions: []
+  jurisdictions:
+  - NZ
   label: BitNZ.com
   context:
     refs:
     - www.walletexplorer.com/wallet/BitNZ.com
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false
 - id: bitoexcom
   uri: bitoex.com
   categories:
@@ -6090,6 +6239,17 @@ actors:
     - assets.coingecko.com/markets/images/8/small/Bitso-icon-dark.png?1581909156
     legal_name: BITSO SAPI de CV
     active: true
+- id: bitsofgold
+  label: Bits of Gold
+  jurisdictions:
+  - IL
+  categories:
+  - exchange
+  uri: www.bitsofgold.co.il
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: true
 - id: bitstamp
   label: Bitstamp
   jurisdictions:
@@ -6109,6 +6269,7 @@ actors:
     - www.crunchbase.com/organization/bitstamp
     - api.coingecko.com/api/v3/exchanges/bitstamp
     - www.walletexplorer.com/wallet/Bitstamp.net
+    - www.theasianbanker.com/publication/virtual-currency-services
     images:
     - assets.coingecko.com/markets/images/9/small/bitstamp.jpg?1519627979
     legal_name: Bitstamp Limited
@@ -6136,6 +6297,15 @@ actors:
     - api.coingecko.com/api/v3/exchanges/bitsten
     images:
     - assets.coingecko.com/markets/images/292/small/Bitsten_Exchange.jpg?1540449645
+- id: bitstock
+  label: BitStock
+  jurisdictions:
+  - CZ
+  categories:
+  - exchange
+  uri: www.bitstock.com
+  context:
+    active: false
 - id: bitstorage
   label: BitStorage
   jurisdictions:
@@ -6166,10 +6336,22 @@ actors:
     - www.cryptowisser.com/exchange/bittrex/
     - api.coingecko.com/api/v3/exchanges/bittrex
     - www.walletexplorer.com/wallet/Bittrex.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     notes:
     - also cryptostats
     images:
     - assets.coingecko.com/markets/images/10/small/BG-color-250x250_icon.png?1596167574
+    active: true
+- id: bittylicious
+  label: Bittylicious
+  jurisdictions:
+  - GB
+  categories:
+  - exchange
+  uri: bittylicious.com
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: true
 - id: bitubu
   label: Bitubu Exchange
@@ -6185,6 +6367,17 @@ actors:
     - api.coingecko.com/api/v3/exchanges/bitubu
     images:
     - assets.coingecko.com/markets/images/508/small/bitubu.png?1676439743
+- id: bitup
+  label: Bitup
+  jurisdictions:
+  - KR
+  categories:
+  - exchange
+  uri: www.bitup.co.kr/
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false
 - id: bitvavo
   label: Bitvavo
   jurisdictions:
@@ -6253,13 +6446,16 @@ actors:
   - ZA
   categories:
   - exchange
-  uri: bit-x.com
+  uri: bitx.co.za
   context:
+    uris:
+    - bit-x.com
     defilama_ids:
     - bit-x.com
     refs:
     - news.bitcoin.com/bitx-launches-exchange-wallet-support-singapore/
     - www.walletexplorer.com/wallet/Bit-x.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: true
 - id: bityes
   label: Bityes
@@ -6276,7 +6472,21 @@ actors:
     notes:
     - related to huobi?
     active: false
-- id: bitz
+- id: bitzcom
+  label: Bitz
+  jurisdictions:
+  - CN
+  categories:
+  - exchange
+  uri: bitz.com
+  context:
+    refs:
+    - finance.yahoo.com/news/chinese-crypto-exchange-bitz-announces-180919112.html
+    - coinmarketcap.com/exchanges/bitz/
+    active: false
+    end_activity: '2021'
+    twitter_handle: BitZ_Group
+- id: bitznetwork
   label: Bitz
   jurisdictions:
   - NL
@@ -6516,6 +6726,17 @@ actors:
     refs:
     - www.linkedin.com/company/blocktradecom/?originalSubdomain=lu
     active: true
+- id: blossom
+  label: Blossom
+  jurisdictions:
+  - US
+  categories:
+  - exchange
+  uri: www.blossom.mobi
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false
 - id: bloxmove
   label: BloXmove
   jurisdictions: []
@@ -7160,6 +7381,7 @@ actors:
     refs:
     - www.crunchbase.com/organization/btc38-com
     - www.walletexplorer.com/wallet/Btc38.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: true
 - id: btcalpha
   label: BTC-Alpha
@@ -7258,7 +7480,6 @@ actors:
 - id: btcexchange
   label: Btcexchange
   jurisdictions:
-  - RO
   - LT
   categories:
   - exchange
@@ -7271,11 +7492,13 @@ actors:
   uri: btcexchange.ro
   categories:
   - service
-  jurisdictions: []
+  jurisdictions:
+  - RO
   label: BtcExchange.ro
   context:
     refs:
     - www.walletexplorer.com/wallet/BtcExchange.ro
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: false
 - id: btcguildcom
   uri: btcguild.com
@@ -7323,6 +7546,7 @@ actors:
     - www.walletexplorer.com/wallet/BtcMarkets.net
     - www.crunchbase.com/organization/btc-markets
     - api.coingecko.com/api/v3/exchanges/btcmarkets
+    - www.theasianbanker.com/publication/virtual-currency-services
     images:
     - assets.coingecko.com/markets/images/237/small/btcmarkets-exchange.jpg?1536726060
     legal_name: BTC Markets Pty Ltd
@@ -7399,23 +7623,31 @@ actors:
     - www.walletexplorer.com/wallet/BTCt.com
     active: false
 - id: btctrade
-  label: BTC Trade (ua)
+  label: BTC Trade
   jurisdictions:
-  - TR
+  - CN
   categories:
   - exchange
   uri: btctrade.com
   context:
-    uris:
-    - btc-trade.com.ua
-    coingecko_ids:
-    - btc_trade_ua
     defilama_ids:
     - btctrade.com
     refs:
-    - api.coingecko.com/api/v3/exchanges/btc_trade_ua
-    - www.crunchbase.com/organization/btctrader
+    - www.theasianbanker.com/publication/virtual-currency-services
     - www.walletexplorer.com/wallet/BtcTrade.com
+    active: false
+- id: btctradeua
+  label: BTC Trade (ua)
+  jurisdictions:
+  - UA
+  categories:
+  - exchange
+  uri: btc-trade.com.ua
+  context:
+    coingecko_ids:
+    - btc_trade_ua
+    refs:
+    - api.coingecko.com/api/v3/exchanges/btc_trade_ua
     images:
     - assets.coingecko.com/markets/images/169/small/btctradeua.png?1527501701
     active: true
@@ -7449,6 +7681,7 @@ actors:
     refs:
     - www.crunchbase.com/organization/bter
     - www.walletexplorer.com/wallet/Bter.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: false
 - id: btfinance
   label: BT.Finance
@@ -7719,6 +7952,28 @@ actors:
     images:
     - icons.llama.fi/butterswap.jpg
     twitter_handle: ButterSwap
+- id: buybitcoinph
+  label: Buybitcoin.ph
+  jurisdictions:
+  - PH
+  categories:
+  - exchange
+  uri: buybitcoin.ph
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false
+- id: buysellbitcoin
+  label: BuySellBitco.in
+  jurisdictions:
+  - IN
+  categories:
+  - exchange
+  uri: buysellbitco.in
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false
 - id: buyucoin
   label: BuyUcoin
   jurisdictions: []
@@ -7780,6 +8035,7 @@ actors:
     - www.cryptocompare.com/exchanges/bxinth/overview
     - coinmarketcap.com/exchanges/bx-thailand/
     - www.walletexplorer.com/wallet/BX.in.th
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: false
 - id: bxh
   label: BXH
@@ -8001,6 +8257,7 @@ actors:
     refs:
     - www.crunchbase.com/organization/campbx
     - www.walletexplorer.com/wallet/CampBX.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: true
 - id: canary
   label: Canary
@@ -8571,6 +8828,7 @@ actors:
     - api.coingecko.com/api/v3/exchanges/cex
     - www.crunchbase.com/organization/cex-io
     - www.walletexplorer.com/wallet/Cex.io
+    - www.theasianbanker.com/publication/virtual-currency-services
     images:
     - assets.coingecko.com/markets/images/56/small/main-icon.png?1617267530
     active: true
@@ -9030,6 +9288,18 @@ actors:
     images:
     - icons.llama.fi/cian.png
     twitter_handle: CIAN_protocol
+- id: circle
+  label: Circle
+  jurisdictions:
+  - US
+  categories:
+  - exchange
+  uri: www.circle.com
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: true
+    twitter_handle: circle
 - id: citadao
   label: CitaDAO
   jurisdictions: []
@@ -9361,6 +9631,7 @@ actors:
     - www.crunchbase.com/organization/coinbase
     - www.cryptowisser.com/exchange/coinbase
     - api.llama.fi/protocol/coinbase-wrapped-staked-eth
+    - www.theasianbanker.com/publication/virtual-currency-services
     images:
     - assets.coingecko.com/markets/images/23/small/Coinbase_Coin_Primary.png?1621471875
     - icons.llama.fi/coinbase-wrapped-staked-eth.png
@@ -9373,7 +9644,7 @@ actors:
 - id: coinbit
   label: Coinbit
   jurisdictions:
-  - KP
+  - KR
   categories:
   - exchange
   uri: www.coinbit.co.kr
@@ -9597,6 +9868,20 @@ actors:
     twitter_handle: CoinFLEXdotcom
     legal_name: Liquidity Technologies Ltd.
     active: true
+- id: coinfloor
+  label: Coin Floor / Coin Corner
+  jurisdictions:
+  - GB
+  categories:
+  - exchange
+  uri: coinfloor.co.uk
+  context:
+    uris:
+      - www.coincorner.com
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    twitter_handle: CoinCorner
+    active: true
 - id: coingamingio
   uri: coingaming.io
   categories:
@@ -9704,6 +9989,7 @@ actors:
     - api.coingecko.com/api/v3/exchanges/coinjar
     - www.crunchbase.com/organization/coinjar
     - www.walletexplorer.com/wallet/CoinJar.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     images:
     - assets.coingecko.com/markets/images/176/small/Logomark_2022200h_thumb.png?1657688357
     legal_name: CoinJar UK Limited
@@ -9820,6 +10106,7 @@ actors:
     refs:
     - www.crunchbase.com/organization/coin-market
     - www.walletexplorer.com/wallet/CoinMkt.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: false
     start_activity: '2013-04-01'
 - id: coinmotion
@@ -9835,6 +10122,7 @@ actors:
     refs:
     - www.crunchbase.com/organization/coinmotion
     - www.walletexplorer.com/wallet/CoinMotion.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: true
 - id: coinomat
   label: Coinomat
@@ -9853,7 +10141,7 @@ actors:
 - id: coinone
   label: Coinone
   jurisdictions:
-  - KP
+  - KR
   categories:
   - exchange
   uri: coinone.co.kr
@@ -9907,6 +10195,18 @@ actors:
     images:
     - assets.coingecko.com/markets/images/267/small/Coinsbit.png?1605153697
     active: true
+- id: coinscoth
+  label: coins.co.th
+  jurisdictions:
+  - TH
+  categories:
+  - exchange
+  uri: coins.co.th/
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: true
+    twitter_handle: coinscoth
 - id: coinse
   label: Coins-E
   jurisdictions:
@@ -9921,6 +10221,19 @@ actors:
     - www.walletexplorer.com/wallet/Coins-e.com
     - www.crunchbase.com/organization/coins-e-com
     active: false
+- id: coinsetter
+  label: Coinsetter
+  jurisdictions:
+  - US
+  categories:
+  - exchange
+  uri: www.coinsetter.com
+  context:
+    notes:
+    - redirects to kraken.
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: true
 - id: coinspot
   label: Coinspot
   jurisdictions:
@@ -9947,6 +10260,7 @@ actors:
     - coinspro
     refs:
     - api.coingecko.com/api/v3/exchanges/coinspro
+    - www.theasianbanker.com/publication/virtual-currency-services
     images:
     - assets.coingecko.com/markets/images/999/small/coinspro.png?1668488887
 - id: coinsquare
@@ -10023,6 +10337,16 @@ actors:
     images:
     - icons.llama.fi/coinswap-space.jpg
     twitter_handle: CoinSwap_Space
+- id: cointap
+  label: CoinTap
+  jurisdictions:
+  - CA
+  categories:
+  - exchange
+  uri: cointap.co
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
 - id: cointiger
   label: Cointiger
   jurisdictions:
@@ -10162,6 +10486,17 @@ actors:
     - api.coingecko.com/api/v3/exchanges/coinzoom
     images:
     - assets.coingecko.com/markets/images/656/small/Up7Yiexp_400x400.png?1619165177
+- id: coinxtrader
+  label: CoinX
+  jurisdictions:
+  - US
+  categories:
+  - exchange
+  uri: www.coinxtrader.com
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false
 - id: colony
   label: Colony
   jurisdictions: []
@@ -10257,6 +10592,7 @@ actors:
     refs:
     - bitcoinist.com/exclusive-interview-with-the-comkort-exchange/
     - www.walletexplorer.com/wallet/Comkort.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: false
     start_activity: '2014-02-01'
 - id: commodo
@@ -10359,6 +10695,17 @@ actors:
     - icons.llama.fi/compound.png
     - icons.llama.fi/compound-v3.png
     twitter_handle: compoundfinance
+- id: comprabitcoin
+  label: Compra Bitcoin
+  jurisdictions:
+  - CL
+  categories:
+  - exchange
+  uri: comprabitcoin.com
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false
 - id: concave
   label: Concave
   jurisdictions: []
@@ -11130,11 +11477,14 @@ actors:
   uri: crypto-trade.com
   categories:
   - service
-  jurisdictions: []
+  - exchange
+  jurisdictions:
+  - HK
   label: Crypto-Trade.com
   context:
     refs:
     - www.walletexplorer.com/wallet/Crypto-Trade.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: false
 - id: cryptoblades
   label: CryptoBlades
@@ -11429,6 +11779,7 @@ actors:
     refs:
     - www.justice.gov/usao-sdfl/pr/ceo-major-online-cryptocurrency-exchange-company-indicted-defrauding-company-s
     - www.walletexplorer.com/wallet/Cryptsy.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     legal_name: Project Investors Inc.
     active: false
 - id: crystlfinance
@@ -11960,6 +12311,17 @@ actors:
     images:
     - icons.llama.fi/dddx.png
     twitter_handle: DDDX_io
+- id: ddengle
+  label: Ddengle
+  jurisdictions:
+  - KR
+  categories:
+  - exchange
+  uri: www.ddengle.com
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: true
 - id: ddex
   label: DDEX
   jurisdictions: []
@@ -13568,7 +13930,7 @@ actors:
 - id: dovewallet
   label: Dove Wallet
   jurisdictions:
-  - KP
+  - KR
   categories:
   - exchange
   uri: dovewallet.com
@@ -15906,7 +16268,7 @@ actors:
 - id: flybit
   label: Flybit
   jurisdictions:
-  - KP
+  - KR
   categories:
   - exchange
   uri: flybit.com
@@ -16696,6 +17058,17 @@ actors:
     - icons.llama.fi/fx-swap.jpg
     - assets.coingecko.com/markets/images/981/small/functionx.jpeg?1665540108
     twitter_handle: FUNCTIONX_IO
+- id: fybse
+  label: Fybse
+  jurisdictions:
+  - SE
+  categories:
+  - exchange
+  uri: www.fybse.se
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: true
 - id: fybsg
   label: Fybsg
   jurisdictions:
@@ -16709,6 +17082,7 @@ actors:
     refs:
     - www.cryptowisser.com/exchange/fyb-sg/
     - www.walletexplorer.com/wallet/FYBSG.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: true
 - id: gaiadao
   label: Gaia DAO
@@ -17508,6 +17882,17 @@ actors:
     images:
     - icons.llama.fi/goldfinch.png
     twitter_handle: goldfinch_fi
+- id: goldsilverbitcoin
+  label: Gold Silver Bitcoin
+  jurisdictions:
+  - US
+  categories:
+  - organization
+  uri: www.goldsilverbitcoin.com
+  context:
+    refs:
+    - https://www.theasianbanker.com/publication/virtual-currency-services
+    active: true
 - id: golffprotocol
   label: Golff Protocol
   jurisdictions: []
@@ -17617,7 +18002,7 @@ actors:
 - id: gopax
   label: GoPax
   jurisdictions:
-  - KP
+  - KR
   categories:
   - exchange
   uri: www.gopax.co.kr
@@ -18583,6 +18968,9 @@ actors:
     - api.coingecko.com/api/v3/exchanges/hitbtc
     - www.crunchbase.com/organization/hitbtc
     - www.walletexplorer.com/wallet/HitBtc.com
+    - www.theasianbanker.com/publication/virtual-currency-services
+    notes:
+    - the asian banker says GB
     images:
     - assets.coingecko.com/markets/images/24/small/hitbtc.png?1603975458
     active: true
@@ -18634,11 +19022,15 @@ actors:
   uri: holytransaction.com
   categories:
   - service
-  jurisdictions: []
+  jurisdictions:
+  - US
   label: HolyTransaction.com
   context:
     refs:
     - www.walletexplorer.com/wallet/HolyTransaction.com
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: true
+    twitter_handle: holytransaction
 - id: homecoin
   label: HomeCoin
   jurisdictions: []
@@ -19146,6 +19538,17 @@ actors:
     images:
     - icons.llama.fi/hyperjump.jpg
     twitter_handle: Hyperjump_fi
+- id: ibwtcouk
+  uri: ibwt.co.uk
+  categories:
+  - exchange
+  jurisdictions:
+  - GB
+  label: IBWT
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false
 - id: ice-dicecom
   uri: ice-dice.com
   categories:
@@ -20034,8 +20437,11 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/itbit
     - www.crunchbase.com/organization/itbit-2
+    - www.theasianbanker.com/publication/virtual-currency-services
     images:
     - assets.coingecko.com/markets/images/26/small/itbit.png?1519810172
+    notes:
+    - the asian banker says singapore
     active: false
 - id: itrustfinance
   label: iTrust Finance
@@ -20493,6 +20899,7 @@ actors:
     refs:
     - www.crunchbase.com/organization/justcoin-exchange
     - www.walletexplorer.com/wallet/Justcoin.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: false
     start_activity: '2013-05-07'
 - id: justdefi
@@ -21528,7 +21935,7 @@ actors:
 - id: korbit
   label: Korbit
   jurisdictions:
-  - KP
+  - KR
   categories:
   - organization
   - exchange
@@ -21546,6 +21953,7 @@ actors:
     - api.coingecko.com/api/v3/exchanges/korbit
     - api.llama.fi/protocol/korbit
     - www.walletexplorer.com/wallet/Korbit.co.kr
+    - www.theasianbanker.com/publication/virtual-currency-services
     images:
     - icons.llama.fi/korbit.jpg
     - assets.coingecko.com/markets/images/28/small/korbit-logo.png?1584091827
@@ -21617,10 +22025,12 @@ actors:
     - www.crunchbase.com/organization/kraken
     - api.coingecko.com/api/v3/exchanges/kraken
     - www.walletexplorer.com/wallet/Kraken.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     images:
     - assets.coingecko.com/markets/images/29/small/kraken.jpg?1584251255
     legal_name: Payward, Inc.
     active: true
+    twitter_handle: krakenfx
 - id: kromatika
   label: Kromatika
   jurisdictions: []
@@ -22027,6 +22437,7 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/LakeBTC.com
     - www.cryptowisser.com/exchange/lakebtc/
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: true
 - id: landshare
   label: Landshare
@@ -22830,6 +23241,7 @@ actors:
     refs:
     - www.crunchbase.com/organization/localbitcoins
     - www.walletexplorer.com/wallet/LocalBitcoins.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: true
 - id: localtrade
   label: LocalTrade
@@ -23471,7 +23883,6 @@ actors:
 - id: maicoin
   label: Maicoin / Max Exchange / Max Maicoin
   jurisdictions:
-  - US
   - TW
   categories:
   - exchange
@@ -23489,8 +23900,11 @@ actors:
     - coinmarketcap.com/exchanges/max-exchange/
     - api.coingecko.com/api/v3/exchanges/max_maicoin
     - www.walletexplorer.com/wallet/MaiCoin.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     images:
     - assets.coingecko.com/markets/images/218/small/max.jpg?1533888641
+    notes:
+    - crunchbase says US
     legal_name: MaiCoin, Ltd.
     active: true
     start_activity: '2014'
@@ -24920,6 +25334,7 @@ actors:
     refs:
     - news.bitcoin.com/uk-police-force-investigates-the-defunct-mintpal-exchange-and-owner/
     - www.walletexplorer.com/wallet/MintPal.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: false
     twitter_handle: MintPalExchange
 - id: mintswap
@@ -25205,6 +25620,17 @@ actors:
     images:
     - icons.llama.fi/mole.png
     twitter_handle: moledefi
+- id: monatore
+  label: Mona Tore
+  jurisdictions:
+  - JP
+  categories:
+  - exchange
+  uri: monatr.jp
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false
 - id: moneyonchain
   label: MoneyOnChain
   jurisdictions: []
@@ -26754,6 +27180,16 @@ actors:
     images:
     - icons.llama.fi/nsure.jpg
     twitter_handle: Nsure_network
+- id: ntxe
+  label: Ntx-E
+  jurisdictions:
+  - CA
+  categories:
+  - exchange
+  uri: nxt-e.com
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
 - id: nucleusmarket
   uri: nucleusmarket
   categories:
@@ -27147,8 +27583,11 @@ actors:
     - api.coingecko.com/api/v3/exchanges/okcoin
     - www.crunchbase.com/organization/okcoin
     - www.walletexplorer.com/wallet/OKCoin.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     images:
     - assets.coingecko.com/markets/images/415/small/okcoin_Logomark_SatoshiBlack.png?1619574335
+    notes:
+    - the asian banker says singapore
     legal_name: OKCoin USA Inc.
     active: true
 - id: okex
@@ -28866,6 +29305,7 @@ actors:
     - api.coingecko.com/api/v3/exchanges/paymium
     - www.crunchbase.com/organization/paymium
     - www.walletexplorer.com/wallet/Paymium.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     images:
     - assets.coingecko.com/markets/images/133/small/paymium_logo-ico.png?1670424600
     active: true
@@ -30033,7 +30473,6 @@ actors:
 - id: poloniex
   label: Poloniex
   jurisdictions:
-  - SC
   - US
   categories:
   - exchange
@@ -30047,8 +30486,11 @@ actors:
     - api.coingecko.com/api/v3/exchanges/poloniex
     - www.crunchbase.com/organization/poloniex
     - www.walletexplorer.com/wallet/Poloniex.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     images:
     - assets.coingecko.com/markets/images/37/small/poloniex.png?1663310089
+    notes:
+    - coingecko says seychelles (SC)
     legal_name: Poloniex
     active: true
 - id: polycatfinance
@@ -32209,6 +32651,18 @@ actors:
     images:
     - icons.llama.fi/ripae.png
     twitter_handle: ripaefinance
+- id: ripplelabs
+  label: Ripple Labs
+  jurisdictions:
+  - US
+  categories:
+  - organization
+  - exchange
+  uri: www.ripplelabs.com
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: false
 - id: riskharbor
   label: Risk Harbor
   jurisdictions: []
@@ -32685,6 +33139,18 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/SafeDice.com
+- id: safello
+  label: Safello
+  jurisdictions:
+  - SE
+  categories:
+  - exchange
+  uri: safello.com
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: true
+    twitter_handle: safelloab
 - id: safeohm
   label: SafeOHM
   jurisdictions: []
@@ -36881,6 +37347,17 @@ actors:
     images:
     - icons.llama.fi/swissborg.png
     twitter_handle: swissborg
+- id: swisscex
+  label: Swiss Cex
+  jurisdictions:
+  - CH
+  categories:
+  - exchange
+  uri: swisscex.com
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: true
 - id: swivelfinance
   label: Swivel Finance
   jurisdictions: []
@@ -37829,6 +38306,9 @@ actors:
     - api.coingecko.com/api/v3/exchanges/therocktrading
     - www.cryptowisser.com/exchange/the-rock-trading/
     - www.walletexplorer.com/wallet/TheRockTrading.com
+    - www.theasianbanker.com/publication/virtual-currency-services
+    notes:
+    - the asian banker says Malta
     images:
     - assets.coingecko.com/markets/images/42/small/rocktrading.png?1551110313
     legal_name: The Rock Trading S.r.l.
@@ -38625,6 +39105,17 @@ actors:
     images:
     - icons.llama.fi/traddify-arbitrage.png
     twitter_handle: traddify
+- id: tradebitcoin
+  label: Trade Bitcoin
+  jurisdictions:
+  - US
+  categories:
+  - exchange
+  uri: www.tradebitcoin.com
+  context:
+    refs:
+    - www.theasianbanker.com/publication/virtual-currency-services
+    active: true
 - id: tradeogre
   label: TradeOgre
   jurisdictions: []
@@ -39648,6 +40139,20 @@ actors:
     - api.coingecko.com/api/v3/exchanges/unnamed
     images:
     - assets.coingecko.com/markets/images/478/small/H6tgDbj.png?1570166355
+- id: unocoin
+  label: Unocoin
+  jurisdictions:
+  - IN
+  categories:
+  - exchange
+  uri: www.unocoin.com
+  context:
+    refs:
+    - coinmarketcap.com/exchanges/unocoin/
+    - www.theasianbanker.com/publication/virtual-currency-services
+    images:
+    - https://s2.coinmarketcap.com/static/img/exchanges/64x64/378.png
+    twitter_handle: unocoin
 - id: unofarm
   label: UNO farm
   jurisdictions: []
@@ -39714,7 +40219,7 @@ actors:
 - id: upbit
   label: Upbit
   jurisdictions:
-  - KP
+  - KR
   - ID
   categories:
   - exchange
@@ -40145,7 +40650,7 @@ actors:
     - icons.llama.fi/vaultka.jpg
     twitter_handle: Vaultkaofficial
 - id: vaultofsatoshi
-  label: Vaultofsatoshi
+  label: Vault of Satoshi
   jurisdictions:
   - CA
   categories:
@@ -40609,6 +41114,7 @@ actors:
   label: Vircurex
   jurisdictions:
   - CN
+  - BZ
   categories:
   - exchange
   uri: vircurex.com
@@ -40618,6 +41124,7 @@ actors:
     refs:
     - 99bitcoins.com/cryptocurrency-exchange-vircurex-halts-withdrawals-avoid-insolvency/
     - www.walletexplorer.com/wallet/Vircurex.com
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: false
 - id: viresfinance
   label: Vires Finance
@@ -42327,6 +42834,15 @@ actors:
     images:
     - icons.llama.fi/yaxis.jpg
     twitter_handle: yaxis_project
+- id: ybex
+  label: Ybex
+  jurisdictions:
+  - CN
+  categories:
+  - exchange
+  uri: ybex.co
+  context:
+    active: false
 - id: yearnfinance
   label: Yearn Finance
   jurisdictions: []
@@ -43321,7 +43837,8 @@ actors:
     twitter_handle: ZunamiProtocol
 - id: zyado
   label: Zyado
-  jurisdictions: []
+  jurisdictions:
+  - PT 
   categories:
   - exchange
   uri: zyado.com
@@ -43330,6 +43847,7 @@ actors:
     - zyado.com
     refs:
     - bitcointalk.org/index.php?topic=599410.0
+    - www.theasianbanker.com/publication/virtual-currency-services
     active: true
 - id: zyberswap
   label: Zyberswap (AMM,Stableswap)

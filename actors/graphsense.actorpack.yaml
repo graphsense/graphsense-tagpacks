@@ -4029,6 +4029,7 @@ actors:
     - farms.pandaswap.xyz
     coingecko_ids:
     - bao-finance
+    - bao-finance-v2
     defilama_ids:
     - bao-usd
     - bao
@@ -4056,6 +4057,7 @@ actors:
     - icons.llama.fi/pandaswap.png
     - icons.llama.fi/panda-chef.jpg
     twitter_handle: BaoCommunity
+    github_organisation: baofinance
 - id: barnbridge
   label: BarnBridge
   jurisdictions: []
@@ -6159,7 +6161,7 @@ actors:
     images:
     - assets.coingecko.com/markets/images/358/small/bitopro_coingecko_250x250_%281%29.png?1575884378
 - id: bitpanda
-  label: Bitpanda
+  label: Bitpanda (fka coinimal)
   jurisdictions:
   - AT
   categories:
@@ -6168,18 +6170,23 @@ actors:
   context:
     uris:
     - exchange.bitpanda.com
+    - coinimal.com
     coingecko_ids:
     - bitpanda
+    defilama_ids:
+    - coinimal.com
     refs:
     - www.crunchbase.com/organization/bitpanda
     - api.coingecko.com/api/v3/exchanges/bitpanda
     - coinmarketcap.com/exchanges/bitpanda-pro/
     - coinmarketcap.com/exchanges/bitpanda-broker/
+    - www.walletexplorer.com/wallet/Coinimal.com
+    - blog.bitpanda.com/en/coinimal-is-now-bitpanda
     images:
     - assets.coingecko.com/markets/images/474/small/appicon-ios-pro.png?1622626638
     legal_name: Bitpanda GmbH
     active: true
-    twitter_handle: BitpandaPro,bitpanda
+    twitter_handle: BitpandaPro,bitpanda  
 - id: bitpaycom
   uri: bitpay.com
   categories:
@@ -9965,17 +9972,6 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/Coinichiwa.com
-- id: coinimal
-  label: coinimal.com
-  jurisdictions: []
-  categories:
-  - exchange
-  uri: coinimal.com
-  context:
-    refs:
-    - www.walletexplorer.com/wallet/Coinimal.com
-    defilama_ids:
-    - coinimal.com
 - id: coinjar
   label: CoinJar Exchange
   jurisdictions:

@@ -5416,11 +5416,11 @@ actors:
     - www.theasianbanker.com/publication/virtual-currency-services
     active: false
 - id: bitcoincom
-  label: Bitcoin-Com (FMFW.io)
+  label: fmfw.io (fka Bitcoin-Com)
   jurisdictions:
-  - KN
   - BS
   categories:
+  - organization
   - exchange
   uri: fmfw.io
   context:
@@ -5428,10 +5428,22 @@ actors:
     - bitcoin_com
     refs:
     - www.crunchbase.com/organization/bitcoin-com
+    - www.cryptowisser.com/exchange/bitcoin-com-exchange/
     - api.coingecko.com/api/v3/exchanges/bitcoin_com
+    - medium.com/fmfw-io/bitcoin-com-exchange-is-becoming-fmfw-io-c6bed8a4e33a
+    - www.crunchbase.com/organization/fmfw
+    - www.cryptowisser.com/exchange/fmfw-io/
+    - coinmarketcap.com/exchanges/bitcoin-com-exchange/
+    - www.coingecko.com/en/exchanges/fmfw_io
     images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/857.png
     - assets.coingecko.com/markets/images/467/small/fmfw.png?1635491491
-    active: false
+    active: true
+    notes:
+    - coingecko says KN (Saint Kitts) for bitcoin.com
+    - was rebranded fmfw.io medium.com/fmfw-io/bitcoin-com-exchange-is-becoming-fmfw-io-c6bed8a4e33a
+    - cryptowisser says KN
+    twitter_handle: fmfw_io
 - id: bitcoinde
   label: bitcoin.de
   jurisdictions:
@@ -6327,6 +6339,21 @@ actors:
     - api.coingecko.com/api/v3/exchanges/bitstorage
     images:
     - assets.coingecko.com/markets/images/394/small/logo2.png?1556783693
+- id: bitturk
+  label: BitTurk
+  jurisdictions:
+  - TR
+  categories:
+  - organization
+  - exchange
+  uri: bitturk.com
+  context:
+    refs:
+    - coinmarketcap.com/exchanges/bitturk/
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/1019.png
+    twitter_handle: bitturkcom
+    active: true
 - id: bittrex
   label: Bittrex
   jurisdictions:
@@ -6696,6 +6723,8 @@ actors:
   - exchange
   uri: www.blockchain.com
   context:
+    uris:
+    - blockchain.info
     coingecko_ids:
     - blockchain_com
     refs:
@@ -10385,7 +10414,7 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/CoinTrader.net
     - www.crunchbase.com/organization/cointrader-net
-    - https://cointrader.net/pages/terms
+    - cointrader.net/pages/terms
     images:
     - cointrader.net/upload/CT-03.png
     twitter_handle: CoinTraderNet
@@ -15437,6 +15466,18 @@ actors:
     - exchanging.ir
     active: true
     twitter_handle: Exchanging_App
+- id: excoino
+  label: Excoino
+  jurisdictions:
+  - IR
+  categories:
+  - exchange
+  uri: www.excoino.com
+  context:
+    refs:
+    - play.google.com/store/apps/details?id=com.excoino.excoino&hl=en&gl=US
+    active: true
+    twitter_handle: excoino
 - id: exinpool
   label: ExinPool
   jurisdictions: []
@@ -15464,6 +15505,21 @@ actors:
     - api.llama.fi/protocol/exinswap
     images:
     - icons.llama.fi/exinswap.png
+- id: exir
+  label: Exir
+  jurisdictions:
+  - IR
+  categories:
+  - organization
+  - exchange
+  uri: www.exir.io
+  context:
+    refs:
+    - https://www.cryptowisser.com/exchange/exir-exchange
+    - https://www.crunchbase.com/organization/exir
+    notes:
+    - crunchbase says US
+    twitter_handle: EXIR_Official
 - id: exmarkets
   label: ExMarkets
   jurisdictions:
@@ -20639,6 +20695,16 @@ actors:
     images:
     - icons.llama.fi/jexchange.jpg
     twitter_handle: jexchangeP2P
+- id: jibitex
+  label: Jibitex
+  jurisdictions:
+  - IR
+  categories:
+  - organization
+  - exchange
+  uri: jibitex.com
+  context:
+    twitter_handle: Jibitexofficial
 - id: jioswap
   label: JioSwap
   jurisdictions: []
@@ -21861,6 +21927,20 @@ actors:
     - api.coingecko.com/api/v3/exchanges/koinbazar
     images:
     - assets.coingecko.com/markets/images/751/small/opI6dpc3_400x400.png?1640272400
+- id: koinim
+  label: Koinim 
+  jurisdictions:
+  - TR
+  categories:
+  - organization
+  - exchange
+  uri: koinim.com
+  context:
+    refs:
+    - coinmarketcap.com/exchanges/koinim/
+    - www.crunchbase.com/organization/koinim
+    - www.cryptowisser.com/exchange/koinim/
+    active: true
 - id: kokoafinance
   label: Kokoa Finance
   jurisdictions: []
@@ -27013,6 +27093,18 @@ actors:
     images:
     - icons.llama.fi/noaharkdao.png
     twitter_handle: NoahArkDAO
+- id: nobitex
+  label: NobiteEx
+  jurisdictions:
+  - IR
+  categories:
+  - organization
+  - exchange
+  uri: nobitex.ir
+  context:
+    refs:
+    - https://nobitex.ir/en/about/
+    twitter_handle: nobitexmarket
 - id: nomad
   label: Nomad
   jurisdictions: []
@@ -29734,6 +29826,19 @@ actors:
     - icons.llama.fi/philetairus-socius.jpg
     - icons.llama.fi/mockingbird.png
     twitter_handle: philetairus
+- id: phinix
+  label: Phinix Exchange
+  jurisdictions:
+  - IR
+  categories:
+  - organization
+  - exchange
+  uri: phinix.ir
+  context:
+    refs:
+    - https://www.crunchbase.com/organization/phinix-2fee
+    twitter_handle: phinix_corp
+    active: true
 - id: phissionfinance
   label: Phission Finance
   jurisdictions: []
@@ -33347,6 +33452,19 @@ actors:
     images:
     - icons.llama.fi/sapphire-mine.jpg
     twitter_handle: SapphirePolygon
+- id: sarmayex
+  label: Sarmay Exchange / arzjoo
+  jurisdictions:
+  - IR
+  categories:
+  - organization
+  - exchange
+  uri: sarmayex.com
+  context:
+    uris:
+    - arzjoo.com
+    twitter_handle: sarmayex
+    active: true
 - id: saros
   label: Saros Finance
   jurisdictions: []
@@ -40172,7 +40290,7 @@ actors:
     - coinmarketcap.com/exchanges/unocoin/
     - www.theasianbanker.com/publication/virtual-currency-services
     images:
-    - https://s2.coinmarketcap.com/static/img/exchanges/64x64/378.png
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/378.png
     twitter_handle: unocoin
 - id: unofarm
   label: UNO farm
@@ -40695,7 +40813,7 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/Vaultoro.com
     - www.crunchbase.com/organization/vaultoro-com-the-real-time-bitcoin-gold-trading-platform-and-api
-    - https://www.cryptowisser.com/exchange/vaultoro
+    - www.cryptowisser.com/exchange/vaultoro
     defilama_ids:
     - vaultoro.com
     twitter_handle: vaultoro
@@ -41509,6 +41627,18 @@ actors:
     images:
     - icons.llama.fi/waka-finance.png
     twitter_handle: WakaFinance
+- id: wallex
+  label: Wallex
+  jurisdictions:
+  - IR
+  categories:
+  - organization
+  - exchange
+  uri: wallex.ir
+  context:
+    github_organisation: wallexchange
+    twitter_handle: wallexchange
+    active: true
 - id: wanbridge
   label: Wan Bridge
   jurisdictions: []

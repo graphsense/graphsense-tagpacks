@@ -2900,6 +2900,24 @@ actors:
     images:
     - icons.llama.fi/astrowar-finance.png
     twitter_handle: AstrowarFi
+- id: ataix
+  label: ATAIX
+  jurisdictions:
+  - EE
+  categories:
+  - organization
+  - exchange
+  uri: ataix.com
+  context:
+    refs:
+    - coinmarketcap.com/exchanges/ataix/
+    - www.cryptowisser.com/exchange/ataix/
+    - www.crunchbase.com/organization/ataix
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/766.png
+    twitter_handle: ataixcom
+    start_activity: '2018'
+    active: true
 - id: athenamoney
   label: Athena Money
   jurisdictions: []
@@ -3507,6 +3525,20 @@ actors:
     images:
     - icons.llama.fi/azuro.png
     twitter_handle: azuroprotocol
+- id: azpaya
+  label: ARzPaya
+  jurisdictions:
+  - IR
+  categories:
+  - organization
+  uri: arzpaya.com
+  context:
+    refs:
+    - coinmarketcap.com/exchanges/arzpaya/
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/1048.png
+    active: true
+    start_activity: '2018'
 - id: b2bx
   label: B2Bx
   jurisdictions:
@@ -5309,6 +5341,25 @@ actors:
     - api.coingecko.com/api/v3/exchanges/bitbegin
     images:
     - assets.coingecko.com/markets/images/317/small/bitbegin.png?1541559299
+- id: bitblinx
+  label: BitBlinx
+  jurisdictions:
+  - EE
+  categories:
+  - organization
+  - exchange
+  uri: bitblinx.com
+  context:
+    refs:
+    - coinmarketcap.com/exchanges/bitblinx/
+    - www.cryptowisser.com/exchange/bitblinx/
+    - play.google.com/store/apps/details?id=com.bitblinx.exchange
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/917.png
+    twitter_handle: bitblinx
+    start_activity: '2019'
+    notes:
+    - cryptowisser says Comoros,KM
 - id: bitbns
   label: BitBNS
   jurisdictions:
@@ -6823,11 +6874,13 @@ actors:
   context:
     uris:
     - blockchain.info
+    - sesocio.com
     coingecko_ids:
     - blockchain_com
     refs:
     - www.crunchbase.com/organization/blockchain-info
     - api.coingecko.com/api/v3/exchanges/blockchain_com
+    - www.pymnts.com/acquisitions/2021/blockchain-com-balloons-with-sesocio-acquisition/
     notes:
     - 'legal name: is it from louxembourg?'
     images:
@@ -7899,6 +7952,18 @@ actors:
     images:
     - icons.llama.fi/bubbleswap.png
     twitter_handle: bubbleswapio
+- id: buenbit
+  label: Buenbit
+  jurisdictions:
+  - AR
+  categories:
+  - organization
+  - exchange
+  uri: buenbit.com
+  context:
+    refs:
+    - www.crunchbase.com/organization/buenbit
+    twitter_handle: buenbit
 - id: buffaloswap
   label: Buffaloswap
   jurisdictions: []
@@ -8044,6 +8109,20 @@ actors:
     images:
     - icons.llama.fi/burrow.png
     twitter_handle: burrowcash
+- id: busha
+  label: Busha
+  jurisdictions:
+  - NG
+  categories:
+  - organization
+  - exchange
+  uri: busha.co
+  context:
+    refs:
+    - www.crunchbase.com/organization/busha
+    - play.google.com/store/apps/details?id=co.busha.android&hl=en&gl=US
+    twitter_handle: getbusha
+    active: true
 - id: businessbuildersnfts
   label: BusinessBuildersNFTs
   jurisdictions: []
@@ -11304,6 +11383,28 @@ actors:
     - assets.coingecko.com/markets/images/932/small/PeQ_j_ca_400x400.jpeg?1660212972
     - icons.llama.fi/crescent-dex.jpg
     twitter_handle: CrescentHub
+- id: crex24
+  label: Crex24
+  jurisdictions:
+  - SC
+  categories:
+  - organization
+  - exchange
+  uri: crex24.com
+  context:
+    coingecko_ids:
+    - crex24
+    refs:
+    - coinmarketcap.com/exchanges/crex24/
+    - www.cryptowisser.com/exchange/crex24/
+    - www.coingecko.com/en/exchanges/crex24
+    - www.coingecko.com/en/exchanges/crex24
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/382.png
+    - assets.coingecko.com/markets/images/138/small/Webp.net-resizeimage_(5).png
+    twitter_handle: crex_24
+    notes:
+    - cryptowisser says EE, coingecho seychelles
 - id: crimenetbiz
   uri: crimenet.biz
   categories:
@@ -11572,6 +11673,28 @@ actors:
     images:
     - icons.llama.fi/crunchy-network.png
     twitter_handle: CrunchyTez
+- id: cryptaldash
+  uri: dltify.com
+  categories:
+  - organization
+  - exchange
+  jurisdictions:
+  - GI
+  label: Dltify (fka CryptalDash)
+  context:
+    uris:
+    - www.cryptaldash.com
+    refs:
+    - coinmarketcap.com/exchanges/cryptaldash/
+    - www.cryptowisser.com/exchange/cryptaldash/
+    - www.crunchbase.com/organization/dltify-ebde
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/432.png
+    active: false
+    twitter_handle: cryptaldash
+    notes:
+      - '2020: rebranded to DLTif'
+      - crunchbase says GI for ne DLTif, old cryptaldash says UA
 - id: cryptcominercom
   uri: cryptcominer.com
   categories:
@@ -12063,7 +12186,7 @@ actors:
     - assets.coingecko.com/markets/images/512/small/Currency.com_200x200.png?1582086630
     active: true
 - id: curve
-  label: Curve (Xdai, Ethereum, Arbitrum, Fantom, Avalanche, Moonbeam, Polygon)
+  label: Curve Finance
   jurisdictions:
     - CH
   categories:
@@ -12110,6 +12233,8 @@ actors:
     - assets.coingecko.com/markets/images/930/small/W1sQNVWo_400x400.jpeg?1660125046
     - assets.coingecko.com/markets/images/538/small/Curve.png?1591605481
     twitter_handle: CurveFinance
+    notes:
+    - 'chains: Xdai, Ethereum, Arbitrum, Fantom, Avalanche, Moonbeam, Polygon'
 - id: cvaultfinance
   label: cVault Finance (core)
   jurisdictions: []
@@ -12564,6 +12689,21 @@ actors:
     images:
     - icons.llama.fi/decryption.jpg
     twitter_handle: tlchainnetwork
+- id: decryptola
+  label: decrypto la
+  jurisdictions:
+  - AR
+  categories:
+  - organization
+  - exchange
+  uri: decrypto.la
+  context:
+    refs:
+    - ar.linkedin.com/company/decrypto-la
+    images:
+    - decrypto.la/favicon.png
+    twitter_handle: DECRYPTO_la
+    active: true
 - id: decubate
   label: Decubate
   jurisdictions: []
@@ -18771,6 +18911,29 @@ actors:
     images:
     - icons.llama.fi/halodao.png
     twitter_handle: HaloDAOFinance
+- id: hanbitco
+  label: Hanbitco
+  jurisdictions:
+  - KR
+  categories:
+  - exchange
+  - organization
+  uri: www.hanbitco.com
+  context:
+    coingecko_ids:
+    - hanbitco
+    refs:
+    - www.cryptowisser.com/exchange/hanbitco/
+    - coinmarketcap.com/exchanges/hanbitco/
+    - www.crunchbase.com/organization/hanbitco
+    - www.coingecko.com/en/exchanges/hanbitco
+    - api.coingecko.com/api/v3/exchanges/hanbitco
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/483.png
+    - assets.coingecko.com/markets/images/488/small/200_%EB%B2%A0%EC%9D%B4%EC%A7%80.png?1584686295
+    twitter_handle: HanbitcoKr
+    start_activity: '2017'
+    active: true
 - id: handlefiperps
   label: handle.fi (Perps)
   jurisdictions: []
@@ -22413,6 +22576,22 @@ actors:
     images:
     - icons.llama.fi/kryptodex.jpg
     twitter_handle: KryptoDex
+- id: kryptono
+  label: Kryptono
+  jurisdictions:
+  - SG
+  categories:
+  - organization
+  - exchange
+  uri: kryptono.exchange
+  context:
+    refs:
+    - coinmarketcap.com/exchanges/kryptono/
+    - www.cryptowisser.com/exchange/kryptono/
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/420.png
+    twitter_handle: KryptonoEx
+    active: false
 - id: kswap
   label: KSwap
   jurisdictions: []
@@ -23467,6 +23646,23 @@ actors:
     - www.walletexplorer.com/wallet/LiteBit.eu
     - www.crunchbase.com/organization/litebit
     active: true
+- id: livecoin
+  label: Livecoin
+  jurisdictions:
+  - SC
+  categories:
+  - organization
+  - exchange
+  uri: livecoin.net
+  context:
+    refs:
+    - coinmarketcap.com/exchanges/livecoin/
+    - www.cryptowisser.com/exchange/livecoin/
+    - www.crunchbase.com/organization/livecoin
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/107.png
+    twitter_handle: livecoin_net
+    active: false
 - id: lixirfinance
   label: Lixir Finance
   jurisdictions: []
@@ -32238,6 +32434,25 @@ actors:
     - icons.llama.fi/quickswap-lend.jpg
     - assets.coingecko.com/markets/images/629/small/1_pOU6pBMEmiL-ZJVb0CYRjQ_%281%29.png?1614077691
     twitter_handle: QuickswapDEX
+- id: quidax
+  label: Quidax
+  jurisdictions:
+  - MT
+  categories:
+  - organization
+  - exchange
+  uri: quidax.com
+  context:
+    coingecko_ids:
+    - quidax
+    refs:
+    - www.crunchbase.com/organization/quidax
+    - coinmarketcap.com/exchanges/quidax/
+    - www.coingecko.com/en/coins/quidax
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/1336.png
+    twitter_handle: QuidaxAfrica,quidaxglobal
+    active: true
 - id: quipuswap
   label: QuipuSwap
   jurisdictions: []
@@ -33110,6 +33325,25 @@ actors:
     images:
     - icons.llama.fi/ripae.png
     twitter_handle: ripaefinance
+- id: ripio
+  label: Ripio
+  jurisdictions:
+  - AR
+  categories:
+  - organization
+  - exchange
+  uri: ripio.com
+  context:
+    refs:
+    - www.crunchbase.com/organization/bitpagos
+    - play.google.com/store/apps/details?id=com.ripio.android&hl=es
+    - coinmarketcap.com/exchanges/ripio/
+    images:
+    - https://s2.coinmarketcap.com/static/img/exchanges/64x64/1100.png
+    twitter_handle: ripioapp
+    notes:
+    - crunchbase says US, twitter says AR
+    active: true
 - id: ripplelabs
   label: Ripple Labs
   jurisdictions:
@@ -39697,6 +39931,23 @@ actors:
     - icons.llama.fi/trader-joe.png
     - icons.llama.fi/joe-v2.jpg
     twitter_handle: traderjoe_xyz
+- id: tradesatoshi
+  label: Trade Satoshi
+  jurisdictions:
+  - GB
+  categories:
+  - organization
+  - exchange
+  uri: tradesatoshi.com
+  context:
+    refs:
+    - coinmarketcap.com/exchanges/trade-satoshi/
+    - www.cryptowisser.com/exchange/trade-satoshi/
+    images:
+    - https://s2.coinmarketcap.com/static/img/exchanges/64x64/193.png
+    twitter_handle: TradeSatoshi
+    active: false
+    end_activity: '2020'
 - id: tranchefinance
   label: Tranche Finance
   jurisdictions: []
@@ -43054,6 +43305,24 @@ actors:
     images:
     - icons.llama.fi/xdollar.png
     twitter_handle: xDollarFi
+- id: xenaexchange
+  label: Xena Exchange
+  jurisdictions:
+  - GB
+  categories:
+  - organization
+  - exchange
+  uri: xena.exchange
+  context:
+    refs:
+    - coinmarketcap.com/exchanges/xena-exchange/
+    - www.cryptowisser.com/exchange/xena-exchange/
+    - www.crunchbase.com/organization/xena-exchange
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/462.png
+    twitter_handle: XenaExchange
+    notes:
+    - crunchbase says ireland
 - id: xenophon
   label: Xenophon
   jurisdictions: []

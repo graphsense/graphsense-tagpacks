@@ -1267,26 +1267,35 @@ tags:
   label: 'Bitcoffeen: Deployer'
 - address: '0x521db06bf657ed1d6c98553a70319a8ddbac75a3'
   label: CREX24
+  actor: crex24
 - address: '0xd6076efe1e577deec21afab6ed383b47e9d8dec6'
   label: 'CryptoWars: Experimental NFT'
 - address: '0xdad1205bfe91b64f3ec50a02ec7913c4d23f5655'
   label: 'CryptoWars: NFT Minter'
 - address: '0x9fc689ccada600b6df723d9e47d84d76664a1f23'
   label: Curve.fi tStable Token
+  actor: curve
 - address: '0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8'
   label: Curve.fi yStable Token
+  actor: curve
 - address: '0xc447fcaf1def19a583f97b3620627bf69c05b5fb'
   label: 'Curve.fi: Deployer'
+  actor: curve
 - address: '0x28b88cfd875c883cdb61938c97b8d1baabf31c88'
   label: 'Curve.fi: Donate'
+  actor: curve
 - address: '0xa5407eae9ba41422680e2e00537571bcc53efbfd'
   label: 'Curve.fi: sUSD v2'
+  actor: curve
 - address: '0x45f783cce6b7ff23b2ab2d70e416cdb7d6055f51'
   label: 'Curve.fi: TUSD USDT USDC DAI'
+  actor: curve
 - address: '0x2e60cf74d81ac34eb21eeff58db4d385920ef419'
   label: 'Curve.fi: USDC DAI'
+  actor: curve
 - address: '0x52ea46506b9cc5ef470c5bf89f17dc28bb35d85c'
   label: 'Curve.fi: USDT USDC DAI'
+  actor: curve
 - address: '0xa042c9143c8758d2ad5a3fcc08dec39f6964453e'
   label: FriendsFingers DAO Platform
 - address: '0x1fd169a4f5c59acf79d0fd5d91d1201ef1bce9f1'
@@ -2121,10 +2130,12 @@ tags:
   label: Artis Turba Exchange 2
 - address: '0x4df5f3610e2471095a130d7d934d551f3dde01ed'
   label: ATAIX
+  actor: ataix
 - address: '0xadb72986ead16bdbc99208086bd431c1aa38938e'
   label: Beaxy
 - address: '0xf73c3c65bde10bf26c2e1763104e609a41702efe'
   label: Bibox
+  actor: bibox
 - address: '0x0bb5de248dbbd31ee6c402c3c4a70293024acf74'
   label: Bidesk 2
 - address: '0xed5cdb0d02152046e6f234ad578613831b9184d4'
@@ -3104,12 +3115,16 @@ tags:
   label: IDEX Token
 - address: '0xe8a0e282e6a3e8023465accd47fae39dd5db010b'
   label: Kryptono 1
+  actor: kryptono
 - address: '0x629a7144235259336ea2694167f3c8b856edd7dc'
   label: Kryptono 2
+  actor: kryptono
 - address: '0x30b71d015f60e2f959743038ce0aaec9b4c1ea44'
   label: Kryptono 3
+  actor: kryptono
 - address: '0xb41f09a973a85c7f497c10b00a939de667b55a78'
   label: Kryptono Token
+  actor: kryptono
 - address: '0x7bf5f0ef9070f1cd9669c319072c90306cf97eef'
   label: 'French-ICO.com: Deployer'
 - address: '0x6355e35920fac7efe5db951b942286faf798b481'
@@ -4010,6 +4025,7 @@ tags:
   label: Liqui.io 2
 - address: '0x243bec9256c9a3469da22103891465b47583d9f1'
   label: Livecoin.net
+  actor: livecoin
 - address: '0xe03c23519e18d64f144d2800e30e81b0065c48b5'
   label: Mercatox
 - address: '0x75e89d5979e4f6fba9f97c104c2f0afb3f1dcb88'

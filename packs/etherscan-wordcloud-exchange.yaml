@@ -61,12 +61,16 @@ tags:
       label: 'ArzPaya.com'
     - address: '0x03bdf69b1322d623836afbd27679a1c0afa067e9'
       label: 'AscendEX 1'
+      actor: bitmax
     - address: '0x4b1a99467a284cc690e3237bc69105956816f762'
       label: 'AscendEX 2'
+      actor: bitmax
     - address: '0x986a2fca9eda0e06fbf7839b89bfc006ee2a23dd'
       label: 'AscendEX 3'
+      actor: bitmax
     - address: '0x92dbd8e0a46edd62aa42d1f7902d0e496bddc15a'
       label: 'Azbit'
+      actor: azbit
     - address: '0x350758e4a1256561fd0ee142dc7e0545f561fadc'
       label: 'B2U Coin (B2U)'
     - address: '0xbfc1502ebc37475b940ced8f036b91018a73c8f6'
@@ -493,26 +497,37 @@ tags:
       label: 'CoinW 4'
     - address: '0x71660c4005ba85c37ccec55d0c4493e66fe775d3'
       label: 'Coinbase 1'
+      actor: coinbase
     - address: '0x503828976d22510aad0201ac7ec88293211d23da'
       label: 'Coinbase 2'
+      actor: coinbase
     - address: '0xddfabcdc4d8ffc6d5beaf154f18b778f892a0740'
       label: 'Coinbase 3'
+      actor: coinbase
     - address: '0x3cd751e6b0078be393132286c442345e5dc49699'
       label: 'Coinbase 4'
+      actor: coinbase
     - address: '0xb5d85cbf7cb3ee0d56b3bb207d5fc4b82f43f511'
       label: 'Coinbase 5'
+      actor: coinbase
     - address: '0xeb2629a2734e272bcc07bda959863f316f4bd4cf'
       label: 'Coinbase 6'
+      actor: coinbase
     - address: '0xf6874c88757721a02f47592140905c4336dfbc61'
       label: 'Coinbase: Coinbase Commerce'
+      actor: coinbase
     - address: '0x881d4032abe4188e2237efcd27ab435e81fc6bb1'
       label: 'Coinbase: Commerce'
+      actor: coinbase
     - address: '0xa090e606e30bd747d4e6245a1517ebe430f0057e'
       label: 'Coinbase: Miscellaneous'
+      actor: coinbase
     - address: '0x9539e0b14021a43cde41d9d45dc34969be9c7cb0'
       label: 'Coinbene'
+      actor: coinbene
     - address: '0x33683b94334eebc9bd3ea85ddbda4a86fb461405'
       label: 'Coinbene: Cold Wallet'
+      actor: coinbene
     - address: '0xb6ba1931e4e74fd080587688f6db10e830f810d5'
       label: 'Coindelta'
     - address: '0xacce88f5a63a5e65db9aa7303720be16b556e751'
@@ -629,6 +644,7 @@ tags:
       label: 'ExtStock Token (XT)'
     - address: '0x915d7915f2b469bb654a7d903a5d4417cb8ea7df'
       label: 'FCoin'
+      actor: fcoin
     - address: '0xc770eefad204b5180df6a14ee197d99d808ee52d'
       label: 'FOX (FOX)'
     - address: '0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9'
@@ -659,6 +675,7 @@ tags:
       label: 'GBX'
     - address: '0x6a0b8f1e9a0ad411a8819edc6e1a29bd14e0f0a0'
       label: 'GDAC Exchange Token (GT)'
+      actor: gdac
     - address: '0xc67b12049c2d0cf6e476bc64c7f82fc6c63cffc5'
       label: 'GDT (GDT)'
     - address: '0xe304283c3e60cefaf7ea514007cf4e8fdc3d869d'
@@ -1019,6 +1036,7 @@ tags:
       label: 'OMGFIN Exchange'
     - address: '0xaeec6f5aca72f3a005af1b3420ab8c8c7009bac8'
       label: 'OTCBTC'
+      actor: otcbtc
     - address: '0x7778360f035c589fce2f4ea5786cbd8b36e5396b'
       label: 'OpenOcean (OOE)'
     - address: '0x5dba63c221d7a584795431ce01ecd641a1798416'
@@ -1207,6 +1225,7 @@ tags:
       label: 'Trade Token X (TIOx)'
     - address: '0x1119aaefb02bf12b84d28a5d8ea48ec3c90ef1db'
       label: 'Trade.io'
+      actor: tradeio
     - address: '0x937f3d2536bb4796b7040252ae4332370551f633'
       label: 'Tulipex.io Utility Token (TLP)'
     - address: '0x6b74dd5d01f8320081247f5cf1f7a48324700db6'
@@ -1257,10 +1276,13 @@ tags:
       label: 'Yunbi 3'
     - address: '0x60d0cc2ae15859f69bf74dadb8ae3bd58434976b'
       label: 'ZB.com'
+      actor: zbcom
     - address: '0x182a603541a4483c308475147d621bbb4e2587c6'
       label: 'ZBToken (ZB)'
+      actor: zbcom
     - address: '0xbd0793332e9fb844a52a205a233ef27a5b34b927'
       label: 'ZBToken (ZB)'
+      actor: zbcom
     - address: '0xd6e91857090c901f3b96d6df7cfb3b41f8673942'
       label: 'ZBX Token (ZBX)'
     - address: '0xfbc4f3f645c4003a2e4f4e9b51077d2daa9a9341'

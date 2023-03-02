@@ -894,6 +894,7 @@ tags:
   label: Founder Chibi Fighters Token
 - address: '0x33683b94334eebc9bd3ea85ddbda4a86fb461405'
   label: 'Coinbene: Cold Wallet'
+  actor: coinbene
 - address: '0x6025d96932d378be7d0a46343b437678a126ecca'
   label: 'Freewallet: Cold Wallet'
 - address: '0x61edcdf5bb737adffe5043706e7c5bb1f1a56eea'
@@ -1510,12 +1511,16 @@ tags:
   label: 'DeversiFi: OTC'
 - address: '0xcc80c051057b774cd75067dc48f8987c4eb97a5e'
   label: 'Ethfinex: Nectar Token'
+  actor: ethfinex
 - address: '0xdcdb42c9a256690bd153a7b409751adfc8dd5851'
   label: 'Ethfinex: Old Contract'
+  actor: ethfinex
 - address: '0xbaea5bc6568dcb1f1c5aa24223a47333a6b3a8f5'
   label: 'Ethfinex: Old Contract 2'
+  actor: ethfinex
 - address: '0x93dc6a333a99c0ede1cd346ccf079ea8451013db'
   label: 'Ethfinex: Old Contract 3'
+  actor: ethfinex
 - address: '0xd3bed3a8e3e6b24b740ead108ba776e0ad298588'
   label: 'DEX.AG: Old Contract 1'
 - address: '0x932348df588923ba3f1fd50593b22c4e2a287919'
@@ -2784,56 +2789,82 @@ tags:
   label: 'Humanity: Voting Contract'
 - address: '0xe93381fb4c4f14bda253907b18fad305d799241a'
   label: Huobi 10
+  actor: huobi
 - address: '0xfa4b5be3f2f84f56703c42eb22142744e95a2c58'
   label: Huobi 11
+  actor: huobi
 - address: '0x46705dfff24256421a05d056c29e81bdc09723b8'
   label: Huobi 12
+  actor: huobi
 - address: '0x32598293906b5b17c27d657db3ad2c9b3f3e4265'
   label: Huobi 13
+  actor: huobi
 - address: '0x5861b8446a2f6e19a067874c133f04c578928727'
   label: Huobi 14
+  actor: huobi
 - address: '0x926fc576b7facf6ae2d08ee2d4734c134a743988'
   label: Huobi 15
+  actor: huobi
 - address: '0xeec606a66edb6f497662ea31b5eb1610da87ab5f'
   label: Huobi 16
+  actor: huobi
 - address: '0x7ef35bb398e0416b81b019fea395219b65c52164'
   label: Huobi 17
+  actor: huobi
 - address: '0x229b5c097f9b35009ca1321ad2034d4b3d5070f6'
   label: Huobi 18
+  actor: huobi
 - address: '0xd8a83b72377476d0a66683cde20a8aad0b628713'
   label: Huobi 19
+  actor: huobi
 - address: '0x6748f50f686bfbca6fe8ad62b22228b87f31ff2b'
   label: Huobi 2
+  actor: huobi
 - address: '0x90e9ddd9d8d5ae4e3763d0cf856c97594dea7325'
   label: Huobi 20
+  actor: huobi
 - address: '0x18916e1a2933cb349145a280473a5de8eb6630cb'
   label: Huobi 21
+  actor: huobi
 - address: '0x6f48a3e70f0251d1e83a989e62aaa2281a6d5380'
   label: Huobi 22
+  actor: huobi
 - address: '0x0904dac3347ea47d208f3fd67402d039a3b99859'
   label: 'ENS: Wallet 1'
+  actor: ethereumfoundation
 - address: '0xb6e040c9ecaae172a89bd561c5f73e1c48d28cd9'
   label: 'ENS: Wallet 2'
+  actor: ethereumfoundation
 - address: '0xf056f435ba0cc4fcd2f1b17e3766549ffc404b94'
   label: Huobi 23
+  actor: huobi
 - address: '0x137ad9c4777e1d36e4b605e745e8f37b2b62e9c5'
   label: Huobi 24
+  actor: huobi
 - address: '0x5401dbf7da53e1c9dbf484e3d69505815f2f5e6e'
   label: Huobi 25
+  actor: huobi
 - address: '0x034f854b44d28e26386c1bc37ff9b20c6380b00d'
   label: Huobi 26
+  actor: huobi
 - address: '0x0577a79cfc63bbc0df38833ff4c4a3bf2095b404'
   label: Huobi 27
+  actor: huobi
 - address: '0x0c6c34cdd915845376fb5407e0895196c9dd4eec'
   label: Huobi 28
+  actor: huobi
 - address: '0x794d28ac31bcb136294761a556b68d2634094153'
   label: Huobi 29
+  actor: huobi
 - address: '0xfdb16996831753d5331ff813c29a93c76834a0ad'
   label: Huobi 3
+  actor: huobi
 - address: '0xfd54078badd5653571726c3370afb127351a6f26'
   label: Huobi 30
+  actor: huobi
 - address: '0xb4cd0386d2db86f30c1a11c2b8c4f4185c1dade9'
   label: Huobi 31
+  actor: huobi
 - address: '0x241e82c79452f51fbfc89fac6d912e021db1a3b7'
   label: 'DDEX: Margin'
 - address: '0x9af839687f6c94542ac5ece2e317daae355493a1'
@@ -2848,6 +2879,7 @@ tags:
   label: 'Hydro: Old Exchange Contract'
 - address: '0x9539e0b14021a43cde41d9d45dc34969be9c7cb0'
   label: Coinbene
+  actor: coinbene
 - address: '0xb6ba1931e4e74fd080587688f6db10e830f810d5'
   label: Coindelta
 - address: '0xb9ee1e551f538a464e8f8c41e9904498505b49b0'
@@ -4852,6 +4884,7 @@ tags:
   label: TopBTC
 - address: '0x1119aaefb02bf12b84d28a5d8ea48ec3c90ef1db'
   label: Trade.io
+  actor: tradeio
 - address: '0x2f1233ec3a4930fd95874291db7da9e90dfb2f03'
   label: Uex
 - address: '0x390de26d772d2e2005c6d1d24afc902bae37a4bb'
@@ -4872,6 +4905,7 @@ tags:
   label: Yunbi 3
 - address: '0x60d0cc2ae15859f69bf74dadb8ae3bd58434976b'
   label: ZB.com
+  actor: zbcom
 - address: '0x83984d6142934bb535793a82adb0a46ef0f66b6d'
   label: 'Remme: REM Token'
 - address: '0xa7921720a7973248810d6a595e2622bf428af9b7'
@@ -5774,14 +5808,19 @@ tags:
   label: 'Gitcoin: Maintainer'
 - address: '0xd947b0ceab2a8885866b9a04a06ae99de852a3d4'
   label: Trade.io Token
+  actor: tradeio
 - address: '0x80bc5512561c7f85a3a9508c7df7901b370fa1df'
   label: 'Trade.io: Old Token'
+  actor: tradeio
 - address: '0x86fe3c20379ac71ebbf8c0499b41fd2b457e4e9e'
   label: 'Trade.io: Token Sale'
+  actor: tradeio
 - address: '0x58f75ddacffb183a30f69fe58a67a0d0985fce0f'
   label: 'Trade.io: Wallet 1'
+  actor: tradeio
 - address: '0x5a2fad810f990c4535ada938400b6b67ef7646af'
   label: 'Trade.io: Wallet 2'
+  actor: tradeio
 - address: '0x55b9a11c2e8351b4ffc7b11561148bfac9977855'
   label: 'Digix: Old Contract'
 - address: '0x7b79387dd30dc6848dd2308c825b6802e99abc84'
@@ -6230,6 +6269,7 @@ tags:
   label: Fake_Phishing1082
 - address: '0xbd0793332e9fb844a52a205a233ef27a5b34b927'
   label: ZB.com Token
+  actor: zbcom
 - address: '0x8b62c02091fe06ae3454d3c12921b32611ba5501'
   label: 'Zerion: Aave Asset Adapter'
 - address: '0x30f0bb7556159b0e812de4af7023dacfdd4f7110'

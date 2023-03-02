@@ -498,8 +498,11 @@ actors:
     - zbg
     refs:
     - api.coingecko.com/api/v3/exchanges/zbg
+    - www.coingecko.com/en/exchanges/zbg
     images:
     - assets.coingecko.com/markets/images/256/small/zbg-exchange.jpg?1537878965
+    notes:
+    - coingecko says est. in CN
 - id: aada
   label: Aada
   jurisdictions: []
@@ -4244,6 +4247,26 @@ actors:
     images:
     - icons.llama.fi/baymax.jpg
     twitter_handle: baymaxfi
+- id: bcex
+  label: BCEx
+  jurisdictions:
+  - HK
+  categories:
+  - exchange
+  - organization
+  uri: www.bcex.ca
+  context:
+    coingecko_ids:
+    - bchpad
+    defilama_ids:
+    - bchpad
+    refs:
+    - coinmarketcap.com/exchanges/bcex/
+    - www.cryptowisser.com/exchange/bcex/
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/312.png
+    twitter_handle: BCEXofficial
+    active: false
 - id: bchpad
   label: BCHPad
   jurisdictions: []
@@ -4719,6 +4742,26 @@ actors:
     images:
     - icons.llama.fi/betswirl.jpg
     twitter_handle: BetSwirl
+- id: bequant
+  label: Bequant
+  jurisdictions:
+  - US
+  categories:
+  - organization
+  - exchange
+  uri: bequant.io
+  context:
+    uris:
+    - bequant.pro
+    refs:
+    - www.crunchbase.com/organization/bequant-exchange
+    - www.crunchbase.com/organization/bequant-f794
+    - coinmarketcap.com/exchanges/bequant/
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/1564.png
+    twitter_handle: bequant_group
+    notes:
+    - twitter says malta
 - id: bflyfinance
   label: BFly Finance
   jurisdictions: []
@@ -5920,6 +5963,22 @@ actors:
     - api.coingecko.com/api/v3/exchanges/bitinka
     images:
     - assets.coingecko.com/markets/images/235/small/bitinka-exchange.jpg?1535514362
+- id: bitker
+  label: Bitker
+  jurisdictions:
+  - SG
+  categories:
+  - organization
+  - exchange
+  uri: www.bitker.com
+  context:
+    refs:
+    - www.cryptowisser.com/exchange/bitker/
+    - www.crunchbase.com/organization/bitker
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/464.png
+    active: false
+    twitter_handle: Bitker1
 - id: bitkonan
   label: Bitkonan
   jurisdictions:
@@ -6222,6 +6281,25 @@ actors:
     images:
     - icons.llama.fi/bitpif.jpg
     twitter_handle: bitpif
+- id: bitrabbit
+  label: BitRabbit
+  jurisdictions:
+  - AU
+  categories:
+  - organization
+  - exchange
+  uri: bitrabbit.com
+  context:
+    uris: 
+    - bitrabbit.io
+    refs:
+    - coinmarketcap.com/exchanges/bitrabbit/
+    - bitrabbit.medium.com/
+    - www.cryptowisser.com/exchange/bitrabbit/
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/467.png
+    twitter_handle: Bitrabbit_Team
+    active: false
 - id: bitrue
   label: Bitrue
   jurisdictions:
@@ -6474,6 +6552,26 @@ actors:
     - rebranded nuri
     active: true
     start_activity: '2015'
+- id: bitwellex
+  label: BitWell Exchange
+  jurisdictions:
+  - SG
+  categories:
+  - organization
+  - exchange
+  uri: www.bitwellex.com
+  context:
+    refs:
+    - coinmarketcap.com/exchanges/bitwell/
+    - www.cryptowisser.com/exchange/bitwell/
+    - www.crunchbase.com/organization/bitwell
+    active: false
+    start_activity: '2020'
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/1186.png
+    twitter_handle: BitwellGlobal
+    notes:
+    - crunchbase says CN
 - id: bitx
   label: Bit-X
   jurisdictions:
@@ -9680,6 +9778,23 @@ actors:
     active: true
     start_activity: '2012'
     twitter_handle: coinbase
+- id: coinbene
+  label: Coinbene
+  jurisdictions:
+  - SG
+  categories:
+  - organization
+  - exchange
+  uri: www.coinbene.com
+  context:
+    refs:
+    - coinmarketcap.com/exchanges/coinbene/
+    - www.cryptowisser.com/exchange/coinbene/
+    - www.crunchbase.com/organization/coinbene
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/343.png
+    active: false
+    twitter_handle: coinbene
 - id: coinbit
   label: Coinbit
   jurisdictions:
@@ -10122,6 +10237,23 @@ actors:
     - api.coingecko.com/api/v3/exchanges/coin_metro
     images:
     - assets.coingecko.com/markets/images/386/small/Coinmetro_Exchange_Logo_%282%29.png?1646280101
+- id: coinmex
+  label: CoinMex Exchange
+  jurisdictions:
+  - BZ
+  categories:
+  - organization
+  - exchange
+  uri: www.coinmex.com
+  context:
+    refs:
+    - www.crunchbase.com/organization/coinmex
+    - coinmarketcap.com/exchanges/coinmex/
+    - www.cryptowisser.com/exchange/coinmex/
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/454.png
+    twitter_handle: CoinMex_OS
+    active: false
 - id: coinmkt
   label: Coinmkt
   jurisdictions:
@@ -15155,6 +15287,30 @@ actors:
     images:
     - icons.llama.fi/ethernity-chain.jpg
     twitter_handle: EthernityChain
+- id: ethfinex
+  label: Ethfinex
+  jurisdictions:
+  - VG
+  categories:
+  - organization
+  - exchange
+  uri: www.ethfinex.com
+  context:
+    coingecko_ids:
+    - ethernity-chain
+    defilama_ids:
+    - ethernity-chain
+    - ethernity
+    refs:
+    - coinmarketcap.com/exchanges/ethfinex/
+    - www.cryptowisser.com/exchange/ethfinex/
+    - www.crunchbase.com/organization/ethfinex
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/344.png
+    twitter_handle: ethfinex
+    notes:
+    - crunchbase says Taiwan
+    - linked to diversifi, see twitter
 - id: ethhorse
   label: Ethhorse
   jurisdictions:
@@ -15515,8 +15671,8 @@ actors:
   uri: www.exir.io
   context:
     refs:
-    - https://www.cryptowisser.com/exchange/exir-exchange
-    - https://www.crunchbase.com/organization/exir
+    - www.cryptowisser.com/exchange/exir-exchange
+    - www.crunchbase.com/organization/exir
     notes:
     - crunchbase says US
     twitter_handle: EXIR_Official
@@ -15557,6 +15713,21 @@ actors:
     images:
     - assets.coingecko.com/markets/images/59/small/tt_ava.jpg?1669360697
     active: true
+- id: exnovinio
+  label: exnovin.io
+  jurisdictions:
+  - IR
+  categories:
+  - organization
+  - exchange
+  uri: exnovin.io
+  context:
+    notes:
+    - twitter says teheran
+    images:
+    - admin.exnovin.io/media/assets/Uc9r9f8DO57ty7yEuopCVFs5yTgrIFvZQ9Cd6whe.svg
+    active: true
+    twitter_handle: Exnovin_io
 - id: exodia
   label: Exodia
   jurisdictions: []
@@ -15573,6 +15744,21 @@ actors:
     images:
     - icons.llama.fi/exodia.png
     twitter_handle: EXODIAFinance
+- id: exrates
+  label: Exrates.me
+  jurisdictions:
+  - ID
+  categories:
+  - organization
+  - exchange
+  uri: exrates.me
+  context:
+    refs:
+    - www.crunchbase.com/organization/exrates
+    - www.cryptowisser.com/exchange/exrates/
+    active: false
+    notes: 
+    - cryptowisser says CH
 - id: fabric
   label: Fabric
   jurisdictions: []
@@ -15787,6 +15973,25 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/FaucetBOX.com
+- id: fcoin
+  uri: www.fcoin.com
+  categories:
+  - service
+  - exchange
+  jurisdictions:
+  - CN
+  label: Fcoin
+  context:
+    uris:
+    - www.fcoinjp.com
+    refs:
+    - coinmarketcap.com/exchanges/fcoin/
+    - www.crunchbase.com/organization/fcoin
+    - coinmarketcap.com/exchanges/fcoinjp/
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/410.png
+    twitter_handle: FCoinOfficial
+    active: false
 - id: feederfinance
   label: Feeder Finance
   jurisdictions: []
@@ -17405,6 +17610,27 @@ actors:
     images:
     - icons.llama.fi/gaur-money.png
     twitter_handle: GaurMoney
+- id: gdac
+  label: GDAC
+  jurisdictions:
+  - KR
+  categories:
+  - exchange
+  - organization
+  uri: www.gdac.com
+  context:
+    uris:
+    - www.gdac.co.kr
+    coingecko_ids:
+    - gdac
+    refs:
+    - coinmarketcap.com/exchanges/gdac/
+    - www.cryptowisser.com/exchange/gdac/
+    - www.crunchbase.com/organization/gdac-peertech
+    - www.coingecko.com/en/exchanges/gdac
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/443.png
+    - assets.coingecko.com/markets/images/301/small/gdac.png
 - id: gearbox
   label: Gearbox
   jurisdictions: []
@@ -19702,6 +19928,22 @@ actors:
     images:
     - icons.llama.fi/ichi-farm.png
     twitter_handle: ichifarm
+- id: icrypex
+  label: Icrypex
+  jurisdictions:
+  - TR
+  categories:
+  - organization
+  - exchange
+  uri: www.icrypex.com
+  context:
+    refs:
+    - coinmarketcap.com/exchanges/icrypex/
+    - www.crunchbase.com/organization/icrypex
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/3735.png
+    twitter_handle: icrypex
+    active: true
 - id: idcm
   label: Idcm
   jurisdictions:
@@ -22802,6 +23044,23 @@ actors:
     images:
     - icons.llama.fi/leonicornswap.jpg
     twitter_handle: swapleonicorn
+- id: letsbit
+  label: Let'sbit
+  jurisdictions:
+  - AR
+  categories:
+  - organization
+  - exchange
+  uri: letsbit.io
+  context:
+    refs:
+    - coinmarketcap.com/exchanges/lets-bit/
+    - www.crunchbase.com/organization/let-sbit
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/1630.png
+    active: true
+    start_activity: '2020'
+    twitter_handle: LetsBit_ok
 - id: letsexchange
   label: Letsexchange
   jurisdictions:
@@ -26534,6 +26793,21 @@ actors:
     - assets.coingecko.com/markets/images/757/small/nearpad.png?1640773960
     - icons.llama.fi/nearpad.jpg
     twitter_handle: NearPad
+- id: nebeus
+  label: Nebeus
+  jurisdictions:
+  - IE
+  categories:
+  - organization
+  - exchange
+  uri: nebeus.com
+  context:
+    refs:
+    - www.crunchbase.com/organization/nebeus
+    twitter_handle: NebeusWorld
+    notes:
+    - website/twitter says platform developed from spain, e-money licence Central Bank of Ireland, crunchbase says London, GB
+    active: true
 - id: neku
   label: Neku
   jurisdictions: []
@@ -27110,7 +27384,7 @@ actors:
   uri: nobitex.ir
   context:
     refs:
-    - https://nobitex.ir/en/about/
+    - nobitex.ir/en/about/
     twitter_handle: nobitexmarket
 - id: nomad
   label: Nomad
@@ -28183,6 +28457,25 @@ actors:
     images:
     - icons.llama.fi/opendao.png
     twitter_handle: opendaoprotocol
+- id: openledgerio
+  label: OpenLedger (Dex)
+  jurisdictions:
+  - DK
+  categories:
+  - organization
+  - defi_dex
+  - exchange
+  uri: openledger.io
+  context:
+    uris:
+    - dex.openledger.io
+    refs:
+    - coinmarketcap.com/exchanges/openledger/
+    - www.cryptowisser.com/exchange/openledger/
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/138.png
+    twitter_handle: OpenLedgerDC
+    active: false
 - id: openleverage
   label: OpenLeverage
   jurisdictions: []
@@ -28766,6 +29059,26 @@ actors:
     - icons.llama.fi/osmosis-dex.jpg
     - assets.coingecko.com/markets/images/684/small/osmosis-dex.jpeg?1624850295
     twitter_handle: osmosiszone
+- id: otcbtc
+  label: OTCBTC
+  jurisdictions:
+  - CN
+  categories:
+  - organization
+  - exchange
+  uri: otcbtc.com
+  context:
+    coingecko_ids:
+    - otcbtc-token
+    refs:
+    - coinmarketcap.com/exchanges/otcbtc/
+    - coinmarketcap.com/currencies/otcbtc-token/
+    - www.crunchbase.com/organization/otcbtc
+    - www.coingecko.com/en/coins/otcbtc-token
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/353.png
+    twitter_handle: otcbtc
+    active: false
 - id: ottopia
   label: Ottopia
   jurisdictions: []
@@ -29287,6 +29600,27 @@ actors:
     - api.coingecko.com/api/v3/exchanges/paribu
     images:
     - assets.coingecko.com/markets/images/136/small/paribu.jpg?1527734779
+- id: paritex
+  label: Paritex
+  jurisdictions:
+  - TR
+  categories:
+  - organization
+  - exchange
+  uri: www.paritex.com
+  context:
+    coingecko_ids:
+    - paritex
+    refs:
+    - www.coingecko.com/en/exchanges/paritex
+    - api.coingecko.com/api/v3/exchanges/paritex
+    - coinmarketcap.com/exchanges/paritex/
+    - www.crunchbase.com/organization/paritex
+    - www.cryptowisser.com/exchange/paritex/
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/638.png
+    twitter_handle: paritexexchange
+    active: false
 - id: parrotdefi
   label: Parrot Defi
   jurisdictions: []
@@ -29843,7 +30177,7 @@ actors:
   uri: phinix.ir
   context:
     refs:
-    - https://www.crunchbase.com/organization/phinix-2fee
+    - www.crunchbase.com/organization/phinix-2fee
     twitter_handle: phinix_corp
     active: true
 - id: phissionfinance
@@ -32677,7 +33011,7 @@ actors:
     images:
     - icons.llama.fi/rhino.fi.jpg
     - assets.coingecko.com/markets/images/511/small/COINGECKO_DVF_200x200.jpeg?1657853638
-    twitter_handle: rhinofi
+    twitter_handle: rhinofi,deversifi
 - id: ribbon
   label: Ribbon Lend/Earn
   jurisdictions: []
@@ -34634,6 +34968,23 @@ actors:
     images:
     - icons.llama.fi/sirius-finance.png
     twitter_handle: Sirius_Finance
+- id: sistemkoin
+  label: Sistemkoin
+  jurisdictions:
+  - TR
+  categories:
+  - organization
+  - exchange
+  uri: sistemkoin.com
+  context:
+    refs:
+    - api.llama.fi/protocol/sirius-finance
+    - coinmarketcap.com/exchanges/sistemkoin/
+    - www.cryptowisser.com/exchange/sistemkoin/
+    - www.crunchbase.com/organization/sistemkoin
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/388.png
+    twitter_handle: Sistemkoin
 - id: skcs
   label: sKCS
   jurisdictions: []
@@ -38967,6 +39318,26 @@ actors:
     - api.coingecko.com/api/v3/exchanges/toko_crypto
     images:
     - assets.coingecko.com/markets/images/501/small/toko.png?1578328877
+- id: tokenomy
+  label: Tokenomy
+  jurisdictions:
+  - SG
+  categories:
+  - organization
+  - exchange
+  uri: www.tokenomy.com
+  context:
+    coingecko_ids:
+    - tokenomy
+    refs:
+    - www.coingecko.com/en/exchanges/tokenomy
+    - coinmarketcap.com/currencies/tokenomy/
+    - www.crunchbase.com/organization/tokenomy
+    - api.coingecko.com/api/v3/exchanges/tokenomy
+    active: true
+    start_activity: '2018'
+    twitter_handle: tokenomy
+    github_organisation: tokenomy
 - id: tokok
   label: Tokok
   jurisdictions:
@@ -39257,6 +39628,21 @@ actors:
     refs:
     - www.theasianbanker.com/publication/virtual-currency-services
     active: true
+- id: tradeio
+  label: Trade.io
+  jurisdictions:
+  - HK
+  categories:
+  - organization
+  - exchange
+  uri: trade.io
+  context:
+    refs:
+    - coinmarketcap.com/exchanges/trade-io/
+    - www.crunchbase.com/organization/trade-io
+    - www.cryptowisser.com/exchange/trade-io/
+    active: false
+    twitter_handle: TradeToken
 - id: tradeogre
   label: TradeOgre
   jurisdictions:
@@ -43492,6 +43878,27 @@ actors:
     images:
     - icons.llama.fi/zappy.png
     twitter_handle: ZappyFi
+- id: zbcom
+  label: ZB.com
+  jurisdictions:
+  - WS
+  categories:
+  - exchange
+  uri: www.zb.com
+  context:
+    coingecko_ids:
+    - zbx
+    refs:
+    - coinmarketcap.com/exchanges/zb-com/
+    - www.crunchbase.com/organization/zb-com
+    - www.cryptowisser.com/exchange/zb-com/
+    - coinmarketcap.com/currencies/zb-token/
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/326.png
+    twitter_handle: ZBexchange
+    notes:
+    - cryptowisser says CN registered in Samoa (WS). Crunchbase says CH
+    active: true
 - id: zbx
   label: ZBX
   jurisdictions:

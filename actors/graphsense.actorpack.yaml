@@ -22682,11 +22682,18 @@ actors:
     active: false
 - id: ledger
   label: Ledger
-  jurisdictions: []
+  jurisdictions:
+  - FR
   categories:
-  - exchange
+  - organization
+  - wallet_service
+  - cold_wallet
   uri: www.ledger.com
   context:
+    refs:
+    - www.crunchbase.com/organization/ledger-2
+    - www.cryptowisser.com/wallet/ledger-nano-s/
+    - www.cryptowisser.com/wallet/ledger-nano-x/
     active: true
 - id: lemma
   label: Lemma

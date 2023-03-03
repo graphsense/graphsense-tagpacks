@@ -4071,7 +4071,7 @@ actors:
     notes:
     - banx.io renamed to atomic trade
 - id: bao
-  label: Bao (Swap, USD, Ballast, Markets, Basket, Masterchef V1) / Panda (Swap, Chef)
+  label: Bao
   jurisdictions: []
   categories:
   - organization
@@ -4080,6 +4080,8 @@ actors:
   - exchange
   uri: www.bao.finance
   context:
+    notes:
+    - includes Swap, USD, Ballast, Markets, Basket, Masterchef V1) / Panda (Swap, Chef)
     uris:
     - app.bao.finance
     - www.baoswap.xyz
@@ -38069,7 +38071,7 @@ actors:
     - icons.llama.fi/surfswap.png
     twitter_handle: SurfswapDEX
 - id: sushiswap
-  label: Sushiswap (Celo/Kashi/Furo/Trident/BentoBox)
+  label: Sushiswap
   jurisdictions:
   - JP
   categories:
@@ -38081,6 +38083,7 @@ actors:
   uri: sushi.com
   context:
     notes:
+    - Services Celo/Kashi/Furo/Trident/BentoBox
     - BSC
     - xDai
     - Fantom

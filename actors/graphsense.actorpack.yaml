@@ -333,11 +333,14 @@ actors:
   uri: 50btc.com
   categories:
   - service
+  - mining_service
+  - miner
   jurisdictions: []
   label: 50BTC.com
   context:
     refs:
     - www.walletexplorer.com/wallet/50BTC.com
+    - btc.com/stats/pool/50BTC
     active: false
 - id: 50x
   label: 50X
@@ -2008,6 +2011,7 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/AntPool.com
+    - btc.com/stats/pool/AntPool
 - id: anxpro
   label: Anx Pro
   jurisdictions:
@@ -2762,11 +2766,14 @@ actors:
   uri: asicminer
   categories:
   - service
+  - mining_service
+  - miner
   jurisdictions: []
   label: ASICMiner
   context:
     refs:
     - www.walletexplorer.com/wallet/ASICMiner
+    - btc.com/stats/pool/Asicminer
     active: false
 - id: asol
   label: aSOL
@@ -5590,6 +5597,8 @@ actors:
   categories:
   - organization
   - exchange
+  - mining_service
+  - miner
   uri: fmfw.io
   context:
     coingecko_ids:
@@ -5604,6 +5613,7 @@ actors:
     - coinmarketcap.com/exchanges/bitcoin-com-exchange/
     - www.coingecko.com/en/exchanges/fmfw_io
     - facebook.com/fmfw_io
+    - btc.com/stats/pool/Bitcoin.com
     images:
     - s2.coinmarketcap.com/static/img/exchanges/64x64/857.png
     - assets.coingecko.com/markets/images/467/small/fmfw.png?1635491491
@@ -5951,6 +5961,7 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/Bitfury.org
+    - btc.com/stats/pool/BitFury
 - id: bitgert
   label: Bitgert
   jurisdictions: []
@@ -6339,6 +6350,8 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/BitMinter.com
+    - btc.com/stats/pool/bitminter
+    active: false
 - id: bitmitnet
   uri: bitmit.net
   categories:
@@ -7507,6 +7520,19 @@ actors:
     images:
     - icons.llama.fi/brahma.jpg
     twitter_handle: BrahmaFi
+- id: braiins
+  label: Braiins.com
+  jurisdictions: 
+  - CZ
+  categories:
+  - mining_service
+  uri: braiins.com
+  context:
+   refs:
+   - https://www.crunchbase.com/organization/braiins
+   - braiins.com/pool
+   - btc.com/stats/pool/Braiins%20Pool
+   twitter_handle: BraiinsMining
 - id: brainiacfinance
   label: Brainiac Finance
   jurisdictions: []
@@ -7770,8 +7796,11 @@ actors:
     refs:
     - www.crunchbase.com/organization/btcc
     - www.walletexplorer.com/wallet/BTCC.com
+    - btc.com/stats/pool/BTCC
     legal_name: BTCC Limited
     active: true
+    notes:
+    -  BTCC mining pool has been closed in 2018
 - id: btccpool
   uri: pool.mineBitcoinCore.org
   categories:
@@ -7847,11 +7876,14 @@ actors:
   uri: btcguild.com
   categories:
   - service
+  - mining_service
+  - miner
   jurisdictions: []
   label: BTCGuild.com
   context:
     refs:
     - www.walletexplorer.com/wallet/BTCGuild.com
+    - btc.com/stats/pool/BTC%20Guild
     active: false
 - id: btcjamcom
   uri: btcjam.com
@@ -8388,6 +8420,7 @@ actors:
     - www.cryptowisser.com/exchange/bw-com/
     - www.walletexplorer.com/wallet/BW.com
     - cer.live/exchange/bw
+    - btc.com/stats/pool/BWPool
     images:
     - assets.coingecko.com/markets/images/326/small/bw.com.jpg?1548664400
     active: true
@@ -9905,11 +9938,14 @@ actors:
   uri: cloudhashing.com
   categories:
   - service
+  - mining_service
+  - miner
   jurisdictions: []
   label: CloudHashing.com
   context:
     refs:
     - www.walletexplorer.com/wallet/CloudHashing.com
+    - www.theverge.com/2013/12/23/5238128/inside-a-4-million-icelandic-bitcoin-mining-consortium
     active: false
 - id: code7finance
   label: Code 7 Finance
@@ -12999,6 +13035,8 @@ actors:
   uri: deepbit.net
   categories:
   - service
+  - mining_service
+  - miner
   jurisdictions: []
   label: DeepBit.net
   context:
@@ -14925,6 +14963,7 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/EclipseMC.com
+    - btc.com/stats/pool/EclipseMC
 - id: ecodefi
   label: EcoDeFi
   jurisdictions: []
@@ -15110,6 +15149,8 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/Eligius.st
+    - btc.com/stats/pool/eligius
+    active: false
 - id: elk
   label: Elk Finance (Ethereum, BSC, Avalanche, Polygon)
   jurisdictions: []
@@ -18310,6 +18351,8 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/GHash.io
+    - btc.com/stats/pool/GHash.IO
+    active: false
 - id: ghostmarket
   label: GhostMarket
   jurisdictions: []
@@ -20239,6 +20282,7 @@ actors:
     - www.walletexplorer.com/wallet/Huobi.com
     - cer.live/exchange/huobi
     - cer.live/exchange/huobi_korea
+    - btc.com/stats/pool/Huobi.pool
     notes:
     - 'cryptostats: also seychelles. Crunchbase: china'
     images:
@@ -21964,6 +22008,7 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/Kano.is
+    - btc.com/stats/pool/KanoPool
 - id: kanvas
   label: Kanvas
   jurisdictions: []
@@ -22580,6 +22625,7 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/KnCMiner.com
+    - btc.com/stats/pool/KnCMiner
 - id: knightsoffantom
   label: Knights of Fantom
   jurisdictions: []
@@ -31571,11 +31617,14 @@ actors:
   uri: polmine.pl
   categories:
   - service
+  - mining_service
+  - miner
   jurisdictions: []
   label: Polmine.pl
   context:
     refs:
     - www.walletexplorer.com/wallet/Polmine.pl
+    - btc.com/stats/pool/Polmine
     active: false
 - id: poloniex
   label: Poloniex
@@ -31951,6 +32000,7 @@ actors:
     refs:
     - api.llama.fi/protocol/mars-poolin
     - www.crunchbase.com/organization/poolin
+    - btc.com/stats/pool/Poolin
     images:
     - icons.llama.fi/mars-poolin.jpg
     twitter_handle: MarsProject2020
@@ -35499,6 +35549,8 @@ actors:
   uri: Sigmapool.com
   context:
     twitter_handle: sigmapool
+    refs:
+    - btc.com/stats/pool/Sigmapool.com
 - id: silkroadmarketplace
   uri: silkroadmarketplace
   categories:
@@ -35554,6 +35606,16 @@ actors:
     - www.crunchbase.com/organization/simple-coin
     - www.walletexplorer.com/wallet/SimpleCoin.cz
     active: true
+- id: simplecoinus_mining
+  label: Simplecoin.us
+  categories:
+  - mining_service
+  - miner
+  uri: simplecoin.us/
+  context:
+    refs:
+    - btc.com/stats/pool/simplecoin.us
+    active: false
 - id: sinegy
   label: SINEGY
   jurisdictions:
@@ -39032,6 +39094,8 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/Telco214
+    - btc.com/stats/pool/Telco%20214
+    active: false
 - id: telcoin
   label: Telcoin
   jurisdictions: []

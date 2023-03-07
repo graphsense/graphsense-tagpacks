@@ -234,6 +234,24 @@ actors:
     images:
     - icons.llama.fi/1swap.jpg
     twitter_handle: 1swapfi
+- id: 1thash
+  label: 1THash
+  uri: www.1thash.top
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs:
+      - btc.com/stats/pool/1THash
+- id: 21inc
+  label: 21 Inc.
+  uri: 21.co
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs:
+    - btc.com/stats/pool/21 Inc.
 - id: 2dogefinance
   label: 2Doge/FDoge Finance
   jurisdictions: []
@@ -357,6 +375,15 @@ actors:
     active: true
     start_activity: '2018-10-25'
     twitter_handle: 50x_com
+- id: 58coin
+  label: 58Coin
+  uri: 58coin.com
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs:
+    - btc.com/stats/pool/58COIN
 - id: 777coincom
   uri: 777coin.com
   categories:
@@ -400,6 +427,15 @@ actors:
     images:
     - icons.llama.fi/88mph.png
     twitter_handle: 88mphapp
+- id: 8baochi
+  label: 8baochi
+  uri: 8baochi.com/
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs:
+    - btc.com/stats/pool/8baochi
 - id: 8ightdao
   label: 8ightDAO
   jurisdictions: []
@@ -526,6 +562,15 @@ actors:
     images:
     - icons.llama.fi/aada.png
     twitter_handle: AadaFinance
+- id: aaopool
+  label: aaopool
+  uri: btc.tmspool.top
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs:
+    - btc.com/stats/pool/AAO%20Pool
 - id: aave
   label: Aave v1/2/3/arc
   jurisdictions: []
@@ -2648,6 +2693,15 @@ actors:
     images:
     - icons.llama.fi/arkadiko.jpg
     twitter_handle: ArkadikoFinance
+- id: arkpool
+  label: arkpool
+  categories:
+    - mining_service
+    - miner
+  uri: www.arkpool.com
+  context:
+    refs:
+    - btc.com/stats/pool/ArkPool
 - id: armorfinance
   label: Armor Finance
   jurisdictions: []
@@ -3566,6 +3620,15 @@ actors:
     - s2.coinmarketcap.com/static/img/exchanges/64x64/1048.png
     active: true
     start_activity: '2018'
+- id: batpool
+  label: batpool
+  uri: www.batpool.com
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs:
+      - btc.com/stats/pool/BATPOOL
 - id: b2bx
   label: B2Bx
   jurisdictions:
@@ -5099,6 +5162,9 @@ actors:
     - facebook.com/BinanceUS
     - facebook.com/binanceexchange
     - medium.com/binanceexchange
+    - btc.com/stats/pool/Binance%20Pool
+    - www.binancezh.sh/en
+    - pool.binancezh.sh/en
     notes:
     - 'cryptostats: binance US in the US. Binance at Cayman islands. Cryptowisser:
       malta'
@@ -5108,7 +5174,7 @@ actors:
     - missing_small.png
     - icons.llama.fi/binance-us.jpg
     - icons.llama.fi/binance-cex.jpg
-    twitter_handle: BinanceUS,binance
+    twitter_handle: BinanceUS,binance,binancezh
     legal_name: Binance Holdings Limited
     active: true
 - id: binancemultichaincapital
@@ -5522,6 +5588,15 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/BitClix.com
+- id: bitclubnetwork
+  label: Bitclub Network
+  uri: bitclubnetwork.com
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs:
+      - btc.com/stats/pool/BitClub
 - id: bitcm
   uri: bit.cm
   categories:
@@ -5681,6 +5756,15 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/BitcoinPokerTables.com
+- id: bitcoinrussia
+  label: Bitoin Russia
+  uri: bitcoin-russia.ru
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs:
+      - btc.com/stats/pool/BitcoinRussia
 - id: bitcoinvideocasinocom
   uri: bitcoinvideocasino.com
   categories:
@@ -6867,6 +6951,15 @@ actors:
     - www.walletexplorer.com/wallet/BitZlato.com
     defilama_ids:
     - bitzlato
+- id: bixin
+  label: Bixin
+  uri: haopool.com
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs:
+      - btc.com/stats/pool/Bixin
 - id: bkex
   label: BKEX
   jurisdictions:
@@ -7730,6 +7823,27 @@ actors:
     - api.llama.fi/protocol/bscswap
     images:
     - icons.llama.fi/bscswap.png
+- id: btccom
+  label: BTC.com
+  jurisdictions:
+    - NL
+  uri: btc.com
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs:
+      - www.crunchbase.com/organization/btc-com
+      - btc.com/stats/pool/BTC.com
+- id: btctop
+  label: BTC.top
+  uri: btc.top
+  categories:
+    - mining_service
+  context:
+    twitter_handle: btctop_official,btopmining
+    refs:
+      - btc.com/stats/pool/BTC.TOP
 - id: btc38
   label: Btc38
   jurisdictions:
@@ -8506,6 +8620,15 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/Bylls.com
+- id: bytepool
+  label: Bytepool
+  uri: bytepool.com
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs:
+      - btc.com/stats/pool/BytePool
 - id: cachegold
   label: CACHE.Gold
   jurisdictions: []
@@ -9946,6 +10069,7 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/CloudHashing.com
     - www.theverge.com/2013/12/23/5238128/inside-a-4-million-icelandic-bitcoin-mining-consortium
+    - btc.com/stats/pool/CloudHashing
     active: false
 - id: code7finance
   label: Code 7 Finance
@@ -10870,6 +10994,15 @@ actors:
   context:
     refs:
     - www.theasianbanker.com/publication/virtual-currency-services
+- id: cointerra
+  label: Cointerra
+  uri: cointerra.com
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs: 
+      - btc.com/stats/pool/Cointerra
 - id: cointiger
   label: Cointiger
   jurisdictions:
@@ -14583,6 +14716,15 @@ actors:
     images:
     - icons.llama.fi/dpex.jpg
     twitter_handle: DPEX_io
+- id: dpool
+  label: dpool
+  uri: www.dpool.top
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs:
+      - btc.com/stats/pool/DPOOL
 - id: drachma
   label: Drachma
   jurisdictions: []
@@ -14999,10 +15141,12 @@ actors:
   categories:
   - organization
   - exchange
+  - mining_service
   uri: exx.com
   context:
     refs:
     - cer.live/exchange/exx
+    - btc.com/stats/pool/EXX&BW
     active: false
 - id: eggtartswap
   label: EggTartSwap
@@ -15265,6 +15409,15 @@ actors:
     images:
     - icons.llama.fi/embr-finance.jpg
     twitter_handle: EmbrFinance
+- id: emcdpool
+  label: EMCD Pool
+  uri: pool.emcd.io
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs:
+      - btc.com/stats/pool/EMCDPool
 - id: emdx
   label: EMDX
   jurisdictions:
@@ -16250,6 +16403,20 @@ actors:
     active: false
     notes: 
     - cryptowisser says CH
+- id: f2pool
+  label: F2pool.com
+  jurisdictions:
+    - CN
+  categories:
+    - mining_service
+    - miner
+  uri: www.f2pool.com
+  context:
+    refs:
+      - www.crunchbase.com/organization/f2pool
+      - www.f2pool.com/
+    images:
+      - f2pool.com/static/images/icon-logo-blue.png
 - id: fabric
   label: Fabric
   jurisdictions: []
@@ -17247,6 +17414,18 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/FortuneJack.com
+- id: foundrydigital
+  label: Foundry
+  uri: foundrydigital.com
+  categories:
+    - mining_service
+  context:
+    refs:
+      - www.crunchbase.com/organization/foundry-digital-070f
+      - btc.com/stats/pool/Foundry%20USA
+    twitter_handle: FoundryServices
+    notes:
+      - www.coindesk.com/business/2022/11/22/crypto-mining-and-staking-firm-foundry-buys-some-of-troubled-bitcoin-miner-compute-norths-assets/
 - id: fountainprotocol
   label: Fountain Protocol
   jurisdictions: []
@@ -18109,6 +18288,15 @@ actors:
     images:
     - icons.llama.fi/gaur-money.png
     twitter_handle: GaurMoney
+- id: gbminers
+  label: GBMiners
+  uri: gbminers.com
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs:
+      - btc.com/stats/pool/GBMiners
 - id: gdac
   label: GDAC
   jurisdictions:
@@ -20196,6 +20384,15 @@ actors:
     images:
     - icons.llama.fi/humble-defi.png
     twitter_handle: HumbleDefi
+- id: hummerpool
+  label: Hummerpool
+  uri: www.hummerpool.com
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs:
+      - btc.com/stats/pool/Hummerpool
 - id: hummusexchange
   label: Hummus Exchange
   jurisdictions: []
@@ -24476,6 +24673,15 @@ actors:
     - assets.coingecko.com/markets/images/601/small/logo.d77b343b.png?1605083693
     - icons.llama.fi/luaswap.jpg
     twitter_handle: LuaSwap
+- id: lubiancom
+  label: Lubian
+  uri: www.lubian.com
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs:
+      - bt.com/stats/pool/Lubian.com
 - id: luchadores
   label: Luchadores
   jurisdictions: []
@@ -24620,6 +24826,15 @@ actors:
     images:
     - icons.llama.fi/luxor-money.jpg
     twitter_handle: LuxorMoney
+- id: luxortech
+  label: Luxor Tech
+  categories:
+    - mining_service
+    - miner
+  uri: www.luxor.tech
+  context:
+    refs:
+      - btc.com/stats/pool/Luxor
 - id: lydiafinance
   label: Lydia Finance
   jurisdictions: []
@@ -25104,6 +25319,15 @@ actors:
     images:
     - icons.llama.fi/mapo.png
     twitter_handle: MapProtocol
+- id: marapool 
+  label: Marathon Pool
+  categories:
+    - mining_service
+    - miner
+  uri: marathondh.com
+  context:
+    refs:
+      - btc.com/stats/pool/MARA%20Pool
 - id: marginswap
   label: MarginSwap
   jurisdictions: []
@@ -29843,6 +30067,15 @@ actors:
     images:
     - icons.llama.fi/oxygen.jpg
     twitter_handle: Oxygen_protocol
+- id: ozcoin
+  label: OzCoin
+  categories:
+    - mining_service
+    - miner
+  uri: ozcoin.net
+  context:
+    refs:
+      - btc.com/stats/pool/OzCoin
 - id: p2pb2b
   label: P2Pb2B
   jurisdictions:
@@ -34706,6 +34939,15 @@ actors:
     - assets.coingecko.com/markets/images/1014/small/sswap.png?1672109031
     - icons.llama.fi/saucerswap.jpg
     twitter_handle: SaucerSwapLabs
+- id: sbicrypto
+  label: SBI Crypto
+  uri: sbicrypto.com
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs:
+      - btc.com/stats/pool/SBI%20Crypto
 - id: scallop
   label: Scallop
   jurisdictions: []
@@ -39319,6 +39561,15 @@ actors:
     images:
     - icons.llama.fi/terrafloki.png
     twitter_handle: TerraFloki
+- id: terrapool
+  label: Terra Pool
+  uri: terrapool.io
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs:
+      - btc.com/stats/pool/Terra%20Pool
 - id: terraswap
   label: Terraswap (Classic)
   jurisdictions: []
@@ -42394,6 +42645,18 @@ actors:
     images:
     - icons.llama.fi/vexchange.jpg
     twitter_handle: VexchangeIO
+- id: viabtc
+  label: viabtc.com
+  categories:
+    - mining_service
+    - miner
+  uri: viabtc.com
+  jurisdictions:
+    - CN
+  context:
+    refs:
+      - https://www.crunchbase.com/organization/viabtc
+      - https://btc.com/stats/pool/ViaBTC
 - id: vic-socksto
   uri: vic-socks.to
   categories:
@@ -43162,6 +43425,15 @@ actors:
     - de.wikipedia.org/wiki/Waves_(Kryptow%C3%A4hrung)
     active: true
     start_activity: '2016'
+- id: wayicn
+  label: Wayi CN
+  uri: www.easy2mine.com
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs:
+      - btc.com/stats/pool/WAYI.CN
 - id: wazirx
   label: WazirX
   jurisdictions:

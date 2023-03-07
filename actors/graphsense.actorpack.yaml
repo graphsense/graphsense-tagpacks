@@ -26485,6 +26485,15 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/MineField.BitcoinLab.org
+- id: minerium
+  label: Minerium
+  uri: minerium.com
+  categories:
+    - mining_service
+  context:
+    refs:
+    - www.linkedin.com/company/minerium-us
+    twitter_handle: MineriumUS
 - id: minerscenter
   label: Minerscenter
   jurisdictions:
@@ -30276,6 +30285,11 @@ actors:
     notes:
     - cer.live/crunchbase/cg says LT
     twitter_handle: P2B_Exchange
+- id: p2poolorg
+  label: P2pool.org
+  uri: P2Pool.org
+  categories:
+    - mining_service
 - id: pacoca
   label: Pacoca
   jurisdictions: []
@@ -37199,6 +37213,15 @@ actors:
     images:
     - assets.coingecko.com/markets/images/915/small/FkSDUwDc_400x400.jpeg?1658112136
     - assets.coingecko.com/markets/images/910/small/FkSDUwDc_400x400.jpeg?1656298578
+- id: spiderpool
+  label: Spiderpool
+  categories:
+    - mining_service
+  uri: www.spiderpool.com/
+  context:
+    refs:
+    - btc.com/stats/pool/SpiderPool
+    - www.crunchbase.com/organization/spiderpool
 - id: spicetrade
   label: Spice Trade
   jurisdictions: []
@@ -45089,7 +45112,7 @@ actors:
     - assets.coingecko.com/markets/images/805/small/YoshiIcon.png?1645009739
     twitter_handle: YoshiExchange
 - id: yourbtcnet
-  uri:  
+  uri:  yourbtc.net
   label: Yourbtc.net
   categories:
     - mining_service

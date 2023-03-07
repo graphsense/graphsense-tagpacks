@@ -23046,6 +23046,8 @@ actors:
   categories:
   - organization
   - exchange
+  - mining_service
+  - miner
   uri: kucoin.com
   context:
     uris:
@@ -23062,6 +23064,7 @@ actors:
     - api.llama.fi/protocol/kucoin
     - api.coingecko.com/api/v3/exchanges/kumex
     - cer.live/exchange/kucoin
+    - btc.com/stats/pool/KuCoinPool
     images:
     - assets.coingecko.com/markets/images/61/small/kucoin.png?1640584259
     - assets.coingecko.com/markets/images/471/small/kucoin.png?1640588148
@@ -28656,6 +28659,8 @@ actors:
   - organization
   - exchange
   - defi_dex
+  - mining_service
+  - miner
   uri: okx.com
   context:
     notes:
@@ -28676,6 +28681,7 @@ actors:
     - api.llama.fi/protocol/okc-liquid-staking
     - api.llama.fi/protocol/okcswap
     - cer.live/exchange/okex
+    - btc.com/stats/pool/OKExPool
     images:
     - icons.llama.fi/okx.jpg
     - assets.coingecko.com/markets/images/96/small/WeChat_Image_20220117220452.png?1642428377
@@ -35798,6 +35804,8 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/SlushPool.com
+    notes:
+    - has been rebranded to braiins https://braiins-systems.medium.com/braiins-rebrands-e8448bdf978c
 - id: smartcoin
   label: SmartCoin
   jurisdictions: []

@@ -30290,6 +30290,9 @@ actors:
   uri: P2Pool.org
   categories:
     - mining_service
+  context:
+    notes:
+      - https://www.reddit.com/r/Bitcoin/comments/2855h5/just_so_you_know_p2poolorg_is_not_p2pool_its_a/
 - id: pacoca
   label: Pacoca
   jurisdictions: []

@@ -149186,6 +149186,7 @@ tags:
 - address: 15rLkQjruGDKnQpm8Y6RdvRJJ9BNKzbvEw
   label: P2pool.org
   is_cluster_definer: true
+  actor: p2poolorg
 - address: 1E9UoAzRpnZeymLh4JnLjADEaVyG5xKWma
   label: Satoshi systems
   is_cluster_definer: true

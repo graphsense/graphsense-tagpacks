@@ -102,6 +102,7 @@ tags:
 - address: 1PbbzqFeec2XaA5zDjkqgTP8V9VzccHahP
   label: Minerium
   is_cluster_definer: true
+  actor: minerium
 - address: 1KmgBTL7cFmFFYTD7HcdkMcZXRcTkh2WwS
   label: AntPool
   is_cluster_definer: true
@@ -480,6 +481,7 @@ tags:
 - address: 38u1srayb1oybVB43UWKBJsrwJbdHGtPx2
   label: SpiderPool
   is_cluster_definer: true
+  actor: spiderpool
 - address: 3QYvfQoG9Gs9Vfvbpw6947muSqhoGagvF6
   label: Rawpool.com
   is_cluster_definer: true
@@ -615,6 +617,7 @@ tags:
 - address: 125m2H43pwKpSZjLhMQHneuTwTJN5qRyYu
   label: SpiderPool
   is_cluster_definer: true
+  actor: spiderpool
 - address: 1Q8QR5k32hexiMQnRgkJ6fmmjn5fMWhdv9
   label: Binance Pool
   is_cluster_definer: true
@@ -881,6 +884,7 @@ tags:
 - address: 1MgH8iNkdZrDW8rsfzifDzsqJnCjBVyRBV
   label: P2Pool.org
   is_cluster_definer: true
+  actor: p2poolorg
 - address: 1Pzf7qT7bBGouvnjRvtRD8VhTyqjX1NrJT
   label: AntPool
   is_cluster_definer: true
@@ -912,6 +916,7 @@ tags:
 - address: 1DkVzP4LYA4NTWLas78ZWwrzpBLKMymQ3p
   label: Minerium
   is_cluster_definer: true
+  actor: minerium
 - address: 13dPnk7MVZqg9Te6BTcrLWayy9yc3nFToS
   label: SlushPool
   is_cluster_definer: true

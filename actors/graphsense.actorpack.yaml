@@ -191,6 +191,15 @@ actors:
     refs:
     - www.theasianbanker.com/publication/virtual-currency-services
     active: false
+- id: 1hash
+  label: 1Hash
+  uri: www.1hash.com
+  categories: 
+    - mining_service
+    - miner
+  context:
+    refs:
+      - btc.com/stats/pool/1Hash
 - id: 1inch
   label: 1inch Network
   jurisdictions:
@@ -5736,6 +5745,14 @@ actors:
     notes:
     - bitcointalk.org/index.php?topic=77523.msg861805#msg861805
     active: false
+- id: bitcoinindia
+  label: Bitcoin India
+  categories:
+    - mining_service
+  uri: pool.bitcoin-india.org
+  context:
+    refs:
+      - btc.com/stats/pool/BitcoinIndia
 - id: bitcoinp2p
   label: bitcoinp2p.com.br
   jurisdictions:
@@ -6523,6 +6540,14 @@ actors:
     legal_name: Bitpanda GmbH
     active: true
     twitter_handle: BitpandaPro,bitpanda
+- id: bitparking
+  label: Bitparking
+  uri: mmpool.bitparking.com
+  categories:
+    - mining_service
+  context:
+    refs:
+      - btc.com/stats/pool/Bitparking 
 - id: bitpaycom
   uri: bitpay.com
   categories:
@@ -7835,6 +7860,15 @@ actors:
     refs:
       - www.crunchbase.com/organization/btc-com
       - btc.com/stats/pool/BTC.com
+- id: btcnuggets
+  label: BTC Nuggets
+  uri: 104.197.8.250
+  categories:
+    - mining_service
+    - miner
+  context:
+    refs:
+      - btc.com/stats/pool/BTC%20Nuggets
 - id: btctop
   label: BTC.top
   uri: btc.top
@@ -7935,6 +7969,14 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/BtcDice.com
     active: false
+- id: btcdig
+  label: BTCdig
+  categories:
+    - mining_service
+  uri: btcdig.com
+  context:
+    refs:
+      - btc.com/stats/pool/BTCDig
 - id: btce
   label: Btc-E
   jurisdictions:
@@ -8846,6 +8888,14 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/CannabisRoadMarket
     active: false
+- id: canoe 
+  label: Canoe
+  uri: www.canoepool.com
+  categories:
+    - mining_service
+  context:
+    refs:
+    - btc.com/stats/pool/CanoePool
 - id: cantodex
   label: Canto Dex/Lending
   jurisdictions: []
@@ -10608,6 +10658,14 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/CoinKite.com
+- id: coinlab
+  label: CoinLab
+  uri: coinlab.com/
+  categories:
+    - mining_service
+  context:
+    refs:
+    - btc.com/stats/pool/CoinLab  
 - id: coinlistpro
   label: Coinlist
   jurisdictions:
@@ -11409,6 +11467,14 @@ actors:
     images:
     - icons.llama.fi/cone.png
     twitter_handle: Coneswap
+- id: connectbtc 
+  label: connectbtc
+  uri: www.connectbtc.com
+  categories:
+    - mining_service
+  context:
+    refs:
+    - btc.com/stats/pool/ConnectBTC  
 - id: connext
   label: Connext
   jurisdictions: []
@@ -14210,6 +14276,14 @@ actors:
     - assets.coingecko.com/markets/images/225/small/DF_logo.png?1594264355
     active: true
     twitter_handle: digifinex
+- id: digitalbtc
+  uri: digitalbtc.com
+  label: DigitalBTC
+  categories:
+    - mining_service
+  context:
+    refs:
+    - btc.com/stats/pool/digitalBTC
 - id: dinoexchange
   label: Dino.Exchange
   jurisdictions: []
@@ -15677,6 +15751,14 @@ actors:
     images:
     - icons.llama.fi/enzyme-finance.jpg
     twitter_handle: enzymefinance
+- id: eobot 
+  label: Eobot
+  uri: eobot.com
+  categories:
+    -  mining_service
+  context:
+    refs:
+    - btc.com/stats/pool/Eobot
 - id: eosrex
   label: EOS REX
   jurisdictions: []
@@ -18847,6 +18929,14 @@ actors:
     images:
     - icons.llama.fi/gogocoin.png
     twitter_handle: GOGO_coin
+- id: gogreenlight 
+  label: GogreenLight
+  categories:
+    - mining_service
+  uri: www.gogreenlight.se
+  context:
+    refs:
+    - btc.com/stats/pool/GoGreenLight 
 - id: goldfinch
   label: Goldfinch
   jurisdictions: []
@@ -19526,6 +19616,14 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/HaoBTC.com
+- id: haozhuzhu 
+  label: Haozhuzhu
+  categories:
+    - mining_service
+  uri: haozhuzhu.com
+  context:
+    refs:
+    - btc.com/stats/pool/HAOZHUZHU
 - id: happycoins
   label: Happycoins
   jurisdictions:
@@ -19947,6 +20045,14 @@ actors:
     images:
     - icons.llama.fi/hfione.jpg
     twitter_handle: fi_heco
+- id: hhtt 
+  label: hhtt
+  uri: hhtt.1209k.com
+  categories:
+    - mining_service
+  context:
+    refs:
+    - btc.com/stats/pool/HHTT  
 - id: hippowswap
   label: HipPoWSwap
   jurisdictions: []
@@ -25499,6 +25605,14 @@ actors:
     images:
     - icons.llama.fi/matter-defi.png
     twitter_handle: matter_defi
+- id: maxbtc
+  label: MaxBTC
+  categories:
+    - mining_service
+  uri: maxbtc.com
+  context:
+    refs:
+    - btc.com/stats/pool/MaxBTC
 - id: maximizer
   label: Maximizer
   jurisdictions: []
@@ -25594,6 +25708,14 @@ actors:
     images:
     - icons.llama.fi/mean-finance.jpg
     twitter_handle: mean_fi
+- id: megabigpower
+  label: megabigpower
+  uri: megabigpower.com
+  categories:
+    - mining_service
+  context:
+    refs:
+    - btc.com/stats/pool/MegaBigPower
 - id: meld
   label: Meld
   jurisdictions: []
@@ -26405,6 +26527,22 @@ actors:
     images:
     - icons.llama.fi/minimax.png
     twitter_handle: MinimaxFinance
+- id: miningcity
+  label: MiningCity
+  uri: www.miningcity.com
+  categories:
+    - mining_service
+  context:
+    refs:
+    - btc.com/stats/pool/MiningCity
+- id: miningkings
+  label: miningkings
+  uri: miningkings.com
+  categories:
+    - mining_service
+  context:
+    refs:
+    - btc.com/stats/pool/MiningKings 
 - id: miningtycoon
   label: MiningTycoon
   jurisdictions: []
@@ -27221,6 +27359,14 @@ actors:
     - www.cryptowisser.com/exchange/mt-gox
     active: false
     start_activity: '2010-07-01'
+- id: mtred
+  label: Mt. Red
+  uri: mtred.com
+  categories:
+    - mining_service
+  context:
+    refs:
+    - btc.com/stats/pool/Mt%20Red
 - id: muesliswapmilkada
   label: MuesliSwap
   jurisdictions:
@@ -28242,6 +28388,14 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/NitrogenSports.eu
+- id: nmcbit
+  label: NMCBit
+  categories:
+    - mining_service
+  uri: nmcbit.com
+  context:
+    refs:
+    - btc.com/stats/pool/NMCbit 
 - id: noaharkdao
   label: NoahArkDAO
   jurisdictions: []
@@ -28407,6 +28561,14 @@ actors:
     images:
     - icons.llama.fi/nouns.jpg
     twitter_handle: nounsdao
+- id: novablock
+  label: Novablock
+  categories:
+    - mining_service
+  uri: novablock.com
+  context:
+    refs:
+    - btc.com/stats/pool/NovaBlock
 - id: novadax
   label: NovaDAX
   jurisdictions:
@@ -28912,6 +29074,14 @@ actors:
     - icons.llama.fi/okc-liquid-staking.jpg
     - icons.llama.fi/okcswap.png
     twitter_handle: okx,OKCNetwork
+- id: okkong 
+  label: okkong
+  categories:
+    - mining_service
+  uri: hash.okkong.com
+  context:
+    refs:
+    - btc.com/stats/pool/OKKONG 
 - id: oklink
   label: Oklink
   jurisdictions:
@@ -28926,6 +29096,14 @@ actors:
     - www.walletexplorer.com/wallet/OkLink.com
     active: true
     start_activity: '2016'
+- id: okminer
+  categories:
+    - mining_service
+  label: okminer
+  uri: www.okminer.com
+  context:
+    refs:
+    - btc.com/stats/pool/okminer  https://
 - id: olive
   label: Olive
   jurisdictions: []
@@ -31040,6 +31218,14 @@ actors:
     images:
     - icons.llama.fi/gton-capital.png
     twitter_handle: Phantom_fi
+- id: phashio
+  label: Phash.io
+  categories:
+    - mining_service
+  uri: phash.io/
+  context:
+    refs:
+    - btc.com/stats/pool/PHash.IO
 - id: phemex
   label: Phemex
   jurisdictions:
@@ -33512,6 +33698,14 @@ actors:
     images:
     - icons.llama.fi/ravelin-finance.png
     twitter_handle: RavelinFinance
+- id: rawpoolcom
+  label: Rawpool.com
+  categories:
+    - mining_service
+  uri: www.rawpool.com/
+  context:
+    refs:
+    - btc.com/stats/pool/Rawpool  
 - id: raydium2
   label: Raydium
   jurisdictions: []
@@ -35463,6 +35657,14 @@ actors:
     - assets.coingecko.com/markets/images/890/small/sharkswap.jpeg?1654675693
     - icons.llama.fi/sharkswap.png
     twitter_handle: SharkSwap_xyz
+- id: shawnp0wers
+  label: Shawnp0wers
+  categories:
+    - miner
+  uri: www.brainofshawn.com/
+  context:
+    refs:
+    - btc.com/stats/pool/shawnp0wers 
 - id: sheepdex
   label: SheepDex
   jurisdictions: []
@@ -39198,6 +39400,14 @@ actors:
     - assets.coingecko.com/markets/images/784/small/w3UpakzC_400x400.jpg?1642748177
     - icons.llama.fi/tangoswap.jpg
     twitter_handle: TangoSwapCash
+- id: tangpool 
+  label: Tangpool
+  uri: www.tangpool.com/
+  categories:
+    - mining_service
+  context:
+    refs:
+    - btc.com/stats/pool/Tangpool  
 - id: tarina
   label: Tarina
   jurisdictions: []
@@ -40158,6 +40368,14 @@ actors:
     images:
     - icons.llama.fi/tifi.png
     twitter_handle: TiFiToken
+- id: tigerpoolnet
+  categories:
+    - mining_service
+  uri: www.tigerpool.net/pool
+  label: Tigerpool Net
+  context:
+    refs:
+    - btc.com/stats/pool/tigerpool.net
 - id: timeless
   label: Timeless Finance / Bunni
   jurisdictions: []
@@ -40825,6 +41043,14 @@ actors:
     - icons.llama.fi/tranq.svg
     - assets.coingecko.com/markets/images/850/small/tranquil_finance.jpeg?1649769691
     twitter_handle: tranquil_fi
+- id: transactioncoinmining
+  label: TransactionCoinMining
+  uri: sha256.transactioncoinmining.com/ 
+  categories: 
+    - mining_service
+  context:
+    refs:
+    - btc.com/stats/pool/transactioncoinmining   
 - id: trapezaprotocol
   label: Trapeza Protocol
   jurisdictions: []
@@ -40920,6 +41146,14 @@ actors:
     images:
     - icons.llama.fi/trick-or-treat-farm.png
     twitter_handle: tricktreatfarm
+- id: triplemining
+  uri: triplemining.com/
+  label: TripleMining
+  categories:
+    - mining_service
+  context:
+    refs:
+    - https://btc.com/stats/pool/TripleMining
 - id: trisolaris
   label: Trisolaris
   jurisdictions: []
@@ -41169,6 +41403,14 @@ actors:
     images:
     - icons.llama.fi/ubiquitydao.png
     twitter_handle: UbiquityDAO
+- id: ultimus
+  uri: www.ultimuspool.com/
+  label: Ultimus
+  categories:
+    - mining_service
+  context:
+    refs:
+    - btc.com/stats/pool/ULTIMUS%20POOL  
 - id: ultraprotocol
   label: Ultra Protocol
   jurisdictions: []
@@ -43338,6 +43580,14 @@ actors:
     images:
     - icons.llama.fi/waterfall-defi.png
     twitter_handle: Waterfalldefi
+- id: waterhole
+  uri: btc.waterhole.io
+  label: Waterhole
+  categories:
+    - mining_service
+  context:
+    refs:
+    - btc.com/stats/pool/Waterhole  
 - id: waterloan
   label: WaterLoan
   jurisdictions: []
@@ -44838,6 +45088,14 @@ actors:
     - icons.llama.fi/yoshi-exchange.jpg
     - assets.coingecko.com/markets/images/805/small/YoshiIcon.png?1645009739
     twitter_handle: YoshiExchange
+- id: yourbtcnet
+  uri:  
+  label: Yourbtc.net
+  categories:
+    - mining_service
+  context:
+    refs:
+    - btc.com/stats/pool/Yourbtc.net
 - id: youswap
   label: YouSwap
   jurisdictions: []

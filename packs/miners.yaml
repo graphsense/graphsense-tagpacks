@@ -103,6 +103,7 @@ tags:
 - address: 1KuWLoZuoJgz3N6sLoAwGth9XGm8YuFTGt
   label: Gbminers
   is_cluster_definer: true
+  actor: gbminers
 - address: 1MFsp2txCPwMMBJjNNeKaduGGs8Wi1Ce7X
   label: A-xbt
   is_cluster_definer: true
@@ -120,12 +121,15 @@ tags:
 - address: 167ApWWxUSFQmz2jdz9xop3oAKdLejvMML
   label: Batpool
   is_cluster_definer: true
+  actor: batpool
 - address: 1Hd9vGm43s7oL96fJXnJnzDfvSccQESk3a
   label: Batpool
   is_cluster_definer: true
+  actor: batpool
 - address: 1Dv6VgGsryt2kKuyPDRnVUh4vsttpDGpQj
   label: Batpool
   is_cluster_definer: true
+  actor: batpool
 - address: 19PkHafEN18mquJ9ChwZt5YEFoCdPP5vYB
   label: Bitminter
   is_cluster_definer: false
@@ -133,21 +137,26 @@ tags:
 - address: 14R2r9FkyDmyxGB9xUVwVLdgsX9YfdVamk
   label: Bitcoinrussia
   is_cluster_definer: true
+  actor: bitcoinrussia
 - address: 1LhbiLp78MBdbB3emxTmGLWHXbg3xKrq7T
   label: Bitcoin-ukraine
   is_cluster_definer: true
 - address: 165GCEAx81wce33FWEnPCRhdjcXCrBJdKn
   label: Bitcoinrussia
   is_cluster_definer: true
+  actor: bitcoinrussia
 - address: 1E6avMuP1HbweUvGrfzPGEM8y3YVKKP5ZS
   label: Bitcoinrussia
   is_cluster_definer: true
+  actor: bitcoinrussia
 - address: 38GcXaKUsQqHq4dK3qUagzVzQ69As34RwF
   label: Bitcoinrussia
   is_cluster_definer: true
+  actor: bitcoinrussia
 - address: 1231F5mJfWNoFEuhMjKb4i73My3586iPb2
   label: Bitcoinrussia
   is_cluster_definer: true
+  actor: bitcoinrussia
 - address: 1HauZrib4ZsacSYvsj5QbeMV5PCbZNX5Qi
   label: Btcserv
   is_cluster_definer: true
@@ -322,27 +331,35 @@ tags:
 - address: 1NLg3QJMsMQGM5KEUaEu5ADDmKQSLHwmyh
   label: Ozcoin
   is_cluster_definer: true
+  actor: ozcoin
 - address: 1811f7UUQAkAejj11dU5cVtKUSTfoSVzdm
   label: Ozcoin
   is_cluster_definer: true
+  actor: ozcoin
 - address: 13fmZxkxJNXKcTzbrUdxWoF8zi4iboq7Wr
   label: Ozcoin
   is_cluster_definer: true
+  actor: ozcoin
 - address: 1Lxx85wGECU3M9FngyQYvD3yrMEM8S6S5k
   label: Ozcoin
   is_cluster_definer: true
+  actor: ozcoin
 - address: 13LXwkQkPfUoM5ns9Bi3JXw3osYDRs9RV9
   label: Ozcoin
   is_cluster_definer: true
+  actor: ozcoin
 - address: 1DrJLkDyjaE8RMQ3KYwQbCArNQEwd838uP
   label: Ozcoin
   is_cluster_definer: true
+  actor: ozcoin
 - address: 1ChmkysDwYKCqUEjdZnqbGePYArGdsyBij
   label: Ozcoin
   is_cluster_definer: true
+  actor: ozcoin
 - address: 1WbvyrfCBJBJhT4BuQsFb821vGa221qCz
   label: Ozcoin
   is_cluster_definer: true
+  actor: ozcoin
 - address: 15xiShqUqerfjFdyfgBH1K7Gwp6cbYmsTW
   label: Eclipsemc
   is_cluster_definer: true
@@ -982,1059 +999,1411 @@ tags:
 - address: 1GeixUVXntCPHD1AFfe3YTPbCnWSeKtr6U
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 1FDpg9yB1wt1wFMPYV1zHYegcwVewK6VLH
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 1KmrCFnfevNtFSYDnEjSqKg2pDLyekG239
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 1DJgG91TTZH1fmfcYhTn6HJpQRNZ8ns8K4
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 1En448pmRoki8JpDj4f9YfXD73SGgq6apb
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 1nQs4N1pMpWb9YN3AVmJBCXysASzKGxtm
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 1ADpCsnThB8QEBWtHLtUPfVn71RN7dKbGk
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 1P4g74BDTMYusFcwYModAFPw9yqVDapBHo
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 1EssKLpCM1FUyRAofZyBSvvmvjLVsjdiW6
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 1FVjLnnGDDGk8v7fLojEhwUo3KcoQ3TcKp
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 1MQGSdhhzoXdv4j1KWY7vwHpukQMiT6ook
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 1M7nCDSNX4k1A5yaZL2dQXMYxbcy5k8mkP
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 19vrP79pLca9q9dU2Uv2tEHNiFVacPAz4t
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 1H2Dmpc3FhTMFnqiuL2YjkEhdBFX5tyXGq
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 1Nwk3Pw9sxSfcZENnq1kjjSbN97baYXej4
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 1HktqScAwkTPpmtyJZdMv7wmpGYRQRj1XT
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 1GnRTWCCMCfZGBi1Afv8uQeMf6E2grR31A
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 1PcacwvaEcnr7tZYjQEVKA36WgziPDerL6
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 1Cet9hPqNVd9HQCavPp8gNLSrieMaN72N9
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 1MhwJKZw5y4m9jrxA6vo6PzYL5rgiLYFSW
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 159teKnPEq4b5F1i7MnNfCxsqMbhGLdjce
   label: Maxbtc
   is_cluster_definer: true
+  actor: maxbtc
 - address: 14JJG9HH75YrybPf5c44YVWByZ2W2apiKK
   label: Triplemining
   is_cluster_definer: true
+  actor: triplemining
 - address: 1JSmgT3UVAK9fh5AXwPPV5bgJt1yaEHkSM
   label: Triplemining
   is_cluster_definer: true
+  actor: triplemining
 - address: 1D8EopaPeqgmwthzqMZsxdoPxR7A5HSuZD
   label: Triplemining
   is_cluster_definer: true
+  actor: triplemining
 - address: 1HnNZzjf7CuGEJqqgiB2BxTxvVQeGcPS4R
   label: Triplemining
   is_cluster_definer: true
+  actor: triplemining
 - address: 1LPmVbjXC2scWrDLi3cH2y6upXkS8UFmwA
   label: Triplemining
   is_cluster_definer: true
+  actor: triplemining
 - address: 1CtrsbmzVCcPH94Lo8DhWpPGJSiXuRyQyV
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 14XtwQEi4rYHEEsbk2TQpgs5kVpcfUkvas
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 14pQFphxFkpQowVeVAv8yMBnY61E5J4xa2
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1EF4wLvxU2arH9oWndX8xG7qAmngrX5the
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1EgU49DqGAFpTtS6uDbfbZDkWPdGEBZvNN
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1CqijVGciZ32XY4qRHhLSoj6raHsKK75wL
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1CzpgJQqGgYHuRvHLHX3tV2katCBtVryWX
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1KQTpBcEFwf11w1T5CoKLPKwF92nEHzAzF
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1EgtwwZyKXhDajmPXcXDMUff1q1gc9CrYo
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1BBY3oMrDtiQZBsZHNRmCW65Xf3YNW2U5Q
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 12jSbM5NMP1YzfEKkWWAkB62yPMGJEPYXs
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 18tjP8HdT1hYMPYmbq99AY82bmKPnwa9Up
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Q1SZSGhaSc9ArD8RMyazjURb8jbJjBJma
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1AAC91DDofEFV9khkhUYFbr23kkGy6Amq7
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1BfM6MHFnDpbty6rGcyeWkrBXPSc4ABesT
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 12FbVu9ybcUim3oCmZA4SKjhLNKxmdFSy2
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 13JcEdjqP3th36BQoj5F2DyJWbbQQABca9
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1K2CXFwDDh4BeyFstGNFdGou1PpyJiqy7R
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1GWFAEmk79BN7JGxYmUMboNaMPCHqRGtHG
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 12h7UFWfbxsy1BHrnUQbZJmsyn63QcsmUm
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1MmNbmyjJUuLRm8tL85HBqNWVrSsUBkYkY
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 17UVrfhSXVBaYZywq7fRSAMh9qzAr37J25
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 15gm6h28p4zo3mb2zDyaQ1o9HUinS53shX
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1432X27pYNZqVLEcuye5sFgJ3SsW2vf21r
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 19HVnCtiASVQdQpE1H6uWpUYHVtyMMom8p
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1KLZAHQvHUpvh6v3WwPKPouciyUBQEREw4
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 18Gg3oLap4gch4sC4Byy4ek6LA3g33Hri7
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1BgtDziddN9wePKQXxYgytwQCAmD5gBZtX
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Gk3FGPP64xgv9mEv7xtuNuwvUGy3EsBCD
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1JbbH6mysuvPezJ9hwWJaTfjMCoUHMGZik
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1FLHkEqjwSKEqqJ3B4e49LxhXCGVVaMXv4
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1rGa5c9AuE43F6M8WuBfDqLGpFbgLS8Mg
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Jfhjrhoar1TUhkWWzKUXniqVBKH79ycEM
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 18r3119RpdKqzZxfeAA1TDxWoBZxdoRmQT
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1MY3Wti6N3m1XaAbmTLJb55LmnbVVVZnho
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1HbWdTe6mKeaQx7cQZ14eoxmVpaN6fYMjH
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 19ygDrumcGpDWmQxqWxTqQDU9ZMQc1jDqg
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1CasXV1j3RXwtiwVeyWUZyChXfgjnMziKE
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 16TDvm95SrrS7MK5pkFLg5pfssxfBrpcNL
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1EvjnuZ8Q5X1rKzptNcq93HHMcA9jN5zBS
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Gq7L3j2DMJNSyJNxssf1t4qzuRaWrhWYE
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1NUbPiaNVwXLmCczPhv5zLANfEZrX8qvSF
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 19L7NHSfajhboj6QTn5cfuw8DWyJwQstBw
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1KNFbUZnwJEKNg1iojzdPhmFpGa1iT9X88
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1PK9RRMZSfp3X5uPjpeiWCNgT1oc66Mcgy
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1BtvHnA5oJic6Z2CeGnf5pB22AVyPz9vBR
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 182rZ3erZNfYKfMnqusYoC9346D7ncqq6A
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1LkrKdaxte2LGQ1ieJ6Q41n9t5cGqgvGsT
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1zGRaogsZqzXui3NHNfgtBN19kFXswkVq
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1B9DFKKhHJ1i31iaksxhYZMQkdXtZJ1rv3
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 12kYb998nAF1t1LLcWK9ErhLeMQobo5fZ8
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1CCfBoJDo59Kf2VwVgDwhyVUUKYKkRHmQD
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1B6aqntZEgNp4KRiM2Siur6AMXC8PEaKmK
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 18MghUXErYzCHS1mm5TncshHTZ7TrpCnzn
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Kp4SjeHQuiHgrx2myH8DL9FGAUW84uwDZ
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1HLeUtenhrFqPJyFsTg8TnR9nzruz4NG24
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 11LvRarXpjyfrJhnVrfZsurCVhFpbZ5Fg
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1B6p35zUc4ADhUtoEphvjzfoNRtsoApnbF
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1DgAoSG7cdkaUxAe7PwNP63AyETm8GfgEE
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1FJi7rJYfkCr8oyNEQHWo1hvCzKy4GrGPJ
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 17SEtNVfRuFBnbjfMwbb2W7e7tzEgvmtKB
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1EtgJSihUqZatT8Cy8x4rbjhJaMSnzjrTb
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1YVi23kcnnPVEN6jPKwwSXKFWtxcCSJBR
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 19ZWStKLSDHQbppTdSGuSMBjfUDeuR7HYF
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1345sj6fFpKrAHGQ87LKnr1XWjhie9EB4Z
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1KYd94iSyPJQj6xC3CzRH2qnwwegxL1haZ
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Kxw1D2xFrekLw8mjuS9Yszp8jpmWxTrB2
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1NigMjn8Po6UwYSDkS5GCA5UfVJDkgBL4A
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1GqS4MkzB7PkHhcgs1xeWHSoq6pAcJw731
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 123j1ibw8LoKLstZd7LdaNEsoGmhrfurip
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1P8MLM52iL8WZzxMLzrdfC57X3nHEMZMr2
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1PpojLyt227LSTBarMuZmqZATxgrKeqM5Q
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1HAFEW8fDZYmqVNyAR3yLEExpPHHhtHwDm
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 12En4pTRTZCuuCvRQyoK4oyQFBGJTdbXJi
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Q3Rp9so5xFRgdSsz1VUfUek7T8syqPpWE
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1iFenDcZ1TD7T4si5deTKBQ8BYhToue8h
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1EpzV8xnJ61prckkdy8TCZUGAJcN4qXunq
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Kk6Sw4nrDz2wqhEGhRfim6j36eSYBxUKk
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1NQGhUX55eReSmd8EArEKsLgrPLC4JFvdS
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Hm9mmwToRJqhWk2zHLHZND1JbSGKym6HT
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1B6psPAkqXr578KtKNmRSokAqiZmZp8DR4
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1MKTG75MGR3RK6T7221coKrLfMN51FhsjE
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1UkaKcdwzwY7CkGNEd49wxQf8zxdBdqdn
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1JSX6HkH4A9wSw8jnFcAcxj2z8ebWEZ55C
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1L4b9XP8TXeteYrPL6xTg7QvnGkz3brrb2
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1LUSaZ81BhvidFty7LwUZkdK4Htt3junw2
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1agwU684DyhqhVSwCtZNyc7XbdsW48Nx3
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1N2QZTBfTh4zrWNNo7Nm4vKggdeEd4ezZ3
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1LhYZ5SvACnLiLPFKYqeihqKrRDvRpuzRs
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 12HvH2h2KiDtKm8EHC8XYJinf1pQM2FR3h
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1CAqd6t298Rm5L6ACrAGDcFS2tXD8KDEGQ
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 17bgdxkrtav9Ru2pPXWuuGtLiCvGcWsgbb
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1PPt47sTW9U1tGVAWpUEhq1pgu1vrcZdfx
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 17e4dzhpz3TZVRrBd6GnaDn2W4uGBeq3Y5
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Po9jbVoMMXszunJJq8SSJ1d1ajQk8Hfyw
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Ark2sy538YL6czQXbSTfzFLyjRTCD1sDU
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1EcAqmXKfqGjFWM21j6LoTcKTATEF1SQNY
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1NSBhUrJqVyyo93wa7SkQC88nKkocJ9EQF
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 15dWeW8injTBWHmVGeSMhQYisJFQ3r3zta
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Dp5E8vfbR2HvFBCsCHKHp4hbQ3pkNYKSX
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1EqCqqSs1rL4VmnVKcVuPPLZxwd6GWwPHp
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 18B6qjea9fEY3Xy9pDjtTDXGG9fpCWyQ1r
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 154edpswVcsEupYgxfKerXntNfVUyZb6wR
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Q8oaMCMLyjrW7cCEScJYPqLJn8gGsdG3Z
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 12M6fkBVdwWsBRJ6vkJBJA2icFYcCtDHTz
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1C7rZF73pc4qS3H7tH21UMPhwUHXFbWzhU
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 12DrUB5VU3hTNuFUBfSTaUUdtF37otVAQG
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1JWSQNNFNcVAH5t8Fx8u3bhi1wKoDmxmUd
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1G2wuvuuxWfGhxyG5acKGjenYuEk1XC7SB
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 13WR4iuDDpSEY72o9zuArgBnDz8o75WHCQ
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1HDWUgoggYZ7oBUR8iEUVJ6YECeD44FoRB
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 15qE3JxcNLND6V1jkkRTcQrc7Gts8NQ2fn
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1JSxmKuvGEU7rQGLH9tPKaZwZEiLeLxvPu
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 14sxMwrDEpWmxpgffMiEvdRNiYjGuHNXpQ
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1ETooS6yHA5euDKXXmAZ3CQzmuyzpfVpTn
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1NdNd16FLtxykSSpPWFcp7ZkiWzysjpnkQ
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 17GpYfbRTfXrn1RztmCv4dgeHQ3LB3Smdj
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 15QFpJtNgyk1Ys7vLUgQX472bSB8BafZjr
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 13EjgcRicnS9egMvbZ7UJ2p2KhtU5r1jM3
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1QAMvyNCwLmYGhNm89UM2et9pA9aFLhfG1
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 17eVLm8ifa9iZ77LA1wFRecRhiWx5YU2iR
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 17tqzDpEdQgTqsQU8oKmJ68Gim7TaxM8nT
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 14UyFpBs3M9y2BHxbo61nAQ7JHMfLDvY9S
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1KpY4XXsNDNQmMNzX6hZke88Ac4nDkULom
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 15jzQmGzstURkgXVSGyVdQiRrnu128VHyW
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Jz5javZhFGFNaadYZTYzUtnM3QMMtq342
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 167L4DL9XjraVZ3u9LbETyvWHoXjvU1YFZ
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1KsMVCqTn4JLVWA7eB66Ttm8fJEojLc1WF
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 14shvPhqgt6v8VmkYGbc999kKLLvWrkXb9
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Cko1D9Gfz7FTJXWp5Lz3T5v96bkDow3t7
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1CkpSRCq1x6gGL1sL8h4mcBSvqMT49kBSs
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 17kgj4A8Z579cWcUhQmyw2FUH2yLEJygq6
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1LMwkGKEKzK8r2qyUqmkcBXr8EkGRCnf4B
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1FvociDAH5cvWKPuWznZJVyqyLHspBpxe7
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 17YuyjZJsWmMuz3dAtphbFFZ8EguZwFZYi
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1D3Q6N47R3ZYpbwpUrUzTbjVgUQsoq9izq
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1HqfC2uVX5wpBZRxuNdKyJLZe53NZi2uAG
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 166yi1z7a1d9t9pnbR1C3XBA3pwFEnncxv
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1BcsHMG9H1RaqXPcL4Y3cKnjTgGswKRu7d
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Mzn84pdZ7wiqbTYvevrUtQ2t8VWpgq6hY
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 18YZMyZDisYTRRCcyBUDF89bpfEqRuEvBa
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1PE5avawz7FonDUcm3AMJ8gUYwCdvRsr4c
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1ACMVbZ1qJRJyKJYSkbkFbd4rrzh6DPwvh
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1GQf1cixptce3Y9JQcZwRhJZLBnXCqKW6p
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 15oXagSWfC6M412Sr6mq4JYk2qzP1TpKbP
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1BchmaBshmC9ihKasgqLPpcADjnYAy8bKm
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 19rTam7S91TL1wXrFgyM238EbhBVgGeRoE
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 13tCRkYGDnGPZMSxPB1txdP918JtMhGuqz
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 163HdVtPvybxCURMnwbt8KqdDrWsYnw7Z6
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 18o4JotSncd2t2q7Ts7W4o3nezgryvMdc5
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 158Ngs6LsLFeeSdc5jd4156wXiYWC6YLbM
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1BzWiSS4e5nruCVkNhB6WLC1VkTW9h5et2
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1JpeqTT6YkMB8K6aN5WXovFvYjqnkV6gEk
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1HyShTQhRXMFa1C1JMRSsc8Cf8pkArN5Tk
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1G9sxJhufkBgBG9cX4Q9rUPtEj7P6x4ZR6
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1NiqchLgTFWw9VSaVVmpXKXULrup4pPasp
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1GyULX3Lz3a9wYECYXELn5RnEPmdCfAWAW
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1D5WS1EASYfEuV5j7GP5iyT1EWvFjP2hZC
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1GDYtyN9pHVdJjEhMZh8rrk58u2gKEiX5t
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 157SA6Qgh7qpYBQxN3CVNgZhQb6ECFGBok
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1G46bh6b9xgaQLekqrij7zjyrD8RSbTKqp
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 17UbLtmSGGoY1H1jhxuWyaehLAZZsN34N
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1b6jMaH7TEMMxsC6fPsiexXL3sdrT5Fwr
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1EhZ6SGCRx4cj6xAnqKhxA3C74qUtAz293
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1C2WZsDkXsYraCj4frymJZVVvh1rPLWP3V
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 12qJZ8p8CtEd5Bq9zQpmhyuJuxL7km1FY2
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 19J3htJQ4a4KxMQ2vhszWKAVPVibuzSfcd
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1QHwKYNECZXgzyefAH4zD4dkCsqPvGFz2H
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 15tqa984S3QWjKmFKxTetqZkQe8rByuMLr
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1NzbaFnEvGG8J9d43Pj4XFiZkvTSiLVcZs
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1JnAQZmTXrFs59fFmnimvghaBTq3qCeodx
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1LqaEAD6cj7SWJgHcFk5aQXANm3e95eGn3
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1AVE3TxUmn4ULRk2FAhJFbr3122wtD8vDk
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1GxgDpkERf6wtG2yA6VE5vpeJhABJnZWWS
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Fzz1JRVRExLFhAQzEWoHZZMzwBFXXyPyv
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1CNZgpFu3HWNSFqWrxDEXoRKnWgpgiZeGK
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Kq44zwUs4sHkyiVkTs94Lkq7cpoH9WP4i
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1FU9PrtXDdQA8uAwnBs9xr39BskeTuRDmK
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1DHZ1NKom8YrBtBaLXF4EiD4gfEZu1RYEr
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 16gZp9oBJUAPhFAgdmpzYiABnNXjHySGcD
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Pr88NqDjakFwQJtjvTgnXSvfxaNcC7bgv
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1H9sFo5FpSLuD9DmswNnMCuBnwJGgXreBP
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1LsV7MP1dPjr8z6ZJbCdTLMXfPp3CrAMmt
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 15ZoyUMRPFAJGexjZvj2nvW9yfK4FgnMUB
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 157Jz82pxxJ4KA5zWBpaBQZgpKWaVNBxJw
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1M4dC6FEw1NKER6M3s1UzMaNoMi2Bx2LjE
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1AZQafiUC2pBQE8UzTtH4vK19dx58nBkmr
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1MQeukdpAVSo9yjKsRQY8ssCDz75ti6uQR
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1NrBMRfq4Cxoeaewjx7RYZQYsiWQTUvSdP
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1PJJZ2dDuG1JgNFE9o89jWPHJT8ssbdeGY
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1PMQKVU11E1Baqr12V7WM16wcQMjNTrZFC
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 15q4ZXF9fnD6njKMZkTdouSbxNvVZPMrjk
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 167rWg6pKc2tgNpuqMBJTxLiT4zsvDzjV9
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1K5p1mFfYkN2Pdri8RGdq9Hd5ZQCUFPFV1
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1M8uQPdVh1wN5aJbw1vZTWgBd6RoEutqkE
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 13goZCqBwuMsLXF2jArgL3xANG1odu2ZNi
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 18TD3Ek5bYUEXuCZWKWt7ee7Shqd9iD6sz
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 14oeiAahStJTD1uVfYuirfAFHSzUebQCax
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 17bJ4NxgmB9atohfjScds5FJvLLaeJF5nC
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1CQugZes8wGnhSR8orPSV9EKP5zj8P8p2Z
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1H5mJSrbdUuwPkhsGYz2Hm37khHpj3MQct
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1HRQ4wvdKjGV2Tq4ZMEbyDSr1adecUdMz1
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1DZBEECAZUTPVxmg1N95Qc8hQpLfirecHw
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 196u1okLotB8Nhwwmo8dqv4JFPJ8QNbrn2
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 145DV2wTTU1vpmp9crmRmH5cA24z1huW3V
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 15ie2hAddGS27DVqrkwTp698tiV7Um7tr4
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1AFCDaBY8EsJpEaWGtPjRLSTSSSB5dsDc2
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1CpvbBjjWZCAab4sYhEcyXFE9joa1vk1JR
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1JXgJajXZmpf4BaFiAUs5DFJUWsWqrncxr
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 16ZsTrzKEAUjVkw4yRUaBTYbjcQ5J2gfw7
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1GHpZ8mf9w9jnFQjPmCJ22LHopD61mUoRp
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Ff91HZhvwxtjFdpxBMD3j7r2rfqKbXhBj
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1VjFrvCnGe2ZqgojEzvqsWKR6p9s7Arfq
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1PpVfdS8NVw3uAn8jUg8UcHqgq85xKpftD
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 16AKpoqtNpwt7cDLKJW9VnWVmWW2xJcHHH
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 16CtnyS9kErwn9GMgrGWiR1NRFF4F4DVe5
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1xxQZ5m1EW9QdzyZGx48UJQWTEgXRezQP
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1NMa3bqfiF1s3bkqdGNdN2g2frj4GQLCB9
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1M73CFrPoXmf7rKdpdXE1UQ3PXruJtWhiZ
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 141huMwCMTmJGTdQo1YX3CRL4rKLqWtaWV
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1J7QuatETq3CbAeJCtyHXxmBj3NTA53Rck
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1AS7zoFnG9pUw5CFmXrxXx158YoexZ7rTd
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1NTvGHkMqWfopy3ZWx5etbW1SpzQtamz1L
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1EjMkp6CTXL7Dh8LEXMLpAhgDuFQwaVucK
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1D9AgUprZxefPfjSbtvLRwDKcyACcDhGRB
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1NevCDdctzfZnLJ1JkHBhQkMwe83UjLvyQ
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Jez5x8SAgviwFB5cWyLUYdUQvkfycuxAj
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 14n76KfHEKoZxwbVhWs3PpMwH31Yn7asYA
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 14crkHitmH33YZYV4UgddsAcxEQqEtpdLa
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1GwzwBUqNU4eJ2pgwBBnBwv8HSEEYgEJVy
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1GX8vQAj8xs19m9BqdquBgeP8SST1VzhXy
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1KxXStutwz4ceELwufN5hK6XHjCMxSBiYB
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1DbTeE2kQEByjr7Fx3ztXkmGAVcFMHexUA
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1BfATDBKnZ1mFs9oYo4yNjMp7wCqKd9wnq
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 15dA5XPh3etKtoXhV3myZtCmBMBce8EpAz
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 19tGUjQEeJ9hoRM7C284yXtg4mzmvTofKs
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 156GAqssg49Gz9x4sWehTwL78CKQW74uEn
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1GKMRmgYcJhZqr2EB3uajPwajPLWrAcpm4
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 17XLHmVT3oG1J5BxTi52RAXC3cCsqAR1hp
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Cpk6Z9TcvUtFa7QK6ALqxbLHQcr9awyZK
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1GE7Cv39ZyWWSVwBiNKkXF3bQGqxG3Yxo2
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1BMGkrEWE8tqV2RQtLXg22augD6ea7rycL
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 14fSnkWEgcLPBr28thaYSvLGia2KTnAvZ5
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1BeNLzghdguGrzbZqcHPnihbysC4yMzYBi
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 15CX3Na4bZEwGG6kh98UWXEamrqnAzppE4
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 131bukzNM4xytNGyzTRNv7T9eTRwp4YwVF
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1CW8GpziJf2mttKBw2f33HqhJDfNd7FNcY
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1G1dNy2pHS3oxtMWVaVyuMnVGg5SNr3Huk
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1NdJ5WCru1wMBuVbqPQcbH7RYfBmA1LYsU
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 18byB84KiFAkWAFxVfSQQeAr5DGsfXJzZC
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1FX8oWwhW5MfuA5hougCghLaVupqB3815
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 129cz2Psi4ywQHUh5GMEtsSPfjQDH36t8y
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 18jJYY67zcggaxYrc6rErfEootpSr4HXVS
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1JRfyef3G1BUKWtgs6EsxXgEMewQwosdf1
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1GEh6eN3CdB6B3Y7TKst2QreJ2uJaaHe1F
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1CGkBAoqKRf9hzwMHcfEAF5mz397Aj67zw
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 15pssGYZWkCByKj73aFSzWAEpFooJYNoho
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1F2cUjGwABtP8ELGgWaQzA46tUPgHhsJp4
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1GdG7wXCNxchE7pBpLtLn5k6BhLeX96wYD
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 178rSgxqXLkc312QMdvDgseDCaRduwfRFm
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1FwLzt39wzgugZa8VMCgSSE737bWFeM2VQ
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 17iuQxD9rAiTVzte5mKX4KW1XN4LoVooqg
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1E7yfkZEXmA8LMQLDNPfnqD1gLhyfpWqTx
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1ERENTR6EpeES7mRqUKHEYYothKaMngVtK
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1E2GPEzdZ8qAf3uMQ5GYo1hyoRGJMP6kVA
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 12pz8WjC5gaj1k6EwqwtAL5a6F7YRAVztw
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1ByFTrBqNoYQTFXZhRQSbwNPhtxp3bWR3p
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1F5VKqpbnNqHVz5D1TNeyPe8tPsMpZRr1B
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 16FC3EMh9hfMbFJGc5GHeWH8yu78Ezn4zr
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1L6SpJj9eecMcCNsYebSzs6asDiNpReDM4
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1ByBQYNUia4GP3Pzkw9JdsxNqFBbS9eRrv
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 151HPz5zMy73AaC1A77DPTwYG4PovRmz5A
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Q3VXrtMjfZ5sahh2uYKskNXYhCBcZHeKh
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 151o28HnsA5UzNDH5QMqXzkY1RwbVNkLxP
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1CLzxeS2anVyKxvzurT5e8N2BnHEfTF2DB
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 13JEy4tpZGLBhZQ3PzKoAPqZYJbmJa3kgL
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 15GqfHi1tZCnm4yPhyDJJLwZN6nmss1cNU
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Pao1xa7KQjY9MMB1Mx52cMT6YrTjJh2QB
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1KuNKfibpztook9qV72SDfLtzyvZceaGEB
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1MzxqyTdToBziAwHBaeUGR8whf6MSco5XW
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1MPa9TkfpL1T7yAJkuEM4uN2xndZGfopkk
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 19Wnq1UYa3cThZN8NMQ9SXPA7WcnRuPPdb
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 17UGkoi5isYbiVwtB4nMKv2UoTwJpVJy7H
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1CoinLabF5Avpp5kor41ngn7prTFMMHFVc
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 114Qx7NJtcUjzJz2mGRSTvibhSXwvMFP7Y
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 16fcbtRAAXLugGffYTN5zg2onUHo4M2ZMD
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1MhzPX84q3nTgpNzpYce6TCdCkodwx2ELo
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Dukpkb8yFLKTVfATVQBaDPgb2fxDn3QWD
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1L4L3tcwhigDidMcGWpii93XVk527BxEBx
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1LiTqdDiZAUeeFi5FFud6QYweTQmYRrWdR
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 16jBKf218ZsHq4T5qHhLrshEFQCGAvRmVz
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1MEzHoBggFFsEdknkFFGzT66rxjyDogHgE
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1BZeVnQ8kUbELwaBcejsRMgibp8JFsBNYj
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1GqdCKaEJLeDJuGafkLXXGFGBLYC5czWmT
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1idRvskjcsC6g3FxNAKZh23QaF7eDZhUm
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1BQEnZ7NVAaTGrh1D43YLDVUGunkXPBJvw
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 13rGHnqZ24e2whTwXjj9UYgbZ3nPLXPBea
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 16yTBkv1AmiM8bvnUDt4hft971HWkhAxD7
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1QBxgD3GtfuGc7fcXe3g61YqVhKg9eBbmV
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 13YCeUVyaxzLaEiTQ1bQQrgUudYcBL6n9A
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1HdN2zFqbRQMUws375LKhQf5h4jE5Unr9f
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 19Sp4eKbk7uRQuUXDs2oGrKrixNeLyvoxS
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1DZer36Tfd1EPsrpRWLAWgnNoDuCX5VN9q
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1D1bALX4AWd9RiLeBHiQG3ZQRjU1c15Gg7
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 14aikxJJVDX7afcpF2PR2BrGg71mnU1HUt
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 18gLciwV7XZJvx3rTBYLef3Ye9JwvbPmrw
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1GYsqLJCe9NYHnMbRGbNGooXwStupWkoNZ
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1QB7U6FgTF3MkE7m9znSG7hcZjpD23VDby
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1ExYY2iHuNdWWogoAB3TWBRzK3QZfKvTvu
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 181WUQJhzJ2Nkbu1HDnNjcNju9fHnFXWUL
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1K1TXNVbBpnmeeML9VVYXtkUK4EaFmrn9G
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 15tZyJrhsBFBNNHbBoD7kZaRKLXpyS4StT
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 18sxCd7pxWZpjwBgPE7awEZv3Pa5sXozc
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 17UZgafHB8Udm8P5MbxLKt2ueLr4PnJUV4
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 19DwGJBoA29bwnyUVx6c6KwvD3mpgXgU8N
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 16mkt6XbXwARqERgAitgoJQFDvxVteEBk2
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1BQjt2ewApUPW4kNCYBcm9RDzndYwrTWRV
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1KpLxyxr9AYqCYpSsVYis419FbLnXFW8n2
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1PrRxzv3ZwN9okBbw7QrVrbtSZUxi9D73e
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1MSPhsd6prWSg9ft43Gf5kUagiYY9mwfhx
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1Me1byyNTSSxcCELLyB42W1dBr5rohLWYX
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 16x5zXgJ3CMBuF7LHiFEQenpV7onEJKjGE
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1AhLyNomWPUXM9GbvyL2MDx1dhaewq9BLu
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1CcJwVo9ETy9US2z279FQnJuJYvtHYKq1y
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1PkY9s9o8YUk7Gtf9WbyJo3gg4wRVhauq8
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 1K11j2f9XXNaJSHCmDGEqarowtX4RbMwRu
   label: Coinlab
   is_cluster_definer: true
+  actor: coinlab
 - address: 145UHBQAmGRpdsXVKhdHtFndnJ8XN8fLjq
   label: 50btc
   is_cluster_definer: false
@@ -2069,6 +2438,7 @@ tags:
 - address: 1NkTMQhYs84PjrsTvE4ckFjw73NCjpsHTj
   label: Bitparking
   is_cluster_definer: true
+  actor: bitparking
 - address: 17kkmDx8eSwj2JTTULb3HkJhCmexfysExz
   label: Polmine
   is_cluster_definer: false
@@ -2092,6 +2462,7 @@ tags:
 - address: 1KFHE7w8BhaENAswwryaoccDb6qcT6DbYY
   label: F2pool
   is_cluster_definer: false
+  actor: f2pool
 - address: 1JrYhdhP2jCY6JwuVzdk9jUwc4pctcSes7
   label: Polmine
   is_cluster_definer: true
@@ -2130,135 +2501,179 @@ tags:
 - address: 1LoveYoURwCeQu6dURqTQ7hrhYXDA4eJyn
   label: F2pool
   is_cluster_definer: true
+  actor: f2pool
 - address: 13NA7X1u18CgGa7RzTDyvuuoLJtLRvXgke
   label: F2pool
   is_cluster_definer: true
+  actor: f2pool
 - address: 14sPe6Qbe8Ej1mbP5o8WwUvh6DayV6cktx
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 16o4NxvVEUcNR3B33zLgeh8bXcqcvZfxUv
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 191XYxNQWn9cPAZXZYZiGtQzpr5SmaJanu
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 1Cim6yYajAAUbkKtYNaCJtWecLWm2FvQmE
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 1GfAzSKBa3Tcw7v76aYnR6zd99BiiZjjtC
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 1GxP64u1RJ8wAbRAbTq77e8PmYN5bsNcpQ
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 1AbGunGCpAJreYbErVttrRr8BcSXpUzwjg
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 1GrQBzGYr8trPdzTqdtfSHUhki3y3V1txJ
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 1HKYz1seTfyrNwi7hMoHdjJDzXRpwHPg4Q
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 1wiTz6pxnMjqqdWBFmUqNKfoNMAY8KM4F
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 12zHWy3MNesbxWznWCKTiB1SFXLHNPHRL4
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 1FxZNuDAgZ98Fvrtvvcu9h5D8tc73fQS3w
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 1C4H7ZBghdLZhdtJMhqugMWTpeBp8crcPM
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 1E7FCixjgKDekYb8ZQqVj8VmbKsVNn22Vg
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 1DyQ7HPQLK35ty2DSXuZ6MqztwRmqgPmML
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 19UWubVy65gwTp1MRhKkUB7yvs43u3Sa7g
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 1LSg1fbf1uA41Cbik8FdENVbagWavtmbKp
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 16cup43Yfv9NqXNL1okSVmatXFpjSU9eTp
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 1755oTh9m3pnvCWWsvjU6wueaT35g9TWRS
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 1693groYDi6CVgtLc6acxxTveaD1BTUiQs
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 19cSx6RwGND4q65fAfFYPutqa2NT9qoZmT
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 17b4p3DqeprXWoPxGmpq2mVvrP5PcfPWoE
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 14JVzCwRdwY6TrBmdvJxvSbyNC689Z59oP
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 19uqb7fc5rixA12wdJXZUraQC8Unioom5g
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 12HSr8pTJi8sMtwh6ZR7f31PEvfLitvPwQ
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 1MHDVqghhbvgx7XF1PkPicUJC6cfSZQKJH
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 1NA29uKC2qEbRr6aXzwid3ABW5DNEfgRnB
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 1DBMkAZWVdZxQT8EPEj7ndwawZZSowPQfQ
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 14ScLmFtJyEDvuaqxwgwmcr1g4y1ag3HXQ
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 1P5kGVdgwF3fRjSAvWcPQCB6B2ZjkSbQvF
   label: Hhtt
   is_cluster_definer: true
+  actor: hhtt
 - address: 1K7znxRfkS8R1hcmyMvHDum1hAQreS4VQ4
   label: Megabigpower
   is_cluster_definer: true
+  actor: megabigpower
 - address: 19t7RxwXdfiwQMyQ3JVB16e9HgV7omijSs
   label: Megabigpower
   is_cluster_definer: true
+  actor: megabigpower
 - address: 1MBPooLizRqGSMQAQq39TkjqkLa3yszcHS
   label: Megabigpower
   is_cluster_definer: true
+  actor: megabigpower
 - address: 1GqMmFSz8LmBRVaBy9W2rs3mxqCdnXe4Qa
   label: Megabigpower
   is_cluster_definer: true
+  actor: megabigpower
 - address: 1JamtfkGMRuVHmrzoEdQ33iWXstQmTh5Wu
   label: Megabigpower
   is_cluster_definer: true
+  actor: megabigpower
 - address: 1Te2mYsjyLVemxd3it17G8RPY6E367HcD
   label: Megabigpower
   is_cluster_definer: true
+  actor: megabigpower
 - address: 1HNZzSrsH7sJGnc4fjtais4ibkik9Se1X7
   label: Mt red
   is_cluster_definer: true
+  actor: mtred
 - address: 1DygRYEvACYCN1LmMs2J9DnW1RNFNDM5pp
   label: Mt red
   is_cluster_definer: true
+  actor: mtred
 - address: 18e5Yur2Z6JcRNG1fTo4rpzqQzsXsf52oD
   label: Mt red
   is_cluster_definer: true
+  actor: mtred
 - address: 1Me8rVWwHH8eFWCPqwM43N1MkPtR6Lar7d
   label: Nmcbit
   is_cluster_definer: true
+  actor: nmcbit
 - address: 19NRWRg6QvofS6JcDLT9jKww2bh2EpUmKk
   label: Yourbtc.net
   is_cluster_definer: true
+  actor: yourbtcnet
 - address: 1GG9HQZchCRxPSBV5SwZ9GoYEVq9vVLGqU
   label: Yourbtc.net
   is_cluster_definer: true
+  actor: yourbtcnet
 - address: 1CK6KHY6MHgYvmRQ4PAafKYDrg1ejbH1cE
   label: Slushpool
   is_cluster_definer: false
@@ -21838,6 +22253,7 @@ tags:
 - address: 1BX5YoLwvqzvVwSrdD4dC32vbouHQn2tuF
   label: Cointerra
   is_cluster_definer: true
+  actor: cointerra
 - address: 1LjYX8JCSSCgzUdEHVZi4qcdxzn7YEkr1M
   label: Kano
   is_cluster_definer: true
@@ -21857,6 +22273,7 @@ tags:
 - address: 155fzsEBHy9Ri2bMQ8uuuR3tv1YzcDywd4
   label: Bitclub network
   is_cluster_definer: true
+  actor: bitclubnetwork
 - address: 1LhcnLAeaENehoyBXTtjBceGzEQsMw2uxR
   label: Bitcoin affiliate network
   is_cluster_definer: true
@@ -23785,6 +24202,7 @@ tags:
 - address: 36FCGAcCarkKWSwEekS7ZcFxBPddwmBtJr
   label: Xbtc.exx.com&bw.com
   is_cluster_definer: true
+  actor: exx
 - address: 18zRehBcA2YkYvsC7dfQiFJNyjmWvXsvon
   label: Bitsolo
   is_cluster_definer: true
@@ -23803,6 +24221,7 @@ tags:
 - address: 1MimPd6LrPKGftPRHWdfk8S3KYBfN4ELnD
   label: Digitalbtc
   is_cluster_definer: true
+  actor: digitalbtc
 - address: 1FeDtFhARLxjKUPPkQqEBL78tisenc9znS
   label: Bitfury
   is_cluster_definer: false
@@ -23866,27 +24285,35 @@ tags:
 - address: 15rQXUSBQRubShPpiJfDLxmwS8ze2RUm4z
   label: 21 inc.
   is_cluster_definer: true
+  actor: 21inc
 - address: 1CdJi2xRTXJF6CEJqNHYyQDNEcM3X7fUhD
   label: 21 inc.
   is_cluster_definer: true
+  actor: 21inc
 - address: 1GC6HxDvnchDdb5cGkFXsJMZBFRsKAXfwi
   label: 21 inc.
   is_cluster_definer: true
+  actor: 21inc
 - address: 1BVvDKgJJJpNJXUy73z6Vefifa2FWeHxRG
   label: 21 inc.
   is_cluster_definer: true
+  actor: 21inc
 - address: 1NY15MK947MLzmPUa2gL7UgyR8prLh2xfu
   label: Digitalbtc
   is_cluster_definer: true
+  actor: digitalbtc
 - address: 19vvtxUpbidB8MT5CsSYYTBEjMRnowSZj4
   label: Digitalbtc
   is_cluster_definer: true
+  actor: digitalbtc
 - address: 12f1FoTYvYiSmiDSVfeHcw8gS8Fp7xREUW
   label: Digitalbtc
   is_cluster_definer: true
+  actor: digitalbtc
 - address: 1Hk9gD8xMo2XBUhE73y5zXEM8xqgffTB5f
   label: 8baochi
   is_cluster_definer: true
+  actor: 8baochi
 - address: 151T7r1MhizzJV6dskzzUkUdr7V8JxV2Dx
   label: Mybtccoin pool
   is_cluster_definer: true
@@ -23908,123 +24335,160 @@ tags:
 - address: 1F1xcRt8H8Wa623KqmkEontwAAVqDSAWCV
   label: 1hash
   is_cluster_definer: true
+  actor: 1hash
 - address: 1KsFhYKLs8qb1GHqrPxHoywNQpet2CtP9t
   label: Bixin
   is_cluster_definer: false
+  actor: bixin
 - address: 13hQVEstgo4iPQZv9C7VELnLWF7UWtF4Q3
   label: Bixin
   is_cluster_definer: false
+  actor: bixin
 - address: 1Csp5E15vii9HvPhLy3gkgWYXShXB8aQCw
   label: Btc.com
   is_cluster_definer: false
+  actor: btccom
 - address: 1JLc3JxvpdL1g5zoX8sKLP4BkJQiwnJftU
   label: 7pool
   is_cluster_definer: false
 - address: 1JVHw9iyesn9CSTDgbmKgSyyZoH9CFUFaP
   label: Bixin
   is_cluster_definer: true
+  actor: bixin
 - address: 18cBEMRxXHqzWWCxZNtU91F5sbUNKhL5PX
   label: Viabtc
   is_cluster_definer: true
+  actor: viabtc
 - address: 15yrnonRCitfjsVxw3g6j95qRE4q6Mcyro
   label: Viabtc
   is_cluster_definer: true
+  actor: viabtc
 - address: 1AZ6BkCo4zgTuuLpRStJH8iNsehXTMp456
   label: Bitcoin india
   is_cluster_definer: true
+  actor: bitcoinindia
 - address: 12znnESiJ3bgCLftwwrg9wzQKN8fJtoBDa
   label: Shawnp0wers
   is_cluster_definer: true
+  actor: shawnp0wers
 - address: 18HEMWFXM9UGPVZHUMdBPD3CMFWYn2NPRX
   label: Shawnp0wers
   is_cluster_definer: true
+  actor: shawnp0wers
 - address: 13ZgiZ3K1WSGvu6kkabrZRXdK7nJjWHf9C
   label: Phash.io
   is_cluster_definer: true
+  actor: phashio
 - address: 1AB131Kb3XRsyvhmmtpQXkrFWcJteEfyd8
   label: Phash.io
   is_cluster_definer: true
+  actor: phashio
 - address: 1Hz96kJKF2HLPGY15JWLB5m9qGNxvt8tHJ
   label: Btc.top
   is_cluster_definer: true
+  actor: btctop
 - address: 1Nf7CzkenrwEhsYFAjZCJ5TP1nzy9tT93R
   label: Btc.top
   is_cluster_definer: true
+  actor: btctop
 - address: 14yd17779fySwxwPJVxLtdacpd1QMJhabo
   label: Btc.top
   is_cluster_definer: true
+  actor: btctop
 - address: 147SwRQdpCfj5p8PnfsXV2SsVVpVcz3aPq
   label: Btc.top
   is_cluster_definer: true
+  actor: btctop
 - address: 147SwRQdpCfj5p8PnfsXV2SsVVpVcz3aPq
   label: Canoe
   is_cluster_definer: true
+  actor: canoe
 - address: 1GRdbh7jraSjxekTVPiVLdLcirPRXC4QV4
   label: Btc.top
   is_cluster_definer: true
+  actor: btctop
 - address: 1KPQkehgYAqwiC6UCcbojM3mbGjURrQJF2
   label: Connectbtc
   is_cluster_definer: true
+  actor: connectbtc
 - address: 3NA8hsjfdgVkmmVS9moHmkZsVCoLxUkvvv
   label: Btc.com
   is_cluster_definer: true
+  actor: btccom
 - address: 34qkc2iac6RsyxZVfyE2S5U5WcRsbg2dpK
   label: Btc.com
   is_cluster_definer: true
+  actor: btccom
 - address: 3EhLZarJUNSfV6TWMZY1Nh5mi3FMsdHa5U
   label: Btc.com
   is_cluster_definer: true
+  actor: btccom
 - address: 1Dayah7Px1kbs5x5cQbQMHtMm9wnUWJYTG
   label: Btc.com
   is_cluster_definer: true
+  actor: btccom
 - address: 1FLH1SoLv4U68yUERhDiWzrJn5TggMqkaZ
   label: Btc.com
   is_cluster_definer: true
+  actor: btccom
 - address: 1FLH1SoLv4U68yUERhDiWzrJn5TggMqkaZ
   label: Waterhole
   is_cluster_definer: true
+  actor: waterhole
 - address: 3E41eGyD4FKSwzvq8dZ3Zy2enXSo91qE6B
   label: Btc.com
   is_cluster_definer: true
+  actor: btccom
 - address: 1C1mCxRukix1KfegAY5zQQJV7samAciZpv
   label: Btc.com
   is_cluster_definer: true
+  actor: btccom
 - address: bc1qjl8uwezzlech723lpnyuza0h2cdkvxvh54v3dn
   label: Btc.com
   is_cluster_definer: true
+  actor: btccom
 - address: 1Afcpc2FpPnREU6i52K3cicmHdvYRAH9Wo
   label: Canoe
   is_cluster_definer: true
+  actor: canoe
 - address: 1GP8eWArgpwRum76saJS4cZKCHWJHs9PQo
   label: Canoe
   is_cluster_definer: true
+  actor: canoe
 - address: 1JpKmtspBJQVXK67DJP64eBJcAPhDvJ9Er
   label: Rigpool
   is_cluster_definer: true
 - address: 19qa95rTbDziNCS9EexUbh2hVY4viUU9tt
   label: Haozhuzhu
   is_cluster_definer: true
+  actor: haozhuzhu
 - address: 1EowSPumj9D9AMTpE64Jr7vT3PJDNopVcz
   label: Miningkings
   is_cluster_definer: true
+  actor: miningkings
 - address: 1ApE99VM5RJzMRRtwd2JMgmkGabtJqoMEz
   label: Miningkings
   is_cluster_definer: true
+  actor: miningkings
 - address: 1KGbsDDAgJN2HDNBjmMHp9828qATo5B9c9
   label: Miningkings
   is_cluster_definer: true
+  actor: miningkings
 - address: 3BidxLnZUwkgrnKAdWN4freEzBTn2ganx8
   label: Dcexploration
   is_cluster_definer: true
 - address: 199EDJoCpqV672qESEkfFgEqNT1iR2gj3t
   label: 58coin
   is_cluster_definer: true
+  actor: 58coin
 - address: 14DjTuAUh87cwRsbU1z6W8hZY6FnEkpfLS
   label: 58coin
   is_cluster_definer: true
+  actor: 58coin
 - address: 1ACAgPuFFidYzPMXbiKptSrwT74Dg8hq2v
   label: Dpool
   is_cluster_definer: true
+  actor: dpool
 - address: 3GvEGtnvgeBJ3p3EpdZhvUkxY4pDARkbjd
   label: Bitfarms
   is_cluster_definer: true
@@ -24154,6 +24618,7 @@ tags:
 - address: 1NzwkFVQNTzih4YwsEATBXsm6Co6DtM7r7
   label: Rawpool.com
   is_cluster_definer: true
+  actor: rawpoolcom
 - address: 36n452uGq1x4mK7bfyZR8wgE47AnBb2pzi
   label: Poolin
   is_cluster_definer: true
@@ -24180,12 +24645,14 @@ tags:
 - address: 39pLhpmYEhYaz6MrxvBVndTEK1x45MAsdN
   label: Tigerpool.net
   is_cluster_definer: true
+  actor: tigerpoolnet
 - address: 3MbcFnPVegNX9iwQ9614ATm8WrYJQuNJQX
   label: Okpool.top
   is_cluster_definer: false
 - address: 1BwZeHJo7b7M2op7VDfYnsmcpXsUYEcVHm
   label: Btc nuggets
   is_cluster_definer: true
+  actor: btcnuggets
 - address: 1Cs5RT9SRk1hxsdzivAfkjesNmVVJqfqkw
   label: Ekanembtc
   is_cluster_definer: true
@@ -24258,9 +24725,11 @@ tags:
 - address: 1qtKetXKgqa7j1KrB19HbvfRiNUncmakk
   label: Transactioncoinmining
   is_cluster_definer: true
+  actor: transactioncoinmining
 - address: 15MxzsutVroEE9XiDckLxUHTCDAEZgPZJi
   label: Btcdig
   is_cluster_definer: true
+  actor: btcdig
 - address: 1AePMyovoijxvHuKhTqWvpaAkRCF4QswC6
   label: Tricky''s btc pool
   is_cluster_definer: true
@@ -24273,9 +24742,11 @@ tags:
 - address: 1MPxhNkSzeTNTHSZAibMaS8HS1esmUL1ne
   label: Eobot
   is_cluster_definer: true
+  actor: eobot
 - address: 16GsNC3q6KgVXkUX7j7aPxSUdHrt1sN2yN
   label: Eobot
   is_cluster_definer: true
+  actor: eobot
 - address: 1BRY8AD7vSNUEE75NjzfgiG18mWjGQSRuJ
   label: Unomp
   is_cluster_definer: true
@@ -24288,6 +24759,7 @@ tags:
 - address: 18EPLvrs2UE11kWBB3ABS7Crwj5tTBYPoa
   label: Gogreenlight
   is_cluster_definer: true
+  actor: gogreenlight
 - address: 1LsFmhnne74EmU4q4aobfxfrWY4wfMVd8w
   label: Tiger
   is_cluster_definer: true
@@ -148729,6 +149201,7 @@ tags:
 - address: 12Taz8FFXQ3E2AGn3ZW1SZM5bLnYGX4xR6
   label: Tangpool
   is_cluster_definer: true
+  actor: tangpool
 - address: 1J4UEn8dauHCpaU8zfuAqkZJ7U1556gmEf
   label: Btcpoolman
   is_cluster_definer: true
@@ -148756,6 +149229,8 @@ tags:
 - address: 1DxqpCGESsSzDpKT2SKdffRBrjM47tY1nm
   label: Okminer
   is_cluster_definer: true
+  actor: okminer
 - address: 1GQHQ3oD2GW5o8pd9xzCKFHYSYSuRcF6LQ
   label: Okminer
   is_cluster_definer: true
+  actor: okminer

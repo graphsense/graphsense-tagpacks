@@ -14,6 +14,7 @@ tags:
 - address: 15vgygQ7ZsWdvZpctmTZK4673QBHsos6Sh
   label: 1THash&58COIN
   is_cluster_definer: true
+  actor: 1thash
 - address: 18neJ2M7z1VDTkUVdW7r9xLnJhSYFdDp6D
   label: Poolin
   is_cluster_definer: true
@@ -21,6 +22,7 @@ tags:
 - address: 3GUVS1N3yNQmjGUsxcnSacpEZQn9xgwSLq
   label: BTC.com
   is_cluster_definer: true
+  actor: btccom
 - address: 3PvxmYS4FX76xoKrThiJL882XfmyMnLqcn
   label: Poolin
   is_cluster_definer: true
@@ -60,12 +62,15 @@ tags:
 - address: 34Jpa4Eu3ApoPVUKNTN2WeuXVVq1jzxgPi
   label: Lubian.com
   is_cluster_definer: true
+  actor: lubiancom
 - address: 3Qac5VGZ3C2CpF7XsN3ykWsEuELFa3Nnwx
   label: Lubian.com
   is_cluster_definer: true
+  actor: lubiancom
 - address: 38WJFZccL9YDMoppsMw2m7TC6Pjxr8x7JD
   label: BTC.com
   is_cluster_definer: true
+  actor: btccom
 - address: 1GNgwA8JfG7Kc8akJ8opdNWJUihqUztfPe
   label: Poolin
   is_cluster_definer: true
@@ -81,6 +86,7 @@ tags:
 - address: 1JPyXzZ2DipMTieYsf9GWLHa4X5rRBtXRD
   label: BitcoinRussia
   is_cluster_definer: true
+  actor: bitcoinrussia
 - address: 1MWrgo4rm1aoPYFjCCMXgr1e564xVyHCqM
   label: Poolin
   is_cluster_definer: true
@@ -92,6 +98,7 @@ tags:
 - address: 3Kd2qAXwEoGfgChtDxF12THb7PyiTYFeJJ
   label: 1THash&58COIN
   is_cluster_definer: true
+  actor: 1thash
 - address: 1PbbzqFeec2XaA5zDjkqgTP8V9VzccHahP
   label: Minerium
   is_cluster_definer: true
@@ -106,6 +113,7 @@ tags:
 - address: 3NSAph9EavyiyrC29N9QWhZVJWZ5MpryxK
   label: BTC.com
   is_cluster_definer: true
+  actor: btccom
 - address: 16WesRHYdDqWx5KriCuwMgXEJK3hdmJRh7
   label: SlushPool
   is_cluster_definer: true
@@ -117,24 +125,31 @@ tags:
 - address: 15MD1jyiowAiEnCKL5e1M7z744NBzaV6Nj
   label: NovaBlock
   is_cluster_definer: true
+  actor: novablock
 - address: bc1qx9t2l3pyny2spqpqlye8svce70nppwtaxwdrp4
   label: Binance Pool
   is_cluster_definer: true
+  actor: binance
 - address: 3Bmb9Jig8A5kHdDSxvDZ6eryj3AXd3swuJ
   label: NovaBlock
   is_cluster_definer: true
+  actor: novablock
 - address: 3GU9DTPj9YVtQwz3KihPhByesDqP1Ywpuc
   label: NovaBlock
   is_cluster_definer: true
+  actor: novablock
 - address: 1BabyMaoATf5vQBR3TBrSet3HCbKp637mC
   label: F2Pool
   is_cluster_definer: true
+  actor: f2pool
 - address: 1JvXhnHCi6XqcanvrZJ5s2Qiv4tsmm2UMy
   label: Binance Pool
   is_cluster_definer: true
+  actor: binance
 - address: bc1qppsntrhcfe8m48dszxzjq9tfdd4ccpua0hqej2
   label: SBI Crypto
   is_cluster_definer: true
+  actor: sbicrypto
 - address: 1HBcSUdSB5efBMAvmdyLQGZZ447HQbyt8c
   label: SlushPool
   is_cluster_definer: true
@@ -154,9 +169,11 @@ tags:
 - address: 3C4Z8o1X49NMccyNbR8WaCwUKbqmcro8hC
   label: BTC.com
   is_cluster_definer: true
+  actor: btccom
 - address: 3279PyBGjZTnu1GNSXamReTj98kiYgZdtW
   label: Lubian.com
   is_cluster_definer: true
+  actor: lubiancom
 - address: 1382v6T81xCPFeLaQq6UTuq7HFySq27LcX
   label: Poolin
   is_cluster_definer: true
@@ -164,6 +181,7 @@ tags:
 - address: 17aVLmgjDLxnVLufEDqSNMB2w52qnvARuJ
   label: NovaBlock
   is_cluster_definer: true
+  actor: novablock
 - address: 1MKG3h5gUA6MSwqZfDz5ySYjDYmm2Huprr
   label: SlushPool
   is_cluster_definer: true
@@ -175,9 +193,11 @@ tags:
 - address: bc1qpk2w2ct7xpe9djk5myvsfzrek7rdmq9ypn6pa2
   label: SBI Crypto
   is_cluster_definer: true
+  actor: sbicrypto
 - address: 1DSh7vX6ed2cgTeKPwufV5i4hSi4pp373h
   label: Binance Pool
   is_cluster_definer: true
+  actor: binance
 - address: 1Hi8WYJ92EA84n4wY5ekSaFm52moj5xMix
   label: Poolin
   is_cluster_definer: true
@@ -193,9 +213,11 @@ tags:
 - address: 12QVFmJH2b4455YUHkMpEnWLeRY3eJ4Jb5
   label: AAO Pool
   is_cluster_definer: true
+  actor: aaopool
 - address: 15pAPE6BdVM1XQfbHTKjipTLeooDufaWYJ
   label: NovaBlock
   is_cluster_definer: true
+  actor: novablock
 - address: 16JJKpnMcRDMaGR2DXKmQxLfHP5MZG2Da6
   label: SlushPool
   is_cluster_definer: true
@@ -203,6 +225,7 @@ tags:
 - address: 17K6RT4s3RidxRhq5gPwkLARs86wUQvk7C
   label: F2Pool
   is_cluster_definer: true
+  actor: f2pool
 - address: 1EepjXgvWUoRyNvuLSAxjiqZ1QqKGDANLW
   label: Huobi
   is_cluster_definer: true
@@ -214,6 +237,7 @@ tags:
 - address: 3CLigLYNkrtoNgNcUwTaKoUSHCwr9W851W
   label: Rawpool.com
   is_cluster_definer: true
+  actor: rawpoolcom
 - address: 1QB8FEq5omHEdTw5esfUUMbwd9QbdoGuf3
   label: SlushPool
   is_cluster_definer: true
@@ -241,6 +265,7 @@ tags:
 - address: 39btukokT8wxsjezTvrsgHtZfvwTGoaRvn
   label: NovaBlock
   is_cluster_definer: true
+  actor: novablock
 - address: 3FaYVQF6wCMUB9NCeRe4tUp1zZx8qqM7H1
   label: AntPool
   is_cluster_definer: true
@@ -264,9 +289,11 @@ tags:
 - address: 16JHXJ7M2MubWNX9grnqbjUqJ5PHwcCWw2
   label: OKKONG
   is_cluster_definer: true
+  actor: okkong
 - address: 1A32KFEX7JNPmU1PVjrtiXRrTQcesT3Nf1
   label: MARA Pool
   is_cluster_definer: true
+  actor: marapool
 - address: 1GCDuMVrzuAABfwMtm91qGgt9JUf32Cs81
   label: Poolin
   is_cluster_definer: true
@@ -282,9 +309,11 @@ tags:
 - address: 32P5KVSbZYAkVmSHxDd2oBXaSk372rbV7L
   label: Terra Pool
   is_cluster_definer: true
+  actor: terrapool
 - address: 35y82tEPDa2wm6tzkEacMG8GPPW7zbMj83
   label: Rawpool.com
   is_cluster_definer: true
+  actor: rawpoolcom
 - address: 17ax6QjeDJZETL5CaEdvoN5YcXrvmsCsqU
   label: SlushPool
   is_cluster_definer: true
@@ -292,6 +321,7 @@ tags:
 - address: 3FBuFS497mGXnGKsUR9tyE3qqWFYsoizxv
   label: BTC.com
   is_cluster_definer: true
+  actor: btccom
 - address: 1NH2b137CM62oJAacCST3VkQMf71E4aS33
   label: Poolin
   is_cluster_definer: true
@@ -299,6 +329,7 @@ tags:
 - address: 15xcAZ2HfaSwYbCV6GGbasBSAekBRRC5Q2
   label: OKMINER
   is_cluster_definer: true
+  actor: okminer
 - address: 1CZHhV67Qos4xXb8uYqvAGjK8Wq52woPi5
   label: AntPool
   is_cluster_definer: true
@@ -310,9 +341,11 @@ tags:
 - address: 1249HZzzG5YSi8juRXPXYopcCYBx3CQYW7
   label: WAYI.CN
   is_cluster_definer: true
+  actor: wayicn
 - address: 37LdXF8rA7LmoD8Vrwq4HC8NpYW5nVhLSV
   label: SBI Crypto
   is_cluster_definer: true
+  actor: sbicrypto
 - address: 1JRKRiwQKmG8FaHbjRcCGBU9L55RFeDDa5
   label: SlushPool
   is_cluster_definer: true
@@ -320,12 +353,15 @@ tags:
 - address: 3FUrkVsHpmK7LoR6eYPhoKSKPx1HPbMYaU
   label: BTC.com
   is_cluster_definer: true
+  actor: btccom
 - address: 11wC5KcbgrWRBb43cwADdVrxgyF8mndVC
   label: MiningCity
   is_cluster_definer: true
+  actor: miningcity
 - address: bc1q8ej2g5uxdsg0jwl0mpl606qfjxgkyv3p29yf37
   label: Rawpool.com
   is_cluster_definer: true
+  actor: rawpoolcom
 - address: 18XnEXwgMnQDeRGKZrZoZtREqdcAPgHrFL
   label: Poolin
   is_cluster_definer: true
@@ -368,9 +404,11 @@ tags:
 - address: 3KfRwBSLzeGcZ76SHog2m9Kkhnb6N8dzSc
   label: BTC.com
   is_cluster_definer: true
+  actor: btccom
 - address: bc1qf274x7penhcd8hsv3jcmwa5xxzjl2a6pa9pxwm
   label: F2Pool
   is_cluster_definer: true
+  actor: f2pool
 - address: 1PdNVV71qNbHxchKiRrxqoR8JohpaLfoMX
   label: Poolin
   is_cluster_definer: true
@@ -382,6 +420,7 @@ tags:
 - address: bc1qru8mtv3e3u7ms6ecjmwgeakdakclemvhnw00q9
   label: Rawpool.com
   is_cluster_definer: true
+  actor: rawpoolcom
 - address: 3HqH1qGAqNWPpbrvyGjnRxNEjcUKD4e6ea
   label: Poolin
   is_cluster_definer: true
@@ -405,6 +444,7 @@ tags:
 - address: 1EioJVmQ9NVWGdZKvnQ3gpw5V4fj8trvpa
   label: NovaBlock
   is_cluster_definer: true
+  actor: novablock
 - address: 1BCGvs9KETfKCByEHYCk1ANnxrNuaP8Uv7
   label: SlushPool
   is_cluster_definer: true
@@ -412,6 +452,7 @@ tags:
 - address: 1FaE82jeRATmLBVRVyKkQpKPKgA7NgtgbM
   label: F2Pool
   is_cluster_definer: true
+  actor: f2pool
 - address: 3MZN8U2f1ZvhaexQS14Q74P55j3BjNNiF7
   label: Poolin
   is_cluster_definer: true
@@ -419,9 +460,11 @@ tags:
 - address: 3Mys7e9G2ppiCmm5C1xfeU6Dc2RKrNAztp
   label: BTC.com
   is_cluster_definer: true
+  actor: btccom
 - address: 1MAAUXNSJEDaPtECd955CQct65BmTzwhj6
   label: EMCDPool
   is_cluster_definer: true
+  actor: emcdpool
 - address: 15fjahYsbVidUop7Jyh1vK91AFM8wuLP4j
   label: SlushPool
   is_cluster_definer: true
@@ -429,6 +472,7 @@ tags:
 - address: 3QhGkYrnurdURa3HGTjzVLqfTk7Se35qSo
   label: NovaBlock
   is_cluster_definer: true
+  actor: novablock
 - address: 165XpQ3avWawwxK17XcVN8a8YPJz1eAr3Y
   label: SlushPool
   is_cluster_definer: true
@@ -439,6 +483,7 @@ tags:
 - address: 3QYvfQoG9Gs9Vfvbpw6947muSqhoGagvF6
   label: Rawpool.com
   is_cluster_definer: true
+  actor: rawpoolcom
 - address: 1NuzvQupeBAE4iVESNMD6hqY38ew1P6Cxi
   label: SlushPool
   is_cluster_definer: true
@@ -454,6 +499,7 @@ tags:
 - address: 1Bf9sZvBHPFGVPX71WX2njhd1NXKv5y7v5
   label: BTC.com
   is_cluster_definer: true
+  actor: btccom
 - address: 1MvYASoHjqynMaMnP7SBmenyEWiLsTqoU6
   label: Huobi
   is_cluster_definer: true
@@ -481,6 +527,7 @@ tags:
 - address: 122pN8zvqTxJaA8fRY1PDBu4QYodqE5m2X
   label: Binance Pool
   is_cluster_definer: true
+  actor: binance
 - address: 16kJM74vA3b62TGUp36XVmCDaJr2LqmCpv
   label: Poolin
   is_cluster_definer: true
@@ -508,9 +555,11 @@ tags:
 - address: 3685YUakxeE6JJAxn85m7ku3b7xAUbAEdW
   label: BTC.com
   is_cluster_definer: true
+  actor: btccom
 - address: 19VBqLkbMywnX5QMUg7LsHgbzsLh9as4MS
   label: MARA Pool
   is_cluster_definer: true
+  actor: marapool
 - address: 1NfcYGHYVmw2KAxrZqbvdZDXMdyy7qT5sg
   label: SlushPool
   is_cluster_definer: true
@@ -530,6 +579,7 @@ tags:
 - address: 1FbBbv5oYqFKwiPm4CAqvAy8345n8AQ74b
   label: Rawpool.com
   is_cluster_definer: true
+  actor: rawpoolcom
 - address: 1DQaDTefKPjHz3beLuo8KHRZF9t2Sc6foP
   label: AntPool
   is_cluster_definer: true
@@ -537,12 +587,15 @@ tags:
 - address: 1BDbsWi3Mrcjp1wdop3PWFNCNZtu4R7Hjy
   label: EMCDPool
   is_cluster_definer: true
+  actor: emcdpool
 - address: bc1qnnl503n04cqacpwvhr89qr70metxr79ht3n380
   label: Rawpool.com
   is_cluster_definer: true
+  actor: rawpoolcom
 - address: 1EMVSMe1VJUuqv7D7SFzctnVXk4KdjXATi
   label: ULTIMUS POOL
   is_cluster_definer: true
+  actor: ultimus
 - address: 1FeSd8XvDzBgTy4jYKwMSmD4xcT9rjkfgb
   label: Poolin
   is_cluster_definer: true
@@ -550,6 +603,7 @@ tags:
 - address: 3JwtF2xZm9YFJnkTdJVgZpaf8pG9aP4FMb
   label: SBI Crypto
   is_cluster_definer: true
+  actor: sbicrypto
 - address: 1E8CZo2S3CqWg1VZSJNFCTbtT8hZPuQ2kB
   label: Poolin
   is_cluster_definer: true
@@ -564,6 +618,7 @@ tags:
 - address: 1Q8QR5k32hexiMQnRgkJ6fmmjn5fMWhdv9
   label: Binance Pool
   is_cluster_definer: true
+  actor: binance
 - address: 1KDf847BWEMwthPHFtvWAfESdQMRnr25f7
   label: Poolin
   is_cluster_definer: true
@@ -575,6 +630,7 @@ tags:
 - address: bc1qwlrsvgtn99rqp3fgaxq6f6jkgms80rnej0a8tc
   label: Rawpool.com
   is_cluster_definer: true
+  actor: rawpoolcom
 - address: 39qbJCDDwycTTkvmHE3qbtta7PhhjrLKTD
   label: Poolin
   is_cluster_definer: true
@@ -594,15 +650,19 @@ tags:
 - address: 1K6znpyj9g3BBjmzEvaNaJwkzfMPN4WzLT
   label: NovaBlock
   is_cluster_definer: true
+  actor: novablock
 - address: 1FFxkVijzvUPUeHgkFjBk2Qw8j3wQY2cDw
   label: Foundry USA
   is_cluster_definer: true
+  actor: foundrydigital
 - address: 36cWgjEtxQSFgbHTJDw5AB96ZX7fJk1URd
   label: BTC.com
   is_cluster_definer: true
+  actor: btccom
 - address: 1BabyMAoYaAZAeKVbfixFYvoiqceuWeDSy
   label: F2Pool
   is_cluster_definer: true
+  actor: f2pool
 - address: 18jaGssp7vixJC566ziswFUGwdJmsLE6xN
   label: Poolin
   is_cluster_definer: true
@@ -626,6 +686,7 @@ tags:
 - address: 3D72db1KMCnj7FL7MBsmxTw81z2bVu4UN5
   label: MARA Pool
   is_cluster_definer: true
+  actor: marapool
 - address: 1HjcmGfsSeiLrLWVtWTNqQXzBi8iMyfMfN
   label: SlushPool
   is_cluster_definer: true
@@ -633,12 +694,15 @@ tags:
 - address: 334LoFzzwiSmJe6JShQRUL8hzx6hdJwRV4
   label: NovaBlock
   is_cluster_definer: true
+  actor: novablock
 - address: 3Qqp7LwxmSjPwRaKkDToysJsM3xA4ThqFk
   label: Terra Pool
   is_cluster_definer: true
+  actor: terrapool
 - address: 3HRzRMNbcHR5PTfAzt5Lo7AHgT3oUhq9zG
   label: Lubian.com
   is_cluster_definer: true
+  actor: lubiancom
 - address: 193vcbMZ8DXt8D4AnDDKxBUHmGftstFXHL
   label: SlushPool
   is_cluster_definer: true
@@ -646,6 +710,7 @@ tags:
 - address: 3LC8dDKyBsrWPfzhXyt7aAyjXxGYkfDdHu
   label: MARA Pool
   is_cluster_definer: true
+  actor: marapool
 - address: 3DXfeMBimuvN3TWnQXDhr47P8M8yxMy9Pd
   label: Poolin
   is_cluster_definer: true
@@ -653,6 +718,7 @@ tags:
 - address: 12dHcSW5MzgBeoPqt6HyVcAMBVbTd3Vfrm
   label: 1THash&58COIN
   is_cluster_definer: true
+  actor: 1thash
 - address: 1D8KCPBJH7mgGFDEYFXGw84PGozMmsYXjd
   label: SlushPool
   is_cluster_definer: true
@@ -664,6 +730,7 @@ tags:
 - address: 1PhzzX4J2QKcBuUVFqefDmYMsxoBsKZ8PL
   label: BitcoinRussia
   is_cluster_definer: true
+  actor: bitcoinrussia
 - address: 1HfTeCkQQkh1JpNyTHkKebt4rYXJfApVY6
   label: SlushPool
   is_cluster_definer: true
@@ -707,9 +774,11 @@ tags:
 - address: bc1qh633h39esrzwzffstjgqphp0qehla5l6lce2wk
   label: SBI Crypto
   is_cluster_definer: true
+  actor: sbicrypto
 - address: 3L8Ck6bm3sve1vJGKo6Ht2k167YKSKi8TZ
   label: Binance Pool
   is_cluster_definer: true
+  actor: binance
 - address: 3Q3bXykToSQagtqgazeDxxrWK4yrpA9jQX
   label: Poolin
   is_cluster_definer: true
@@ -729,6 +798,7 @@ tags:
 - address: 3FTDeZHa2uP9BhgnYFXK71uauainXeUVdR
   label: BTC.com
   is_cluster_definer: true
+  actor: btccom
 - address: 1HSjfNsV2sGciikGHvLt4uMuJPu9cGKRZw
   label: SlushPool
   is_cluster_definer: true
@@ -736,6 +806,7 @@ tags:
 - address: 1NzDBxPNrGXwPLx9HuVBPgs9DjozY741mi
   label: 1THash&58COIN
   is_cluster_definer: true
+  actor: 1thash
 - address: 1GEG1JR81jvUXs7TMAuo3SPBHZrpJijcjt
   label: AntPool
   is_cluster_definer: true
@@ -743,15 +814,18 @@ tags:
 - address: 1QEiAhdHdMhBgVbDM7zUXWGkNhgEEJ6uLd
   label: ArkPool
   is_cluster_definer: true
+  actor: arkpool
 - address: 3P5jqu2XvCwuzoxJot11wL3UCRg42RyypQ
   label: okpool.top
   is_cluster_definer: true
 - address: bc1qadv9a92ln0l58hh6g0e9jeuz4y5cg0m0sjpf8x
   label: SBI Crypto
   is_cluster_definer: true
+  actor: sbicrypto
 - address: 1FVKW4rp5rN23dqFVk2tYGY4niAXMB8eZC
   label: WAYI.CN
   is_cluster_definer: true
+  actor: wayicn
 - address: 1PQwtwajfHWyAkedss5utwBvULqbGocRpu
   label: Poolin
   is_cluster_definer: true
@@ -759,6 +833,7 @@ tags:
 - address: 19dENFt4wVwos6xtgwStA6n8bbA57WCS58
   label: Foundry USA
   is_cluster_definer: true
+  actor: foundrydigital
 - address: 1M1Vpp4qhwjSHJiv8zGxMZsfRkSY4DEde2
   label: SlushPool
   is_cluster_definer: true
@@ -770,9 +845,11 @@ tags:
 - address: 1BabymoVUgD3MgZDznCpgu28fijWeeWyHz
   label: F2Pool
   is_cluster_definer: true
+  actor: f2pool
 - address: 1MkCDCzHpBsYQivp8MxjY5AkTGG1f2baoe
   label: Luxor
   is_cluster_definer: true
+  actor: luxortech
 - address: 1NLygxYYhJt8fgjrBQm1BULxDYRbtgQW4p
   label: SlushPool
   is_cluster_definer: true
@@ -780,6 +857,7 @@ tags:
 - address: 3QZ3LKzWwWbFb2QMKGzyRo1rZJNWTDnFrv
   label: NovaBlock
   is_cluster_definer: true
+  actor: novablock
 - address: 1EcxdZrhcNcfTLi2tga9QaspAbnkgNPQeo
   label: SlushPool
   is_cluster_definer: true
@@ -787,6 +865,7 @@ tags:
 - address: 3PaSDHtYjYKz8TgJtRDmGik5Hy1zskkVYs
   label: SBI Crypto
   is_cluster_definer: true
+  actor: sbicrypto
 - address: 15kNvZYY9HWg4wE7Fd73o96P5eKb96Yyfa
   label: Poolin
   is_cluster_definer: true
@@ -794,9 +873,11 @@ tags:
 - address: 39m5Wvn9ZqyhYmCYpsyHuGMt5YYw4Vmh1Z
   label: BytePool
   is_cluster_definer: true
+  actor: bytepool
 - address: 3FjxwejBXuXEMMwWPGatnvbx9VyyzVsr2G
   label: BTC.com
   is_cluster_definer: true
+  actor: btccom
 - address: 1MgH8iNkdZrDW8rsfzifDzsqJnCjBVyRBV
   label: P2Pool.org
   is_cluster_definer: true
@@ -807,6 +888,7 @@ tags:
 - address: 3C9sAKXrBVpJVe3b738yik4LPHpPmceBgd
   label: ULTIMUS POOL
   is_cluster_definer: true
+  actor: ultimus
 - address: 1JbeHLVkjfK83oPAyhpnuWmZi6rsvk7P5J
   label: SlushPool
   is_cluster_definer: true
@@ -818,6 +900,7 @@ tags:
 - address: 3GbAEvhB6XUYG79SfCamYPVzhJpchzq3ZY
   label: Hummerpool
   is_cluster_definer: true
+  actor: hummerpool
 - address: 1NMmmL4m9Wo2BZU1xBFUU7vGRckGwMd7EQ
   label: Poolin
   is_cluster_definer: true
@@ -836,15 +919,19 @@ tags:
 - address: 1KTUzRQJTU7uqY6aQAefTaswKKudgWhAVW
   label: F2Pool
   is_cluster_definer: true
+  actor: f2pool
 - address: 125K2xfiBdae42gSKiCGwi85Frpy1vHmGj
   label: OKKONG
   is_cluster_definer: true
+  actor: okkong
 - address: 32BQLt9vZH5ULocj1pvepKzHaYFPrBFQMk
   label: okpool.top
   is_cluster_definer: true
 - address: 16moWjUJVRnDQKqhoCdcszfJg9wzBdoTHw
   label: Binance Pool
   is_cluster_definer: true
+  actor: binance
 - address: 3LJp4U6dskT61xtc7CsnweAPyuxENX5AH6
   label: Lubian.com
   is_cluster_definer: true
+  actor: lubiancom

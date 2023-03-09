@@ -672,46 +672,66 @@ tags:
   label: 'CACHE Gold: Unbacked Treasury'
 - address: '0x1151314c646ce4e0efd76d1af4760ae66a9fe30f'
   label: Bitfinex 1
+  actor: bitfinex
 - address: '0x742d35cc6634c0532925a3b844bc454e4438f44e'
   label: Bitfinex 2
+  actor: bitfinex
 - address: '0x876eabf441b2ee5b5b0554fd502a8e0600950cfa'
   label: Bitfinex 3
+  actor: bitfinex
 - address: '0x7727e5113d1d161373623e5f49fd568b4f543a9e'
   label: 'Bitfinex: Contract 1'
+  actor: bitfinex
 - address: '0x0e55c54249f25f70d519b7fb1c20e3331e7ba76d'
   label: 'Bitfinex: Contract 2'
+  actor: bitfinex
 - address: '0x5dbdebcae07cc958ba5290ff9deaae554e29e7b4'
   label: 'Bitfinex: Deployer 1'
+  actor: bitfinex
 - address: '0x2ee3b2df6534abc759ffe994f7b8dcdfaa02cd31'
   label: 'Bitfinex: Deployer 2'
+  actor: bitfinex
 - address: '0xe1f3c653248de6894d683cb2f10de7ca2253046f'
   label: 'Bitfinex: Deployer 3'
+  actor: bitfinex
 - address: '0x2903cadbe271e057edef157340b52a5898d7424f'
   label: 'Bitfinex: Deployer 4'
+  actor: bitfinex
 - address: '0x36928500bc1dcd7af6a2b4008875cc336b927d57'
   label: 'Bitfinex: Deployer 5'
+  actor: bitfinex
 - address: '0x14d06788090769f669427b6aea1c0240d2321f34'
   label: 'Bitfinex: Deployer 6'
+  actor: bitfinex
 - address: '0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3'
   label: 'Bitfinex: LEO Token'
+  actor: bitfinex
 - address: '0xab7c74abc0c4d48d1bdad5dcb26153fc8780f83e'
   label: 'Bitfinex: MultiSig 1'
+  actor: bitfinex
 - address: '0xc6cde7c39eb2f0f0095f41570af89efc2c1ea828'
   label: 'Bitfinex: MultiSig 2'
+  actor: bitfinex
 - address: '0xcafb10ee663f465f9d10588ac44ed20ed608c11e'
   label: 'Bitfinex: Old Address 1'
+  actor: bitfinex
 - address: '0x7180eb39a6264938fdb3effd7341c4727c382153'
   label: 'Bitfinex: Old Address 2'
+  actor: bitfinex
 - address: '0x69c6dcc8f83b196605fa1076897af0e7e2b6b044'
   label: 'Bitfinex: Old Contract 1'
+  actor: bitfinex
 - address: '0x8d5a41e85f4ce2433beef476305d307b9205d98d'
   label: 'Bitfinex: Old Contract 2'
+  actor: bitfinex
 - address: '0xabdf147870235fcfc34153828c769a70b3fae01f'
   label: Tether EUR
+  actor: tether
 - address: '0x4922a015c4407f87432b179bb209e125432e4a2a'
   label: 'Tether Gold: XAUt Token'
 - address: '0xdac17f958d2ee523a2206206994597c13d831ec7'
   label: Tether USD
+  actor: tether
 - address: '0x493c57c4763932315a328269e1adad09653b9081'
   label: bZx DAI iToken
 - address: '0x77f973fcaf871459aa58cd81881ce453759281bc'
@@ -1015,54 +1035,79 @@ tags:
   label: 'ARCS: Deployer'
 - address: '0x3fda67f7583380e67ef93072294a7fac882fd7e7'
   label: Compound
+  actor: compound
 - address: '0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407'
   label: Compound 0x
+  actor: compound
 - address: '0x158079ee67fce2f58472a96584a73c7ab9ac95c1'
   label: Compound Augur
+  actor: compound
 - address: '0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e'
   label: Compound Basic Attention Token
+  actor: compound
 - address: '0x5d3a536e4d6dbd6114cc1ead35777bab948e3643'
   label: Compound Dai
+  actor: compound
 - address: '0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5'
   label: Compound Ether
+  actor: compound
 - address: '0xf5dce57282a584d2746faf1593d3121fcac444dc'
   label: Compound Sai
+  actor: compound
 - address: '0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9'
   label: Compound Tether
+  actor: compound
 - address: '0x39aa39c021dfbae8fac545936693ac917d5e7563'
   label: Compound USD Coin
+  actor: compound
 - address: '0xc11b1268c1a384e55c48c2391d8d480264a3a7f4'
   label: Compound Wrapped BTC
+  actor: compound
 - address: '0xc00e94cb662c3520282e6f5717214004a7f26888'
   label: 'Compound: COMP Token'
+  actor: compound
 - address: '0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b'
   label: 'Compound: Comptroller'
+  actor: compound
 - address: '0xf859a1ad94bcf445a406b892ef0d3082f4174088'
   label: 'Compound: Contract 1'
+  actor: compound
 - address: '0xa7ff0d561cd15ed525e31bbe0af3fe34ac2059f6'
   label: 'Compound: Deployer 1'
+  actor: compound
 - address: '0x1449e0687810bddd356ae6dd87789244a46d9adb'
   label: 'Compound: Deployer 2'
+  actor: compound
 - address: '0xcec237e83a080f3225ab1562605ee6dedf5644cc'
   label: 'Compound: Deployer 3'
+  actor: compound
 - address: '0xfe83af639f769ead20bad76067abc120245a06a9'
   label: 'Compound: Deployer 4'
+  actor: compound
 - address: '0xc0da01a04c3f3e0be433606045bb7017a7323e38'
   label: 'Compound: Governor Alpha'
+  actor: compound
 - address: '0x1055be4bf7338c7606d9efdcf80593f180ba043e'
   label: 'Compound: Liquidator'
+  actor: compound
 - address: '0x02557a5e05defeffd4cae6d83ea3d173b272c904'
   label: 'Compound: Oracle'
+  actor: compound
 - address: '0x9e77ad51e5c0825d6e440f49e49ef1a1bca37b5d'
   label: 'Compound: Oracle 2'
+  actor: compound
 - address: '0xe7664229833ae4abf4e269b8f23a86b657e2338d'
   label: 'Compound: Oracle v2'
+  actor: compound
 - address: '0xddc46a3b076aec7ab3fc37420a8edd2959764ec4'
   label: 'Compound: Price Oracle Proxy'
+  actor: compound
 - address: '0xd25c029a607ee888bdbdbe054515e25ec6f3fff9'
   label: 'Compound: Rate Model'
+  actor: compound
 - address: '0x0a97f822272519d5296e21de278a86cd3ce3c96a'
   label: 'Compound: Rate Model 2'
+  actor: compound
 - address: '0x0d6b5a54f940bf3d52e438cab785981aaefdf40c'
   label: COSS.io 1
 - address: '0xd1560b3984b7481cd9a8f40435a53c860187174d'
@@ -1520,16 +1565,16 @@ tags:
   label: 'DeversiFi: OTC'
 - address: '0xcc80c051057b774cd75067dc48f8987c4eb97a5e'
   label: 'Ethfinex: Nectar Token'
-  actor: Bitfinex
+  actor: bitfinex
 - address: '0xdcdb42c9a256690bd153a7b409751adfc8dd5851'
   label: 'Ethfinex: Old Contract'
-  actor: Bitfinex
+  actor: bitfinex
 - address: '0xbaea5bc6568dcb1f1c5aa24223a47333a6b3a8f5'
   label: 'Ethfinex: Old Contract 2'
-  actor: Bitfinex
+  actor: bitfinex
 - address: '0x93dc6a333a99c0ede1cd346ccf079ea8451013db'
   label: 'Ethfinex: Old Contract 3'
-  actor: Bitfinex
+  actor: bitfinex
 - address: '0xd3bed3a8e3e6b24b740ead108ba776e0ad298588'
   label: 'DEX.AG: Old Contract 1'
 - address: '0x932348df588923ba3f1fd50593b22c4e2a287919'

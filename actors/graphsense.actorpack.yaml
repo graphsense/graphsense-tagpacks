@@ -11398,7 +11398,7 @@ actors:
     images:
     - icons.llama.fi/composable-finance.jpg
     twitter_handle: ComposableFin
-- id: compoundv3
+- id: compound
   label: Compound
   jurisdictions: []
   categories:

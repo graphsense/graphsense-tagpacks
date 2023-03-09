@@ -3696,271 +3696,271 @@ tags:
 - label: compound_cAAVE
   address: '0xe65cdb6479bac1e22340e4e755fae7e509ecd06c'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cSUSHI
   address: '0x4b0181102a0112a2ef11abee5563bb4a3176c9d7'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cYFI
   address: '0x80a2ae356fc9ef4305676f7a3e2ed04e12c33946'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cTUSDDelegate
   address: '0xce526fa199d2f772abbc5b40b3284cdab1b8e6de'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cTUSD
   address: '0x12392f67bdf24fae0af363c24ac620a2f67dad86'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cLINK
   address: '0xface851a4921ce59e912d19329929ce6da6eb0c7'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_GovernorBravo
   address: '0xc0da02939e1441f497fd74f78ce7decb17b66529'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cLINK+WBTC2Delegate_MultiLabel
   address: '0x24aa720906378bb8364228bddb8cabbc1f6fe1ba'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cWBTC2
   address: '0xccf4429db6322d5c611ee964527d42e5d685dd6a'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_wbtc2_irm
   address: '0xf2e5db36b0682f2cd6bc805c3a4236194e01f4d5'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_IRM_COMP_Updateable
   address: '0xd956188795ca6f4a74092ddca33e0ea4ca3a1395'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cCOMP
   address: '0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cUSDC
   address: '0x39aa39c021dfbae8fac545936693ac917d5e7563'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_PriceOracle
   address: '0x02557a5e05defeffd4cae6d83ea3d173b272c904'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_PriceOracleProxy
   address: '0xddc46a3b076aec7ab3fc37420a8edd2959764ec4'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_Maximillion
   address: '0xf859a1ad94bcf445a406b892ef0d3082f4174088'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_Base200bps_Slope2000bps_Jump20000bps_Kink90
   address: '0x6bc8fe27d0c7207733656595e73c0d5cf7afae36'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_GovernorAlpha
   address: '0xc0da01a04c3f3e0be433606045bb7017a7323e38'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cDAI
   address: '0x5d3a536e4d6dbd6114cc1ead35777bab948e3643'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_CompoundLens
   address: '0xa1bd4a10185f30932c78185f86641f11902e873f'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_StdComptroller
   address: '0x62f18c451af964197341d3c86d27e98c41bb8fcc'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_Poster
   address: '0x3c6809319201b978d821190ba03fa19a3523bd96'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_Reservoir
   address: '0x2775b1c75658be0f640272ccb8c72ac986009e38'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_Uni+Comptroller_MultiLabel
   address: '0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_COMP
   address: '0xc00e94cb662c3520282e6f5717214004a7f26888'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cUSDT
   address: '0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cBAT
   address: '0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_Base500bps_Slope1500bps
   address: '0xd928c8ead620bb316d2cefe3caf81dc2dec6ff63'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_DSR_Kink_9000bps_Jump_12000bps_AssumedRF_500bps
   address: '0xec163986cc9a6593d6addcbff5509430d348030f'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_DSR_Updateable
   address: '0xfed941d39905b23d6faf02c8301d40bd4834e27f'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_Base0bps_Slope2000bps
   address: '0xc64c4cba055efa614ce01f4bad8a9f519c4f8fab'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_StdComptroller_2_6
   address: '0x97bd4cc841fc999194174cd1803c543247a014fe'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_Base200bps_Slope1000bps
   address: '0x0c3f8df27e1a00b47653fde878d68d35f00714c0'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cETH
   address: '0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cDaiDelegate
   address: '0xbb8be4772faa655c255309afc3c5207aa7b896fd'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cUsdtDelegate
   address: '0x976aa93ca5aaa569109f4267589c619a097f001d'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cCOMP+Uni_Delegate_MultiLabel
   address: '0x338f7e5d19d9953b76dd81446b142c2d9fe03482'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cUNI
   address: '0x35a18000230da775cac24873d00ff85bccded550'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_StdComptrollerG2
   address: '0xf592ef673057a451c49c9433e278c5d59b56132c'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_DSR_Kink_9000bps_Jump_12000bps_AssumedRF_20000bps
   address: '0x000000007675b5e1da008f037a0800b309e0c493'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_Base500bps_Slope1200bps
   address: '0xa1046abfc2598f48c44fb320d281d3f3c0733c9a'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cSAI
   address: '0xf5dce57282a584d2746faf1593d3121fcac444dc'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_StdComptrollerG3
   address: '0x9d0a0443ff4bb04391655b8cd205683d9fa75550'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_Timelock
   address: '0x6d903f6003cca6255d85cca4d3b5e5146dc33925'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_Base200bps_Slope3000bps
   address: '0xbae04cbf96391086dc643e842b517734e214d698'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_StdComptrollerG4
   address: '0xaf601cbff871d0be62d18f79c31e387c76fa0374'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_StdComptrollerG5
   address: '0x7b5e3521a049c8ff88e6349f33044c6cc33c113c'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cREP
   address: '0x158079ee67fce2f58472a96584a73c7ab9ac95c1'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_Base200bps_Slope2000bps_Jump8000bps_Kink90
   address: '0x40c0c2c565335fa9c4235ac8e1cbfe2c97bac13a'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_Base200bps_Slope222bps_Kink90_Jump40
   address: '0x5562024784cc914069d67d89a28e3201bf7b57e7'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_SAI
   address: '0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_REP
   address: '0x1985365e9f78359a9b6ad760e32412f4a445e862'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cZRX
   address: '0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cWBTC
   address: '0xc11b1268c1a384e55c48c2391d8d480264a3a7f4'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_PriceData
   address: '0xc629c26dced4277419cde234012f8160a0278a79'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_PriceFeed
   address: '0x6d2299c48a8dd07a872fdd0f8233924872ad1071'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cMKR
   address: '0x95b4ef2869ebd94beb4eee400a99824bf5dc325b'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_cAAVE+SUSHI+YFI+MKRDelegate_MuliLabel
   address: '0xa035b9e130f2b1aedc733eefb1c67ba4c503491f'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_Pair_ETH_ZRX
   address: '0xc6f348dd3b91a56d117ec0071c1e9b83c0996de4'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_Pair_ETH_KNC
   address: '0xf49c43ae0faf37217bdcb00df478cf793edd6687'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_Pair_COMP_ETH
   address: '0xcffdded873554f362ac02f8fb1f02e5ada10516f'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_Pair_REP_ETH
   address: '0xec2d2240d02a8cf63c3fa0b7d2c5a3169a319496'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_Pair_BAT_ETH
   address: '0xb6909b960dbbe7392d405429eb2b3649752b4838'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_CrowdProposalFactory
   address: '0x54a06047087927d9b0fb21c1cf0ebd792764ddb8'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_IRM_USDT_Updateable
   address: '0xfb564da37b41b2f6b6edcc3e56fbf523bd9f2012'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_IRM_USDC_Updateable
   address: '0xd8ec56013ea119e7181d231e5048f90fbbe753c0'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: compound_IRM_UNI_Updateable
   address: '0xd88b94128ff2b8cf2d7886cd1c1e46757418ca2a'
   category: defi_lending
-  actor: compoundv3
+  actor: compound
 - label: maker_CHANGELOG
   address: '0xda0ab1e0017debcd72be8599041a2aa3ba7e740f'
   category: defi_lending

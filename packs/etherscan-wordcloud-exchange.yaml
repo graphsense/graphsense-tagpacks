@@ -127,8 +127,10 @@ tags:
       label: 'Beldex'
     - address: '0x7a10ec7d68a048bdae36a70e93532d31423170fa'
       label: 'Bgogo 1'
+      actor: bgogo
     - address: '0xce1bf8e51f8b39e51c6184e059786d1c0eaf360f'
       label: 'Bgogo 2'
+      actor: bgogo
     - address: '0xf73c3c65bde10bf26c2e1763104e609a41702efe'
       label: 'Bibox'
       actor: bibox

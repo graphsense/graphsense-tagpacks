@@ -4383,6 +4383,20 @@ actors:
     images:
     - icons.llama.fi/baymax.jpg
     twitter_handle: baymaxfi
+- id: bbx
+  label: BBX
+  jurisdictions:
+  - MT
+  categories:
+  - exchange
+  uri: bbx.com
+  context:
+    refs:
+    - coinmarketcap.com/exchanges/bbx/
+    - www.cryptowisser.com/exchange/bbx
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/458.png
+    twitter_handle: bbxcom
 - id: bcex
   label: BCEx
   jurisdictions:
@@ -5081,6 +5095,24 @@ actors:
     legal_name: BigONE, LLC
     twitter_handle: BigONEexchange
     active: true
+- id: biki
+  label: Biki
+  jurisdictions:
+  - SC
+  categories:
+  - exchange
+  uri: biki.cc
+  context:
+    refs:
+    - cer.live/exchange/biki
+    - coinmarketcap.com/exchanges/biki/
+    - www.linkedin.com/company/biki-exchange/
+    - www.facebook.com/bikiexchange
+    - medium.com/@bikicoin
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/528.png
+    active: false
+    twitter_handle: BiKiEnglish
 - id: bilaxy
   label: Bilaxy
   jurisdictions:
@@ -40328,6 +40360,25 @@ actors:
     images:
     - icons.llama.fi/tidal-finance.png
     twitter_handle: tidaldefi
+- id: tidebit
+  label: Tidebit
+  jurisdictions:
+  - HK
+  categories:
+  - organization
+  - exchange
+  uri: tidebit.com
+  context:
+    uris:
+    - www.tidebit.one
+    refs:
+    - cer.live/exchange/tidebit
+    - coinmarketcap.com/exchanges/tidebit/
+    - www.facebook.com/tidebit
+    - www.linkedin.com/company/tidebit
+    images:
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/280.png
+    active: true
 - id: tidex
   label: Tidex
   jurisdictions:

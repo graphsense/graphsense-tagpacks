@@ -238,10 +238,13 @@ tags:
   label: 'BAT: Wallet'
 - address: '0x7a10ec7d68a048bdae36a70e93532d31423170fa'
   label: Bgogo 1
+  actor: bgogo
 - address: '0xce1bf8e51f8b39e51c6184e059786d1c0eaf360f'
   label: Bgogo 2
+  actor: bgogo
 - address: '0xea54c81fe0f72de8e86b6dc78a9271aa3925e3b5'
   label: Bgogo Token
+  actor: bgogo
 - address: '0xae1710e83211decb356f031a9346a24ef55055e0'
   label: 'Authereum: Account V1.0.0'
 - address: '0xd8cab604bdd8cbb7c3eb0c26f7dc3abffb005a92'

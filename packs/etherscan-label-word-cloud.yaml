@@ -1520,16 +1520,16 @@ tags:
   label: 'DeversiFi: OTC'
 - address: '0xcc80c051057b774cd75067dc48f8987c4eb97a5e'
   label: 'Ethfinex: Nectar Token'
-  actor: ethfinex
+  actor: Bitfinex
 - address: '0xdcdb42c9a256690bd153a7b409751adfc8dd5851'
   label: 'Ethfinex: Old Contract'
-  actor: ethfinex
+  actor: Bitfinex
 - address: '0xbaea5bc6568dcb1f1c5aa24223a47333a6b3a8f5'
   label: 'Ethfinex: Old Contract 2'
-  actor: ethfinex
+  actor: Bitfinex
 - address: '0x93dc6a333a99c0ede1cd346ccf079ea8451013db'
   label: 'Ethfinex: Old Contract 3'
-  actor: ethfinex
+  actor: Bitfinex
 - address: '0xd3bed3a8e3e6b24b740ead108ba776e0ad298588'
   label: 'DEX.AG: Old Contract 1'
 - address: '0x932348df588923ba3f1fd50593b22c4e2a287919'
@@ -3263,44 +3263,64 @@ tags:
   label: 'BitJob: MultiSig'
 - address: '0x2b5634c42055806a59e9107ed44d43c426e58258'
   label: KuCoin 1
+  actor: kucoin
 - address: '0x689c56aef474df92d44a1b70850f808488f9769c'
   label: KuCoin 2
+  actor: kucoin
 - address: '0x2602669a92fccf44e5319ff51b0f453aab9db021'
   label: KuCoin Contract
+  actor: kucoin
 - address: '0x039b5649a59967e3e936d7471f9c3700100ee1ab'
   label: KuCoin Shares
+  actor: kucoin
 - address: '0x4d77a1144dc74f26838b69391a6d3b1e403d0990'
   label: Huobi 32
+  actor: huobi
 - address: '0x28ffe35688ffffd0659aee2e34778b0ae4e193ad'
   label: Huobi 33
+  actor: huobi
 - address: '0xcac725bef4f114f728cbcfd744a731c2a463c3fc'
   label: Huobi 34
+  actor: huobi
 - address: '0xeee28d484628d41a82d01e21d12e2e78d69920da'
   label: Huobi 4
+  actor: huobi
 - address: '0x5c985e89dde482efe97ea9f1950ad149eb73829b'
   label: Huobi 5
+  actor: huobi
 - address: '0xdc76cd25977e0a5ae17155770273ad58648900d3'
   label: Huobi 6
+  actor: huobi
 - address: '0xadb2b42f6bd96f5c65920b9ac88619dce4166f94'
   label: Huobi 7
+  actor: huobi
 - address: '0xa8660c8ffd6d578f657b72c0c811284aef0b735e'
   label: Huobi 8
+  actor: huobi
 - address: '0x1062a747393198f70f71ec65a582423dba7e5ab3'
   label: Huobi 9
+  actor: huobi
 - address: '0x9d6d492bd500da5b33cf95a5d610a73360fcaaa0'
   label: Huobi Mining Pool
+  actor: huobi
 - address: '0xa66daa57432024023db65477ba87d4e7f5f95213'
   label: Huobi Pool Token
+  actor: huobi
 - address: '0x6f259637dcd74c767781e37bc6133cd6a68aa161'
   label: Huobi Token
+  actor: huobi
 - address: '0x0316eb71485b0ab14103307bf65a021042c6d380'
   label: 'Huobi: HBTC Token'
+  actor: huobi
 - address: '0x1d1e10e8c66b67692f4c002c0cb334de5d485e41'
   label: 'Huobi: Old Address 1'
+  actor: huobi
 - address: '0xea0cfef143182d7b9208fbfeda9d172c2aced972'
   label: 'Huobi: Old Address 10'
+  actor: huobi
 - address: '0x0c92efa186074ba716d0e2156a6ffabd579f8035'
   label: 'Huobi: Old Address 11'
+  actor: huobi
 - address: '0x6a0afe6f45a878100480f312b585aa0d752d4d2d'
   label: 'Liquid: Gram Token Sale Proceeds'
 - address: '0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6'

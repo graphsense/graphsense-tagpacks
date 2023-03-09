@@ -5692,6 +5692,7 @@ actors:
     - www.cryptowisser.com/exchange/bitcoin-com-exchange/
     - api.coingecko.com/api/v3/exchanges/bitcoin_com
     - medium.com/fmfw-io/bitcoin-com-exchange-is-becoming-fmfw-io-c6bed8a4e33a
+    - finance.yahoo.com/news/bitcoin-com-exchange-rebrands-fmfw-174700899.html
     - www.crunchbase.com/organization/fmfw
     - www.cryptowisser.com/exchange/fmfw-io/
     - coinmarketcap.com/exchanges/bitcoin-com-exchange/
@@ -5959,6 +5960,7 @@ actors:
   context:
     uris:
     - www.bitfinex.com
+    - www.ethfinex.com
     coingecko_ids:
     - bitfinex
     defilama_ids:
@@ -5970,12 +5972,16 @@ actors:
     - www.walletexplorer.com/wallet/Bitfinex.com
     - www.theasianbanker.com/publication/virtual-currency-services
     - cer.live/exchange/bitfinex
+    - coinmarketcap.com/exchanges/ethfinex/
+    - www.cryptowisser.com/exchange/ethfinex/
+    - www.crunchbase.com/organization/ethfinex
     notes:
     - also cryptostats says BVI while crunchbase says Taiwan, the asian banker says HK
+    - includes Ethfinex https://blog.bitfinex.com/announcements/new-vision-ethfinex/
     images:
     - icons.llama.fi/bitfinex.png
     - assets.coingecko.com/markets/images/4/small/BItfinex.png?1615895883
-    twitter_handle: bitfinex
+    twitter_handle: bitfinex,ethfinex
     legal_name: iFinex Inc.
     active: true
 - id: bitfloor
@@ -6118,29 +6124,6 @@ actors:
     twitter_handle: bitgetglobal
     legal_name: bitget.com
     active: true
-- id: bitglobal
-  label: BitGlobal
-  jurisdictions:
-  - SC
-  categories:
-  - exchange
-  uri: www.bitglobal.com
-  context:
-    coingecko_ids:
-    - bithumb_global
-    refs:
-    - api.coingecko.com/api/v3/exchanges/bithumb_global
-    - www.cryptowisser.com/exchange/bitglobal/
-    - cer.live/exchange/bithumb
-    - cer.live/exchange/bithumb_global
-    - facebook.com/bithumb.global
-    notes:
-    - also cryptostats puts them in seychelles while crunchbase in Hong kong. NB rebranding
-      of Bithumb global. cer live says KR
-    images:
-    - assets.coingecko.com/markets/images/405/small/bitgloball.png?1639543042
-    active: true
-    twitter_handle: BithumbOfficial,BithumbGlobal
 - id: bitgoinc
   label: BitGo
   jurisdictions:
@@ -6170,23 +6153,37 @@ actors:
     - assets.coingecko.com/markets/images/171/small/bithash.png?1562037390
     twitter_handle: bithash
 - id: bithumb
-  label: Bithumb
+  label: BitGlobal (fka Bithumb)
   jurisdictions:
   - KR
   categories:
   - exchange
-  uri: www.bithumb.com
+  uri: www.bitglobal.com
   context:
+    uris:
+    - www.bithumb.com
     coingecko_ids:
     - bithumb
+    - bithumb_global
     refs:
     - www.crunchbase.com/organization/bithumb
     - api.coingecko.com/api/v3/exchanges/bithumb
     - cer.live/exchange/bithumb
+    - api.coingecko.com/api/v3/exchanges/bithumb_global
+    - www.cryptowisser.com/exchange/bitglobal/
+    - cer.live/exchange/bithumb
+    - cer.live/exchange/bithumb_global
+    - facebook.com/bithumb.global
     images:
+    - assets.coingecko.com/markets/images/405/small/bitgloball.png?1639543042
     - assets.coingecko.com/markets/images/6/small/bithumb_BI.png?1573104549
+    notes:
+    - 'bitglobal: also cryptostats puts them in seychelles while crunchbase in Hong kong. NB rebranding
+      of Bithumb global. cer live says KR'
+    - bitglobal SC
     legal_name: BTC Korea.com Co. Ltd.
     active: true
+    twitter_handle: BithumbOfficial,BithumbGlobal
 - id: bitindi
   label: Bitindi Dex/Staking
   jurisdictions: []
@@ -16006,30 +16003,6 @@ actors:
     images:
     - icons.llama.fi/ethernity-chain.jpg
     twitter_handle: EthernityChain
-- id: ethfinex
-  label: Ethfinex
-  jurisdictions:
-  - VG
-  categories:
-  - organization
-  - exchange
-  uri: www.ethfinex.com
-  context:
-    coingecko_ids:
-    - ethernity-chain
-    defilama_ids:
-    - ethernity-chain
-    - ethernity
-    refs:
-    - coinmarketcap.com/exchanges/ethfinex/
-    - www.cryptowisser.com/exchange/ethfinex/
-    - www.crunchbase.com/organization/ethfinex
-    images:
-    - s2.coinmarketcap.com/static/img/exchanges/64x64/344.png
-    twitter_handle: ethfinex
-    notes:
-    - crunchbase says Taiwan
-    - linked to diversifi, see twitter
 - id: ethhorse
   label: Ethhorse
   jurisdictions:

@@ -7090,6 +7090,14 @@ actors:
     images:
     - icons.llama.fi/black-whale.jpg
     twitter_handle: BlackWhaleDeFi
+- id: blenderio
+  label: blender.io
+  uri: blender.io
+  categories:
+    - mixing_service
+  context:
+    refs:
+      - https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220506
 - id: bleutrade
   label: Bleutrade
   jurisdictions:
@@ -20665,6 +20673,18 @@ actors:
     - icons.llama.fi/hydradex.png
     - assets.coingecko.com/markets/images/958/small/7iRuAuNw_400x400.jpeg?1663810957
     twitter_handle: hydra_chain
+- id: hydramarket
+  label: Hydra Market
+  uri: https://hydramarket.co/
+  categories:
+    - dark_web
+    - market
+  jurisdictions:
+    - RU
+  context:
+    refs:
+      - https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220405
+    active: false
 - id: hyperfinance
   label: Hyper Finance
   jurisdictions: []
@@ -23783,6 +23803,14 @@ actors:
     images:
     - icons.llama.fi/latteswap.png
     twitter_handle: latteswapOG
+- id: lazarusgroup
+  label: Lazarus Group
+  uri: https://home.treasury.gov/news/press-releases/sm774
+  categories:
+    - phishing
+    - ransomware
+    - sanction
+    - service_hack
 - id: lbank
   label: LBank
   jurisdictions:
@@ -40822,6 +40850,7 @@ actors:
   jurisdictions: []
   categories:
   - organization
+  - mixing_service
   uri: tornado.cash
   context:
     coingecko_ids:
@@ -40831,6 +40860,7 @@ actors:
     - tornado-cash
     refs:
     - api.llama.fi/protocol/tornado-cash
+    - home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220808
     images:
     - icons.llama.fi/tornado-cash.jpg
     twitter_handle: TornadoCash

@@ -5694,6 +5694,7 @@ actors:
   context:
     refs:
     - bitcoinbon.at/
+    - golden.com/wiki/Bitcoinbon-BY8J9MG
     active: true
 - id: bitcoincoid
   label: bitcoin.co.id
@@ -35921,6 +35922,7 @@ actors:
   jurisdictions: []
   categories:
   - organization
+  - mixing_service
   uri: sideshift.ai
   context:
     coingecko_ids:
@@ -35929,6 +35931,8 @@ actors:
     - sideshift
     refs:
     - api.llama.fi/protocol/sideshift
+    - www.crunchbase.com/organization/sideshift-ai
+    - golden.com/wiki/SideShift.ai-W39W3B8
     images:
     - icons.llama.fi/sideshift.png
     twitter_handle: sideshiftai

@@ -23811,6 +23811,10 @@ actors:
     - ransomware
     - sanction
     - service_hack
+  context:
+    notes:
+      - Monikers: Guardians of Peace or Whois Team, Hidden Cobra, Zinc
+      - Believed to consist of two units: BlueNorOff and AndAriel
 - id: lbank
   label: LBank
   jurisdictions:

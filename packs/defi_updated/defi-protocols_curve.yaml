@@ -7,6 +7,7 @@ confidence: forensic
 source: https://curve.readthedocs.io/ref-addresses.html
 currency: ETH
 category: defi_dex
+actor: curve
 tags:
 - label: curvefinance_Emergency-Token
   address: '0x4c0947B16FB1f755A2D32EC21A0c4181f711C500'

@@ -7,6 +7,7 @@ confidence: forensic
 source: https://github.com/Instadapp/dsa-connectors/blob/main/docs/connectors.json
 currency: ETH
 category: defi_lending
+actor: instadapp
 tags:
 - label: instadapp_COMPOUND-A
   address: '0x1B1EACaa31abbE544117073f6F8F658a56A3aE25'

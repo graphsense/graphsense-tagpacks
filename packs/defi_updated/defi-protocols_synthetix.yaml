@@ -7,6 +7,7 @@ confidence: forensic
 source: https://docs.synthetix.io/addresses/#mainnet-contracts
 currency: ETH
 category: defi
+actor: synthetix
 tags:
 - label: synthetix_CircuitBreaker
   address: '0x9f231dBE53D460f359B2B8CC47574493caA5B7Bf'

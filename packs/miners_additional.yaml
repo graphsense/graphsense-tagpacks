@@ -4,7 +4,6 @@ description: Additional miner addresses for dataset miners.json
 category: miner
 currency: BTC
 lastmod: 2022-10-04
-confidence: forensic
 source: https://github.com/MatteoRomiti/Deep_Dive_BTC_Mining_Pools/
 tags:
 - address: 14vcvqZadz6jvpWGPi27baTaBFxyKE7irK

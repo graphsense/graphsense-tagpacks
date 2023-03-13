@@ -8,6 +8,7 @@ lastmod: 2022-04-15
 source: https://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/20200302.aspx
 label: Lazarus group
 abuse: sanction
+actor: lazarusgroup
 tags:
 - address: 134r8iHv69xdT6p5qVKTsHrcUEuBVZAYak
   currency: BTC

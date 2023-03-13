@@ -8,6 +8,7 @@ description: Addresses related to Tornado.cash mixer
 currency: ETH
 lastmod: 2022-08-10
 source: https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220808
+actor: tornado
 tags:
 - address: '0x8589427373D6D84E98730D7795D8f6f8731FDA16'
 - address: '0x722122dF12D4e14e13Ac3b6895a86e84145b6967'

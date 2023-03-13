@@ -8,6 +8,7 @@ currency: BTC
 label: Hydra Market
 lastmod: 2022-04-12
 source: https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220405
+actor: hydramarket
 tags:
 - address: 1BCWMwpR4M1nYUuuYe2bmzrNuwGoF9ZAbA
 - address: 1MQBDeRWsiJBf7K1VGjJ7PWEL6GJXMfmLg

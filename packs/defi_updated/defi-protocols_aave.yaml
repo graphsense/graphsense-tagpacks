@@ -6,6 +6,7 @@ lastmod: 2023-01-09
 confidence: forensic
 currency: ETH
 category: defi_lending
+actor: aave
 tags:
 - label: aave_EmergencyAdmin
   address: '0xca76ebd8617a03126b6fb84f9b1c1a0fb71c2633'

@@ -37,4 +37,6 @@ Finally, all provided TagPacks must pass the validation steps supported by the [
 
 [tagpack-tool]: https://github.com/graphsense/graphsense-tagpack-tool
 
+# GraphSense ActorPacks
 
+A [GraphSense ActorPack](https://github.com/graphsense/graphsense-tagpacks/wiki/GraphSense-Actors) is a data structure for packaging and sharing information about real-world actors, such as an exchange. 

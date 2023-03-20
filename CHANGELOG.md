@@ -4,7 +4,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Added
 - demo ActorPacks file
-- ActorPacks: VASPs having proof-of-reserves, from Walletexplorer
+- ActorPack file containing: 
+  - VASPs having proof-of-reserves, from Walletexplorer
+  - Mining services
+  - Mixing services
 - CTF tagpack
 
 ## Fixed

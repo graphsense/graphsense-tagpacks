@@ -5150,7 +5150,7 @@ actors:
     - icons.llama.fi/billion-happiness.png
     twitter_handle: BHC_Happiness
 - id: binance
-  label: binance (US, DEX)
+  label: Binance (US, DEX)
   jurisdictions:
   - MT
   - CA
@@ -9933,17 +9933,23 @@ actors:
     - icons.llama.fi/cian.png
     twitter_handle: CIAN_protocol
 - id: circle
-  label: Circle
+  label: Centre (fka Circle)
   jurisdictions:
   - US
   categories:
   - exchange
-  uri: www.circle.com
+  uri: centre.io
   context:
+    uris:
+      - www.circle.com
     refs:
     - www.theasianbanker.com/publication/virtual-currency-services
+    - en.wikipedia.org/wiki/USD_Coin
+    - coinmarketcap.com/currencies/usd-coin/
+    images:
+      - s2.coinmarketcap.com/static/img/coins/64x64/3408.png
     active: true
-    twitter_handle: circle
+    twitter_handle: circle,centre_io
 - id: citadao
   label: CitaDAO
   jurisdictions: []

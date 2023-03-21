@@ -28,9 +28,6 @@ tags:
 - address: '0x00000000000000000000000000000000000001f2'
   context: '{"transaction": "0x9d634cb4fb53f73c68cb792bdadf3229d8304b1732d9e240ed2fce2c0f241f9d",
     "token": "USDT"}'
-- address: '0xdac17f958d2ee523a2206206994597c13d831ec7'
-  context: '{"transaction": "0x313dfe7900935237e4f46d146756bfc476caf930ca66bf76201b11bf13e09100",
-    "token": "USDT"}'
 - address: '0x8faff11fde21191e7fd50806dcbcdd49265d51a0'
   context: '{"transaction": "0x6115b7a669e777ec657489159ad86d937948176c466fb1fe3fd999e0ef05578d",
     "token": "USDT"}'

@@ -21403,6 +21403,11 @@ actors:
     images:
     - icons.llama.fi/interest-protocol.jpg
     twitter_handle: InterestDeFi
+- id: internet_archive
+  uri: https://archive.org
+  label: Internet Archive
+  jurisdictions: [US]
+  categories: [organization]
 - id: interlaycollateral
   label: Interlay Collatera/BTC/Staking/Kintsugi
   jurisdictions: []

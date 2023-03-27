@@ -7,6 +7,7 @@ category: organization
 label: Internet Archive
 lastmod: 2021-11-12
 source: https://archive.org/donate/cryptocurrency
+actor: internet_archive
 tags:
 - address: 1Archive1n2C579dMsAu3iC6tWzuQJz8dN
   currency: BTC

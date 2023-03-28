@@ -3,12 +3,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [23.03] 2023-03-30
 
 ### Added
+  - initial actors file and actors annotation [#39](https://github.com/graphsense/graphsense-tagpacks/issues/39), [#38](https://github.com/graphsense/graphsense-tagpacks/issues/38), [#43](https://github.com/graphsense/graphsense-tagpacks/issues/43)
   - Actors from Walletexplorer [#35](https://github.com/graphsense/graphsense-tagpacks/issues/35)  
   - Mining service actors
-  - Mixing service actors
   - More proof-of-reserve tagpacks
   - USDT blacklist tagpack
-
 
 ## [23.01] 2023-01-30
 

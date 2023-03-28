@@ -7,6 +7,7 @@ confidence: forensic
 source: https://docs.1inch.io
 currency: ETH
 category: defi_dex
+actor: 1inch
 tags:
 - label: 1inch_LimitOrderProtocolV3
   address: '0x119c71D3BbAC22029622cbaEc24854d3D32D2828'

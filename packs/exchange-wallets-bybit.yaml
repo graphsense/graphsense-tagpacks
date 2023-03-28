@@ -6,6 +6,7 @@ source: https://blog.bybit.com/en-US/post/statement-from-ben-on-bybit-s-wallets-
 lastmod: 2022-11-17
 is_cluster_definer: true
 label: Bybit reserve wallets
+actor: bybit
 tags:
 - address: bc1q2qqqt87kh33s0er58akh7v9cwjgd83z5smh9rp
   currency: BTC
@@ -13,7 +14,7 @@ tags:
   currency: BTC
 - address: bc1qjysjfd9t9aspttpjqzv68k0ydpe7pvyd5vlyn37868473lell5tqkz456m
   currency: BTC
-- address:  1GrwDkr33gT6LuumniYjKEGjTLhsL5kmqC
+- address: 1GrwDkr33gT6LuumniYjKEGjTLhsL5kmqC
   currency: BTC
   source: https://www.bybithelp.com/bybitHC_Article?id=000001880
 - address: '0x1Db92e2EeBC8E0c075a02BeA49a2935BcD2dFCF4'

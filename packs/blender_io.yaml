@@ -8,6 +8,7 @@ currency: BTC
 label: Blender.io
 lastmod: 2022-05-16
 source: https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220506
+actor: blenderio
 tags:
 - address: 3NDzzVxiLBUs1WPvVGRfCYDTAD2Ua2PvW4
 - address: 32fbAZMTaQxNd2fAue1PgsiPgWfcsHBQQt

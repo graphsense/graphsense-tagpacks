@@ -7,6 +7,7 @@ confidence: forensic
 source: https://dev.sushi.com/docs/Developers/Deployment%20Addresses
 currency: ETH
 category: defi_dex
+actor: sushiswap
 tags:
 - label: sushiswap_BentoBoxV1
   address: '0xF5BCE5077908a1b7370B9ae04AdC565EBd643966'

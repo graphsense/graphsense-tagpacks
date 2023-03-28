@@ -2,12 +2,13 @@ title: GraphSense Binance
 creator: GraphSense Core Team
 is_cluster_definer: true
 confidence: service_data
-description: Addresses related to Binance
+description: Addresses related to Binance these are only the sender addresses so they belong to binance
 category: exchange
 currency: BTC
 label: binance.com
 lastmod: 2019-07-03
 source: https://www.coindesk.com/hackers-steal-40-7-million-in-bitcoin-from-crypto-exchange-binance
+actor: binance
 tags:
 - address: 1NDyJtNTjmwk5xPNhjgAMu4HDHigtobu1s
 - address: 3CTPRyUbCKkByGmAVvDV6ReZXT1WfV3UPd

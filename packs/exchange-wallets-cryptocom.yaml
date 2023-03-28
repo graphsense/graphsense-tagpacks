@@ -6,6 +6,7 @@ label: crypto.com reserves wallets
 source: https://twitter.com/kris/status/1591036632664518657
 lastmod: 2022-11-15
 is_cluster_definer: true
+actor: cryptocom
 tags:
 - address: bc1qpy4jwethqenp4r7hqls660wy8287vw0my32lmy
   currency: BTC

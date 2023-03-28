@@ -7,6 +7,7 @@ confidence: forensic
 source: https://info.uniswap.org/#/pools/
 currency: ETH
 category: defi_dex
+actor: uniswap
 tags:
 - label: uniswap_v3_pool_DAI_USDC_001
   address: '0x5777d92f208679db4b9778590fa3cab3ac9e2168'

@@ -7,6 +7,7 @@ confidence: forensic
 source: https://github.com/compound-finance/compound-config/blob/master/networks/mainnet.json
 currency: ETH
 category: defi_lending
+actor: compound
 tags:
 - label: compound_cFEI
   address: '0x7713DD9Ca933848F6819F38B8352D9A15EA73F67'

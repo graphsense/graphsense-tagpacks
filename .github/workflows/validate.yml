@@ -32,3 +32,7 @@ jobs:
     - name: Validate tagpacks
       run: |
         tagpack-tool tagpack validate packs
+    - name: Validate Actors
+      run: |
+        tagpack-tool actorpack validate actors
+

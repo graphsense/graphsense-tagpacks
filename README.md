@@ -27,14 +27,18 @@ Finally, all provided TagPacks must pass the validation steps supported by the [
 
 ## How can I contribute TagPacks to this repository?
 
-**Step 1**: [Fork](https://help.github.com/en/articles/fork-a-repo) this repository
+**Step 1**: [Fork](https://help.github.com/en/articles/fork-a-repo) this repository.
 
-**Step 2**: Add your TagPacks to the folder `packs`
+**Step 2**: Add your TagPack(s) to the folder `packs`. 
+* Large datasets should be broken down into smaller TagPacks.
+* Put multiple TagPacks that are related in their own subfolder, e.g. `packs/walletexplorer_exchanges`
 
-**Step 3**: Validate your TagPack using the [GraphSense TagPack Management Tool][tagpack-tool]
+**Step 3**: Validate your TagPack using the [GraphSense TagPack Management Tool][tagpack-tool].
+* This is also a good opportunity to get acquainted with the **Actor** concept. You can enhance your TagPacks by adding actors to your TagPacks: refer to the [add actor feature][actor-feature] of the TagPack Management Tools.
 
-**Step 4**: Contribute them by submitting a [pull request](https://help.github.com/en/articles/about-pull-requests)
+**Step 4**: Contribute them by submitting a [pull request](https://help.github.com/en/articles/about-pull-requests).
 
+[actor-feature]: https://github.com/graphsense/graphsense-tagpack-tool#interactive-tagpack-update
 [tagpack-tool]: https://github.com/graphsense/graphsense-tagpack-tool
 
 # GraphSense ActorPacks

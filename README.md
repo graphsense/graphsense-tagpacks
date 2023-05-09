@@ -30,7 +30,7 @@ Finally, all provided TagPacks must pass the validation steps supported by the [
 **Step 1**: [Fork](https://help.github.com/en/articles/fork-a-repo) this repository.
 
 **Step 2**: Add your TagPack(s) to the folder `packs`. 
-* Large datasets should be broken down into smaller TagPacks.
+* Large datasets should be broken down into [smaller TagPacks][large-packs].
 * Put multiple TagPacks that are related in their own subfolder, e.g. `packs/walletexplorer_exchanges`
 
 **Step 3**: Validate your TagPack using the [GraphSense TagPack Management Tool][tagpack-tool].
@@ -40,6 +40,7 @@ Finally, all provided TagPacks must pass the validation steps supported by the [
 
 [actor-feature]: https://github.com/graphsense/graphsense-tagpack-tool#interactive-tagpack-update
 [tagpack-tool]: https://github.com/graphsense/graphsense-tagpack-tool
+[large-packs]: https://github.com/graphsense/graphsense-tagpacks/wiki/GraphSense-TagPacks#large-tagpack-files
 
 # GraphSense ActorPacks
 

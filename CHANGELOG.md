@@ -1,5 +1,11 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [23.05] not yet released
+
+### Changed
+- OFAC data update
+- Updated "How to contribute" section in README
+
 ## [23.03] 2023-03-30
 
 ### Added

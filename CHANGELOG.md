@@ -1,6 +1,6 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [23.05] not yet released
+## [23.06] 2023-06-12
 
 ### Changed
 - OFAC data update

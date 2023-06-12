@@ -1048,8 +1048,10 @@ tags:
       label: 'Kucoin Shares (KCS)'
       actor: kucoin
     - address: '0xea81ce54a0afa10a027f65503bd52fba83d745b8'
+      actor: kuna
       label: 'Kuna.io'
     - address: '0x77ab999d1e9f152156b4411e1f3e2a42dab8cd6d'
+      actor: kuna
       label: 'Kuna.io 2'
     - address: '0x0861fca546225fbf8806986d211c8398f7457734'
       label: 'LAToken'

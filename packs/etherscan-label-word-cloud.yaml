@@ -3759,6 +3759,7 @@ tags:
   label: JPMarket.cc
 - address: '0xea81ce54a0afa10a027f65503bd52fba83d745b8'
   label: Kuna.io
+  actor: kuna
 - address: '0xe3314bbf3334228b257779e28228cfb86fa4261b'
   label: 'Huobi: Old Address 20'
 - address: '0x6edb9d6547befc3397801c94bb8c97d2e8087e2f'

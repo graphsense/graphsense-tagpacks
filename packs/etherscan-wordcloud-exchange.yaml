@@ -351,6 +351,7 @@ tags:
       label: 'Bitbee'
     - address: '0x7a91a362d4f2c9c4627688d5b7090bbb12e5715f'
       label: 'Bitci'
+      actor: bitci
     - address: '0x28ebe764b8f9a853509840645216d3c2c0fd774b'
       label: 'BiteBTC'
     - address: '0x997507cc49FBf0CD6ce5e1EE543218556fAFdEBc'
@@ -930,6 +931,7 @@ tags:
       label: 'Idax.global'
     - address: '0xb1a34309af7f29b4195a6b589737f86e14597ddc'
       label: 'IndoEx LTD'
+      actor: indoex
     - address: '0x51836a753e344257b361519e948ffcaf5fb8d521'
       label: 'Indodax 1'
     - address: '0x9cbadd5ce7e14742f70414a6dcbd4e7bb8712719'
@@ -1390,6 +1392,7 @@ tags:
       label: 'XT Token (XT)'
     - address: '0xefda0cb780a8564903285ed25df3cc024f3b2982'
       label: 'XT.com Hot Wallet'
+      actor: xt
     - address: '0xebf4ca5319f406602eeff68da16261f1216011b5'
       label: 'Yo Token (YOT)'
     - address: '0xf5bec430576ff1b82e44ddb5a1c93f6f9d0884f3'
@@ -1425,6 +1428,7 @@ tags:
       label: 'arbiswap (aswap)'
     - address: '0x111cff45948819988857bbf1966a0399e0d1141e'
       label: 'bitFlyer'
+      actor: bitflyer
     - address: '0xb9f185f370f8cc2a247f16c055381e95bf9ee146'
       label: 'bttmall (BT)'
     - address: '0x20566d84d979841849478e3d17fc81445152b84b'

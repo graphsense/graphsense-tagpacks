@@ -2244,6 +2244,7 @@ tags:
   label: Liquid
 - address: '0xb8cf411b956b3f9013c1d0ac8c909b086218207c'
   label: Remitano 1
+  actor: remitano
 - address: '0x340d693ed55d7ba167d184ea76ea2fd092a35bdc'
   label: Uphold.com
 - address: '0xde0b295669a9fd93d5f28d9ec85e40f4cb697bae'
@@ -3755,6 +3756,7 @@ tags:
   label: Indodax 2
 - address: '0xb1a34309af7f29b4195a6b589737f86e14597ddc'
   label: IndoEx LTD
+  actor: indoex
 - address: '0xf09ff5eb57a3c8880934201c91eefbd1ace72033'
   label: JPMarket.cc
 - address: '0xea81ce54a0afa10a027f65503bd52fba83d745b8'
@@ -4016,6 +4018,7 @@ tags:
   label: 'New Silk Road BRICS: Deployer'
 - address: '0x1b541c2dc0653fd060e8320d2f763733ba8cffe3'
   label: 'Nexus Mutual: Deployer'
+  actor: nexus
 - address: '0x629dbb4ecde5fa809fdc68cb1b75f6f43d7f5575'
   label: 'OpenAlexa.io: Deployer'
 - address: '0x5ebda6ff471a9d523c1f6d7520179dded99753e1'
@@ -4359,6 +4362,7 @@ tags:
   label: QuantaEx 3
 - address: '0x2819c144d5946404c0516b6f817a960db37d4929'
   label: Remitano 2
+  actor: remitano
 - address: '0x120a270bbc009644e35f0bb6ab13f95b8199c4ad'
   label: ShapeShift 1
 - address: '0x9e6316f44baeeee5d41a1070516cc5fa47baf227'

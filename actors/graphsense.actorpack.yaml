@@ -5492,6 +5492,8 @@ actors:
     - facebook.com/zondaglobal
     - linkedin.com/company/zondaglobal
     - instagram.com/zondaglobal
+    - glasschain.org/provider/BitBay.net
+    - www.crunchbase.com/organization/bitbay
     notes:
     - rebranded to zonda. Cryptostats/coinamrketcap/cer.live say estonia. crunchbase says
       malta
@@ -5808,7 +5810,7 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/BitcoinPokerTables.com
 - id: bitcoinrussia
-  label: Bitoin Russia
+  label: Bitcoin Russia
   uri: bitcoin-russia.ru
   categories:
     - mining_service
@@ -5816,6 +5818,19 @@ actors:
   context:
     refs:
       - btc.com/stats/pool/BitcoinRussia
+- id: bitcointoyou
+  label: Bitcointoyou
+  uri: bitcointoyou.com
+  jurisdictions:
+    - BR
+  categories:
+    - exchange
+  context:
+    refs:
+      - www.crunchbase.com/organization/bitcointoyou
+      - glasschain.org/provider/BitcoinToYou.com
+      - golden.com/wiki/BitcoinToYou-XKEZKB6
+    twitter_handle: bitcointoyou
 - id: bitcoinvideocasinocom
   uri: bitcoinvideocasino.com
   categories:
@@ -6639,6 +6654,20 @@ actors:
     - assets.coingecko.com/markets/images/254/small/unnamed_%281%29.png?1656295820
     active: true
     twitter_handle: BitrueOfficial
+- id: bitsmedia
+  label: Bits.media
+  uri: bits.media
+  categories:
+    - service
+  jurisdictions:
+    - RU
+  context:
+    refs:
+      - www.crunchbase.com/organization/bits-media
+      - golden.com/wiki/bits.media-5ZX3KBM
+      - glasschain.org/provider/Bits.Media
+    notes:
+      - Media Platform
 - id: bitso
   label: Bitso
   jurisdictions:
@@ -9730,6 +9759,25 @@ actors:
     images:
     - icons.llama.fi/charm-finance.jpg
     twitter_handle: CharmFinance
+- id: chatex
+  label: Chatex
+  categories:
+    - service
+    - defi
+  jurisdictions: 
+    - EE
+    - RU
+  uri: chatex.com
+  context:
+    notes:
+      - Telegram Trading Chat
+    refs:
+      - golden.com/wiki/Chatex-NYBR346
+      - glasschain.org/provider/Chatex%20Russia
+      - www.crunchbase.com/organization/chatex
+      - coinmarketcap.com/currencies/chatex
+      - etherscan.io/token/0x2ff385dda9a9d22df0e606e0dac977548c67d1e6
+    twitter_handle: Chatex_bot
 - id: chbtc
   label: Chbtc
   jurisdictions:
@@ -10593,6 +10641,20 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/CoinGaming.io
+- id: coingate
+  label: CoinGate
+  jurisdictions:
+  - LT
+  uri: coingate.com
+  categories:
+    - exchange
+    - payment_processor
+  context:
+    twitter_handle: coingatecom
+    refs:
+    - crunchbase.com/organization/coingate-836e
+    - golden.com/wiki/CoinGate-DBEMXG5
+    - glasschain.org/provider/Coingate.com
 - id: coingi
   label: Coingi
   jurisdictions:
@@ -11156,6 +11218,19 @@ actors:
     twitter_handle: CoinTraderNet
     notes:
     - crunchbase says CA
+- id: cointraffic
+  label: Cointraffic
+  categories:
+    - service
+  jurisdictions:
+    - EE
+  uri: cointraffic.io
+  context:
+    refs:
+      - https://www.crunchbase.com/organization/cointraffic
+      - https://glasschain.org/provider/Cointraffic%20Advertising
+    notes:
+    - Advertising Network
 - id: coinurlcom
   uri: coinurl.com
   categories:
@@ -18287,6 +18362,18 @@ actors:
     images:
     - icons.llama.fi/gamut-exchange.jpg
     twitter_handle: GamutExchange
+- id: garantex
+  jurisdictions:
+    - RU
+  label: Garantex Russia
+  uri: garantex.io
+  categories:
+    - exchange
+  context:
+    refs:
+    - golden.com/wiki/Garantex-EKMYW54
+    - glasschain.org/provider/Garantex%20Russia
+    twitter_handle: garantexrussia
 - id: garblemoney
   label: Garble.Money
   jurisdictions: []
@@ -23463,7 +23550,7 @@ actors:
 - id: kuna
   label: Kuna Exchange
   jurisdictions:
-  - UA
+  - GB
   categories:
   - organization
   - exchange
@@ -23480,7 +23567,7 @@ actors:
     - assets.coingecko.com/markets/images/97/small/kuna_exchange.png?1545126178
     active: true
     notes:
-    - crunchbase says LT, CG/cer.live say UK, coinbase says UA
+    - crunchbase says LT, CG/cer.live say UK
     twitter_handle: KunaExchange
 - id: kungfuu
   label: KungFuu
@@ -43469,6 +43556,17 @@ actors:
     github_organisation: wallexchange
     twitter_handle: wallexchange
     active: true
+- id: wallstreetmarket
+  label: Wall Street Market
+  uri: www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2019/Presse2019/190503_WallStreetMarket.html
+  categories:
+    - market
+    - dark_web
+  context:
+    active: false
+    refs:
+      - glasschain.org/provider/Wall%20Street%20Market
+      - de.wikipedia.org/wiki/Wall_Street_Market
 - id: wanbridge
   label: Wan Bridge
   jurisdictions: []
@@ -45580,6 +45678,21 @@ actors:
     images:
     - icons.llama.fi/zeus-finance.png
     twitter_handle: ZeusFinanceCro
+- id: zg
+  label: ZG.com
+  uri: zg.com
+  jurisdictions:
+    - SG
+    - TW
+    - KR
+  categories:
+    - exchange
+  context:
+    twitter_handle: zgexchange
+    refs:
+      - coinmarketcap.com/exchanges/zg-com/
+      - glasschain.org/provider/ZG.com
+      - golden.com/wiki/ZG.com-VKJ4DXG
 - id: zigzag
   label: ZigZag (zkSync v1)
   jurisdictions: []

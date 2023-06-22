@@ -23550,7 +23550,7 @@ actors:
 - id: kuna
   label: Kuna Exchange
   jurisdictions:
-  - GB
+  - UA
   categories:
   - organization
   - exchange
@@ -23567,7 +23567,7 @@ actors:
     - assets.coingecko.com/markets/images/97/small/kuna_exchange.png?1545126178
     active: true
     notes:
-    - crunchbase says LT, CG/cer.live say UK
+    - crunchbase says LT, CG/cer.live say UK, coinbase says UA
     twitter_handle: KunaExchange
 - id: kungfuu
   label: KungFuu

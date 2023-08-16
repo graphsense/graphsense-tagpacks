@@ -23583,6 +23583,21 @@ actors:
     images:
     - icons.llama.fi/kungfuu.jpg
     twitter_handle: kungfuu_fi
+- id: kurant
+  label: KuSwap
+  jurisdictions:
+    - AT
+  categories:
+  - exchange
+  uri: kurant.net
+  context:
+    refs:
+    - at.kurant.net/en/
+    - facebook.com/kurantatm/
+    - linkedin.com/company/kurantatm
+    - twitter.com/KURANT_ATM
+    - instagram.com/kurant_atm/
+    twitter_handle: KURANT_ATM
 - id: kuswap
   label: KuSwap
   jurisdictions: []

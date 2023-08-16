@@ -1,1453 +1,2980 @@
 title: Etherscan exchange
 creator: GraphSense Core Team
 description: Cryptocurrency addresses associated with exchange
-lastmod: 2022-09-06
+lastmod: 2023-08-16 12:18:52.619444
 category: exchange
 source: https://etherscan.io/accounts/label/exchange
 confidence: web_crawl
 currency: ETH
 tags:
-    - address: '0xc96c1609a1a45ccc667b2b7fa6508e29617f7b69'
-      label: '2GT_token (2GT)'
-    - address: '0x5b535edfa75d7cb706044da0171204e1c48d00e8'
-      label: '808TA (808TA)'
-    - address: '0x11c039f368606d91664bfd10137b00eee13cde77'
-      label: 'A2A Token (A2A)'
-    - address: '0x686C650dbcFEaa75D09B883621Ad810F5952bD5d'
-      label: 'AAX Token (AAB)'
-    - address: '0x05f51aab068caa6ab7eeb672f88c180f67f17ec7'
-      label: 'ABCC'
-    - address: '0xbf8fb919a8bbf28e590852aef2d284494ebc0657'
-      label: 'ABCC Token (AT)'
-    - address: '0x7bE00ed6796B21656732E8f739Fc1b8F1C53DA0D'
-      label: 'AC eXchange Token (ACXT)'
-    - address: '0x0be7c99ff48fccb4aa8096d174cacf079c3d1717'
-      label: 'ACEX (ACEX)'
-    - address: '0x1aa11f0feafb5db797764916f0d67a4fe8132985'
-      label: 'ADONX (ADONX)'
-    - address: '0x648Fc7187F7b07eC6F3198C2D579eE4C1994beeC'
-      label: 'AI Coin (AIC)'
-    - address: '0x564f45b6bb68aded8b660a0d8a0a948dd6d6e4e8'
-      label: 'ALADIN (ALA)'
-    - address: '0xaecbe94703df39b49ac440feb177c7f1f782c064'
-      label: 'APROBIT'
-    - address: '0x4df5f3610e2471095a130d7d934d551f3dde01ed'
-      label: 'ATAIX'
-      actor: ataix
-    - address: '0xb9a6644bef37286fc08e703ecd15e9dedf78d3eb'
-      label: 'ATTLAS (ATS)'
-    - address: '0xB1900bFed9b535DaeA61FFeCF63bf77d353b7aB6'
-      label: 'AXAFUNDS (AXAF)'
-    - address: '0x304281f3d1023a2039ea930c65f8f721d7c746c8'
-      label: 'AXNET (AXN)'
-    - address: '0x63259007121e26afad53ec8ba889e0f1a8f56c0d'
-      label: 'AbacasXchange [Abacas] Token (ABCS)'
-    - address: '0xfb48e0dea837f9438309a7e9f0cfe7ee3353a84e'
-      label: 'Africahead Ipparts (AFA)'
-    - address: '0x30e822af375e47d6dfe572efd3bd9a8c5c0e7698'
-      label: 'AiTrades Coin (ATC)'
-    - address: '0x2ddd202174a72514ed522e77972b461b03155525'
-      label: 'Alcumex Exchange'
-    - address: '0xa958e706fc1934e26a3d0c32f471b54f733d0009'
-      label: 'Allcoin (ALC)'
-    - address: '0x9b99cca871be05119b2012fd4474731dd653febe'
-      label: 'Antimatter.Finance Governance Token (MATTER)'
-    - address: '0xf0c80fb9fb22bef8269cb6feb9a51130288a671f'
-      label: 'Artis Turba Exchange 1'
-    - address: '0x94597850916a49b3b152ee374e97260b99249f5b'
-      label: 'Artis Turba Exchange 2'
-    - address: '0x082e13494f12ebb7206fbf67e22a6e1975a1a669'
-      label: 'ArtisTurba (ARTIS)'
-    - address: '0x82a403c14483931b2ff6e4440c8373ccfee698b8'
-      label: 'ArzPaya.com'
-      actor: azpaya
-    - address: '0x03bdf69b1322d623836afbd27679a1c0afa067e9'
-      label: 'AscendEX 1'
-      actor: bitmax
-    - address: '0x4b1a99467a284cc690e3237bc69105956816f762'
-      label: 'AscendEX 2'
-      actor: bitmax
-    - address: '0x986a2fca9eda0e06fbf7839b89bfc006ee2a23dd'
-      label: 'AscendEX 3'
-      actor: bitmax
-    - address: '0x92dbd8e0a46edd62aa42d1f7902d0e496bddc15a'
-      label: 'Azbit'
-      actor: azbit
-    - address: '0x350758e4a1256561fd0ee142dc7e0545f561fadc'
-      label: 'B2U Coin (B2U)'
-    - address: '0xbfc1502ebc37475b940ced8f036b91018a73c8f6'
-      label: 'BDK (BDK)'
-    - address: '0x1763ad73694d4d64fb71732b068e32ac72a345b1'
-      label: 'BEE Coin (BEE)'
-    - address: '0xc9a2c4868f0f96faaa739b59934dc9cb304112ec'
-      label: 'BGBP (BGBP)'
-    - address: '0xea54c81fe0f72de8e86b6dc78a9271aa3925e3b5'
-      label: 'BGGToken (BGG)'
-    - address: '0x6eff3372fa352b239bb24ff91b423a572347000d'
-      label: 'BIKI.com'
-    - address: '0x70debcdab2ef20be3d1dbff6a845e9ccb6e46930'
-      label: 'BIKICOIN TOKEN (BIKI)'
-    - address: '0xC222e5B89309FAB5FAf55a3b3bd9082be834916C'
-      label: 'BITCOIVA (BCA)'
-    - address: '0xdf5021a4c1401f1125cd347e394d977630e17cf7'
-      label: 'BITFRONT'
-    - address: '0x1b80eeeadcc590f305945bcc258cfa770bbe1890'
-      label: 'BITSDAQ TOKEN (BQQQ)'
-    - address: '0x1b8a38ea02ceda9440e00c1aeba26ee2dc570423'
-      label: 'BITStorage'
-    - address: '0x55a290f08Bb4CAe8DcF1Ea5635A3FCfd4Da60456'
-      label: 'BITTO (BITTO)'
-    - address: '0x009c43b42aefac590c719e971020575974122803'
-      label: 'BIXToken (BIX)'
-    - address: '0x1df7aa5551e801e280007dc0fc0454e2d06c1a89'
-      label: 'BKEX CHAIN (BKK)'
-    - address: '0xd0bd12a8d5ebca1e2fa46da59f1993ec51c3d75c'
-      label: 'BKEX Token (BK)'
-    - address: '0x2da35901659e6bc37045d4ea0a7eba88cb3d6b0a'
-      label: 'BLINK STOCK Token (BSTK)'
-    - address: '0x646b41183bb0d18c01f75f630688d613a5774dc7'
-      label: 'BLUEKEY (BKY)'
-    - address: '0xB8c77482e45F1F44dE1745F52C74426C631bDD52'
-      label: 'BNB (BNB)'
-    - address: '0x1c00d840ccaa67c494109f46e55cfeb2d8562f5c'
-      label: 'BTC-Alpha Exchange'
-    - address: '0xed61627b7af399ea7a11f55a03c557cd745c35ba'
-      label: 'BTCCToken (BTCC)'
-    - address: '0x666d875c600aa06ac1cf15641361dec3b00432ef'
-      label: 'BTSE Token (BTSE)'
-    - address: '0x4375e7ad8a01b8ec3ed041399f62d9cd120e0063'
-      label: 'BZ (BZ)'
-    - address: '0x7618306d90e702913170b407adF94F72dD48CA23'
-      label: 'BazT (BAZT)'
-    - address: '0xadb72986ead16bdbc99208086bd431c1aa38938e'
-      label: 'Beaxy'
-    - address: '0x827d53c8170af52625f414bde00326fc8a085e86'
-      label: 'Beaxy Token (BXY)'
-    - address: '0x258b7b9a1ba92f47f5f4f5e733293477620a82cb'
-      label: 'Beldex'
-    - address: '0x7a10ec7d68a048bdae36a70e93532d31423170fa'
-      label: 'Bgogo 1'
-      actor: bgogo
-    - address: '0xce1bf8e51f8b39e51c6184e059786d1c0eaf360f'
-      label: 'Bgogo 2'
-      actor: bgogo
-    - address: '0xf73c3c65bde10bf26c2e1763104e609a41702efe'
-      label: 'Bibox'
-      actor: bibox
-    - address: '0xf5c67033cef7c409ab565909597781468546a454'
-      label: 'Biconomy token (BIT)'
-    - address: '0xfbcfcf87f2659ad2e18c4b907198b4a20e78babb'
-      label: 'BidaCoin (BIDA)'
-    - address: '0x0bb5de248dbbd31ee6c402c3c4a70293024acf74'
-      label: 'Bidesk 2'
-    - address: '0xed5cdb0d02152046e6f234ad578613831b9184d4'
-      label: 'Bidesk 3'
-    - address: '0xa30d8157911ef23c46c0eb71889efe6a648a41f7'
-      label: 'BigONE'
-      actor: bigone
-    - address: '0x946551dd05c5abd7cc808927480225ce36d8c475'
-      label: 'BigONE Token (ONE)'
-      actor: bigone
-    - address: '0xf7793d27a1b76cdf14db7c83e82c772cf7c92910'
-      label: 'Bilaxy 1'
-      actor: bilaxy
-    - address: '0xcce8d59affdd93be338fc77fa0a298c2cb65da59'
-      label: 'Bilaxy 2'
-      actor: bilaxy
-    - address: '0x40d52577830e01aaefa80659aa90ee8b34685f4e'
-      label: 'Bilaxy Token (BIA)'
-      actor: bilaxy
-    - address: '0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be'
-      label: 'Binance'
-      actor: binance
-    - address: '0x85b931a32a0725be14285b66f1a22178c672d69b'
-      label: 'Binance 10'
-      actor: binance
-    - address: '0x708396f17127c42383e3b9014072679b2f60b82f'
-      label: 'Binance 11'
-      actor: binance
-    - address: '0xe0f0cfde7ee664943906f17f7f14342e76a5cec7'
-      label: 'Binance 12'
-      actor: binance
-    - address: '0x8f22f2063d253846b53609231ed80fa571bc0c8f'
-      label: 'Binance 13'
-      actor: binance
-    - address: '0x28c6c06298d514db089934071355e5743bf21d60'
-      label: 'Binance 14'
-      actor: binance
-    - address: '0x21a31ee1afc51d94c2efccaa2092ad1028285549'
-      label: 'Binance 15'
-      actor: binance
-    - address: '0xdfd5293d8e347dfe59e90efd55b2956a1343963d'
-      label: 'Binance 16'
-      actor: binance
-    - address: '0x56eddb7aa87536c09ccc2793473599fd21a8b17f'
-      label: 'Binance 17'
-      actor: binance
-    - address: '0x9696f59e4d72e237be84ffd425dcad154bf96976'
-      label: 'Binance 18'
-      actor: binance
-    - address: '0x4d9ff50ef4da947364bb9650892b2554e7be5e2b'
-      label: 'Binance 19'
-      actor: binance
-    - address: '0xd551234ae421e3bcba99a0da6d736074f22192ff'
-      label: 'Binance 2'
-      actor: binance
-    - address: '0x4976a4a02f38326660d17bf34b431dc6e2eb2327'
-      label: 'Binance 20'
-      actor: binance
-    - address: '0xd88b55467f58af508dbfdc597e8ebd2ad2de49b3'
-      label: 'Binance 21'
-      actor: binance
-    - address: '0x7dfe9a368b6cf0c0309b763bb8d16da326e8f46e'
-      label: 'Binance 22'
-      actor: binance
-    - address: '0x345d8e3a1f62ee6b1d483890976fd66168e390f2'
-      label: 'Binance 23'
-      actor: binance
-    - address: '0xc3c8e0a39769e2308869f7461364ca48155d1d9e'
-      label: 'Binance 24'
-      actor: binance
-    - address: '0x2e581a5ae722207aa59acd3939771e7c7052dd3d'
-      label: 'Binance 25'
-      actor: binance
-    - address: '0x44592b81c05b4c35efb8424eb9d62538b949ebbf'
-      label: 'Binance 26'
-      actor: binance
-    - address: '0x06a0048079ec6571cd1b537418869cde6191d42d'
-      label: 'Binance 29'
-      actor: binance
-    - address: '0x564286362092d8e7936f0549571a803b203aaced'
-      label: 'Binance 3'
-      actor: binance
-    - address: '0x892e9e24aea3f27f4c6e9360e312cce93cc98ebe'
-      label: 'Binance 30'
-      actor: binance
-    - address: '0x00799bbc833d5b168f0410312d2a8fd9e0e3079c'
-      label: 'Binance 31'
-      actor: binance
-    - address: '0x141fef8cd8397a390afe94846c8bd6f4ab981c48'
-      label: 'Binance 32'
-      actor: binance
-    - address: '0x50d669f43b484166680ecc3670e4766cdb0945ce'
-      label: 'Binance 33'
-      actor: binance
-    - address: '0x2f7e209e0f5f645c7612d7610193fe268f118b28'
-      label: 'Binance 34'
-      actor: binance
-    - address: '0x0681d8db095565fe8a346fa0277bffde9c0edbbf'
-      label: 'Binance 4'
-      actor: binance
-    - address: '0xfe9e8709d3215310075d67e3ed32a380ccf451c8'
-      label: 'Binance 5'
-      actor: binance
-    - address: '0x4e9ce36e442e55ecd9025b9a6e0d88485d628a67'
-      label: 'Binance 6'
-      actor: binance
-    - address: '0xbe0eb53f46cd790cd13851d5eff43d12404d33e8'
-      label: 'Binance 7'
-      actor: binance
-    - address: '0xf977814e90da44bfa03b6295a0616a897441acec'
-      label: 'Binance 8'
-      actor: binance
-    - address: '0x001866ae5b3de6caa5a51543fd9fb64f524f5478'
-      label: 'Binance 9'
-      actor: binance
-    - address: '0xc3501eaaf5e29aa0529342f409443120fd545ea7'
-      label: 'Binance Beacon ETH (BETH)'
-      actor: binance
-    - address: '0x8b99f3660622e21f2910ecca7fbe51d654a1517d'
-      label: 'Binance Charity'
-      actor: binance
-    - address: '0xab83d182f3485cf1d6ccdd34c7cfef95b4c08da4'
-      label: 'Binance JEX'
-      actor: binance
-    - address: '0xc365c3315cf926351ccaf13fa7d19c8c4058c8e1'
-      label: 'Binance Pool'
-      actor: binance
-    - address: '0x61189da79177950a7272c88c6058b96d4bcd6be2'
-      label: 'Binance US'
-      actor: binance
-    - address: '0x4fabb145d64652a948d72533023f6e7a623c7c53'
-      label: 'Binance USD'
-      actor: binance
-    - address: '0x4fabb145d64652a948d72533023f6e7a623c7c53'
-      label: 'Binance USD (BUSD)'
-      actor: binance
-    - address: '0x85c4EdC43724e954e5849cAAab61A26a9CB65F1B'
-      label: 'Binance Wrapped BCH (BBCH)'
-      actor: binance
-    - address: '0x9be89d2a4cd102d8fecc6bf9da793be995c22541'
-      label: 'Binance Wrapped BTC (BBTC)'
-      actor: binance
-    - address: '0x7884f51dc1410387371ce61747cb6264e1daee0b'
-      label: 'Binance Wrapped DOT (BDOT)'
-      actor: binance
-    - address: '0x8E16bf47065Fe843A82f4399bAF5aBac4E0822B7'
-      label: 'Binance Wrapped FIL (BFIL)'
-      actor: binance
-    - address: '0xFF0a024B66739357c4ED231fB3DBC0c8C22749F5'
-      label: 'Binance Wrapped WRX (BWRX)'
-      actor: binance
-    - address: '0xc9a2c4868f0f96faaa739b59934dc9cb304112ec'
-      label: 'Binance: BGBP Token'
-      actor: binance
-    - address: '0xb8c77482e45f1f44de1745f52c74426c631bdd52'
-      label: 'Binance: BNB Token'
-      actor: binance
-    - address: '0x47ac0fb4f2d84898e4d9e7b4dab3c24507a6d503'
-      label: 'Binance: Binance-Peg Tokens'
-      actor: binance
-    - address: '0x0b95993a39a363d99280ac950f5e4536ab5c5566'
-      label: 'Binance: Contract'
-      actor: binance
-    - address: '0x2f47a1c2db4a3b78cda44eade915c3b19107ddcc'
-      label: 'Binance: Eth2 Depositor'
-      actor: binance
-    - address: '0x889a3a814181536822e83373b4017e1122b01932'
-      label: 'Binary Assets EXchange (BAEX)'
-    - address: '0x86d1d12523B65203851c571FcC029bF90903fB6d'
-      label: 'Bintex Futures (BNTX)'
-    - address: '0x435b67F0DcAe34c046720de42fcDC135b8f90e55'
-      label: 'Bistox Exchange Token (BSX)'
-    - address: '0x4b729cf402cfcffd057e254924b32241aedc1795'
-      label: 'Bit-Z'
-      actor: bitzcom
-    - address: '0x7c49e1c0e33f3efb57d64b7690fa287c8d15b90a'
-      label: 'Bit2C'
-    - address: '0xd7c302fc3ac829c7e896a32c4bd126f3e8bd0a1f'
-      label: 'Bit2Me (B2M)'
-    - address: '0x0d8824ca76e627e9cc8227faa3b3993986ce9e48'
-      label: 'BitBase 1'
-    - address: '0x6dcd15a0dbefd0700063a4445382d3506391a41a'
-      label: 'BitBase 2'
-    - address: '0x5d375281582791a38e0348915fa9cbc6139e9c2a'
-      label: 'BitBlinx'
-    - address: '0xbdbb0ee6144544ec814d417b0ad41f16fc8b858e'
-      label: 'BitKAM (KAM)'
-    - address: '0x603d022611bfe6a101dcdab207d96c527f1d4d8e'
-      label: 'BitKeep: NFT Exchange'
-    - address: '0xeea81c4416d71cef071224611359f6f99a4c4294'
-      label: 'BitMEX 1'
-    - address: '0xfb8131c260749c7835a08ccbdb64728de432858e'
-      label: 'BitMEX 2'
-    - address: '0xe79eef9b9388a4ff70ed7ec5bccd5b928ebb8bd1'
-      label: 'BitMart'
-    - address: '0x68b22215ff74e3606bd5e6c1de8c2d68180c85f7'
-      label: 'BitMart 2'
-    - address: '0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8'
-      label: 'BitMartToken (BMC)'
-    - address: '0xcca0c9c383076649604eE31b20248BC04FdF61cA'
-      label: 'BitMax token (BTMX)'
-    - address: '0xa3b93c2c4579654de50dd2ea227a5d6b98ed44c5'
-      label: 'BitTank Token (TANK)'
-    - address: '0xaa90b4aae74cee41e004bc45e45a427406c4dcae'
-      label: 'BitUN.io 1'
-    - address: '0xf8d04a720520d0bcbc722b1d21ca194aa22699f2'
-      label: 'BitUN.io 2'
-    - address: '0xB837b6467B4878fb5B3b81664042852593F15126'
-      label: 'BitValve (BTV)'
-    - address: '0x2b49ce21ad2004cfb3d0b51b2e8ec0406d632513'
-      label: 'Bitbee'
-    - address: '0x7a91a362d4f2c9c4627688d5b7090bbb12e5715f'
-      label: 'Bitci'
-      actor: bitci
-    - address: '0x28ebe764b8f9a853509840645216d3c2c0fd774b'
-      label: 'BiteBTC'
-    - address: '0x997507cc49FBf0CD6ce5e1EE543218556fAFdEBc'
-      label: 'Bitenium Token (BT)'
-    - address: '0x207335749ac86b2dae43b36e259efa252b90779f'
-      label: 'Bitex Coin (BTX)'
-    - address: '0x57c09a8de0b0f471f8567609777addffb5c46a08'
-      label: 'Bitex Global XBX Coin (XBX)'
-    - address: '0x7217d64f77041ce320c356d1a2185bcb89798a0a'
-      label: 'Bitexlive'
-    - address: '0x57a47cfe647306a406118b6cf36459a1756823d0'
-      label: 'Bitexlive 2'
-    - address: '0x25901F2a5A4bb0aaAbe2CDb24E0E15A0d49B015d'
-      label: 'Bitfex (BFX)'
-    - address: '0x1151314c646ce4e0efd76d1af4760ae66a9fe30f'
-      label: 'Bitfinex 1'
-      actor: bitfinex
-    - address: '0x36a85757645e8e8aec062a1dee289c7d615901ca'
-      label: 'Bitfinex 10'
-      actor: bitfinex
-    - address: '0xc56fefd1028b0534bfadcdb580d3519b5586246e'
-      label: 'Bitfinex 11'
-      actor: bitfinex
-    - address: '0x0b73f67a49273fc4b9a65dbd25d7d0918e734e63'
-      label: 'Bitfinex 12'
-      actor: bitfinex
-    - address: '0x482f02e8bc15b5eabc52c6497b425b3ca3c821e8'
-      label: 'Bitfinex 13'
-      actor: bitfinex
-    - address: '0x742d35cc6634c0532925a3b844bc454e4438f44e'
-      label: 'Bitfinex 2'
-      actor: bitfinex
-    - address: '0x876eabf441b2ee5b5b0554fd502a8e0600950cfa'
-      label: 'Bitfinex 3'
-      actor: bitfinex
-    - address: '0xdcd0272462140d0a3ced6c4bf970c7641f08cd2c'
-      label: 'Bitfinex 4'
-      actor: bitfinex
-    - address: '0x4fdd5eb2fb260149a3903859043e962ab89d8ed4'
-      label: 'Bitfinex 5'
-      actor: bitfinex
-    - address: '0x1b29dd8ff0eb3240238bf97cafd6edea05d5ba82'
-      label: 'Bitfinex 6'
-      actor: bitfinex
-    - address: '0x30a2ebf10f34c6c4874b0bdd5740690fd2f3b70c'
-      label: 'Bitfinex 7'
-      actor: bitfinex
-    - address: '0x3f7e77b627676763997344a1ad71acb765fc8ac5'
-      label: 'Bitfinex 8'
-      actor: bitfinex
-    - address: '0x59448fe20378357f206880c58068f095ae63d5a5'
-      label: 'Bitfinex 9'
-      actor: bitfinex
-    - address: '0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3'
-      label: 'Bitfinex LEO Token (LEO)'
-      actor: bitfinex
-    - address: '0xab7c74abc0c4d48d1bdad5dcb26153fc8780f83e'
-      label: 'Bitfinex: MultiSig 1'
-      actor: bitfinex
-    - address: '0xc6cde7c39eb2f0f0095f41570af89efc2c1ea828'
-      label: 'Bitfinex: MultiSig 2'
-      actor: bitfinex
-    - address: '0xc61b9bb3a7a0767e3179713f3a5c7a9aedce193c'
-      label: 'Bitfinex: MultiSig 3'
-      actor: bitfinex
-    - address: '0x3779d960261f882750b39c622527822c88c98e13'
-      label: 'BitgetDeFiToken (BFT)'
-    - address: '0x19de6b897ed14a376dda0fe53a5420d2ac828a28'
-      label: 'BitgetToken (BGB)'
-    - address: '0x9a03c4d95a8e31e1e11a4319066475cd12b22dee'
-      label: 'Bithemoth (BHM)'
-    - address: '0x88d34944cf554e9cccf4a24292d891f620e9c94f'
-      label: 'Bithumb 1'
-      actor: bithumb
-    - address: '0x186549a4ae594fc1f70ba4cffdac714b405be3f9'
-      label: 'Bithumb 10'
-      actor: bithumb
-    - address: '0xd273bd546b11bd60214a2f9d71f22a088aafe31b'
-      label: 'Bithumb 11'
-      actor: bithumb
-    - address: '0x558553d54183a8542f7832742e7b4ba9c33aa1e6'
-      label: 'Bithumb 12'
-      actor: bithumb
-    - address: '0x3052cd6bf951449a984fe4b5a38b46aef9455c8e'
-      label: 'Bithumb 2'
-      actor: bithumb
-    - address: '0x2140efd7ba31169c69dfff6cdc66c542f0211825'
-      label: 'Bithumb 3'
-      actor: bithumb
-    - address: '0xa0ff1e0f30b5dda2dc01e7e828290bc72b71e57d'
-      label: 'Bithumb 4'
-      actor: bithumb
-    - address: '0xc1da8f69e4881efe341600620268934ef01a3e63'
-      label: 'Bithumb 5'
-      actor: bithumb
-    - address: '0xb4460b75254ce0563bb68ec219208344c7ea838c'
-      label: 'Bithumb 6'
-      actor: bithumb
-    - address: '0x15878e87c685f866edfaf454be6dc06fa517b35b'
-      label: 'Bithumb 7'
-      actor: bithumb
-    - address: '0x31d03f07178bcd74f9099afebd23b0ae30184ab5'
-      label: 'Bithumb 8'
-      actor: bithumb
-    - address: '0xed48dc0628789c2956b1e41726d062a86ec45bff'
-      label: 'Bithumb 9'
-      actor: bithumb
-    - address: '0x3fbe1f8fc5ddb27d428aa60f661eaaab0d2000ce'
-      label: 'Bithumb: Contract 1'
-      actor: bithumb
-    - address: '0xc429e7b63dc30b51f5a7e4be23fd5eb4baf8a1c3'
-      label: 'Bitibu (BTB)'
-    - address: '0xdb044b8298e04d442fdbe5ce01b8cc8f77130e33'
-      label: 'Bitkub Hot Wallet 1'
-    - address: '0x0a4d2fb8189bb7dbcc2e566e8e1fbbff637cb390'
-      label: 'Bitlim Token (BMT)'
-    - address: '0x7df4bf9de0be6bf307d96c43503ea71e46aed292'
-      label: 'Bitlocus Token (BTL)'
-    - address: '0x60ce1dd8f8bffd69994170ae66bc50be8bd6b839'
-      label: 'Bitnordex (BNX)'
-    - address: '0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f'
-      label: 'Bitpanda Ecosystem Token (BEST)'
-    - address: '0xecb0dfdee97fdf1b0fa68e5a65314c58b5a748b2'
-      label: 'Bitquant Token (BQT)'
-    - address: '0xee89f20cb132e134c9ffccf623f6d01f73591bce'
-      label: 'Bitroom Token (BMT)'
-    - address: '0x6cc8dcbca746a6e4fdefb98e1d0df903b107fd21'
-      label: 'Bitrue'
-    - address: '0xd433138d12beB9929FF6fd583DC83663eea6Aaa5'
-      label: 'Bitrue Coin (BTR)'
-    - address: '0x00bdb5699745f5b860228c8f939abf1b9ae374ed'
-      label: 'Bitstamp 1'
-    - address: '0x1522900b6dafac587d499a862861c0869be6e428'
-      label: 'Bitstamp 2'
-    - address: '0x9a9bed3eb03e386d66f8a29dc67dc29bbb1ccb72'
-      label: 'Bitstamp 3'
-    - address: '0x059799f2261d37b829c2850cee67b5b975432271'
-      label: 'Bitstamp 4'
-    - address: '0x4c766def136f59f6494f0969b1355882080cf8e0'
-      label: 'Bitstamp 5'
-    - address: '0xc5b611f502a0dcf6c3188fd494061ae29b2baa4f'
-      label: 'Bitstamp 6'
-    - address: '0x964771f6df31eea2d927fa71d7bd78e81bcdce05'
-      label: 'Bitstamp: Contract 1'
-    - address: '0x771CdBDEdf2BcB03a8812742BBA00C63C26adACc'
-      label: 'Bitstorm (BSB)'
-    - address: '0xfbb1b73c4f0bda4f67dca266ce6ef42f520fbb98'
-      label: 'Bittrex'
-    - address: '0xe94b04a0fed112f3664e45adb2b8915693dd5ff3'
-      label: 'Bittrex 2'
-    - address: '0x66f820a414680b5bcda5eeca5dea238543f42054'
-      label: 'Bittrex 3'
-    - address: '0xfb9f7f41319157ac5c5dccae308a63a4337ad5d9'
-      label: 'Bity.com'
-    - address: '0x00cdc153aa8894d08207719fe921fff964f28ba3'
-      label: 'Bitzlato'
-    - address: '0x54bfd2c33b252f6c959688bb1ef2169a96dcee8f'
-      label: 'Bliss Exchange Token (BLISS)'
-    - address: '0x007174732705604bbbf77038332dc52fd5a5000c'
-      label: 'BlockTrades Exchange'
-    - address: '0xb5d6002ff567d3daa06b7a4d60888e97b279d64d'
-      label: 'Blockchain Explorer (BCE)'
-    - address: '0x25eaff5b179f209cf186b1cdcbfa463a69df4c45'
-      label: 'Blockfolio'
-    - address: '0x9d62526f5ce701950c30f2caca70edf70f9fbf0f'
-      label: 'Blocktanium (BKT)'
-    - address: '0xdf8752caa319668006580ddf48db25a23728b926'
-      label: 'Bololex.com'
-    - address: '0x1bbe0d2d0a284ef9118ee69d356fcdd5948bacf4'
-      label: 'BtcEX Coin (BXC)'
-    - address: '0x31fdd1c6607f47c14a2821f599211c67ac20fa96'
-      label: 'Burency (BUY)'
-    - address: '0x12D79c345cAc7B050A5fF0797B5a607e254C73F5'
-      label: 'Buytex (BUX)'
-    - address: '0x73957709695e73fd175582105c44743cf0fb6f2f'
-      label: 'Bw.com'
-    - address: '0xd7c866d0d536937bf9123e02f7c052446588189f'
-      label: 'C2CX: Hot Wallet'
-    - address: '0x6b6bcb3a53597075474183e344448e06bc0d5fdc'
-      label: 'CDEX Token (CDEX)'
-    - address: '0x8b35368ccbadbfbf2d19e8d3d8e58e3ddb63853a'
-      label: 'CGCX Exchange Token (CGCX)'
-    - address: '0x7d3cb11f8c13730c24d01826d8f2005f0e1b348f'
-      label: 'COS (COS)'
-    - address: '0x0d6b5a54f940bf3d52e438cab785981aaefdf40c'
-      label: 'COSS.io 1'
-    - address: '0xd1560b3984b7481cd9a8f40435a53c860187174d'
-      label: 'COSS.io: Old Warm Wallet'
-    - address: '0x43f07efe28e092a0fe4ec5b5662022b461ffac80'
-      label: 'COSS.io: Warm Wallet'
-    - address: '0x521db06bf657ed1d6c98553a70319a8ddbac75a3'
-      label: 'CREX24'
-      actor: crex24
-    - address: '0x88988d6ef12d7084e34814b9edafa01ae0d05082'
-      label: 'CamboChanger 2'
-    - address: '0xca00bc15f67ebea4b20dfaaa847cace113cc5501'
-      label: 'CapdaxToken (XCD)'
-    - address: '0x72bcfa6932feacd91cb2ea44b0731ed8ae04d0d3'
-      label: 'Cashierest'
-    - address: '0x7a56f645dcb513d0326cbaa048e9106ff6d4cd5f'
-      label: 'Catex Exchange'
-    - address: '0x504cde95dbc5d90d09b802f43b371971adbecf79'
-      label: 'Centralex Token (CenX)'
-    - address: '0xfd648cc72f1b4e71cbdda7a0a91fe34d32abd656'
-      label: 'ChainX'
-    - address: '0x96fc4553a00c117c5b0bed950dd625d1c16dc894'
-      label: 'Changelly'
-    - address: '0x3f4e02741b155f5ce8d6190d294d4f916125b896'
-      label: 'CircleEx (CX)'
-    - address: '0x30cc0e266cf33b8eac6a99cbd98e39b890cfd69b'
-      label: 'ClassyCoin (ClassyCoin)'
-    - address: '0xb2f7eb1f2c37645be61d73953035360e768d81e6'
-      label: 'Cobinhood (COB)'
-    - address: '0x8958618332df62af93053cb9c535e26462c959b0'
-      label: 'Cobinhood 1'
-    - address: '0xb726da4fbdc3e4dbda97bb20998cf899b0e727e0'
-      label: 'Cobinhood 2'
-    - address: '0xcb17cD357c7acD594717D899ecb9df540F633F27'
-      label: 'CoinDeal Token (CDL)'
-    - address: '0xbf1a97d8d4229d61b031214d5bbe9a5cb1e737f9'
-      label: 'CoinDhan'
-    - address: '0x4b01721f0244e7c5b5f63c20942850e447f5a5ee'
-      label: 'CoinExchange.io'
-    - address: '0xa270f3ad1a7a82e6a3157f12a900f1e25bc4fbfd'
-      label: 'CoinMetro Exchange'
-    - address: '0x191baFe4e3888Ec289753c7d592634e3Abe1eE14'
-      label: 'CoinSWOP (cSWOP)'
-    - address: '0x8705ccfd8a6df3785217c307cbebf9b793310b94'
-      label: 'CoinW'
-    - address: '0xcb243bf48fb443082fae7db47ec96cb120cd6801'
-      label: 'CoinW 2'
-    - address: '0x429bf8ec3330e02401d72beade86000d9a2e19eb'
-      label: 'CoinW 3'
-    - address: '0x6f31d347457962c9811ff953742870ef5a755de3'
-      label: 'CoinW 4'
-    - address: '0x71660c4005ba85c37ccec55d0c4493e66fe775d3'
-      label: 'Coinbase 1'
-      actor: coinbase
-    - address: '0x503828976d22510aad0201ac7ec88293211d23da'
-      label: 'Coinbase 2'
-      actor: coinbase
-    - address: '0xddfabcdc4d8ffc6d5beaf154f18b778f892a0740'
-      label: 'Coinbase 3'
-      actor: coinbase
-    - address: '0x3cd751e6b0078be393132286c442345e5dc49699'
-      label: 'Coinbase 4'
-      actor: coinbase
-    - address: '0xb5d85cbf7cb3ee0d56b3bb207d5fc4b82f43f511'
-      label: 'Coinbase 5'
-      actor: coinbase
-    - address: '0xeb2629a2734e272bcc07bda959863f316f4bd4cf'
-      label: 'Coinbase 6'
-      actor: coinbase
-    - address: '0xf6874c88757721a02f47592140905c4336dfbc61'
-      label: 'Coinbase: Coinbase Commerce'
-      actor: coinbase
-    - address: '0x881d4032abe4188e2237efcd27ab435e81fc6bb1'
-      label: 'Coinbase: Commerce'
-      actor: coinbase
-    - address: '0xa090e606e30bd747d4e6245a1517ebe430f0057e'
-      label: 'Coinbase: Miscellaneous'
-      actor: coinbase
-    - address: '0x9539e0b14021a43cde41d9d45dc34969be9c7cb0'
-      label: 'Coinbene'
-      actor: coinbene
-    - address: '0x33683b94334eebc9bd3ea85ddbda4a86fb461405'
-      label: 'Coinbene: Cold Wallet'
-      actor: coinbene
-    - address: '0xb6ba1931e4e74fd080587688f6db10e830f810d5'
-      label: 'Coindelta'
-    - address: '0xacce88f5a63a5e65db9aa7303720be16b556e751'
-      label: 'Coineal Token (NEAL)'
-    - address: '0xb9ee1e551f538a464e8f8c41e9904498505b49b0'
-      label: 'Coinex'
-    - address: '0x33ddd548fe3a082d753e5fe721a26e1ab43e3598'
-      label: 'Coinex 2'
-    - address: '0xd4bddf5e3d0435d7a6214a0b949c7bb58621f37c'
-      label: 'Coinhako'
-    - address: '0xf2d4766ad705e3a5c9ba5b0436b473085f82f82f'
-      label: 'Coinhako: Warm Wallet'
-    - address: '0x67fe7b4958a00f263ebd16d246a9a3b2ea3050d7'
-      label: 'Coinolix token (CLX)'
-    - address: '0x167a9333bf582556f35bd4d16a7e80e191aa6476'
-      label: 'Coinone'
-    - address: '0x1e2fcfd26d36183f1a5d90f0e6296915b02bcb40'
-      label: 'Coinone 2'
-    - address: '0xC538143202f3b11382D8606aae90a96b042a19DB'
-      label: 'Coinsbit Token (CNB)'
-    - address: '0xd0808da05cc71a9f308d330bc9c5c81bbc26fc59'
-      label: 'Coinswitch'
-    - address: '0x69b9e58Dcc2680cf07c66399b7E50670F7452459'
-      label: 'Coinverter.info (COIN)'
-    - address: '0xdb2b3db44820526e7472dea06506b2e40506b3b9'
-      label: 'Cresio (CRES)'
-    - address: '0xcaaa93712bdac37f736c323c93d4d5fdefcc31cc'
-      label: 'CryptalDash (CRD)'
-      actor: cryptaldash
-    - address: '0x6262998ced04146fa42253a5c0af90ca02dfd2a3'
-      label: 'Crypto.com'
-    - address: '0x46340b20830761efd32832a74d7169b29feb9758'
-      label: 'Crypto.com 2'
-    - address: '0x84ce597b08651fbf551cee3240a3e86365449d51'
-      label: 'CryptoClimateExchange (CCX)'
-    - address: '0x94d6b4fb35fb08cb34aa716ab40049ec88002079'
-      label: 'Cryptonex (CNX)'
-    - address: '0x416935c684686877e3931fe8d766cafc5b398ebf'
-      label: 'Cryptonex (CNX) (CNX)'
-    - address: '0x5baeac0a0417a05733884852aa068b706967e790'
-      label: 'Cryptopia 1'
-    - address: '0x2984581ece53a4390d1f568673cf693139c97049'
-      label: 'Cryptopia 2'
-    - address: '0x79ddbbCc9D7FbDc77b02A960DabD2577144FDD6E'
-      label: 'Crypxie (CPX)'
-    - address: '0x2fF1Bf647C2b5280558765543f823B2c8ccA9315'
-      label: 'CyberBank Coin (CBBC)'
-    - address: '0x3b67728b1137ccdc08f78d1139704973b8799783'
-      label: 'Cyberbank Coin Warrant (CBBCW)'
-    - address: '0xcb0ac19e629a237e2a865b9e2c8b2c534f129006'
-      label: 'DAC (DAC)'
-    - address: '0xf6ba659b419392b722ed63d4f5232822eceff262'
-      label: 'DACX Token (DACX)'
-    - address: '0x497baef294c11a5f0f5bea3f2adb3073db448b56'
-      label: 'DEX (DEX)'
-    - address: '0xfff3ada5a2555a2b59bff4f44dfad90146cce8cb'
-      label: 'DEXTER (DXR)'
-    - address: '0x4ac363455468c22f7f656e994b67f2275fb3badd'
-      label: 'DIGIFINEXTOKEN (DFT)'
-    - address: '0x2101e480e22c953b37b9d0fe6551c1354fe705e6'
-      label: 'DMEX'
-    - address: '0xab014858716f1010de51401c5e149bfac25f91b6'
-      label: 'DXCASH (DXCASH)'
-    - address: '0x5F474906637bdCDA05f29C74653F6962bb0f8eDa'
-      label: 'DeFinity (DEFX)'
-    - address: '0xab93df617f51e1e415b5b4f8111f122d6b48e55c'
-      label: 'Delta Exchange Token (DETO)'
-    - address: '0x0bc1E9770d4445FB49E3E474555cC15c667A5dd5'
-      label: 'Digi Exchange (DIGIX)'
-    - address: '0x94501b6A153C8973fd1f321fCC8188d40dC5d72d'
-      label: 'DigiDinar Token (DDRT)'
-    - address: '0xe17ee7b3c676701c66b395a35f0df4c2276a344e'
-      label: 'DigiFinex'
-    - address: '0x61725f3db4004afe014745b21dab1e1677cc328b'
-      label: 'Digital Asset Exchange Token (DAXT)'
-    - address: '0x2d8e1dd483008c6843b9cf644bad7fb25bf52b84'
-      label: 'Digital Coin (DCB)'
-    - address: '0x7b14041aed27de13fb1a022ea4e196657d770d2c'
-      label: 'Dollero (DLLR)'
-    - address: '0xd234bf2410a0009df9c3c63b610c09738f18ccd7'
-      label: 'Dynamic Trading Rights (DTR)'
-    - address: '0x5a936f5e9db7b8510bd59325420427923c1ee9fb'
-      label: 'EBX Coin (EBX)'
-    - address: '0xd366908c2f249537f905bdae5a77272a9fbda127'
-      label: 'EO Coin (EO)'
-    - address: '0x46e9fe43470fafd690100c86037f9e566e24d480'
-      label: 'EQUOS Origin (EQO)'
-    - address: '0x0f628641d0ea1ecab9341e58d4982c0018a51c6b'
-      label: 'EVE Exchange (EVE)'
-    - address: '0x83869de76b9ad8125e22b857f519f001588c0f62'
-      label: 'EXMOCoin (EXM)'
-    - address: '0xA4FCd9A9C7547313EEFA22625D997273f3dF6257'
-      label: 'EXOX exchange (EX)'
-    - address: '0xf1c525a488a848b58b95d79da48c21ce434290f7'
-      label: 'Eidoo'
-    - address: '0x608f94df1c1d89ea13e5984d7bf107df137a6541'
-      label: 'Eigen Fx'
-    - address: '0xeb9ebf2c624ebee42e0853da6443ddc6c8020de7'
-      label: 'Eigen Fx 2'
-    - address: '0x8d76166c22658a144c0211d87abf152e6a2d9d95'
-      label: 'Eterbase'
-    - address: '0x4d13d624a87baa278733c068a174412afa9ca6c8'
-      label: 'Eterbase Coin (XBASE)'
-    - address: '0xe1747a23C44f445062078e3C528c9F4c28C50a51'
-      label: 'Eterna (EHX)'
-    - address: '0x1b9743f556d65e757c4c650b4555baf354cb8bd3'
-      label: 'EthBits ETBS Token (ETBS)'
-    - address: '0xd3808c5d48903be1490989f3fce2a2b3890e8eb6'
-      label: 'Exchange A'
-    - address: '0x1fd6267f0d86f62d88172b998390afee2a1f54b6'
-      label: 'Exmo 1'
-    - address: '0xd7b9a9b2f665849c4071ad5af77d8c76aa30fb32'
-      label: 'Exmo 2'
-    - address: '0xef65887a05415bf6316204b5ffb350d4d1a19bba'
-      label: 'ExtStock Token (XT)'
-    - address: '0x915d7915f2b469bb654a7d903a5d4417cb8ea7df'
-      label: 'FCoin'
-      actor: fcoin
-    - address: '0xc770eefad204b5180df6a14ee197d99d808ee52d'
-      label: 'FOX (FOX)'
-    - address: '0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9'
-      label: 'FTT (FTX Token)'
-    - address: '0x2faf487a4414fe77e2327f0bf4ae2a264a776ad2'
-      label: 'FTX Exchange'
-    - address: '0xc098b2a3aa256d2140208c3de6543aaef5cd3a94'
-      label: 'FTX Exchange 2'
-    - address: '0x41875c2332b0877cdfaa699b641402b7d4642c32'
-      label: 'FUTURAX (FTXT)'
-    - address: '0x94fe3ad91dacba8ec4b82f56ff7c122181f1535d'
-      label: 'Faa.st'
-    - address: '0x2ec95b8eda549b79a1248335a39d299d00ed314c'
-      label: 'Fatcoin (FAT)'
-    - address: '0x4e5b2e1dc63f6b91cb6cd759936495434c7e972f'
-      label: 'FixedFloat'
-    - address: '0x14301566b9669b672878d86ff0b1d18dd58054e9'
-      label: 'Flata.Exchange'
-    - address: '0x91e18ee76483fa2ec5cfe2959df46673c2565be0'
-      label: 'Flybit'
-    - address: '0x5e040aC72140F0617bC24aB7134c0C6eCae0e965'
-      label: 'Folgory Coin (FLG)'
-    - address: '0x0021845f4c2604c58f9ba5b7bff58d16a2ab372c'
-      label: 'Folgory Exchange'
-    - address: '0x34aA2f0aC4407a978704bff8Bf1F5266b5915Ad6'
-      label: 'FolgoryUSD (USDF)'
-    - address: '0x9f5ca0012b9b72e8f3db57092a6f26bf4f13dc69'
-      label: 'GBX'
-    - address: '0x6a0b8f1e9a0ad411a8819edc6e1a29bd14e0f0a0'
-      label: 'GDAC Exchange Token (GT)'
-      actor: gdac
-    - address: '0xc67b12049c2d0cf6e476bc64c7f82fc6c63cffc5'
-      label: 'GDT (GDT)'
-    - address: '0xe304283c3e60cefaf7ea514007cf4e8fdc3d869d'
-      label: 'GECOIN (GEC)'
-    - address: '0x9fb01a2584aac5aae3fab1ed25f86c5269b32999'
-      label: 'GGBTC.com'
-    - address: '0x66142B81db17d7c0bd91f502D00382e326a24c2a'
-      label: 'GLOBEX (GEX)'
-    - address: '0x60c87297a1feadc3c25993ffcadc54e99971e307'
-      label: 'GXToken (GXT)'
-    - address: '0x0d0707963952f2fba59dd06f2b425ace40b492fe'
-      label: 'Gate.io'
-    - address: '0x7793cd85c11a924478d358d49b05b37e91b5810f'
-      label: 'Gate.io 2'
-    - address: '0x1c4b70a3968436b9a0a9cf5205c787eb81bb558c'
-      label: 'Gate.io 3'
-    - address: '0xd793281182a0e3e023116004778f45c29fc14f19'
-      label: 'Gate.io: Contract'
-    - address: '0xd24400ae8bfebb18ca49be86258a3c749cf46853'
-      label: 'Gemini'
-    - address: '0x6fc82a5fe25a5cdb58bc74600a40a69c065263f8'
-      label: 'Gemini 2'
-    - address: '0x61edcdf5bb737adffe5043706e7c5bb1f1a56eea'
-      label: 'Gemini 3'
-    - address: '0x5f65f7b609678448494de4c87521cdf6cef1e932'
-      label: 'Gemini 4'
-    - address: '0xb302bfe9c246c6e150af70b1caaa5e3df60dac05'
-      label: 'Gemini 5'
-    - address: '0x8d6f396d210d385033b348bcae9e4f9ea4e045bd'
-      label: 'Gemini 6'
-    - address: '0xd69b0089d9ca950640f5dc9931a41a5965f00303'
-      label: 'Gemini 7'
-    - address: '0x07ee55aa48bb72dcc6e9d78256648910de513eca'
-      label: 'Gemini: Contract 1'
-    - address: '0x12fcd6463e66974cf7bbc24ffc4d40d6be458283'
-      label: 'Globitex Token (GBX)'
-    - address: '0xe430dce57cb6e3afc6216c710870bed0680d018a'
-      label: 'Golix Token (GLX)'
-    - address: '0x96c9fcd45bea05b848e6e8551ad33d4d08194e4b'
-      label: 'Green Swap (GRNS)'
-    - address: '0x68f20E703934852Fc368A263F55251eD9c53404d'
-      label: 'Griffex Token (GFX)'
-    - address: '0xba5160ba66b286f1b9b6f3a57a6abcfa440e7aa2'
-      label: 'HUB Coin (HUB)'
-    - address: '0x9c67e141c0472115aa1b98bd0088418be68fd249'
-      label: 'HitBTC 1'
-    - address: '0x59a5208b32e627891c389ebafc644145224006e8'
-      label: 'HitBTC 2'
-    - address: '0xa12431d0b9db640034b0cdfceef9cce161e62be4'
-      label: 'HitBTC 3'
-    - address: '0x74b1af114274335598da72f5c6ed7b954a016eed'
-      label: 'HitBTC Token (HIT)'
-    - address: '0x0caf893648ba5f2f1d1190d951bbd4ecda7ef965'
-      label: 'HnBToken (HBT)'
-    - address: '0x980a4732c8855ffc8112e6746bd62095b4c2228f'
-      label: 'Hoo.com'
-    - address: '0xd0ec209ad2134899148bec8aef905a6e9997456a'
-      label: 'Hoo.com 2'
-    - address: '0x993b7fcba51d8f75c2dfaec0d17b6649ee0c9068'
-      label: 'Hoo.com 3'
-    - address: '0xec293b9c56f06c8f71392269313d7e2da681d9ac'
-      label: 'Hoo.com 4'
-    - address: '0x0093e5f2a850268c0ca3093c7ea53731296487eb'
-      label: 'Hoo.com 5'
-    - address: '0x008932be50098089c6a075d35f4b5182ee549f8a'
-      label: 'Hoo.com 6'
-    - address: '0xd241d7b5cb0ef9fc79d9e4eb9e21f5e209f52f7d'
-      label: 'HooToken (HOO)'
-    - address: '0x274f3c32c90517975e29dfc209a23f315c1e5fc7'
-      label: 'Hotbit'
-    - address: '0x8533a0bd9310eb63e7cc8e1116c18a3d67b1976a'
-      label: 'Hotbit 2'
-    - address: '0x562680a4dc50ed2f14d75bf31f494cfe0b8d10a1'
-      label: 'Hotbit 3'
-    - address: '0x6be61833fc4381990e82d7d4a9f4c9b3f67ea941'
-      label: 'Hotbit Token (HTB)'
-    - address: '0xab5c66752a9e8167967685f1450532fb96d5d24f'
-      label: 'Huobi 1'
-    - address: '0xe93381fb4c4f14bda253907b18fad305d799241a'
-      label: 'Huobi 10'
-    - address: '0xfa4b5be3f2f84f56703c42eb22142744e95a2c58'
-      label: 'Huobi 11'
-    - address: '0x46705dfff24256421a05d056c29e81bdc09723b8'
-      label: 'Huobi 12'
-    - address: '0x32598293906b5b17c27d657db3ad2c9b3f3e4265'
-      label: 'Huobi 13'
-    - address: '0x5861b8446a2f6e19a067874c133f04c578928727'
-      label: 'Huobi 14'
-    - address: '0x926fc576b7facf6ae2d08ee2d4734c134a743988'
-      label: 'Huobi 15'
-    - address: '0xeec606a66edb6f497662ea31b5eb1610da87ab5f'
-      label: 'Huobi 16'
-    - address: '0x7ef35bb398e0416b81b019fea395219b65c52164'
-      label: 'Huobi 17'
-    - address: '0x229b5c097f9b35009ca1321ad2034d4b3d5070f6'
-      label: 'Huobi 18'
-    - address: '0xd8a83b72377476d0a66683cde20a8aad0b628713'
-      label: 'Huobi 19'
-    - address: '0x6748f50f686bfbca6fe8ad62b22228b87f31ff2b'
-      label: 'Huobi 2'
-    - address: '0x90e9ddd9d8d5ae4e3763d0cf856c97594dea7325'
-      label: 'Huobi 20'
-    - address: '0x18916e1a2933cb349145a280473a5de8eb6630cb'
-      label: 'Huobi 21'
-    - address: '0x6f48a3e70f0251d1e83a989e62aaa2281a6d5380'
-      label: 'Huobi 22'
-    - address: '0xf056f435ba0cc4fcd2f1b17e3766549ffc404b94'
-      label: 'Huobi 23'
-    - address: '0x137ad9c4777e1d36e4b605e745e8f37b2b62e9c5'
-      label: 'Huobi 24'
-    - address: '0x5401dbf7da53e1c9dbf484e3d69505815f2f5e6e'
-      label: 'Huobi 25'
-    - address: '0x034f854b44d28e26386c1bc37ff9b20c6380b00d'
-      label: 'Huobi 26'
-    - address: '0x0577a79cfc63bbc0df38833ff4c4a3bf2095b404'
-      label: 'Huobi 27'
-    - address: '0x0c6c34cdd915845376fb5407e0895196c9dd4eec'
-      label: 'Huobi 28'
-    - address: '0x794d28ac31bcb136294761a556b68d2634094153'
-      label: 'Huobi 29'
-    - address: '0xfdb16996831753d5331ff813c29a93c76834a0ad'
-      label: 'Huobi 3'
-    - address: '0xfd54078badd5653571726c3370afb127351a6f26'
-      label: 'Huobi 30'
-    - address: '0xb4cd0386d2db86f30c1a11c2b8c4f4185c1dade9'
-      label: 'Huobi 31'
-    - address: '0x4d77a1144dc74f26838b69391a6d3b1e403d0990'
-      label: 'Huobi 32'
-    - address: '0x28ffe35688ffffd0659aee2e34778b0ae4e193ad'
-      label: 'Huobi 33'
-    - address: '0xcac725bef4f114f728cbcfd744a731c2a463c3fc'
-      label: 'Huobi 34'
-    - address: '0x73f8fc2e74302eb2efda125a326655acf0dc2d1b'
-      label: 'Huobi 35'
-    - address: '0x0a98fb70939162725ae66e626fe4b52cff62c2e5'
-      label: 'Huobi 36'
-    - address: '0xf66852bc122fd40bfecc63cd48217e88bda12109'
-      label: 'Huobi 37'
-    - address: '0x49517ca7b7a50f592886d4c74175f4c07d460a70'
-      label: 'Huobi 38'
-    - address: '0x58c2cb4a6bee98c309215d0d2a38d7f8aa71211c'
-      label: 'Huobi 39'
-    - address: '0xeee28d484628d41a82d01e21d12e2e78d69920da'
-      label: 'Huobi 4'
-    - address: '0x5c985e89dde482efe97ea9f1950ad149eb73829b'
-      label: 'Huobi 5'
-    - address: '0xdc76cd25977e0a5ae17155770273ad58648900d3'
-      label: 'Huobi 6'
-    - address: '0xadb2b42f6bd96f5c65920b9ac88619dce4166f94'
-      label: 'Huobi 7'
-    - address: '0xa8660c8ffd6d578f657b72c0c811284aef0b735e'
-      label: 'Huobi 8'
-    - address: '0x1062a747393198f70f71ec65a582423dba7e5ab3'
-      label: 'Huobi 9'
-    - address: '0x6f259637dcd74c767781e37bc6133cd6a68aa161'
-      label: 'HuobiToken (HT)'
-    - address: '0xa984a92731c088f1ea4d53b71a2565a399f7d8d5'
-      label: 'INCX Coin (INCX)'
-    - address: '0x3c11c3025ce387d76c2eddf1493ec55a8cc2a0f7'
-      label: 'Idax.global'
-    - address: '0xb1a34309af7f29b4195a6b589737f86e14597ddc'
-      label: 'IndoEx LTD'
-      actor: indoex
-    - address: '0x51836a753e344257b361519e948ffcaf5fb8d521'
-      label: 'Indodax 1'
-    - address: '0x9cbadd5ce7e14742f70414a6dcbd4e7bb8712719'
-      label: 'Indodax 2'
-    - address: '0xa581b8dac454842ff92ca92ff4e2544e1b36e6ab'
-      label: 'International Exchange (IEX)'
-    - address: '0xff98a08c143311719ca492e4b8c950c940f26872'
-      label: 'JEX Token (JEX)'
-    - address: '0x8a9c67fee641579deba04928c4bc45f66e26343a'
-      label: 'Jarvis Reward Token (JRT)'
-    - address: '0x0D3d475f035705a662f5AB34e374e3c44BB52187'
-      label: 'Javvy (JVY)'
-    - address: '0xb41f09a973a85c7f497c10b00a939de667b55a78'
-      label: 'KNOW (KNOW)'
-    - address: '0x4fE671f75feBe114dBEA88Bb8266C177cb5E466A'
-      label: 'Kaeuoi (KAE)'
-    - address: '0x352bdabe484499e4c25c3536cc3eda1edbc5ad29'
-      label: 'KickEX'
-    - address: '0x824a50df33ac1b41afc52f4194e2e8356c17c3ac'
-      label: 'KickToken (KICK)'
-    - address: '0x2b78aeffb8f3b92f693cfb4f5ee86c99f9a1bcbb'
-      label: 'Kodobit (KODO)'
-    - address: '0x2910543af39aba0cd09dbb2d50200b3e800a63d2'
-      label: 'Kraken'
-      actor: kraken
-    - address: '0xae2d4617c862309a3d75a0ffb358c7a5009c673f'
-      label: 'Kraken 10'
-      actor: kraken
-    - address: '0x43984d578803891dfa9706bdeee6078d80cfc79e'
-      label: 'Kraken 11'
-      actor: kraken
-    - address: '0x66c57bf505a85a74609d2c83e94aabb26d691e1f'
-      label: 'Kraken 12'
-      actor: kraken
-    - address: '0xda9dfa130df4de4673b89022ee50ff26f6ea73cf'
-      label: 'Kraken 13'
-      actor: kraken
-    - address: '0x0a869d79a7052c7f1b55a8ebabbea3420f0d1e13'
-      label: 'Kraken 2'
-      actor: kraken
-    - address: '0xe853c56864a2ebe4576a807d26fdc4a0ada51919'
-      label: 'Kraken 3'
-      actor: kraken
-    - address: '0x267be1c1d684f78cb4f6a176c4911b741e4ffdc0'
-      label: 'Kraken 4'
-      actor: kraken
-    - address: '0xfa52274dd61e1643d2205169732f29114bc240b3'
-      label: 'Kraken 5'
-      actor: kraken
-    - address: '0x89e51fa8ca5d66cd220baed62ed01e8951aa7c40'
-      label: 'Kraken 7'
-      actor: kraken
-    - address: '0xc6bed363b30df7f35b601a5547fe56cd31ec63da'
-      label: 'Kraken 8'
-      actor: kraken
-    - address: '0x29728d0efd284d85187362faa2d4d76c2cfc2612'
-      label: 'Kraken 9'
-      actor: kraken
-    - address: '0xe8a0e282e6a3e8023465accd47fae39dd5db010b'
-      label: 'Kryptono 1'
-      actor: kryptono
-    - address: '0x629a7144235259336ea2694167f3c8b856edd7dc'
-      label: 'Kryptono 2'
-      actor: kryptono
-    - address: '0x30b71d015f60e2f959743038ce0aaec9b4c1ea44'
-      label: 'Kryptono 3'
-      actor: kryptono
-    - address: '0x2b5634c42055806a59e9107ed44d43c426e58258'
-      label: 'KuCoin'
-      actor: kucoin
-    - address: '0xcad621da75a66c7a8f4ff86d30a2bf981bfc8fdd'
-      label: 'KuCoin 10'
-      actor: kucoin
-    - address: '0x689c56aef474df92d44a1b70850f808488f9769c'
-      label: 'KuCoin 2'
-      actor: kucoin
-    - address: '0xa1d8d972560c2f8144af871db508f0b0b10a3fbf'
-      label: 'KuCoin 3'
-      actor: kucoin
-    - address: '0x4ad64983349c49defe8d7a4686202d24b25d0ce8'
-      label: 'KuCoin 4'
-      actor: kucoin
-    - address: '0x1692e170361cefd1eb7240ec13d048fd9af6d667'
-      label: 'KuCoin 5'
-      actor: kucoin
-    - address: '0xd6216fc19db775df9774a6e33526131da7d19a2c'
-      label: 'KuCoin 6'
-      actor: kucoin
-    - address: '0x899b5d52671830f567bf43a14684eb14e1f945fe'
-      label: 'KuCoin 8'
-      actor: kucoin
-    - address: '0xf16e9b0d03470827a95cdfd0cb8a8a3b46969b91'
-      label: 'KuCoin 9'
-      actor: kucoin
-    - address: '0x2602669a92fccf44e5319ff51b0f453aab9db021'
-      label: 'KuCoin Contract'
-      actor: kucoin
-    - address: '0xf34960d9d60be18cc1d5afc1a6f012a723a28811'
-      label: 'KuCoin Token (KCS)'
-      actor: kucoin
-    - address: '0xf2b16510270a214130c6b17ff0e9bf87585126bd'
-      label: 'KuCoin: Deployer'
-      actor: kucoin
-    - address: '0xf34960d9d60be18cc1d5afc1a6f012a723a28811'
-      label: 'KuCoin: KCS Token'
-      actor: kucoin
-    - address: '0x039b5649a59967e3e936d7471f9c3700100ee1ab'
-      label: 'KuCoin: Old KCS Token'
-      actor: kucoin
-    - address: '0xa140537594b908ab5bb621cff714d8a483341ce9'
-      label: 'KubitCoin (KBX)'
-    - address: '0xe59cd29be3be4461d79c0881d238cbe87d64595a'
-      label: 'Kucoin 7'
-      actor: kucoin
-    - address: '0x039b5649a59967e3e936d7471f9c3700100ee1ab'
-      label: 'Kucoin Shares (KCS)'
-      actor: kucoin
-    - address: '0xea81ce54a0afa10a027f65503bd52fba83d745b8'
-      actor: kuna
-      label: 'Kuna.io'
-    - address: '0x77ab999d1e9f152156b4411e1f3e2a42dab8cd6d'
-      actor: kuna
-      label: 'Kuna.io 2'
-    - address: '0x0861fca546225fbf8806986d211c8398f7457734'
-      label: 'LAToken'
-    - address: '0x7891b20c690605f4e370d6944c8a5dbfac5a451c'
-      label: 'LAToken 2'
-    - address: '0x1b6c1a0e20af81b922cb454c3e52408496ee7201'
-      label: 'LAToken 3'
-    - address: '0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf'
-      label: 'LAtoken (LA)'
-    - address: '0x9cb1aeafcc8a9406632c5b084246ea72f62d37b6'
-      label: 'LBK (LBK)'
-    - address: '0x037a54aab062628c9bbae1fdb1583c195585fe41'
-      label: 'LCX (LCX)'
-    - address: '0x088e46650e0a9051dba1c37c500f602d2ac4fbbf'
-      label: 'LEXToken (LEX)'
-    - address: '0x0a50c93c762fdd6e56d86215c24aaad43ab629aa'
-      label: 'LGO Token (LGO)'
-    - address: '0xbbff34e47e559ef680067a6b1c980639eeb64d24'
-      label: 'Leverj Gluon (L2)'
-    - address: '0x8271b2e8cbe29396e9563229030c89679b9470db'
-      label: 'Liqui.io 1'
-    - address: '0x5e575279bf9f4acf0a130c186861454247394c06'
-      label: 'Liqui.io 2'
-    - address: '0xedbb72e6b3cf66a792bff7faac5ea769fe810517'
-      label: 'Liquid 1'
-    - address: '0xdf4b6fb700c428476bd3c02e6fa83e110741145b'
-      label: 'Liquid 2'
-    - address: '0xdb2cad4f306b47c9b35541988c7656f1bb092e15'
-      label: 'Liquid 3'
-    - address: '0x9cc2dce817093ceea82bb67a4cf43131fa354c06'
-      label: 'Liquid 4'
-    - address: '0xa105C740BC012A43a342Ab4A0Ef40143452C8E89'
-      label: 'Litbinex Coin (LTB)'
-    - address: '0x8f1459743df07b81ae11a58c5ac6f2fb5fc8f095'
-      label: 'Littrade (LTE)'
-    - address: '0x243bec9256c9a3469da22103891465b47583d9f1'
-      label: 'Livecoin.net'
-      actor: livecoin
-    - address: '0xaa19961b6b858d9f18a115f25aa1d98abc1fdba8'
-      label: 'LocalCoinSwap Cryptoshare (LCS)'
-    - address: '0xbbbbca6a901c926f240b89eacb641d8aec7aeafd'
-      label: 'LoopringCoin V2 (LRC)'
-    - address: '0x59ab4584cf661f921c3b25a433f3d8a08b416b7b'
-      label: 'Lucky Finance (LUCKY)'
-    - address: '0x6556d2ec4d96da39cf75cbe50d58fae90079800a'
-      label: 'Lukki Operating Token (LOT)'
-    - address: '0xaf1931c20ee0c11bea17a41bfbbad299b2763bc0'
-      label: 'Luno 1'
-    - address: '0x416299aade6443e6f6e8ab67126e65a7f606eef5'
-      label: 'Luno 2'
-    - address: '0xefbb3f1058fd8e0c9d7204f532e17d7572affc3e'
-      label: 'MBCash (MBCASH)'
-    - address: '0x75e89d5979e4f6fba9f97c104c2f0afb3f1dcb88'
-      label: 'MEXC: Mexc.com'
-    - address: '0x0211f3cedbef3143223d3acf0e589747933e8527'
-      label: 'MEXC: Mexc.com 2'
-    - address: '0x28e4972c2f2ab76af9303586dc5dfcbca06948fd'
-      label: 'MUDRA Token (MUDRA)'
-    - address: '0x11eef04c884e24d9b7b4760e7476d06ddf797f36'
-      label: 'MX Token (MX)'
-    - address: '0x477b8d5ef7c2c42db84deb555419cd817c336b6f'
-      label: 'MaiCoin 1'
-    - address: '0x9af5a20aac8d83230ba68542ba29d132d50cbe08'
-      label: 'Marsan Exchange Token (MRS)'
-    - address: '0x9af096c0c46e413fe46889255017e6f1f8bc18e2'
-      label: 'Maxxer (MXXR)'
-    - address: '0xe03c23519e18d64f144d2800e30e81b0065c48b5'
-      label: 'Mercatox'
-    - address: '0xfef3884b603c33ef8ed4183346e093a173c94da6'
-      label: 'MetaMorph (METM)'
-    - address: '0x3cc936b795a188f0e246cbb2d74c5bd190aecf18'
-      label: 'Mexc.com 3'
-    - address: '0xac338d9faac562df26d702880c796e1024e2698a'
-      label: 'MinedTrade.com'
-    - address: '0x6251E725CD45Fb1AF99354035a414A2C0890B929'
-      label: 'MixTrust (MXT)'
-    - address: '0x68AA3F232dA9bdC2343465545794ef3eEa5209BD'
-      label: 'Mothership (MSP)'
-    - address: '0xb9892f9a892f3e251fc58b9076c56add528eb8a6'
-      label: 'Moyom (MYM)'
-    - address: '0xae7006588d03bd15d6954e3084a7e644596bc251'
-      label: 'NEXBIT Pro'
-    - address: '0xF29226914595052a04F5AFbe6410D0C3eD707548'
-      label: 'NEXT (NET)'
-    - address: '0x377d552914e7a104bc22b4f3b6268ddc69615be7'
-      label: 'NEXT (NEXT)'
-    - address: '0x2d39ec4da54329d28d230b4973f5aa27886c3aee'
-      label: 'NFXCoin (NFXC)'
-    - address: '0x75231f58b43240c9718dd58b4967c5114342a86c'
-      label: 'OKB (OKB)'
-    - address: '0x6cc5f688a315f3dc28a7781717a9a798a59fda7b'
-      label: 'OKEx'
-    - address: '0x236f9f97e0e62388479bf9e5ba4889e46b0273c3'
-      label: 'OKEx 2'
-    - address: '0xa7efae728d2936e78bda97dc267687568dd593f3'
-      label: 'OKEx 3'
-    - address: '0x2c8fbb630289363ac80705a1a61273f76fd5a161'
-      label: 'OKEx 4'
-    - address: '0x59fae149a8f8ec74d5bc038f8b76d25b136b9573'
-      label: 'OKEx 5'
-    - address: '0x98ec059dc3adfbdd63429454aeb0c990fba4a128'
-      label: 'OKEx 6'
-    - address: '0x5041ed759dd4afc3a72b8192c143f72f4724081a'
-      label: 'OKEx 7'
-    - address: '0x75231f58b43240c9718dd58b4967c5114342a86c'
-      label: 'OKEx: OKB Token'
-    - address: '0x03e3ff995863828554282e80870b489cc31dc8bc'
-      label: 'OMGFIN Exchange'
-    - address: '0xaeec6f5aca72f3a005af1b3420ab8c8c7009bac8'
-      label: 'OTCBTC'
-      actor: otcbtc
-    - address: '0x7778360f035c589fce2f4ea5786cbd8b36e5396b'
-      label: 'OpenOcean (OOE)'
-    - address: '0x5dba63c221d7a584795431ce01ecd641a1798416'
-      label: 'Oratium (ORT)'
-    - address: '0x91bb6965bace45bae7e78ae638152af467f9b004'
-      label: 'PIEXGO (PXG)'
-    - address: '0x2bf9671f00643afc813a6623074e0ddf6db4fc2b'
-      label: 'PSQ (PSQ)'
-    - address: '0xcacc694840ecebadd9b4c419e5b7f1d73fedf999'
-      label: 'Panda.Exchange 1: Hot Wallet'
-    - address: '0xb709d82f0706476457ae6bad7c3534fbf424382c'
-      label: 'Panda.Exchange 2: Hot Wallet'
-    - address: '0xbd8ef191caa1571e8ad4619ae894e07a75de0c35'
-      label: 'Paribu 1'
-    - address: '0x2bb97b6cf6ffe53576032c11711d59bd056830ee'
-      label: 'Paribu 2'
-    - address: '0xfb90501083a3b6af766c8da35d3dde01eb0d2a68'
-      label: 'Paribu 3'
-    - address: '0xabc74170f3cb8ab352820c39cc1d1e05ce9e41d3'
-      label: 'Paribu 4'
-    - address: '0x9acbb72cf67103a30333a32cd203459c6a9c3311'
-      label: 'Paribu 5'
-    - address: '0xb41422d5a1d5d5c73c229686935b40f881502785'
-      label: 'PayFair Token (PFR)'
-    - address: '0xd4dcd2459bb78d7a645aa7e196857d421b10d93f'
-      label: 'Peatio'
-    - address: '0x9b108a2377ba4022dA63669E941057153bC006b2'
-      label: 'PicoToken (Pico)'
-    - address: '0x8f179114235842978d8917e08721541072c46584'
-      label: 'PointPay Token (PXP)'
-    - address: '0xf59ae934f6fe444afc309586cc60a84a0f89aaea'
-      label: 'Polkadex (PDEX)'
-    - address: '0x32be343b94f860124dc4fee278fdcbd38c102d88'
-      label: 'Poloniex'
-    - address: '0x209c4784ab1e8183cf58ca33cb740efbf3fc18ef'
-      label: 'Poloniex 2'
-    - address: '0xb794f5ea0ba39494ce839613fffba74279579268'
-      label: 'Poloniex 3'
-    - address: '0xa910f92acdaf488fa6ef02174fb86208ad7722ba'
-      label: 'Poloniex 4'
-    - address: '0xaa9fa73dfe17ecaa2c89b39f0bb2779613c5fc3b'
-      label: 'Poloniex: BAT'
-    - address: '0x2fa2bc2ce6a4f92952921a4caa46b3727d24a1ec'
-      label: 'Poloniex: BNT'
-    - address: '0x31a2feb9b5d3b5f4e76c71d6c92fc46ebb3cb1c1'
-      label: 'Poloniex: CVC'
-    - address: '0x6b71834d65c5c4d8ed158d54b47e6ea4ff4e5437'
-      label: 'Poloniex: FOAM'
-    - address: '0x48d466b7c0d32b61e8a82cd2bcf060f7c3f966df'
-      label: 'Poloniex: GNO'
-    - address: '0x0536806df512d6cdde913cf95c9886f65b1d3462'
-      label: 'Poloniex: GNT'
-    - address: '0x8d451ae5ee8f557a9ce7a9d7be8a8cb40002d5cb'
-      label: 'Poloniex: KNC'
-    - address: '0xbd2ec7c608a06fe975dbdca729e84dedb34ecc21'
-      label: 'Poloniex: LOOM'
-    - address: '0xc0e30823e5e628df8bc9bf2636a347e1512f0ecb'
-      label: 'Poloniex: MANA'
-    - address: '0x65f9b2e4d7aaeb40ffea8c6f5844d5ad7da257e0'
-      label: 'Poloniex: NXC'
-    - address: '0x36b01066b7fa4a0fdb2968ea0256c848e9135674'
-      label: 'Poloniex: OMG'
-    - address: '0xab11204cfeaccffa63c2d23aef2ea9accdb0a0d5'
-      label: 'Poloniex: REP'
-    - address: '0x6795cf8eb25585eadc356ae32ac6641016c550f2'
-      label: 'Poloniex: SNT'
-    - address: '0xfbf2173154f7625713be22e0504404ebfe021eae'
-      label: 'Poloniex: STORJ'
-    - address: '0x6f803466bcd17f44fa18975bf7c509ba64bf3825'
-      label: 'Poloniex: USDC'
-    - address: '0xead6be34ce315940264519f250d8160f369fa5cd'
-      label: 'Poloniex: ZRX'
-    - address: '0x6b193e107a773967bd821bcf8218f3548cfa2503'
-      label: 'Posscoin (POSS)'
-    - address: '0xc5bb5ec4d6d69f32b6cb5b7766fd5f4ec946c58a'
-      label: 'Python (ptn)'
-    - address: '0xf80937687c3f73493ff44acc29cfd0fbd5b139bc'
-      label: 'QAI Token (QAI)'
-    - address: '0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6'
-      label: 'QASH (QASH)'
-    - address: '0x50884c41e84b69f936d3bb90493504f21c7b881d'
-      label: 'QNFT Token (QNFT)'
-    - address: '0x2217e5921b7edfb4bb193a6228459974010d2198'
-      label: 'Qmall Token (QMALL)'
-    - address: '0xd344539efe31f8b6de983a0cab4fb721fc69c547'
-      label: 'QuantaEx 1'
-    - address: '0x5ca39c42f4dee3a5ba8fec3ad4902157d48700bf'
-      label: 'QuantaEx 2'
-    - address: '0x2a048d9a8ffdd239f063b09854976c3049ae659c'
-      label: 'QuantaEx 3'
-    - address: '0x577cc8560636bf585e1bb1bb2e281cedd4cd84ea'
-      label: 'Quantex Coin (QTX)'
-    - address: '0xb8cf411b956b3f9013c1d0ac8c909b086218207c'
-      label: 'Remitano 1'
-    - address: '0x2819c144d5946404c0516b6f817a960db37d4929'
-      label: 'Remitano 2'
-    - address: '0x0a9f693fce6f00a51a8e0db4351b5a8078b4242e'
-      label: 'Resfinex (RES)'
-    - address: '0xf4dc2cdadd6406e2fa5a82e7cb16feaf355869ca'
-      label: 'Rexus Exchange (RXS)'
-    - address: '0x7743db95a17be7455710e338292eeaefd28a66ae'
-      label: 'Rift (RIFT)'
-    - address: '0x7dab77cba1af8F02858B8f07861D85E677A593a8'
-      label: 'RiverMount (RM)'
-    - address: '0xB1F233835de2440620332267ba729bFE74FA2CfD'
-      label: 'SOLOXCOIN (SL)'
-    - address: '0xd7d05bda4bf5876ba1254b3eaaf8b47d2f5676eb'
-      label: 'STABLE Asset (STA)'
-    - address: '0x5c5887e55bbe41472acdba5fae989788c6f7ab59'
-      label: 'STK Coin (STK)'
-    - address: '0xe96f2c381e267a96c29bbb8ab05ab7d3527b45ab'
-      label: 'SatoExchange (SATX)'
-    - address: '0x00C3bedB44D4e3521563dE947f6800aa4302C441'
-      label: 'Scalpex Token (SXE)'
-    - address: '0x120a270bbc009644e35f0bb6ab13f95b8199c4ad'
-      label: 'ShapeShift 1'
-    - address: '0x9e6316f44baeeee5d41a1070516cc5fa47baf227'
-      label: 'ShapeShift 2'
-    - address: '0x70faa28a6b8d6829a4b1e649d26ec9a2a39ba413'
-      label: 'ShapeShift 3'
-    - address: '0x563b377a956c80d77a7c613a9343699ad6123911'
-      label: 'ShapeShift 4'
-    - address: '0xd3273eba07248020bf98a8b560ec1576a612102f'
-      label: 'ShapeShift 5'
-    - address: '0x3b0bc51ab9de1e5b7b6e34e5b960285805c41736'
-      label: 'ShapeShift 6'
-    - address: '0xeed16856d551569d134530ee3967ec79995e2051'
-      label: 'ShapeShift 7'
-    - address: '0x1ef6a7e2c966fb7c5403efefde38338b1a95a084'
-      label: 'ShieldEX (SLD)'
-    - address: '0xb548daa2aebeebe661768a6dfa98c0649c670385'
-      label: 'Skyrus Gold (SKXG)'
-    - address: '0x324cc2c9fb379ea7a0d1c0862c3b48ca28d174a4'
-      label: 'SouthXchange'
-    - address: '0x91f6d99b232153cb655ad3e0d05e13ef505f6cd5'
-      label: 'Sparrow Exchange 1'
-    - address: '0xe855283086fbee485aecf2084345a91424c23954'
-      label: 'Sparrow Exchange 2'
-    - address: '0x9bf25700727d10a857099d1033ce2cc493c3b61a'
-      label: 'Streamity: StreamDesk'
-    - address: '0xd6a55c63865affd67e2fb9f284f87b7a9e5ff3bd'
-      label: 'Switch (ESH)'
-    - address: '0xa96b536eef496e21f5432fd258b6f78cf3673f74'
-      label: 'Switchain'
-    - address: '0xd38bb40815d2b0c2d2c866e0c72c5728ffc76dd9'
-      label: 'Symbiosis (SIS)'
-    - address: '0x179e31fb25e433441a2839389a7b8ec9c4654b7b'
-      label: 'SynchroBitcoin (SNB)'
-    - address: '0xea3a46bd1dbd0620d80037f70d0bf7c7dc5a837c'
-      label: 'TAGZ 1'
-    - address: '0xed8204345a0cf4639d2db61a4877128fe5cf7599'
-      label: 'TAGZ 2'
-    - address: '0xea4a1fc739d8b70d16185950332158edfa85d3e8'
-      label: 'TAOCOIN (TAO)'
-    - address: '0x5ecc4b299e23f526980c33fe35eff531a54aedb1'
-      label: 'TCH Token (TCH)'
-    - address: '0x36b60a425b82483004487abc7adcb0002918fc56'
-      label: 'TICOEX Token (TICO)'
-    - address: '0xd31695a1d35e489252ce57b129fd4b1b05e6acac'
-      label: 'TOKPIE (TKP)'
-    - address: '0xf6317dd9b04097a9e7b016cd23dcaa7cfe19d9c6'
-      label: 'TOPBTC TOKEN (TOPB)'
-    - address: '0x7051620d11042c4335069AaA4f10Cd3B4290C681'
-      label: 'Tcash (TCASH)'
-    - address: '0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1'
-      label: 'TeraBlock Token (TBC)'
-    - address: '0x009668a9691e456972c8ec4cc84e99486308b84d'
-      label: 'Terareum (TERA)'
-    - address: '0x3613ef1125a078ef96ffc898c4ec28d73c5b8c52'
-      label: 'Tidex 1'
-    - address: '0x0a73573cf2903d2d8305b1ecb9e9730186a312ae'
-      label: 'Tidex 2'
-    - address: '0x317eb4ad9cfac6232f0046831322e895507bcbeb'
-      label: 'Tidex Token (TDX)'
-    - address: '0x511D35c52a3C244E7b8bd92c0C297755FbD89212'
-      label: 'Timechain Swap Token (TCS)'
-    - address: '0xED6aAd9650815D1647480CaA1133043800d31533'
-      label: 'Token Offering Platform (TOP)'
-    - address: '0x667102bd3413bfeaa3dffb48fa8288819e480a88'
-      label: 'Tokenize Emblem (TKX)'
-    - address: '0x0068eb681ec52dbd9944517d785727310b494575'
-      label: 'Tokocrypto'
-    - address: '0xb2cc3cdd53fc9a1aeaf3a68edeba2736238ddc5d'
-      label: 'TopBTC'
-    - address: '0xd947b0ceab2a8885866b9a04a06ae99de852a3d4'
-      label: 'Trade Token X (TIOx)'
-    - address: '0x1119aaefb02bf12b84d28a5d8ea48ec3c90ef1db'
-      label: 'Trade.io'
-      actor: tradeio
-    - address: '0x937f3d2536bb4796b7040252ae4332370551f633'
-      label: 'Tulipex.io Utility Token (TLP)'
-    - address: '0x6b74dd5d01f8320081247f5cf1f7a48324700db6'
-      label: 'UBU (UBU)'
-    - address: '0x2f1233ec3a4930fd95874291db7da9e90dfb2f03'
-      label: 'Uex'
-    - address: '0x95b3497bbcccc46a8f45f5cf54b0878b39f8d96c'
-      label: 'UniDex (UNIDX)'
-    - address: '0x390de26d772d2e2005c6d1d24afc902bae37a4bb'
-      label: 'Upbit'
-    - address: '0xba826fec90cefdf6706858e5fbafcb27a290fbe0'
-      label: 'Upbit 2'
-    - address: '0x5e032243d507c743b061ef021e2ec7fcc6d3ab89'
-      label: 'Upbit 3'
-    - address: '0x1518cf262d4273d0e987402A97345C3dca1Cf731'
-      label: 'VEL (VEL)'
-    - address: '0x00fc270c9cc13e878ab5363d00354bebf6f05c15'
-      label: 'VNX Exchange (VNXLU)'
-    - address: '0x297e4e5e59ad72b1b0a2fd446929e76117be0e0a'
-      label: 'ValorToken (VALOR)'
-    - address: '0xf6D4fBc3B86811df25d829A14daE0269a3EE5462'
-      label: 'Venice Coin (VENICE)'
-    - address: '0xb436c96c6de1f50a160ed307317c275424dbe4f2'
-      label: 'Vinex'
-    - address: '0x8df586aa346c3d9d1c99a21316a2735d71355ec8'
-      label: 'Wallstreetbets (WSB)'
-    - address: '0x27f610bf36eca0939093343ac28b1534a721dbb4'
-      label: 'Wand Token (WAND)'
-    - address: '0x39f6a6c85d39d5abad8a398310c52e7c374f2ba3'
-      label: 'WhiteBIT'
-    - address: '0x0e5069514a3dd613350bab01b58fd850058e5ca4'
-      label: 'Wintermute'
-    - address: '0xb3f923eabaf178fc1bd8e13902fc5c61d3ddef5b'
-      label: 'Wintermute: Binance Deposit'
-    - address: '0x4be10da47a07716af28ad199fbe020501bddd7af'
-      label: 'XT Token (XT)'
-    - address: '0xefda0cb780a8564903285ed25df3cc024f3b2982'
-      label: 'XT.com Hot Wallet'
-      actor: xt
-    - address: '0xebf4ca5319f406602eeff68da16261f1216011b5'
-      label: 'Yo Token (YOT)'
-    - address: '0xf5bec430576ff1b82e44ddb5a1c93f6f9d0884f3'
-      label: 'Yobit.net'
-    - address: '0xd94c9ff168dc6aebf9b6cc86deff54f3fb0afc33'
-      label: 'Yunbi 1'
-    - address: '0x42da8a05cb7ed9a43572b5ba1b8f82a0a6e263dc'
-      label: 'Yunbi 2'
-    - address: '0x700f6912e5753e91ea3fae877a2374a2db1245d7'
-      label: 'Yunbi 3'
-    - address: '0x60d0cc2ae15859f69bf74dadb8ae3bd58434976b'
-      label: 'ZB.com'
-      actor: zbcom
-    - address: '0x182a603541a4483c308475147d621bbb4e2587c6'
-      label: 'ZBToken (ZB)'
-      actor: zbcom
-    - address: '0xbd0793332e9fb844a52a205a233ef27a5b34b927'
-      label: 'ZBToken (ZB)'
-      actor: zbcom
-    - address: '0xd6e91857090c901f3b96d6df7cfb3b41f8673942'
-      label: 'ZBX Token (ZBX)'
-    - address: '0xfbc4f3f645c4003a2e4f4e9b51077d2daa9a9341'
-      label: 'Zedxion (ZEDXION)'
-    - address: '0xec6ce30daf8195a65c83a29025bd334bc9481ca0'
-      label: 'ZeroFeeXchange (ZFX)'
-    - address: '0xe386b139ed3715ca4b18fd52671bdcea1cdfe4b1'
-      label: 'Zeus Token (ZST)'
-    - address: '0xe760a89967d8c7fa638eebfc15a77ba107674021'
-      label: 'Ziggurat Token (ZIG)'
-    - address: '0xaa602dE53347579f86b996D2Add74bb6F79462b2'
-      label: 'Zipmex Token (ZMT)'
-    - address: '0xad0887734461aF8C6033068bDE4047Dbe84074cc'
-      label: 'arbiswap (aswap)'
-    - address: '0x111cff45948819988857bbf1966a0399e0d1141e'
-      label: 'bitFlyer'
-      actor: bitflyer
-    - address: '0xb9f185f370f8cc2a247f16c055381e95bf9ee146'
-      label: 'bttmall (BT)'
-    - address: '0x20566d84d979841849478e3d17fc81445152b84b'
-      label: 'dDEXX Token (dDEXX)'
-    - address: '0x3aec6473744ea75dc3b2206fad1e057d52ca46dd'
-      label: 'evic (EVIC)'
-    - address: '0x2b93824ad1c8c2dd79351facae9473eaef062366'
-      label: 'flexBTC (flexBTC)'
-    - address: '0x40fB4096E0ACbf97D0087C3b7e4c6794Aa24a32f'
-      label: 'flexETH (flexETH)'
-    - address: '0xa774FFB4AF6B0A91331C084E1aebAE6Ad535e6F3'
-      label: 'flexUSD (flexUSD)'
-    - address: '0x5666bdc5c4F54f6ef65956e315E1A674932B68d5'
-      label: 'fonetones (FON)'
-    - address: '0xfb3a7bfc0d54e9347e321242d1723809415f8fe4'
-      label: 'rBitex (rBitx)'
-    - address: '0xd03B6ae96CaE26b743A6207DceE7Cbe60a425c70'
-      label: 'unibot.cash (UNDB)'
-    - address: '0xd2bb16cf38ca086cab5128d5c25de9477ebd596b'
-      label: 'xCrypt Token (XCT)'
-    - address: '0x0bE46BFD9ac3E4ad4908a6B49f3Ba82d9a2Abbc8'
-      label: 'ysv.finance (YSV)'
+- address: '0xc96c1609a1a45ccc667b2b7fa6508e29617f7b69'
+  label: 2GT_token (2GT)
+  concepts:
+  - exchange
+- address: '0x5b535edfa75d7cb706044da0171204e1c48d00e8'
+  label: 808TA (808TA)
+  concepts:
+  - exchange
+- address: '0x11c039f368606d91664bfd10137b00eee13cde77'
+  label: A2A Token (A2A)
+  concepts:
+  - exchange
+- address: '0x686C650dbcFEaa75D09B883621Ad810F5952bD5d'
+  label: AAX Token (AAB)
+  concepts:
+  - exchange
+- address: '0x05f51aab068caa6ab7eeb672f88c180f67f17ec7'
+  label: ABCC
+  concepts:
+  - exchange
+  actor: abcc
+- address: '0xbf8fb919a8bbf28e590852aef2d284494ebc0657'
+  label: ABCC Token (AT)
+  concepts:
+  - exchange
+  actor: abcc
+- address: '0x7bE00ed6796B21656732E8f739Fc1b8F1C53DA0D'
+  label: AC eXchange Token (ACXT)
+  concepts:
+  - exchange
+- address: '0x0be7c99ff48fccb4aa8096d174cacf079c3d1717'
+  label: ACEX (ACEX)
+  concepts:
+  - exchange
+- address: '0x1aa11f0feafb5db797764916f0d67a4fe8132985'
+  label: ADONX (ADONX)
+  concepts:
+  - exchange
+- address: '0x648Fc7187F7b07eC6F3198C2D579eE4C1994beeC'
+  label: AI Coin (AIC)
+  concepts:
+  - exchange
+- address: '0x564f45b6bb68aded8b660a0d8a0a948dd6d6e4e8'
+  label: ALADIN (ALA)
+  concepts:
+  - exchange
+- address: '0xaecbe94703df39b49ac440feb177c7f1f782c064'
+  label: APROBIT
+  concepts:
+  - exchange
+  actor: aprobit
+- address: '0x4df5f3610e2471095a130d7d934d551f3dde01ed'
+  label: ATAIX
+  actor: ataix
+  concepts:
+  - exchange
+- address: '0xb9a6644bef37286fc08e703ecd15e9dedf78d3eb'
+  label: ATTLAS (ATS)
+  concepts:
+  - exchange
+- address: '0xB1900bFed9b535DaeA61FFeCF63bf77d353b7aB6'
+  label: AXAFUNDS (AXAF)
+  concepts:
+  - exchange
+- address: '0x304281f3d1023a2039ea930c65f8f721d7c746c8'
+  label: AXNET (AXN)
+  concepts:
+  - exchange
+- address: '0x63259007121e26afad53ec8ba889e0f1a8f56c0d'
+  label: AbacasXchange [Abacas] Token (ABCS)
+  concepts:
+  - exchange
+- address: '0xfb48e0dea837f9438309a7e9f0cfe7ee3353a84e'
+  label: Africahead Ipparts (AFA)
+  concepts:
+  - exchange
+- address: '0x30e822af375e47d6dfe572efd3bd9a8c5c0e7698'
+  label: AiTrades Coin (ATC)
+  concepts:
+  - exchange
+- address: '0x2ddd202174a72514ed522e77972b461b03155525'
+  label: Alcumex Exchange
+  concepts:
+  - exchange
+- address: '0xa958e706fc1934e26a3d0c32f471b54f733d0009'
+  label: Allcoin (ALC)
+  concepts:
+  - exchange
+  actor: allcoincom
+- address: '0x9b99cca871be05119b2012fd4474731dd653febe'
+  label: Antimatter.Finance Governance Token (MATTER)
+  concepts:
+  - exchange
+  actor: antimatter
+- address: '0xf0c80fb9fb22bef8269cb6feb9a51130288a671f'
+  label: Artis Turba Exchange 1
+  concepts:
+  - exchange
+- address: '0x94597850916a49b3b152ee374e97260b99249f5b'
+  label: Artis Turba Exchange 2
+  concepts:
+  - exchange
+- address: '0x082e13494f12ebb7206fbf67e22a6e1975a1a669'
+  label: ArtisTurba (ARTIS)
+  concepts:
+  - exchange
+- address: '0x82a403c14483931b2ff6e4440c8373ccfee698b8'
+  label: ArzPaya.com
+  actor: azpaya
+  concepts:
+  - exchange
+- address: '0x03bdf69b1322d623836afbd27679a1c0afa067e9'
+  label: AscendEX 1
+  actor: bitmax
+  concepts:
+  - exchange
+- address: '0x4b1a99467a284cc690e3237bc69105956816f762'
+  label: AscendEX 2
+  actor: bitmax
+  concepts:
+  - exchange
+- address: '0x986a2fca9eda0e06fbf7839b89bfc006ee2a23dd'
+  label: AscendEX 3
+  actor: bitmax
+  concepts:
+  - exchange
+- address: '0x92dbd8e0a46edd62aa42d1f7902d0e496bddc15a'
+  label: Azbit
+  actor: azbit
+  concepts:
+  - exchange
+- address: '0x350758e4a1256561fd0ee142dc7e0545f561fadc'
+  label: B2U Coin (B2U)
+  concepts:
+  - exchange
+- address: '0xbfc1502ebc37475b940ced8f036b91018a73c8f6'
+  label: BDK (BDK)
+  concepts:
+  - exchange
+- address: '0x1763ad73694d4d64fb71732b068e32ac72a345b1'
+  label: BEE Coin (BEE)
+  concepts:
+  - exchange
+- address: '0xc9a2c4868f0f96faaa739b59934dc9cb304112ec'
+  label: BGBP (BGBP)
+  concepts:
+  - exchange
+- address: '0xea54c81fe0f72de8e86b6dc78a9271aa3925e3b5'
+  label: BGGToken (BGG)
+  concepts:
+  - exchange
+- address: '0x6eff3372fa352b239bb24ff91b423a572347000d'
+  label: BIKI.com
+  concepts:
+  - exchange
+  actor: biki
+- address: '0x70debcdab2ef20be3d1dbff6a845e9ccb6e46930'
+  label: BIKICOIN TOKEN (BIKI)
+  concepts:
+  - exchange
+  actor: biki
+- address: '0xC222e5B89309FAB5FAf55a3b3bd9082be834916C'
+  label: BITCOIVA (BCA)
+  concepts:
+  - exchange
+- address: '0xdf5021a4c1401f1125cd347e394d977630e17cf7'
+  label: BITFRONT
+  concepts:
+  - exchange
+  actor: bitfront
+- address: '0x1b80eeeadcc590f305945bcc258cfa770bbe1890'
+  label: BITSDAQ TOKEN (BQQQ)
+  concepts:
+  - exchange
+- address: '0x1b8a38ea02ceda9440e00c1aeba26ee2dc570423'
+  label: BITStorage
+  concepts:
+  - exchange
+  actor: bitstorage
+- address: '0x55a290f08Bb4CAe8DcF1Ea5635A3FCfd4Da60456'
+  label: BITTO (BITTO)
+  concepts:
+  - exchange
+- address: '0x009c43b42aefac590c719e971020575974122803'
+  label: BIXToken (BIX)
+  concepts:
+  - exchange
+- address: '0x1df7aa5551e801e280007dc0fc0454e2d06c1a89'
+  label: BKEX CHAIN (BKK)
+  concepts:
+  - exchange
+- address: '0xd0bd12a8d5ebca1e2fa46da59f1993ec51c3d75c'
+  label: BKEX Token (BK)
+  concepts:
+  - exchange
+  actor: bkex
+- address: '0x2da35901659e6bc37045d4ea0a7eba88cb3d6b0a'
+  label: BLINK STOCK Token (BSTK)
+  concepts:
+  - exchange
+- address: '0x646b41183bb0d18c01f75f630688d613a5774dc7'
+  label: BLUEKEY (BKY)
+  concepts:
+  - exchange
+- address: '0xB8c77482e45F1F44dE1745F52C74426C631bDD52'
+  label: BNB (BNB)
+  concepts:
+  - exchange
+- address: '0x1c00d840ccaa67c494109f46e55cfeb2d8562f5c'
+  label: BTC-Alpha Exchange
+  concepts:
+  - exchange
+  actor: btcalpha
+- address: '0xed61627b7af399ea7a11f55a03c557cd745c35ba'
+  label: BTCCToken (BTCC)
+  concepts:
+  - exchange
+  actor: btcc
+- address: '0x666d875c600aa06ac1cf15641361dec3b00432ef'
+  label: BTSE Token (BTSE)
+  concepts:
+  - exchange
+  actor: btse
+- address: '0x4375e7ad8a01b8ec3ed041399f62d9cd120e0063'
+  label: BZ (BZ)
+  concepts:
+  - exchange
+- address: '0x7618306d90e702913170b407adF94F72dD48CA23'
+  label: BazT (BAZT)
+  concepts:
+  - exchange
+- address: '0xadb72986ead16bdbc99208086bd431c1aa38938e'
+  label: Beaxy
+  concepts:
+  - exchange
+  actor: beaxy
+- address: '0x827d53c8170af52625f414bde00326fc8a085e86'
+  label: Beaxy Token (BXY)
+  concepts:
+  - exchange
+  actor: beaxy
+- address: '0x258b7b9a1ba92f47f5f4f5e733293477620a82cb'
+  label: Beldex
+  concepts:
+  - exchange
+- address: '0x7a10ec7d68a048bdae36a70e93532d31423170fa'
+  label: Bgogo 1
+  actor: bgogo
+  concepts:
+  - exchange
+- address: '0xce1bf8e51f8b39e51c6184e059786d1c0eaf360f'
+  label: Bgogo 2
+  actor: bgogo
+  concepts:
+  - exchange
+- address: '0xf73c3c65bde10bf26c2e1763104e609a41702efe'
+  label: Bibox
+  actor: bibox
+  concepts:
+  - exchange
+- address: '0xf5c67033cef7c409ab565909597781468546a454'
+  label: Biconomy token (BIT)
+  concepts:
+  - exchange
+  actor: biconomy
+- address: '0xfbcfcf87f2659ad2e18c4b907198b4a20e78babb'
+  label: BidaCoin (BIDA)
+  concepts:
+  - exchange
+- address: '0x0bb5de248dbbd31ee6c402c3c4a70293024acf74'
+  label: Bidesk 2
+  concepts:
+  - exchange
+  actor: bidesk
+- address: '0xed5cdb0d02152046e6f234ad578613831b9184d4'
+  label: Bidesk 3
+  concepts:
+  - exchange
+  actor: bidesk
+- address: '0xa30d8157911ef23c46c0eb71889efe6a648a41f7'
+  label: BigONE
+  actor: bigone
+  concepts:
+  - exchange
+- address: '0x946551dd05c5abd7cc808927480225ce36d8c475'
+  label: BigONE Token (ONE)
+  actor: bigone
+  concepts:
+  - exchange
+- address: '0xf7793d27a1b76cdf14db7c83e82c772cf7c92910'
+  label: Bilaxy 1
+  actor: bilaxy
+  concepts:
+  - exchange
+- address: '0xcce8d59affdd93be338fc77fa0a298c2cb65da59'
+  label: Bilaxy 2
+  actor: bilaxy
+  concepts:
+  - exchange
+- address: '0x40d52577830e01aaefa80659aa90ee8b34685f4e'
+  label: Bilaxy Token (BIA)
+  actor: bilaxy
+  concepts:
+  - exchange
+- address: '0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be'
+  label: Binance
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x85b931a32a0725be14285b66f1a22178c672d69b'
+  label: Binance 10
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x708396f17127c42383e3b9014072679b2f60b82f'
+  label: Binance 11
+  actor: binance
+  concepts:
+  - exchange
+- address: '0xe0f0cfde7ee664943906f17f7f14342e76a5cec7'
+  label: Binance 12
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x8f22f2063d253846b53609231ed80fa571bc0c8f'
+  label: Binance 13
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x28c6c06298d514db089934071355e5743bf21d60'
+  label: Binance 14
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x21a31ee1afc51d94c2efccaa2092ad1028285549'
+  label: Binance 15
+  actor: binance
+  concepts:
+  - exchange
+- address: '0xdfd5293d8e347dfe59e90efd55b2956a1343963d'
+  label: Binance 16
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x56eddb7aa87536c09ccc2793473599fd21a8b17f'
+  label: Binance 17
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x9696f59e4d72e237be84ffd425dcad154bf96976'
+  label: Binance 18
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x4d9ff50ef4da947364bb9650892b2554e7be5e2b'
+  label: Binance 19
+  actor: binance
+  concepts:
+  - exchange
+- address: '0xd551234ae421e3bcba99a0da6d736074f22192ff'
+  label: Binance 2
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x4976a4a02f38326660d17bf34b431dc6e2eb2327'
+  label: Binance 20
+  actor: binance
+  concepts:
+  - exchange
+- address: '0xd88b55467f58af508dbfdc597e8ebd2ad2de49b3'
+  label: Binance 21
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x7dfe9a368b6cf0c0309b763bb8d16da326e8f46e'
+  label: Binance 22
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x345d8e3a1f62ee6b1d483890976fd66168e390f2'
+  label: Binance 23
+  actor: binance
+  concepts:
+  - exchange
+- address: '0xc3c8e0a39769e2308869f7461364ca48155d1d9e'
+  label: Binance 24
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x2e581a5ae722207aa59acd3939771e7c7052dd3d'
+  label: Binance 25
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x44592b81c05b4c35efb8424eb9d62538b949ebbf'
+  label: Binance 26
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x06a0048079ec6571cd1b537418869cde6191d42d'
+  label: Binance 29
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x564286362092d8e7936f0549571a803b203aaced'
+  label: Binance 3
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x892e9e24aea3f27f4c6e9360e312cce93cc98ebe'
+  label: Binance 30
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x00799bbc833d5b168f0410312d2a8fd9e0e3079c'
+  label: Binance 31
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x141fef8cd8397a390afe94846c8bd6f4ab981c48'
+  label: Binance 32
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x50d669f43b484166680ecc3670e4766cdb0945ce'
+  label: Binance 33
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x2f7e209e0f5f645c7612d7610193fe268f118b28'
+  label: Binance 34
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x0681d8db095565fe8a346fa0277bffde9c0edbbf'
+  label: Binance 4
+  actor: binance
+  concepts:
+  - exchange
+- address: '0xfe9e8709d3215310075d67e3ed32a380ccf451c8'
+  label: Binance 5
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x4e9ce36e442e55ecd9025b9a6e0d88485d628a67'
+  label: Binance 6
+  actor: binance
+  concepts:
+  - exchange
+- address: '0xbe0eb53f46cd790cd13851d5eff43d12404d33e8'
+  label: Binance 7
+  actor: binance
+  concepts:
+  - exchange
+- address: '0xf977814e90da44bfa03b6295a0616a897441acec'
+  label: Binance 8
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x001866ae5b3de6caa5a51543fd9fb64f524f5478'
+  label: Binance 9
+  actor: binance
+  concepts:
+  - exchange
+- address: '0xc3501eaaf5e29aa0529342f409443120fd545ea7'
+  label: Binance Beacon ETH (BETH)
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x8b99f3660622e21f2910ecca7fbe51d654a1517d'
+  label: Binance Charity
+  actor: binance
+  concepts:
+  - exchange
+- address: '0xab83d182f3485cf1d6ccdd34c7cfef95b4c08da4'
+  label: Binance JEX
+  actor: binance
+  concepts:
+  - exchange
+- address: '0xc365c3315cf926351ccaf13fa7d19c8c4058c8e1'
+  label: Binance Pool
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x61189da79177950a7272c88c6058b96d4bcd6be2'
+  label: Binance US
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x4fabb145d64652a948d72533023f6e7a623c7c53'
+  label: Binance USD
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x4fabb145d64652a948d72533023f6e7a623c7c53'
+  label: Binance USD (BUSD)
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x85c4EdC43724e954e5849cAAab61A26a9CB65F1B'
+  label: Binance Wrapped BCH (BBCH)
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x9be89d2a4cd102d8fecc6bf9da793be995c22541'
+  label: Binance Wrapped BTC (BBTC)
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x7884f51dc1410387371ce61747cb6264e1daee0b'
+  label: Binance Wrapped DOT (BDOT)
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x8E16bf47065Fe843A82f4399bAF5aBac4E0822B7'
+  label: Binance Wrapped FIL (BFIL)
+  actor: binance
+  concepts:
+  - exchange
+- address: '0xFF0a024B66739357c4ED231fB3DBC0c8C22749F5'
+  label: Binance Wrapped WRX (BWRX)
+  actor: binance
+  concepts:
+  - exchange
+- address: '0xc9a2c4868f0f96faaa739b59934dc9cb304112ec'
+  label: 'Binance: BGBP Token'
+  actor: binance
+  concepts:
+  - exchange
+- address: '0xb8c77482e45f1f44de1745f52c74426c631bdd52'
+  label: 'Binance: BNB Token'
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x47ac0fb4f2d84898e4d9e7b4dab3c24507a6d503'
+  label: 'Binance: Binance-Peg Tokens'
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x0b95993a39a363d99280ac950f5e4536ab5c5566'
+  label: 'Binance: Contract'
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x2f47a1c2db4a3b78cda44eade915c3b19107ddcc'
+  label: 'Binance: Eth2 Depositor'
+  actor: binance
+  concepts:
+  - exchange
+- address: '0x889a3a814181536822e83373b4017e1122b01932'
+  label: Binary Assets EXchange (BAEX)
+  concepts:
+  - exchange
+- address: '0x86d1d12523B65203851c571FcC029bF90903fB6d'
+  label: Bintex Futures (BNTX)
+  concepts:
+  - exchange
+- address: '0x435b67F0DcAe34c046720de42fcDC135b8f90e55'
+  label: Bistox Exchange Token (BSX)
+  concepts:
+  - exchange
+- address: '0x4b729cf402cfcffd057e254924b32241aedc1795'
+  label: Bit-Z
+  actor: bitzcom
+  concepts:
+  - exchange
+- address: '0x7c49e1c0e33f3efb57d64b7690fa287c8d15b90a'
+  label: Bit2C
+  concepts:
+  - exchange
+  actor: bit2c
+- address: '0xd7c302fc3ac829c7e896a32c4bd126f3e8bd0a1f'
+  label: Bit2Me (B2M)
+  concepts:
+  - exchange
+- address: '0x0d8824ca76e627e9cc8227faa3b3993986ce9e48'
+  label: BitBase 1
+  concepts:
+  - exchange
+- address: '0x6dcd15a0dbefd0700063a4445382d3506391a41a'
+  label: BitBase 2
+  concepts:
+  - exchange
+- address: '0x5d375281582791a38e0348915fa9cbc6139e9c2a'
+  label: BitBlinx
+  concepts:
+  - exchange
+  actor: bitblinx
+- address: '0xbdbb0ee6144544ec814d417b0ad41f16fc8b858e'
+  label: BitKAM (KAM)
+  concepts:
+  - exchange
+- address: '0x603d022611bfe6a101dcdab207d96c527f1d4d8e'
+  label: 'BitKeep: NFT Exchange'
+  concepts:
+  - exchange
+- address: '0xeea81c4416d71cef071224611359f6f99a4c4294'
+  label: BitMEX 1
+  concepts:
+  - exchange
+  actor: bitmex
+- address: '0xfb8131c260749c7835a08ccbdb64728de432858e'
+  label: BitMEX 2
+  concepts:
+  - exchange
+  actor: bitmex
+- address: '0xe79eef9b9388a4ff70ed7ec5bccd5b928ebb8bd1'
+  label: BitMart
+  concepts:
+  - exchange
+  actor: bitmart
+- address: '0x68b22215ff74e3606bd5e6c1de8c2d68180c85f7'
+  label: BitMart 2
+  concepts:
+  - exchange
+  actor: bitmart
+- address: '0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8'
+  label: BitMartToken (BMC)
+  concepts:
+  - exchange
+  actor: bitmart
+- address: '0xcca0c9c383076649604eE31b20248BC04FdF61cA'
+  label: BitMax token (BTMX)
+  concepts:
+  - exchange
+- address: '0xa3b93c2c4579654de50dd2ea227a5d6b98ed44c5'
+  label: BitTank Token (TANK)
+  concepts:
+  - exchange
+- address: '0xaa90b4aae74cee41e004bc45e45a427406c4dcae'
+  label: BitUN.io 1
+  concepts:
+  - exchange
+- address: '0xf8d04a720520d0bcbc722b1d21ca194aa22699f2'
+  label: BitUN.io 2
+  concepts:
+  - exchange
+- address: '0xB837b6467B4878fb5B3b81664042852593F15126'
+  label: BitValve (BTV)
+  concepts:
+  - exchange
+- address: '0x2b49ce21ad2004cfb3d0b51b2e8ec0406d632513'
+  label: Bitbee
+  concepts:
+  - exchange
+- address: '0x7a91a362d4f2c9c4627688d5b7090bbb12e5715f'
+  label: Bitci
+  actor: bitci
+  concepts:
+  - exchange
+- address: '0x28ebe764b8f9a853509840645216d3c2c0fd774b'
+  label: BiteBTC
+  concepts:
+  - exchange
+- address: '0x997507cc49FBf0CD6ce5e1EE543218556fAFdEBc'
+  label: Bitenium Token (BT)
+  concepts:
+  - exchange
+- address: '0x207335749ac86b2dae43b36e259efa252b90779f'
+  label: Bitex Coin (BTX)
+  concepts:
+  - exchange
+- address: '0x57c09a8de0b0f471f8567609777addffb5c46a08'
+  label: Bitex Global XBX Coin (XBX)
+  concepts:
+  - exchange
+- address: '0x7217d64f77041ce320c356d1a2185bcb89798a0a'
+  label: Bitexlive
+  concepts:
+  - exchange
+  actor: bitexlive
+- address: '0x57a47cfe647306a406118b6cf36459a1756823d0'
+  label: Bitexlive 2
+  concepts:
+  - exchange
+  actor: bitexlive
+- address: '0x25901F2a5A4bb0aaAbe2CDb24E0E15A0d49B015d'
+  label: Bitfex (BFX)
+  concepts:
+  - exchange
+  actor: bitfex
+- address: '0x1151314c646ce4e0efd76d1af4760ae66a9fe30f'
+  label: Bitfinex 1
+  actor: bitfinex
+  concepts:
+  - exchange
+- address: '0x36a85757645e8e8aec062a1dee289c7d615901ca'
+  label: Bitfinex 10
+  actor: bitfinex
+  concepts:
+  - exchange
+- address: '0xc56fefd1028b0534bfadcdb580d3519b5586246e'
+  label: Bitfinex 11
+  actor: bitfinex
+  concepts:
+  - exchange
+- address: '0x0b73f67a49273fc4b9a65dbd25d7d0918e734e63'
+  label: Bitfinex 12
+  actor: bitfinex
+  concepts:
+  - exchange
+- address: '0x482f02e8bc15b5eabc52c6497b425b3ca3c821e8'
+  label: Bitfinex 13
+  actor: bitfinex
+  concepts:
+  - exchange
+- address: '0x742d35cc6634c0532925a3b844bc454e4438f44e'
+  label: Bitfinex 2
+  actor: bitfinex
+  concepts:
+  - exchange
+- address: '0x876eabf441b2ee5b5b0554fd502a8e0600950cfa'
+  label: Bitfinex 3
+  actor: bitfinex
+  concepts:
+  - exchange
+- address: '0xdcd0272462140d0a3ced6c4bf970c7641f08cd2c'
+  label: Bitfinex 4
+  actor: bitfinex
+  concepts:
+  - exchange
+- address: '0x4fdd5eb2fb260149a3903859043e962ab89d8ed4'
+  label: Bitfinex 5
+  actor: bitfinex
+  concepts:
+  - exchange
+- address: '0x1b29dd8ff0eb3240238bf97cafd6edea05d5ba82'
+  label: Bitfinex 6
+  actor: bitfinex
+  concepts:
+  - exchange
+- address: '0x30a2ebf10f34c6c4874b0bdd5740690fd2f3b70c'
+  label: Bitfinex 7
+  actor: bitfinex
+  concepts:
+  - exchange
+- address: '0x3f7e77b627676763997344a1ad71acb765fc8ac5'
+  label: Bitfinex 8
+  actor: bitfinex
+  concepts:
+  - exchange
+- address: '0x59448fe20378357f206880c58068f095ae63d5a5'
+  label: Bitfinex 9
+  actor: bitfinex
+  concepts:
+  - exchange
+- address: '0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3'
+  label: Bitfinex LEO Token (LEO)
+  actor: bitfinex
+  concepts:
+  - exchange
+- address: '0xab7c74abc0c4d48d1bdad5dcb26153fc8780f83e'
+  label: 'Bitfinex: MultiSig 1'
+  actor: bitfinex
+  concepts:
+  - exchange
+- address: '0xc6cde7c39eb2f0f0095f41570af89efc2c1ea828'
+  label: 'Bitfinex: MultiSig 2'
+  actor: bitfinex
+  concepts:
+  - exchange
+- address: '0xc61b9bb3a7a0767e3179713f3a5c7a9aedce193c'
+  label: 'Bitfinex: MultiSig 3'
+  actor: bitfinex
+  concepts:
+  - exchange
+- address: '0x3779d960261f882750b39c622527822c88c98e13'
+  label: BitgetDeFiToken (BFT)
+  concepts:
+  - exchange
+- address: '0x19de6b897ed14a376dda0fe53a5420d2ac828a28'
+  label: BitgetToken (BGB)
+  concepts:
+  - exchange
+  actor: bitget
+- address: '0x9a03c4d95a8e31e1e11a4319066475cd12b22dee'
+  label: Bithemoth (BHM)
+  concepts:
+  - exchange
+- address: '0x88d34944cf554e9cccf4a24292d891f620e9c94f'
+  label: Bithumb 1
+  actor: bithumb
+  concepts:
+  - exchange
+- address: '0x186549a4ae594fc1f70ba4cffdac714b405be3f9'
+  label: Bithumb 10
+  actor: bithumb
+  concepts:
+  - exchange
+- address: '0xd273bd546b11bd60214a2f9d71f22a088aafe31b'
+  label: Bithumb 11
+  actor: bithumb
+  concepts:
+  - exchange
+- address: '0x558553d54183a8542f7832742e7b4ba9c33aa1e6'
+  label: Bithumb 12
+  actor: bithumb
+  concepts:
+  - exchange
+- address: '0x3052cd6bf951449a984fe4b5a38b46aef9455c8e'
+  label: Bithumb 2
+  actor: bithumb
+  concepts:
+  - exchange
+- address: '0x2140efd7ba31169c69dfff6cdc66c542f0211825'
+  label: Bithumb 3
+  actor: bithumb
+  concepts:
+  - exchange
+- address: '0xa0ff1e0f30b5dda2dc01e7e828290bc72b71e57d'
+  label: Bithumb 4
+  actor: bithumb
+  concepts:
+  - exchange
+- address: '0xc1da8f69e4881efe341600620268934ef01a3e63'
+  label: Bithumb 5
+  actor: bithumb
+  concepts:
+  - exchange
+- address: '0xb4460b75254ce0563bb68ec219208344c7ea838c'
+  label: Bithumb 6
+  actor: bithumb
+  concepts:
+  - exchange
+- address: '0x15878e87c685f866edfaf454be6dc06fa517b35b'
+  label: Bithumb 7
+  actor: bithumb
+  concepts:
+  - exchange
+- address: '0x31d03f07178bcd74f9099afebd23b0ae30184ab5'
+  label: Bithumb 8
+  actor: bithumb
+  concepts:
+  - exchange
+- address: '0xed48dc0628789c2956b1e41726d062a86ec45bff'
+  label: Bithumb 9
+  actor: bithumb
+  concepts:
+  - exchange
+- address: '0x3fbe1f8fc5ddb27d428aa60f661eaaab0d2000ce'
+  label: 'Bithumb: Contract 1'
+  actor: bithumb
+  concepts:
+  - exchange
+- address: '0xc429e7b63dc30b51f5a7e4be23fd5eb4baf8a1c3'
+  label: Bitibu (BTB)
+  concepts:
+  - exchange
+- address: '0xdb044b8298e04d442fdbe5ce01b8cc8f77130e33'
+  label: Bitkub Hot Wallet 1
+  concepts:
+  - exchange
+  actor: bitkub
+- address: '0x0a4d2fb8189bb7dbcc2e566e8e1fbbff637cb390'
+  label: Bitlim Token (BMT)
+  concepts:
+  - exchange
+- address: '0x7df4bf9de0be6bf307d96c43503ea71e46aed292'
+  label: Bitlocus Token (BTL)
+  concepts:
+  - exchange
+- address: '0x60ce1dd8f8bffd69994170ae66bc50be8bd6b839'
+  label: Bitnordex (BNX)
+  concepts:
+  - exchange
+- address: '0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f'
+  label: Bitpanda Ecosystem Token (BEST)
+  concepts:
+  - exchange
+  actor: bitpanda
+- address: '0xecb0dfdee97fdf1b0fa68e5a65314c58b5a748b2'
+  label: Bitquant Token (BQT)
+  concepts:
+  - exchange
+- address: '0xee89f20cb132e134c9ffccf623f6d01f73591bce'
+  label: Bitroom Token (BMT)
+  concepts:
+  - exchange
+- address: '0x6cc8dcbca746a6e4fdefb98e1d0df903b107fd21'
+  label: Bitrue
+  concepts:
+  - exchange
+  actor: bitrue
+- address: '0xd433138d12beB9929FF6fd583DC83663eea6Aaa5'
+  label: Bitrue Coin (BTR)
+  concepts:
+  - exchange
+  actor: bitrue
+- address: '0x00bdb5699745f5b860228c8f939abf1b9ae374ed'
+  label: Bitstamp 1
+  concepts:
+  - exchange
+  actor: bitstamp
+- address: '0x1522900b6dafac587d499a862861c0869be6e428'
+  label: Bitstamp 2
+  concepts:
+  - exchange
+  actor: bitstamp
+- address: '0x9a9bed3eb03e386d66f8a29dc67dc29bbb1ccb72'
+  label: Bitstamp 3
+  concepts:
+  - exchange
+  actor: bitstamp
+- address: '0x059799f2261d37b829c2850cee67b5b975432271'
+  label: Bitstamp 4
+  concepts:
+  - exchange
+  actor: bitstamp
+- address: '0x4c766def136f59f6494f0969b1355882080cf8e0'
+  label: Bitstamp 5
+  concepts:
+  - exchange
+  actor: bitstamp
+- address: '0xc5b611f502a0dcf6c3188fd494061ae29b2baa4f'
+  label: Bitstamp 6
+  concepts:
+  - exchange
+  actor: bitstamp
+- address: '0x964771f6df31eea2d927fa71d7bd78e81bcdce05'
+  label: 'Bitstamp: Contract 1'
+  concepts:
+  - exchange
+  actor: bitstamp
+- address: '0x771CdBDEdf2BcB03a8812742BBA00C63C26adACc'
+  label: Bitstorm (BSB)
+  concepts:
+  - exchange
+- address: '0xfbb1b73c4f0bda4f67dca266ce6ef42f520fbb98'
+  label: Bittrex
+  concepts:
+  - exchange
+  actor: bittrex
+- address: '0xe94b04a0fed112f3664e45adb2b8915693dd5ff3'
+  label: Bittrex 2
+  concepts:
+  - exchange
+  actor: bittrex
+- address: '0x66f820a414680b5bcda5eeca5dea238543f42054'
+  label: Bittrex 3
+  concepts:
+  - exchange
+  actor: bittrex
+- address: '0xfb9f7f41319157ac5c5dccae308a63a4337ad5d9'
+  label: Bity.com
+  concepts:
+  - exchange
+- address: '0x00cdc153aa8894d08207719fe921fff964f28ba3'
+  label: Bitzlato
+  concepts:
+  - exchange
+  actor: bitzlato
+- address: '0x54bfd2c33b252f6c959688bb1ef2169a96dcee8f'
+  label: Bliss Exchange Token (BLISS)
+  concepts:
+  - exchange
+- address: '0x007174732705604bbbf77038332dc52fd5a5000c'
+  label: BlockTrades Exchange
+  concepts:
+  - exchange
+  actor: blocktrades
+- address: '0xb5d6002ff567d3daa06b7a4d60888e97b279d64d'
+  label: Blockchain Explorer (BCE)
+  concepts:
+  - exchange
+- address: '0x25eaff5b179f209cf186b1cdcbfa463a69df4c45'
+  label: Blockfolio
+  concepts:
+  - exchange
+- address: '0x9d62526f5ce701950c30f2caca70edf70f9fbf0f'
+  label: Blocktanium (BKT)
+  concepts:
+  - exchange
+- address: '0xdf8752caa319668006580ddf48db25a23728b926'
+  label: Bololex.com
+  concepts:
+  - exchange
+- address: '0x1bbe0d2d0a284ef9118ee69d356fcdd5948bacf4'
+  label: BtcEX Coin (BXC)
+  concepts:
+  - exchange
+  actor: btcex
+- address: '0x31fdd1c6607f47c14a2821f599211c67ac20fa96'
+  label: Burency (BUY)
+  concepts:
+  - exchange
+- address: '0x12D79c345cAc7B050A5fF0797B5a607e254C73F5'
+  label: Buytex (BUX)
+  concepts:
+  - exchange
+- address: '0x73957709695e73fd175582105c44743cf0fb6f2f'
+  label: Bw.com
+  concepts:
+  - exchange
+  actor: bw
+- address: '0xd7c866d0d536937bf9123e02f7c052446588189f'
+  label: 'C2CX: Hot Wallet'
+  concepts:
+  - exchange
+- address: '0x6b6bcb3a53597075474183e344448e06bc0d5fdc'
+  label: CDEX Token (CDEX)
+  concepts:
+  - exchange
+- address: '0x8b35368ccbadbfbf2d19e8d3d8e58e3ddb63853a'
+  label: CGCX Exchange Token (CGCX)
+  concepts:
+  - exchange
+- address: '0x7d3cb11f8c13730c24d01826d8f2005f0e1b348f'
+  label: COS (COS)
+  concepts:
+  - exchange
+- address: '0x0d6b5a54f940bf3d52e438cab785981aaefdf40c'
+  label: COSS.io 1
+  concepts:
+  - exchange
+- address: '0xd1560b3984b7481cd9a8f40435a53c860187174d'
+  label: 'COSS.io: Old Warm Wallet'
+  concepts:
+  - exchange
+- address: '0x43f07efe28e092a0fe4ec5b5662022b461ffac80'
+  label: 'COSS.io: Warm Wallet'
+  concepts:
+  - exchange
+- address: '0x521db06bf657ed1d6c98553a70319a8ddbac75a3'
+  label: CREX24
+  actor: crex24
+  concepts:
+  - exchange
+- address: '0x88988d6ef12d7084e34814b9edafa01ae0d05082'
+  label: CamboChanger 2
+  concepts:
+  - exchange
+- address: '0xca00bc15f67ebea4b20dfaaa847cace113cc5501'
+  label: CapdaxToken (XCD)
+  concepts:
+  - exchange
+- address: '0x72bcfa6932feacd91cb2ea44b0731ed8ae04d0d3'
+  label: Cashierest
+  concepts:
+  - exchange
+- address: '0x7a56f645dcb513d0326cbaa048e9106ff6d4cd5f'
+  label: Catex Exchange
+  concepts:
+  - exchange
+- address: '0x504cde95dbc5d90d09b802f43b371971adbecf79'
+  label: Centralex Token (CenX)
+  concepts:
+  - exchange
+- address: '0xfd648cc72f1b4e71cbdda7a0a91fe34d32abd656'
+  label: ChainX
+  concepts:
+  - exchange
+- address: '0x96fc4553a00c117c5b0bed950dd625d1c16dc894'
+  label: Changelly
+  concepts:
+  - exchange
+  actor: changelly
+- address: '0x3f4e02741b155f5ce8d6190d294d4f916125b896'
+  label: CircleEx (CX)
+  concepts:
+  - exchange
+- address: '0x30cc0e266cf33b8eac6a99cbd98e39b890cfd69b'
+  label: ClassyCoin (ClassyCoin)
+  concepts:
+  - exchange
+- address: '0xb2f7eb1f2c37645be61d73953035360e768d81e6'
+  label: Cobinhood (COB)
+  concepts:
+  - exchange
+- address: '0x8958618332df62af93053cb9c535e26462c959b0'
+  label: Cobinhood 1
+  concepts:
+  - exchange
+- address: '0xb726da4fbdc3e4dbda97bb20998cf899b0e727e0'
+  label: Cobinhood 2
+  concepts:
+  - exchange
+- address: '0xcb17cD357c7acD594717D899ecb9df540F633F27'
+  label: CoinDeal Token (CDL)
+  concepts:
+  - exchange
+  actor: coindeal
+- address: '0xbf1a97d8d4229d61b031214d5bbe9a5cb1e737f9'
+  label: CoinDhan
+  concepts:
+  - exchange
+- address: '0x4b01721f0244e7c5b5f63c20942850e447f5a5ee'
+  label: CoinExchange.io
+  concepts:
+  - exchange
+- address: '0xa270f3ad1a7a82e6a3157f12a900f1e25bc4fbfd'
+  label: CoinMetro Exchange
+  concepts:
+  - exchange
+  actor: coinmetro
+- address: '0x191baFe4e3888Ec289753c7d592634e3Abe1eE14'
+  label: CoinSWOP (cSWOP)
+  concepts:
+  - exchange
+- address: '0x8705ccfd8a6df3785217c307cbebf9b793310b94'
+  label: CoinW
+  concepts:
+  - exchange
+  actor: coinw
+- address: '0xcb243bf48fb443082fae7db47ec96cb120cd6801'
+  label: CoinW 2
+  concepts:
+  - exchange
+  actor: coinw
+- address: '0x429bf8ec3330e02401d72beade86000d9a2e19eb'
+  label: CoinW 3
+  concepts:
+  - exchange
+  actor: coinw
+- address: '0x6f31d347457962c9811ff953742870ef5a755de3'
+  label: CoinW 4
+  concepts:
+  - exchange
+  actor: coinw
+- address: '0x71660c4005ba85c37ccec55d0c4493e66fe775d3'
+  label: Coinbase 1
+  actor: coinbase
+  concepts:
+  - exchange
+- address: '0x503828976d22510aad0201ac7ec88293211d23da'
+  label: Coinbase 2
+  actor: coinbase
+  concepts:
+  - exchange
+- address: '0xddfabcdc4d8ffc6d5beaf154f18b778f892a0740'
+  label: Coinbase 3
+  actor: coinbase
+  concepts:
+  - exchange
+- address: '0x3cd751e6b0078be393132286c442345e5dc49699'
+  label: Coinbase 4
+  actor: coinbase
+  concepts:
+  - exchange
+- address: '0xb5d85cbf7cb3ee0d56b3bb207d5fc4b82f43f511'
+  label: Coinbase 5
+  actor: coinbase
+  concepts:
+  - exchange
+- address: '0xeb2629a2734e272bcc07bda959863f316f4bd4cf'
+  label: Coinbase 6
+  actor: coinbase
+  concepts:
+  - exchange
+- address: '0xf6874c88757721a02f47592140905c4336dfbc61'
+  label: 'Coinbase: Coinbase Commerce'
+  actor: coinbase
+  concepts:
+  - exchange
+- address: '0x881d4032abe4188e2237efcd27ab435e81fc6bb1'
+  label: 'Coinbase: Commerce'
+  actor: coinbase
+  concepts:
+  - exchange
+- address: '0xa090e606e30bd747d4e6245a1517ebe430f0057e'
+  label: 'Coinbase: Miscellaneous'
+  actor: coinbase
+  concepts:
+  - exchange
+- address: '0x9539e0b14021a43cde41d9d45dc34969be9c7cb0'
+  label: Coinbene
+  actor: coinbene
+  concepts:
+  - exchange
+- address: '0x33683b94334eebc9bd3ea85ddbda4a86fb461405'
+  label: 'Coinbene: Cold Wallet'
+  actor: coinbene
+  concepts:
+  - exchange
+- address: '0xb6ba1931e4e74fd080587688f6db10e830f810d5'
+  label: Coindelta
+  concepts:
+  - exchange
+- address: '0xacce88f5a63a5e65db9aa7303720be16b556e751'
+  label: Coineal Token (NEAL)
+  concepts:
+  - exchange
+  actor: coinneal
+- address: '0xb9ee1e551f538a464e8f8c41e9904498505b49b0'
+  label: Coinex
+  concepts:
+  - exchange
+  actor: coinex
+- address: '0x33ddd548fe3a082d753e5fe721a26e1ab43e3598'
+  label: Coinex 2
+  concepts:
+  - exchange
+  actor: coinex
+- address: '0xd4bddf5e3d0435d7a6214a0b949c7bb58621f37c'
+  label: Coinhako
+  concepts:
+  - exchange
+  actor: coinhako
+- address: '0xf2d4766ad705e3a5c9ba5b0436b473085f82f82f'
+  label: 'Coinhako: Warm Wallet'
+  concepts:
+  - exchange
+  actor: coinhako
+- address: '0x67fe7b4958a00f263ebd16d246a9a3b2ea3050d7'
+  label: Coinolix token (CLX)
+  concepts:
+  - exchange
+- address: '0x167a9333bf582556f35bd4d16a7e80e191aa6476'
+  label: Coinone
+  concepts:
+  - exchange
+  actor: coinone
+- address: '0x1e2fcfd26d36183f1a5d90f0e6296915b02bcb40'
+  label: Coinone 2
+  concepts:
+  - exchange
+  actor: coinone
+- address: '0xC538143202f3b11382D8606aae90a96b042a19DB'
+  label: Coinsbit Token (CNB)
+  concepts:
+  - exchange
+  actor: coinsbit
+- address: '0xd0808da05cc71a9f308d330bc9c5c81bbc26fc59'
+  label: Coinswitch
+  concepts:
+  - exchange
+- address: '0x69b9e58Dcc2680cf07c66399b7E50670F7452459'
+  label: Coinverter.info (COIN)
+  concepts:
+  - exchange
+- address: '0xdb2b3db44820526e7472dea06506b2e40506b3b9'
+  label: Cresio (CRES)
+  concepts:
+  - exchange
+- address: '0xcaaa93712bdac37f736c323c93d4d5fdefcc31cc'
+  label: CryptalDash (CRD)
+  actor: cryptaldash
+  concepts:
+  - exchange
+- address: '0x6262998ced04146fa42253a5c0af90ca02dfd2a3'
+  label: Crypto.com
+  concepts:
+  - exchange
+  actor: cryptocom
+- address: '0x46340b20830761efd32832a74d7169b29feb9758'
+  label: Crypto.com 2
+  concepts:
+  - exchange
+  actor: cryptocom
+- address: '0x84ce597b08651fbf551cee3240a3e86365449d51'
+  label: CryptoClimateExchange (CCX)
+  concepts:
+  - exchange
+- address: '0x94d6b4fb35fb08cb34aa716ab40049ec88002079'
+  label: Cryptonex (CNX)
+  concepts:
+  - exchange
+  actor: cryptonex
+- address: '0x416935c684686877e3931fe8d766cafc5b398ebf'
+  label: Cryptonex (CNX) (CNX)
+  concepts:
+  - exchange
+  actor: cryptonex
+- address: '0x5baeac0a0417a05733884852aa068b706967e790'
+  label: Cryptopia 1
+  concepts:
+  - exchange
+  actor: cryptopia
+- address: '0x2984581ece53a4390d1f568673cf693139c97049'
+  label: Cryptopia 2
+  concepts:
+  - exchange
+  actor: cryptopia
+- address: '0x79ddbbCc9D7FbDc77b02A960DabD2577144FDD6E'
+  label: Crypxie (CPX)
+  concepts:
+  - exchange
+- address: '0x2fF1Bf647C2b5280558765543f823B2c8ccA9315'
+  label: CyberBank Coin (CBBC)
+  concepts:
+  - exchange
+- address: '0x3b67728b1137ccdc08f78d1139704973b8799783'
+  label: Cyberbank Coin Warrant (CBBCW)
+  concepts:
+  - exchange
+- address: '0xcb0ac19e629a237e2a865b9e2c8b2c534f129006'
+  label: DAC (DAC)
+  concepts:
+  - exchange
+- address: '0xf6ba659b419392b722ed63d4f5232822eceff262'
+  label: DACX Token (DACX)
+  concepts:
+  - exchange
+- address: '0x497baef294c11a5f0f5bea3f2adb3073db448b56'
+  label: DEX (DEX)
+  concepts:
+  - exchange
+- address: '0xfff3ada5a2555a2b59bff4f44dfad90146cce8cb'
+  label: DEXTER (DXR)
+  concepts:
+  - exchange
+- address: '0x4ac363455468c22f7f656e994b67f2275fb3badd'
+  label: DIGIFINEXTOKEN (DFT)
+  concepts:
+  - exchange
+  actor: digifinex
+- address: '0x2101e480e22c953b37b9d0fe6551c1354fe705e6'
+  label: DMEX
+  concepts:
+  - exchange
+- address: '0xab014858716f1010de51401c5e149bfac25f91b6'
+  label: DXCASH (DXCASH)
+  concepts:
+  - exchange
+- address: '0x5F474906637bdCDA05f29C74653F6962bb0f8eDa'
+  label: DeFinity (DEFX)
+  concepts:
+  - exchange
+- address: '0xab93df617f51e1e415b5b4f8111f122d6b48e55c'
+  label: Delta Exchange Token (DETO)
+  concepts:
+  - exchange
+  actor: deltaexchange
+- address: '0x0bc1E9770d4445FB49E3E474555cC15c667A5dd5'
+  label: Digi Exchange (DIGIX)
+  concepts:
+  - exchange
+- address: '0x94501b6A153C8973fd1f321fCC8188d40dC5d72d'
+  label: DigiDinar Token (DDRT)
+  concepts:
+  - exchange
+- address: '0xe17ee7b3c676701c66b395a35f0df4c2276a344e'
+  label: DigiFinex
+  concepts:
+  - exchange
+  actor: digifinex
+- address: '0x61725f3db4004afe014745b21dab1e1677cc328b'
+  label: Digital Asset Exchange Token (DAXT)
+  concepts:
+  - exchange
+- address: '0x2d8e1dd483008c6843b9cf644bad7fb25bf52b84'
+  label: Digital Coin (DCB)
+  concepts:
+  - exchange
+- address: '0x7b14041aed27de13fb1a022ea4e196657d770d2c'
+  label: Dollero (DLLR)
+  concepts:
+  - exchange
+- address: '0xd234bf2410a0009df9c3c63b610c09738f18ccd7'
+  label: Dynamic Trading Rights (DTR)
+  concepts:
+  - exchange
+- address: '0x5a936f5e9db7b8510bd59325420427923c1ee9fb'
+  label: EBX Coin (EBX)
+  concepts:
+  - exchange
+- address: '0xd366908c2f249537f905bdae5a77272a9fbda127'
+  label: EO Coin (EO)
+  concepts:
+  - exchange
+- address: '0x46e9fe43470fafd690100c86037f9e566e24d480'
+  label: EQUOS Origin (EQO)
+  concepts:
+  - exchange
+- address: '0x0f628641d0ea1ecab9341e58d4982c0018a51c6b'
+  label: EVE Exchange (EVE)
+  concepts:
+  - exchange
+- address: '0x83869de76b9ad8125e22b857f519f001588c0f62'
+  label: EXMOCoin (EXM)
+  concepts:
+  - exchange
+- address: '0xA4FCd9A9C7547313EEFA22625D997273f3dF6257'
+  label: EXOX exchange (EX)
+  concepts:
+  - exchange
+- address: '0xf1c525a488a848b58b95d79da48c21ce434290f7'
+  label: Eidoo
+  concepts:
+  - exchange
+- address: '0x608f94df1c1d89ea13e5984d7bf107df137a6541'
+  label: Eigen Fx
+  concepts:
+  - exchange
+- address: '0xeb9ebf2c624ebee42e0853da6443ddc6c8020de7'
+  label: Eigen Fx 2
+  concepts:
+  - exchange
+- address: '0x8d76166c22658a144c0211d87abf152e6a2d9d95'
+  label: Eterbase
+  concepts:
+  - exchange
+- address: '0x4d13d624a87baa278733c068a174412afa9ca6c8'
+  label: Eterbase Coin (XBASE)
+  concepts:
+  - exchange
+- address: '0xe1747a23C44f445062078e3C528c9F4c28C50a51'
+  label: Eterna (EHX)
+  concepts:
+  - exchange
+- address: '0x1b9743f556d65e757c4c650b4555baf354cb8bd3'
+  label: EthBits ETBS Token (ETBS)
+  concepts:
+  - exchange
+- address: '0xd3808c5d48903be1490989f3fce2a2b3890e8eb6'
+  label: Exchange A
+  concepts:
+  - exchange
+- address: '0x1fd6267f0d86f62d88172b998390afee2a1f54b6'
+  label: Exmo 1
+  concepts:
+  - exchange
+  actor: exmo
+- address: '0xd7b9a9b2f665849c4071ad5af77d8c76aa30fb32'
+  label: Exmo 2
+  concepts:
+  - exchange
+  actor: exmo
+- address: '0xef65887a05415bf6316204b5ffb350d4d1a19bba'
+  label: ExtStock Token (XT)
+  concepts:
+  - exchange
+- address: '0x915d7915f2b469bb654a7d903a5d4417cb8ea7df'
+  label: FCoin
+  actor: fcoin
+  concepts:
+  - exchange
+- address: '0xc770eefad204b5180df6a14ee197d99d808ee52d'
+  label: FOX (FOX)
+  concepts:
+  - exchange
+- address: '0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9'
+  label: FTT (FTX Token)
+  concepts:
+  - exchange
+- address: '0x2faf487a4414fe77e2327f0bf4ae2a264a776ad2'
+  label: FTX Exchange
+  concepts:
+  - exchange
+  actor: ftx
+- address: '0xc098b2a3aa256d2140208c3de6543aaef5cd3a94'
+  label: FTX Exchange 2
+  concepts:
+  - exchange
+  actor: ftx
+- address: '0x41875c2332b0877cdfaa699b641402b7d4642c32'
+  label: FUTURAX (FTXT)
+  concepts:
+  - exchange
+- address: '0x94fe3ad91dacba8ec4b82f56ff7c122181f1535d'
+  label: Faa.st
+  concepts:
+  - exchange
+- address: '0x2ec95b8eda549b79a1248335a39d299d00ed314c'
+  label: Fatcoin (FAT)
+  concepts:
+  - exchange
+- address: '0x4e5b2e1dc63f6b91cb6cd759936495434c7e972f'
+  label: FixedFloat
+  concepts:
+  - exchange
+  actor: fixedfloat
+- address: '0x14301566b9669b672878d86ff0b1d18dd58054e9'
+  label: Flata.Exchange
+  concepts:
+  - exchange
+- address: '0x91e18ee76483fa2ec5cfe2959df46673c2565be0'
+  label: Flybit
+  concepts:
+  - exchange
+  actor: flybit
+- address: '0x5e040aC72140F0617bC24aB7134c0C6eCae0e965'
+  label: Folgory Coin (FLG)
+  concepts:
+  - exchange
+  actor: folgory
+- address: '0x0021845f4c2604c58f9ba5b7bff58d16a2ab372c'
+  label: Folgory Exchange
+  concepts:
+  - exchange
+  actor: folgory
+- address: '0x34aA2f0aC4407a978704bff8Bf1F5266b5915Ad6'
+  label: FolgoryUSD (USDF)
+  concepts:
+  - exchange
+  actor: folgory
+- address: '0x9f5ca0012b9b72e8f3db57092a6f26bf4f13dc69'
+  label: GBX
+  concepts:
+  - exchange
+- address: '0x6a0b8f1e9a0ad411a8819edc6e1a29bd14e0f0a0'
+  label: GDAC Exchange Token (GT)
+  actor: gdac
+  concepts:
+  - exchange
+- address: '0xc67b12049c2d0cf6e476bc64c7f82fc6c63cffc5'
+  label: GDT (GDT)
+  concepts:
+  - exchange
+- address: '0xe304283c3e60cefaf7ea514007cf4e8fdc3d869d'
+  label: GECOIN (GEC)
+  concepts:
+  - exchange
+- address: '0x9fb01a2584aac5aae3fab1ed25f86c5269b32999'
+  label: GGBTC.com
+  concepts:
+  - exchange
+- address: '0x66142B81db17d7c0bd91f502D00382e326a24c2a'
+  label: GLOBEX (GEX)
+  concepts:
+  - exchange
+- address: '0x60c87297a1feadc3c25993ffcadc54e99971e307'
+  label: GXToken (GXT)
+  concepts:
+  - exchange
+- address: '0x0d0707963952f2fba59dd06f2b425ace40b492fe'
+  label: Gate.io
+  concepts:
+  - exchange
+  actor: gate
+- address: '0x7793cd85c11a924478d358d49b05b37e91b5810f'
+  label: Gate.io 2
+  concepts:
+  - exchange
+  actor: gate
+- address: '0x1c4b70a3968436b9a0a9cf5205c787eb81bb558c'
+  label: Gate.io 3
+  concepts:
+  - exchange
+  actor: gate
+- address: '0xd793281182a0e3e023116004778f45c29fc14f19'
+  label: 'Gate.io: Contract'
+  concepts:
+  - exchange
+  actor: gate
+- address: '0xd24400ae8bfebb18ca49be86258a3c749cf46853'
+  label: Gemini
+  concepts:
+  - exchange
+  actor: gemini
+- address: '0x6fc82a5fe25a5cdb58bc74600a40a69c065263f8'
+  label: Gemini 2
+  concepts:
+  - exchange
+  actor: gemini
+- address: '0x61edcdf5bb737adffe5043706e7c5bb1f1a56eea'
+  label: Gemini 3
+  concepts:
+  - exchange
+  actor: gemini
+- address: '0x5f65f7b609678448494de4c87521cdf6cef1e932'
+  label: Gemini 4
+  concepts:
+  - exchange
+  actor: gemini
+- address: '0xb302bfe9c246c6e150af70b1caaa5e3df60dac05'
+  label: Gemini 5
+  concepts:
+  - exchange
+  actor: gemini
+- address: '0x8d6f396d210d385033b348bcae9e4f9ea4e045bd'
+  label: Gemini 6
+  concepts:
+  - exchange
+  actor: gemini
+- address: '0xd69b0089d9ca950640f5dc9931a41a5965f00303'
+  label: Gemini 7
+  concepts:
+  - exchange
+  actor: gemini
+- address: '0x07ee55aa48bb72dcc6e9d78256648910de513eca'
+  label: 'Gemini: Contract 1'
+  concepts:
+  - exchange
+  actor: gemini
+- address: '0x12fcd6463e66974cf7bbc24ffc4d40d6be458283'
+  label: Globitex Token (GBX)
+  concepts:
+  - exchange
+- address: '0xe430dce57cb6e3afc6216c710870bed0680d018a'
+  label: Golix Token (GLX)
+  concepts:
+  - exchange
+- address: '0x96c9fcd45bea05b848e6e8551ad33d4d08194e4b'
+  label: Green Swap (GRNS)
+  concepts:
+  - exchange
+- address: '0x68f20E703934852Fc368A263F55251eD9c53404d'
+  label: Griffex Token (GFX)
+  concepts:
+  - exchange
+- address: '0xba5160ba66b286f1b9b6f3a57a6abcfa440e7aa2'
+  label: HUB Coin (HUB)
+  concepts:
+  - exchange
+- address: '0x9c67e141c0472115aa1b98bd0088418be68fd249'
+  label: HitBTC 1
+  concepts:
+  - exchange
+  actor: hitbtc
+- address: '0x59a5208b32e627891c389ebafc644145224006e8'
+  label: HitBTC 2
+  concepts:
+  - exchange
+  actor: hitbtc
+- address: '0xa12431d0b9db640034b0cdfceef9cce161e62be4'
+  label: HitBTC 3
+  concepts:
+  - exchange
+  actor: hitbtc
+- address: '0x74b1af114274335598da72f5c6ed7b954a016eed'
+  label: HitBTC Token (HIT)
+  concepts:
+  - exchange
+  actor: hitbtc
+- address: '0x0caf893648ba5f2f1d1190d951bbd4ecda7ef965'
+  label: HnBToken (HBT)
+  concepts:
+  - exchange
+- address: '0x980a4732c8855ffc8112e6746bd62095b4c2228f'
+  label: Hoo.com
+  concepts:
+  - exchange
+  actor: hoo
+- address: '0xd0ec209ad2134899148bec8aef905a6e9997456a'
+  label: Hoo.com 2
+  concepts:
+  - exchange
+  actor: hoo
+- address: '0x993b7fcba51d8f75c2dfaec0d17b6649ee0c9068'
+  label: Hoo.com 3
+  concepts:
+  - exchange
+  actor: hoo
+- address: '0xec293b9c56f06c8f71392269313d7e2da681d9ac'
+  label: Hoo.com 4
+  concepts:
+  - exchange
+  actor: hoo
+- address: '0x0093e5f2a850268c0ca3093c7ea53731296487eb'
+  label: Hoo.com 5
+  concepts:
+  - exchange
+  actor: hoo
+- address: '0x008932be50098089c6a075d35f4b5182ee549f8a'
+  label: Hoo.com 6
+  concepts:
+  - exchange
+  actor: hoo
+- address: '0xd241d7b5cb0ef9fc79d9e4eb9e21f5e209f52f7d'
+  label: HooToken (HOO)
+  concepts:
+  - exchange
+  actor: hoo
+- address: '0x274f3c32c90517975e29dfc209a23f315c1e5fc7'
+  label: Hotbit
+  concepts:
+  - exchange
+  actor: hotbit
+- address: '0x8533a0bd9310eb63e7cc8e1116c18a3d67b1976a'
+  label: Hotbit 2
+  concepts:
+  - exchange
+  actor: hotbit
+- address: '0x562680a4dc50ed2f14d75bf31f494cfe0b8d10a1'
+  label: Hotbit 3
+  concepts:
+  - exchange
+  actor: hotbit
+- address: '0x6be61833fc4381990e82d7d4a9f4c9b3f67ea941'
+  label: Hotbit Token (HTB)
+  concepts:
+  - exchange
+  actor: hotbit
+- address: '0xab5c66752a9e8167967685f1450532fb96d5d24f'
+  label: Huobi 1
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0xe93381fb4c4f14bda253907b18fad305d799241a'
+  label: Huobi 10
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0xfa4b5be3f2f84f56703c42eb22142744e95a2c58'
+  label: Huobi 11
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x46705dfff24256421a05d056c29e81bdc09723b8'
+  label: Huobi 12
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x32598293906b5b17c27d657db3ad2c9b3f3e4265'
+  label: Huobi 13
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x5861b8446a2f6e19a067874c133f04c578928727'
+  label: Huobi 14
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x926fc576b7facf6ae2d08ee2d4734c134a743988'
+  label: Huobi 15
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0xeec606a66edb6f497662ea31b5eb1610da87ab5f'
+  label: Huobi 16
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x7ef35bb398e0416b81b019fea395219b65c52164'
+  label: Huobi 17
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x229b5c097f9b35009ca1321ad2034d4b3d5070f6'
+  label: Huobi 18
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0xd8a83b72377476d0a66683cde20a8aad0b628713'
+  label: Huobi 19
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x6748f50f686bfbca6fe8ad62b22228b87f31ff2b'
+  label: Huobi 2
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x90e9ddd9d8d5ae4e3763d0cf856c97594dea7325'
+  label: Huobi 20
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x18916e1a2933cb349145a280473a5de8eb6630cb'
+  label: Huobi 21
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x6f48a3e70f0251d1e83a989e62aaa2281a6d5380'
+  label: Huobi 22
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0xf056f435ba0cc4fcd2f1b17e3766549ffc404b94'
+  label: Huobi 23
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x137ad9c4777e1d36e4b605e745e8f37b2b62e9c5'
+  label: Huobi 24
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x5401dbf7da53e1c9dbf484e3d69505815f2f5e6e'
+  label: Huobi 25
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x034f854b44d28e26386c1bc37ff9b20c6380b00d'
+  label: Huobi 26
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x0577a79cfc63bbc0df38833ff4c4a3bf2095b404'
+  label: Huobi 27
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x0c6c34cdd915845376fb5407e0895196c9dd4eec'
+  label: Huobi 28
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x794d28ac31bcb136294761a556b68d2634094153'
+  label: Huobi 29
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0xfdb16996831753d5331ff813c29a93c76834a0ad'
+  label: Huobi 3
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0xfd54078badd5653571726c3370afb127351a6f26'
+  label: Huobi 30
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0xb4cd0386d2db86f30c1a11c2b8c4f4185c1dade9'
+  label: Huobi 31
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x4d77a1144dc74f26838b69391a6d3b1e403d0990'
+  label: Huobi 32
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x28ffe35688ffffd0659aee2e34778b0ae4e193ad'
+  label: Huobi 33
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0xcac725bef4f114f728cbcfd744a731c2a463c3fc'
+  label: Huobi 34
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x73f8fc2e74302eb2efda125a326655acf0dc2d1b'
+  label: Huobi 35
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x0a98fb70939162725ae66e626fe4b52cff62c2e5'
+  label: Huobi 36
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0xf66852bc122fd40bfecc63cd48217e88bda12109'
+  label: Huobi 37
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x49517ca7b7a50f592886d4c74175f4c07d460a70'
+  label: Huobi 38
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x58c2cb4a6bee98c309215d0d2a38d7f8aa71211c'
+  label: Huobi 39
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0xeee28d484628d41a82d01e21d12e2e78d69920da'
+  label: Huobi 4
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x5c985e89dde482efe97ea9f1950ad149eb73829b'
+  label: Huobi 5
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0xdc76cd25977e0a5ae17155770273ad58648900d3'
+  label: Huobi 6
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0xadb2b42f6bd96f5c65920b9ac88619dce4166f94'
+  label: Huobi 7
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0xa8660c8ffd6d578f657b72c0c811284aef0b735e'
+  label: Huobi 8
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x1062a747393198f70f71ec65a582423dba7e5ab3'
+  label: Huobi 9
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0x6f259637dcd74c767781e37bc6133cd6a68aa161'
+  label: HuobiToken (HT)
+  concepts:
+  - exchange
+  actor: huobi
+- address: '0xa984a92731c088f1ea4d53b71a2565a399f7d8d5'
+  label: INCX Coin (INCX)
+  concepts:
+  - exchange
+- address: '0x3c11c3025ce387d76c2eddf1493ec55a8cc2a0f7'
+  label: Idax.global
+  concepts:
+  - exchange
+- address: '0xb1a34309af7f29b4195a6b589737f86e14597ddc'
+  label: IndoEx LTD
+  actor: indoex
+  concepts:
+  - exchange
+- address: '0x51836a753e344257b361519e948ffcaf5fb8d521'
+  label: Indodax 1
+  concepts:
+  - exchange
+  actor: indodax
+- address: '0x9cbadd5ce7e14742f70414a6dcbd4e7bb8712719'
+  label: Indodax 2
+  concepts:
+  - exchange
+  actor: indodax
+- address: '0xa581b8dac454842ff92ca92ff4e2544e1b36e6ab'
+  label: International Exchange (IEX)
+  concepts:
+  - exchange
+- address: '0xff98a08c143311719ca492e4b8c950c940f26872'
+  label: JEX Token (JEX)
+  concepts:
+  - exchange
+- address: '0x8a9c67fee641579deba04928c4bc45f66e26343a'
+  label: Jarvis Reward Token (JRT)
+  concepts:
+  - exchange
+- address: '0x0D3d475f035705a662f5AB34e374e3c44BB52187'
+  label: Javvy (JVY)
+  concepts:
+  - exchange
+- address: '0xb41f09a973a85c7f497c10b00a939de667b55a78'
+  label: KNOW (KNOW)
+  concepts:
+  - exchange
+- address: '0x4fE671f75feBe114dBEA88Bb8266C177cb5E466A'
+  label: Kaeuoi (KAE)
+  concepts:
+  - exchange
+- address: '0x352bdabe484499e4c25c3536cc3eda1edbc5ad29'
+  label: KickEX
+  concepts:
+  - exchange
+  actor: kickex
+- address: '0x824a50df33ac1b41afc52f4194e2e8356c17c3ac'
+  label: KickToken (KICK)
+  concepts:
+  - exchange
+  actor: kickex
+- address: '0x2b78aeffb8f3b92f693cfb4f5ee86c99f9a1bcbb'
+  label: Kodobit (KODO)
+  concepts:
+  - exchange
+- address: '0x2910543af39aba0cd09dbb2d50200b3e800a63d2'
+  label: Kraken
+  actor: kraken
+  concepts:
+  - exchange
+- address: '0xae2d4617c862309a3d75a0ffb358c7a5009c673f'
+  label: Kraken 10
+  actor: kraken
+  concepts:
+  - exchange
+- address: '0x43984d578803891dfa9706bdeee6078d80cfc79e'
+  label: Kraken 11
+  actor: kraken
+  concepts:
+  - exchange
+- address: '0x66c57bf505a85a74609d2c83e94aabb26d691e1f'
+  label: Kraken 12
+  actor: kraken
+  concepts:
+  - exchange
+- address: '0xda9dfa130df4de4673b89022ee50ff26f6ea73cf'
+  label: Kraken 13
+  actor: kraken
+  concepts:
+  - exchange
+- address: '0x0a869d79a7052c7f1b55a8ebabbea3420f0d1e13'
+  label: Kraken 2
+  actor: kraken
+  concepts:
+  - exchange
+- address: '0xe853c56864a2ebe4576a807d26fdc4a0ada51919'
+  label: Kraken 3
+  actor: kraken
+  concepts:
+  - exchange
+- address: '0x267be1c1d684f78cb4f6a176c4911b741e4ffdc0'
+  label: Kraken 4
+  actor: kraken
+  concepts:
+  - exchange
+- address: '0xfa52274dd61e1643d2205169732f29114bc240b3'
+  label: Kraken 5
+  actor: kraken
+  concepts:
+  - exchange
+- address: '0x89e51fa8ca5d66cd220baed62ed01e8951aa7c40'
+  label: Kraken 7
+  actor: kraken
+  concepts:
+  - exchange
+- address: '0xc6bed363b30df7f35b601a5547fe56cd31ec63da'
+  label: Kraken 8
+  actor: kraken
+  concepts:
+  - exchange
+- address: '0x29728d0efd284d85187362faa2d4d76c2cfc2612'
+  label: Kraken 9
+  actor: kraken
+  concepts:
+  - exchange
+- address: '0xe8a0e282e6a3e8023465accd47fae39dd5db010b'
+  label: Kryptono 1
+  actor: kryptono
+  concepts:
+  - exchange
+- address: '0x629a7144235259336ea2694167f3c8b856edd7dc'
+  label: Kryptono 2
+  actor: kryptono
+  concepts:
+  - exchange
+- address: '0x30b71d015f60e2f959743038ce0aaec9b4c1ea44'
+  label: Kryptono 3
+  actor: kryptono
+  concepts:
+  - exchange
+- address: '0x2b5634c42055806a59e9107ed44d43c426e58258'
+  label: KuCoin
+  actor: kucoin
+  concepts:
+  - exchange
+- address: '0xcad621da75a66c7a8f4ff86d30a2bf981bfc8fdd'
+  label: KuCoin 10
+  actor: kucoin
+  concepts:
+  - exchange
+- address: '0x689c56aef474df92d44a1b70850f808488f9769c'
+  label: KuCoin 2
+  actor: kucoin
+  concepts:
+  - exchange
+- address: '0xa1d8d972560c2f8144af871db508f0b0b10a3fbf'
+  label: KuCoin 3
+  actor: kucoin
+  concepts:
+  - exchange
+- address: '0x4ad64983349c49defe8d7a4686202d24b25d0ce8'
+  label: KuCoin 4
+  actor: kucoin
+  concepts:
+  - exchange
+- address: '0x1692e170361cefd1eb7240ec13d048fd9af6d667'
+  label: KuCoin 5
+  actor: kucoin
+  concepts:
+  - exchange
+- address: '0xd6216fc19db775df9774a6e33526131da7d19a2c'
+  label: KuCoin 6
+  actor: kucoin
+  concepts:
+  - exchange
+- address: '0x899b5d52671830f567bf43a14684eb14e1f945fe'
+  label: KuCoin 8
+  actor: kucoin
+  concepts:
+  - exchange
+- address: '0xf16e9b0d03470827a95cdfd0cb8a8a3b46969b91'
+  label: KuCoin 9
+  actor: kucoin
+  concepts:
+  - exchange
+- address: '0x2602669a92fccf44e5319ff51b0f453aab9db021'
+  label: KuCoin Contract
+  actor: kucoin
+  concepts:
+  - exchange
+- address: '0xf34960d9d60be18cc1d5afc1a6f012a723a28811'
+  label: KuCoin Token (KCS)
+  actor: kucoin
+  concepts:
+  - exchange
+- address: '0xf2b16510270a214130c6b17ff0e9bf87585126bd'
+  label: 'KuCoin: Deployer'
+  actor: kucoin
+  concepts:
+  - exchange
+- address: '0xf34960d9d60be18cc1d5afc1a6f012a723a28811'
+  label: 'KuCoin: KCS Token'
+  actor: kucoin
+  concepts:
+  - exchange
+- address: '0x039b5649a59967e3e936d7471f9c3700100ee1ab'
+  label: 'KuCoin: Old KCS Token'
+  actor: kucoin
+  concepts:
+  - exchange
+- address: '0xa140537594b908ab5bb621cff714d8a483341ce9'
+  label: KubitCoin (KBX)
+  concepts:
+  - exchange
+- address: '0xe59cd29be3be4461d79c0881d238cbe87d64595a'
+  label: Kucoin 7
+  actor: kucoin
+  concepts:
+  - exchange
+- address: '0x039b5649a59967e3e936d7471f9c3700100ee1ab'
+  label: Kucoin Shares (KCS)
+  actor: kucoin
+  concepts:
+  - exchange
+- address: '0xea81ce54a0afa10a027f65503bd52fba83d745b8'
+  actor: kuna
+  label: Kuna.io
+  concepts:
+  - exchange
+- address: '0x77ab999d1e9f152156b4411e1f3e2a42dab8cd6d'
+  actor: kuna
+  label: Kuna.io 2
+  concepts:
+  - exchange
+- address: '0x0861fca546225fbf8806986d211c8398f7457734'
+  label: LAToken
+  concepts:
+  - exchange
+  actor: latoken
+- address: '0x7891b20c690605f4e370d6944c8a5dbfac5a451c'
+  label: LAToken 2
+  concepts:
+  - exchange
+  actor: latoken
+- address: '0x1b6c1a0e20af81b922cb454c3e52408496ee7201'
+  label: LAToken 3
+  concepts:
+  - exchange
+  actor: latoken
+- address: '0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf'
+  label: LAtoken (LA)
+  concepts:
+  - exchange
+  actor: latoken
+- address: '0x9cb1aeafcc8a9406632c5b084246ea72f62d37b6'
+  label: LBK (LBK)
+  concepts:
+  - exchange
+- address: '0x037a54aab062628c9bbae1fdb1583c195585fe41'
+  label: LCX (LCX)
+  concepts:
+  - exchange
+  actor: lcx
+- address: '0x088e46650e0a9051dba1c37c500f602d2ac4fbbf'
+  label: LEXToken (LEX)
+  concepts:
+  - exchange
+- address: '0x0a50c93c762fdd6e56d86215c24aaad43ab629aa'
+  label: LGO Token (LGO)
+  concepts:
+  - exchange
+- address: '0xbbff34e47e559ef680067a6b1c980639eeb64d24'
+  label: Leverj Gluon (L2)
+  concepts:
+  - exchange
+- address: '0x8271b2e8cbe29396e9563229030c89679b9470db'
+  label: Liqui.io 1
+  concepts:
+  - exchange
+- address: '0x5e575279bf9f4acf0a130c186861454247394c06'
+  label: Liqui.io 2
+  concepts:
+  - exchange
+- address: '0xedbb72e6b3cf66a792bff7faac5ea769fe810517'
+  label: Liquid 1
+  concepts:
+  - exchange
+  actor: liquid
+- address: '0xdf4b6fb700c428476bd3c02e6fa83e110741145b'
+  label: Liquid 2
+  concepts:
+  - exchange
+  actor: liquid
+- address: '0xdb2cad4f306b47c9b35541988c7656f1bb092e15'
+  label: Liquid 3
+  concepts:
+  - exchange
+  actor: liquid
+- address: '0x9cc2dce817093ceea82bb67a4cf43131fa354c06'
+  label: Liquid 4
+  concepts:
+  - exchange
+  actor: liquid
+- address: '0xa105C740BC012A43a342Ab4A0Ef40143452C8E89'
+  label: Litbinex Coin (LTB)
+  concepts:
+  - exchange
+- address: '0x8f1459743df07b81ae11a58c5ac6f2fb5fc8f095'
+  label: Littrade (LTE)
+  concepts:
+  - exchange
+- address: '0x243bec9256c9a3469da22103891465b47583d9f1'
+  label: Livecoin.net
+  actor: livecoin
+  concepts:
+  - exchange
+- address: '0xaa19961b6b858d9f18a115f25aa1d98abc1fdba8'
+  label: LocalCoinSwap Cryptoshare (LCS)
+  concepts:
+  - exchange
+- address: '0xbbbbca6a901c926f240b89eacb641d8aec7aeafd'
+  label: LoopringCoin V2 (LRC)
+  concepts:
+  - exchange
+  actor: loopring
+- address: '0x59ab4584cf661f921c3b25a433f3d8a08b416b7b'
+  label: Lucky Finance (LUCKY)
+  concepts:
+  - exchange
+- address: '0x6556d2ec4d96da39cf75cbe50d58fae90079800a'
+  label: Lukki Operating Token (LOT)
+  concepts:
+  - exchange
+- address: '0xaf1931c20ee0c11bea17a41bfbbad299b2763bc0'
+  label: Luno 1
+  concepts:
+  - exchange
+  actor: luno
+- address: '0x416299aade6443e6f6e8ab67126e65a7f606eef5'
+  label: Luno 2
+  concepts:
+  - exchange
+  actor: luno
+- address: '0xefbb3f1058fd8e0c9d7204f532e17d7572affc3e'
+  label: MBCash (MBCASH)
+  concepts:
+  - exchange
+- address: '0x75e89d5979e4f6fba9f97c104c2f0afb3f1dcb88'
+  label: 'MEXC: Mexc.com'
+  concepts:
+  - exchange
+  actor: mxc
+- address: '0x0211f3cedbef3143223d3acf0e589747933e8527'
+  label: 'MEXC: Mexc.com 2'
+  concepts:
+  - exchange
+  actor: mxc
+- address: '0x28e4972c2f2ab76af9303586dc5dfcbca06948fd'
+  label: MUDRA Token (MUDRA)
+  concepts:
+  - exchange
+- address: '0x11eef04c884e24d9b7b4760e7476d06ddf797f36'
+  label: MX Token (MX)
+  concepts:
+  - exchange
+- address: '0x477b8d5ef7c2c42db84deb555419cd817c336b6f'
+  label: MaiCoin 1
+  concepts:
+  - exchange
+  actor: maicoin
+- address: '0x9af5a20aac8d83230ba68542ba29d132d50cbe08'
+  label: Marsan Exchange Token (MRS)
+  concepts:
+  - exchange
+- address: '0x9af096c0c46e413fe46889255017e6f1f8bc18e2'
+  label: Maxxer (MXXR)
+  concepts:
+  - exchange
+- address: '0xe03c23519e18d64f144d2800e30e81b0065c48b5'
+  label: Mercatox
+  concepts:
+  - exchange
+  actor: mercatox
+- address: '0xfef3884b603c33ef8ed4183346e093a173c94da6'
+  label: MetaMorph (METM)
+  concepts:
+  - exchange
+- address: '0x3cc936b795a188f0e246cbb2d74c5bd190aecf18'
+  label: Mexc.com 3
+  concepts:
+  - exchange
+  actor: mxc
+- address: '0xac338d9faac562df26d702880c796e1024e2698a'
+  label: MinedTrade.com
+  concepts:
+  - exchange
+- address: '0x6251E725CD45Fb1AF99354035a414A2C0890B929'
+  label: MixTrust (MXT)
+  concepts:
+  - exchange
+- address: '0x68AA3F232dA9bdC2343465545794ef3eEa5209BD'
+  label: Mothership (MSP)
+  concepts:
+  - exchange
+- address: '0xb9892f9a892f3e251fc58b9076c56add528eb8a6'
+  label: Moyom (MYM)
+  concepts:
+  - exchange
+- address: '0xae7006588d03bd15d6954e3084a7e644596bc251'
+  label: NEXBIT Pro
+  concepts:
+  - exchange
+- address: '0xF29226914595052a04F5AFbe6410D0C3eD707548'
+  label: NEXT (NET)
+  concepts:
+  - exchange
+- address: '0x377d552914e7a104bc22b4f3b6268ddc69615be7'
+  label: NEXT (NEXT)
+  concepts:
+  - exchange
+- address: '0x2d39ec4da54329d28d230b4973f5aa27886c3aee'
+  label: NFXCoin (NFXC)
+  concepts:
+  - exchange
+- address: '0x75231f58b43240c9718dd58b4967c5114342a86c'
+  label: OKB (OKB)
+  concepts:
+  - exchange
+- address: '0x6cc5f688a315f3dc28a7781717a9a798a59fda7b'
+  label: OKEx
+  concepts:
+  - exchange
+  actor: okex
+- address: '0x236f9f97e0e62388479bf9e5ba4889e46b0273c3'
+  label: OKEx 2
+  concepts:
+  - exchange
+  actor: okex
+- address: '0xa7efae728d2936e78bda97dc267687568dd593f3'
+  label: OKEx 3
+  concepts:
+  - exchange
+  actor: okex
+- address: '0x2c8fbb630289363ac80705a1a61273f76fd5a161'
+  label: OKEx 4
+  concepts:
+  - exchange
+  actor: okex
+- address: '0x59fae149a8f8ec74d5bc038f8b76d25b136b9573'
+  label: OKEx 5
+  concepts:
+  - exchange
+  actor: okex
+- address: '0x98ec059dc3adfbdd63429454aeb0c990fba4a128'
+  label: OKEx 6
+  concepts:
+  - exchange
+  actor: okex
+- address: '0x5041ed759dd4afc3a72b8192c143f72f4724081a'
+  label: OKEx 7
+  concepts:
+  - exchange
+  actor: okex
+- address: '0x75231f58b43240c9718dd58b4967c5114342a86c'
+  label: 'OKEx: OKB Token'
+  concepts:
+  - exchange
+  actor: okex
+- address: '0x03e3ff995863828554282e80870b489cc31dc8bc'
+  label: OMGFIN Exchange
+  concepts:
+  - exchange
+- address: '0xaeec6f5aca72f3a005af1b3420ab8c8c7009bac8'
+  label: OTCBTC
+  actor: otcbtc
+  concepts:
+  - exchange
+- address: '0x7778360f035c589fce2f4ea5786cbd8b36e5396b'
+  label: OpenOcean (OOE)
+  concepts:
+  - exchange
+  actor: openoceanfinance
+- address: '0x5dba63c221d7a584795431ce01ecd641a1798416'
+  label: Oratium (ORT)
+  concepts:
+  - exchange
+- address: '0x91bb6965bace45bae7e78ae638152af467f9b004'
+  label: PIEXGO (PXG)
+  concepts:
+  - exchange
+- address: '0x2bf9671f00643afc813a6623074e0ddf6db4fc2b'
+  label: PSQ (PSQ)
+  concepts:
+  - exchange
+- address: '0xcacc694840ecebadd9b4c419e5b7f1d73fedf999'
+  label: 'Panda.Exchange 1: Hot Wallet'
+  concepts:
+  - exchange
+- address: '0xb709d82f0706476457ae6bad7c3534fbf424382c'
+  label: 'Panda.Exchange 2: Hot Wallet'
+  concepts:
+  - exchange
+- address: '0xbd8ef191caa1571e8ad4619ae894e07a75de0c35'
+  label: Paribu 1
+  concepts:
+  - exchange
+  actor: paribu
+- address: '0x2bb97b6cf6ffe53576032c11711d59bd056830ee'
+  label: Paribu 2
+  concepts:
+  - exchange
+  actor: paribu
+- address: '0xfb90501083a3b6af766c8da35d3dde01eb0d2a68'
+  label: Paribu 3
+  concepts:
+  - exchange
+  actor: paribu
+- address: '0xabc74170f3cb8ab352820c39cc1d1e05ce9e41d3'
+  label: Paribu 4
+  concepts:
+  - exchange
+  actor: paribu
+- address: '0x9acbb72cf67103a30333a32cd203459c6a9c3311'
+  label: Paribu 5
+  concepts:
+  - exchange
+  actor: paribu
+- address: '0xb41422d5a1d5d5c73c229686935b40f881502785'
+  label: PayFair Token (PFR)
+  concepts:
+  - exchange
+- address: '0xd4dcd2459bb78d7a645aa7e196857d421b10d93f'
+  label: Peatio
+  concepts:
+  - exchange
+- address: '0x9b108a2377ba4022dA63669E941057153bC006b2'
+  label: PicoToken (Pico)
+  concepts:
+  - exchange
+- address: '0x8f179114235842978d8917e08721541072c46584'
+  label: PointPay Token (PXP)
+  concepts:
+  - exchange
+- address: '0xf59ae934f6fe444afc309586cc60a84a0f89aaea'
+  label: Polkadex (PDEX)
+  concepts:
+  - exchange
+  actor: polkaex
+- address: '0x32be343b94f860124dc4fee278fdcbd38c102d88'
+  label: Poloniex
+  concepts:
+  - exchange
+  actor: poloniex
+- address: '0x209c4784ab1e8183cf58ca33cb740efbf3fc18ef'
+  label: Poloniex 2
+  concepts:
+  - exchange
+  actor: poloniex
+- address: '0xb794f5ea0ba39494ce839613fffba74279579268'
+  label: Poloniex 3
+  concepts:
+  - exchange
+  actor: poloniex
+- address: '0xa910f92acdaf488fa6ef02174fb86208ad7722ba'
+  label: Poloniex 4
+  concepts:
+  - exchange
+  actor: poloniex
+- address: '0xaa9fa73dfe17ecaa2c89b39f0bb2779613c5fc3b'
+  label: 'Poloniex: BAT'
+  concepts:
+  - exchange
+  actor: poloniex
+- address: '0x2fa2bc2ce6a4f92952921a4caa46b3727d24a1ec'
+  label: 'Poloniex: BNT'
+  concepts:
+  - exchange
+  actor: poloniex
+- address: '0x31a2feb9b5d3b5f4e76c71d6c92fc46ebb3cb1c1'
+  label: 'Poloniex: CVC'
+  concepts:
+  - exchange
+  actor: poloniex
+- address: '0x6b71834d65c5c4d8ed158d54b47e6ea4ff4e5437'
+  label: 'Poloniex: FOAM'
+  concepts:
+  - exchange
+  actor: poloniex
+- address: '0x48d466b7c0d32b61e8a82cd2bcf060f7c3f966df'
+  label: 'Poloniex: GNO'
+  concepts:
+  - exchange
+  actor: poloniex
+- address: '0x0536806df512d6cdde913cf95c9886f65b1d3462'
+  label: 'Poloniex: GNT'
+  concepts:
+  - exchange
+  actor: poloniex
+- address: '0x8d451ae5ee8f557a9ce7a9d7be8a8cb40002d5cb'
+  label: 'Poloniex: KNC'
+  concepts:
+  - exchange
+  actor: poloniex
+- address: '0xbd2ec7c608a06fe975dbdca729e84dedb34ecc21'
+  label: 'Poloniex: LOOM'
+  concepts:
+  - exchange
+  actor: poloniex
+- address: '0xc0e30823e5e628df8bc9bf2636a347e1512f0ecb'
+  label: 'Poloniex: MANA'
+  concepts:
+  - exchange
+  actor: poloniex
+- address: '0x65f9b2e4d7aaeb40ffea8c6f5844d5ad7da257e0'
+  label: 'Poloniex: NXC'
+  concepts:
+  - exchange
+  actor: poloniex
+- address: '0x36b01066b7fa4a0fdb2968ea0256c848e9135674'
+  label: 'Poloniex: OMG'
+  concepts:
+  - exchange
+  actor: poloniex
+- address: '0xab11204cfeaccffa63c2d23aef2ea9accdb0a0d5'
+  label: 'Poloniex: REP'
+  concepts:
+  - exchange
+  actor: poloniex
+- address: '0x6795cf8eb25585eadc356ae32ac6641016c550f2'
+  label: 'Poloniex: SNT'
+  concepts:
+  - exchange
+  actor: poloniex
+- address: '0xfbf2173154f7625713be22e0504404ebfe021eae'
+  label: 'Poloniex: STORJ'
+  concepts:
+  - exchange
+  actor: poloniex
+- address: '0x6f803466bcd17f44fa18975bf7c509ba64bf3825'
+  label: 'Poloniex: USDC'
+  concepts:
+  - exchange
+  actor: poloniex
+- address: '0xead6be34ce315940264519f250d8160f369fa5cd'
+  label: 'Poloniex: ZRX'
+  concepts:
+  - exchange
+  actor: poloniex
+- address: '0x6b193e107a773967bd821bcf8218f3548cfa2503'
+  label: Posscoin (POSS)
+  concepts:
+  - exchange
+- address: '0xc5bb5ec4d6d69f32b6cb5b7766fd5f4ec946c58a'
+  label: Python (ptn)
+  concepts:
+  - exchange
+- address: '0xf80937687c3f73493ff44acc29cfd0fbd5b139bc'
+  label: QAI Token (QAI)
+  concepts:
+  - exchange
+- address: '0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6'
+  label: QASH (QASH)
+  concepts:
+  - exchange
+- address: '0x50884c41e84b69f936d3bb90493504f21c7b881d'
+  label: QNFT Token (QNFT)
+  concepts:
+  - exchange
+- address: '0x2217e5921b7edfb4bb193a6228459974010d2198'
+  label: Qmall Token (QMALL)
+  concepts:
+  - exchange
+- address: '0xd344539efe31f8b6de983a0cab4fb721fc69c547'
+  label: QuantaEx 1
+  concepts:
+  - exchange
+- address: '0x5ca39c42f4dee3a5ba8fec3ad4902157d48700bf'
+  label: QuantaEx 2
+  concepts:
+  - exchange
+- address: '0x2a048d9a8ffdd239f063b09854976c3049ae659c'
+  label: QuantaEx 3
+  concepts:
+  - exchange
+- address: '0x577cc8560636bf585e1bb1bb2e281cedd4cd84ea'
+  label: Quantex Coin (QTX)
+  concepts:
+  - exchange
+- address: '0xb8cf411b956b3f9013c1d0ac8c909b086218207c'
+  label: Remitano 1
+  concepts:
+  - exchange
+  actor: remitano
+- address: '0x2819c144d5946404c0516b6f817a960db37d4929'
+  label: Remitano 2
+  concepts:
+  - exchange
+  actor: remitano
+- address: '0x0a9f693fce6f00a51a8e0db4351b5a8078b4242e'
+  label: Resfinex (RES)
+  concepts:
+  - exchange
+  actor: resfinex
+- address: '0xf4dc2cdadd6406e2fa5a82e7cb16feaf355869ca'
+  label: Rexus Exchange (RXS)
+  concepts:
+  - exchange
+- address: '0x7743db95a17be7455710e338292eeaefd28a66ae'
+  label: Rift (RIFT)
+  concepts:
+  - exchange
+  actor: riftfinance
+- address: '0x7dab77cba1af8F02858B8f07861D85E677A593a8'
+  label: RiverMount (RM)
+  concepts:
+  - exchange
+- address: '0xB1F233835de2440620332267ba729bFE74FA2CfD'
+  label: SOLOXCOIN (SL)
+  concepts:
+  - exchange
+- address: '0xd7d05bda4bf5876ba1254b3eaaf8b47d2f5676eb'
+  label: STABLE Asset (STA)
+  concepts:
+  - exchange
+- address: '0x5c5887e55bbe41472acdba5fae989788c6f7ab59'
+  label: STK Coin (STK)
+  concepts:
+  - exchange
+- address: '0xe96f2c381e267a96c29bbb8ab05ab7d3527b45ab'
+  label: SatoExchange (SATX)
+  concepts:
+  - exchange
+- address: '0x00C3bedB44D4e3521563dE947f6800aa4302C441'
+  label: Scalpex Token (SXE)
+  concepts:
+  - exchange
+- address: '0x120a270bbc009644e35f0bb6ab13f95b8199c4ad'
+  label: ShapeShift 1
+  concepts:
+  - exchange
+  actor: shapeshift
+- address: '0x9e6316f44baeeee5d41a1070516cc5fa47baf227'
+  label: ShapeShift 2
+  concepts:
+  - exchange
+  actor: shapeshift
+- address: '0x70faa28a6b8d6829a4b1e649d26ec9a2a39ba413'
+  label: ShapeShift 3
+  concepts:
+  - exchange
+  actor: shapeshift
+- address: '0x563b377a956c80d77a7c613a9343699ad6123911'
+  label: ShapeShift 4
+  concepts:
+  - exchange
+  actor: shapeshift
+- address: '0xd3273eba07248020bf98a8b560ec1576a612102f'
+  label: ShapeShift 5
+  concepts:
+  - exchange
+  actor: shapeshift
+- address: '0x3b0bc51ab9de1e5b7b6e34e5b960285805c41736'
+  label: ShapeShift 6
+  concepts:
+  - exchange
+  actor: shapeshift
+- address: '0xeed16856d551569d134530ee3967ec79995e2051'
+  label: ShapeShift 7
+  concepts:
+  - exchange
+  actor: shapeshift
+- address: '0x1ef6a7e2c966fb7c5403efefde38338b1a95a084'
+  label: ShieldEX (SLD)
+  concepts:
+  - exchange
+- address: '0xb548daa2aebeebe661768a6dfa98c0649c670385'
+  label: Skyrus Gold (SKXG)
+  concepts:
+  - exchange
+- address: '0x324cc2c9fb379ea7a0d1c0862c3b48ca28d174a4'
+  label: SouthXchange
+  concepts:
+  - exchange
+  actor: southxchange
+- address: '0x91f6d99b232153cb655ad3e0d05e13ef505f6cd5'
+  label: Sparrow Exchange 1
+  concepts:
+  - exchange
+- address: '0xe855283086fbee485aecf2084345a91424c23954'
+  label: Sparrow Exchange 2
+  concepts:
+  - exchange
+- address: '0x9bf25700727d10a857099d1033ce2cc493c3b61a'
+  label: 'Streamity: StreamDesk'
+  concepts:
+  - exchange
+- address: '0xd6a55c63865affd67e2fb9f284f87b7a9e5ff3bd'
+  label: Switch (ESH)
+  concepts:
+  - exchange
+- address: '0xa96b536eef496e21f5432fd258b6f78cf3673f74'
+  label: Switchain
+  concepts:
+  - exchange
+- address: '0xd38bb40815d2b0c2d2c866e0c72c5728ffc76dd9'
+  label: Symbiosis (SIS)
+  concepts:
+  - exchange
+  actor: symbiosisfinance
+- address: '0x179e31fb25e433441a2839389a7b8ec9c4654b7b'
+  label: SynchroBitcoin (SNB)
+  concepts:
+  - exchange
+- address: '0xea3a46bd1dbd0620d80037f70d0bf7c7dc5a837c'
+  label: TAGZ 1
+  concepts:
+  - exchange
+- address: '0xed8204345a0cf4639d2db61a4877128fe5cf7599'
+  label: TAGZ 2
+  concepts:
+  - exchange
+- address: '0xea4a1fc739d8b70d16185950332158edfa85d3e8'
+  label: TAOCOIN (TAO)
+  concepts:
+  - exchange
+- address: '0x5ecc4b299e23f526980c33fe35eff531a54aedb1'
+  label: TCH Token (TCH)
+  concepts:
+  - exchange
+- address: '0x36b60a425b82483004487abc7adcb0002918fc56'
+  label: TICOEX Token (TICO)
+  concepts:
+  - exchange
+- address: '0xd31695a1d35e489252ce57b129fd4b1b05e6acac'
+  label: TOKPIE (TKP)
+  concepts:
+  - exchange
+  actor: tokpie
+- address: '0xf6317dd9b04097a9e7b016cd23dcaa7cfe19d9c6'
+  label: TOPBTC TOKEN (TOPB)
+  concepts:
+  - exchange
+  actor: topbtc
+- address: '0x7051620d11042c4335069AaA4f10Cd3B4290C681'
+  label: Tcash (TCASH)
+  concepts:
+  - exchange
+- address: '0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1'
+  label: TeraBlock Token (TBC)
+  concepts:
+  - exchange
+- address: '0x009668a9691e456972c8ec4cc84e99486308b84d'
+  label: Terareum (TERA)
+  concepts:
+  - exchange
+- address: '0x3613ef1125a078ef96ffc898c4ec28d73c5b8c52'
+  label: Tidex 1
+  concepts:
+  - exchange
+  actor: tidex
+- address: '0x0a73573cf2903d2d8305b1ecb9e9730186a312ae'
+  label: Tidex 2
+  concepts:
+  - exchange
+  actor: tidex
+- address: '0x317eb4ad9cfac6232f0046831322e895507bcbeb'
+  label: Tidex Token (TDX)
+  concepts:
+  - exchange
+  actor: tidex
+- address: '0x511D35c52a3C244E7b8bd92c0C297755FbD89212'
+  label: Timechain Swap Token (TCS)
+  concepts:
+  - exchange
+- address: '0xED6aAd9650815D1647480CaA1133043800d31533'
+  label: Token Offering Platform (TOP)
+  concepts:
+  - exchange
+- address: '0x667102bd3413bfeaa3dffb48fa8288819e480a88'
+  label: Tokenize Emblem (TKX)
+  concepts:
+  - exchange
+  actor: tokenize
+- address: '0x0068eb681ec52dbd9944517d785727310b494575'
+  label: Tokocrypto
+  concepts:
+  - exchange
+  actor: tokocrypto
+- address: '0xb2cc3cdd53fc9a1aeaf3a68edeba2736238ddc5d'
+  label: TopBTC
+  concepts:
+  - exchange
+  actor: topbtc
+- address: '0xd947b0ceab2a8885866b9a04a06ae99de852a3d4'
+  label: Trade Token X (TIOx)
+  concepts:
+  - exchange
+  actor: tradeio
+- address: '0x1119aaefb02bf12b84d28a5d8ea48ec3c90ef1db'
+  label: Trade.io
+  actor: tradeio
+  concepts:
+  - exchange
+- address: '0x937f3d2536bb4796b7040252ae4332370551f633'
+  label: Tulipex.io Utility Token (TLP)
+  concepts:
+  - exchange
+- address: '0x6b74dd5d01f8320081247f5cf1f7a48324700db6'
+  label: UBU (UBU)
+  concepts:
+  - exchange
+- address: '0x2f1233ec3a4930fd95874291db7da9e90dfb2f03'
+  label: Uex
+  concepts:
+  - exchange
+- address: '0x95b3497bbcccc46a8f45f5cf54b0878b39f8d96c'
+  label: UniDex (UNIDX)
+  concepts:
+  - exchange
+  actor: unidex
+- address: '0x390de26d772d2e2005c6d1d24afc902bae37a4bb'
+  label: Upbit
+  concepts:
+  - exchange
+  actor: upbit
+- address: '0xba826fec90cefdf6706858e5fbafcb27a290fbe0'
+  label: Upbit 2
+  concepts:
+  - exchange
+  actor: upbit
+- address: '0x5e032243d507c743b061ef021e2ec7fcc6d3ab89'
+  label: Upbit 3
+  concepts:
+  - exchange
+  actor: upbit
+- address: '0x1518cf262d4273d0e987402A97345C3dca1Cf731'
+  label: VEL (VEL)
+  concepts:
+  - exchange
+- address: '0x00fc270c9cc13e878ab5363d00354bebf6f05c15'
+  label: VNX Exchange (VNXLU)
+  concepts:
+  - exchange
+- address: '0x297e4e5e59ad72b1b0a2fd446929e76117be0e0a'
+  label: ValorToken (VALOR)
+  concepts:
+  - exchange
+- address: '0xf6D4fBc3B86811df25d829A14daE0269a3EE5462'
+  label: Venice Coin (VENICE)
+  concepts:
+  - exchange
+- address: '0xb436c96c6de1f50a160ed307317c275424dbe4f2'
+  label: Vinex
+  concepts:
+  - exchange
+- address: '0x8df586aa346c3d9d1c99a21316a2735d71355ec8'
+  label: Wallstreetbets (WSB)
+  concepts:
+  - exchange
+- address: '0x27f610bf36eca0939093343ac28b1534a721dbb4'
+  label: Wand Token (WAND)
+  concepts:
+  - exchange
+- address: '0x39f6a6c85d39d5abad8a398310c52e7c374f2ba3'
+  label: WhiteBIT
+  concepts:
+  - exchange
+  actor: whitebit
+- address: '0x0e5069514a3dd613350bab01b58fd850058e5ca4'
+  label: Wintermute
+  concepts:
+  - exchange
+- address: '0xb3f923eabaf178fc1bd8e13902fc5c61d3ddef5b'
+  label: 'Wintermute: Binance Deposit'
+  concepts:
+  - exchange
+- address: '0x4be10da47a07716af28ad199fbe020501bddd7af'
+  label: XT Token (XT)
+  concepts:
+  - exchange
+  actor: xt
+- address: '0xefda0cb780a8564903285ed25df3cc024f3b2982'
+  label: XT.com Hot Wallet
+  actor: xt
+  concepts:
+  - exchange
+- address: '0xebf4ca5319f406602eeff68da16261f1216011b5'
+  label: Yo Token (YOT)
+  concepts:
+  - exchange
+- address: '0xf5bec430576ff1b82e44ddb5a1c93f6f9d0884f3'
+  label: Yobit.net
+  concepts:
+  - exchange
+  actor: yobit
+- address: '0xd94c9ff168dc6aebf9b6cc86deff54f3fb0afc33'
+  label: Yunbi 1
+  concepts:
+  - exchange
+- address: '0x42da8a05cb7ed9a43572b5ba1b8f82a0a6e263dc'
+  label: Yunbi 2
+  concepts:
+  - exchange
+- address: '0x700f6912e5753e91ea3fae877a2374a2db1245d7'
+  label: Yunbi 3
+  concepts:
+  - exchange
+- address: '0x60d0cc2ae15859f69bf74dadb8ae3bd58434976b'
+  label: ZB.com
+  actor: zbcom
+  concepts:
+  - exchange
+- address: '0x182a603541a4483c308475147d621bbb4e2587c6'
+  label: ZBToken (ZB)
+  actor: zbcom
+  concepts:
+  - exchange
+- address: '0xbd0793332e9fb844a52a205a233ef27a5b34b927'
+  label: ZBToken (ZB)
+  actor: zbcom
+  concepts:
+  - exchange
+- address: '0xd6e91857090c901f3b96d6df7cfb3b41f8673942'
+  label: ZBX Token (ZBX)
+  concepts:
+  - exchange
+  actor: zbx
+- address: '0xfbc4f3f645c4003a2e4f4e9b51077d2daa9a9341'
+  label: Zedxion (ZEDXION)
+  concepts:
+  - exchange
+- address: '0xec6ce30daf8195a65c83a29025bd334bc9481ca0'
+  label: ZeroFeeXchange (ZFX)
+  concepts:
+  - exchange
+- address: '0xe386b139ed3715ca4b18fd52671bdcea1cdfe4b1'
+  label: Zeus Token (ZST)
+  concepts:
+  - exchange
+  actor: zeusfinance
+- address: '0xe760a89967d8c7fa638eebfc15a77ba107674021'
+  label: Ziggurat Token (ZIG)
+  concepts:
+  - exchange
+- address: '0xaa602dE53347579f86b996D2Add74bb6F79462b2'
+  label: Zipmex Token (ZMT)
+  concepts:
+  - exchange
+  actor: zipmex
+- address: '0xad0887734461aF8C6033068bDE4047Dbe84074cc'
+  label: arbiswap (aswap)
+  concepts:
+  - exchange
+- address: '0x111cff45948819988857bbf1966a0399e0d1141e'
+  label: bitFlyer
+  actor: bitflyer
+  concepts:
+  - exchange
+- address: '0xb9f185f370f8cc2a247f16c055381e95bf9ee146'
+  label: bttmall (BT)
+  concepts:
+  - exchange
+- address: '0x20566d84d979841849478e3d17fc81445152b84b'
+  label: dDEXX Token (dDEXX)
+  concepts:
+  - exchange
+- address: '0x3aec6473744ea75dc3b2206fad1e057d52ca46dd'
+  label: evic (EVIC)
+  concepts:
+  - exchange
+- address: '0x2b93824ad1c8c2dd79351facae9473eaef062366'
+  label: flexBTC (flexBTC)
+  concepts:
+  - exchange
+- address: '0x40fB4096E0ACbf97D0087C3b7e4c6794Aa24a32f'
+  label: flexETH (flexETH)
+  concepts:
+  - exchange
+- address: '0xa774FFB4AF6B0A91331C084E1aebAE6Ad535e6F3'
+  label: flexUSD (flexUSD)
+  concepts:
+  - exchange
+- address: '0x5666bdc5c4F54f6ef65956e315E1A674932B68d5'
+  label: fonetones (FON)
+  concepts:
+  - exchange
+- address: '0xfb3a7bfc0d54e9347e321242d1723809415f8fe4'
+  label: rBitex (rBitx)
+  concepts:
+  - exchange
+- address: '0xd03B6ae96CaE26b743A6207DceE7Cbe60a425c70'
+  label: unibot.cash (UNDB)
+  concepts:
+  - exchange
+- address: '0xd2bb16cf38ca086cab5128d5c25de9477ebd596b'
+  label: xCrypt Token (XCT)
+  concepts:
+  - exchange
+- address: '0x0bE46BFD9ac3E4ad4908a6B49f3Ba82d9a2Abbc8'
+  label: ysv.finance (YSV)
+  concepts:
+  - exchange

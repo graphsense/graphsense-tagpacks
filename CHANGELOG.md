@@ -1,13 +1,18 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [23.06] 2023-06-12
+## [23.09] 2023-09-20
+### Added
+- new addresses related to the lazerus group
+- added actor kurant
+### Changed
+- added actors to eth wordcloud
 
+## [23.06] 2023-06-12
 ### Changed
 - OFAC data update
 - Updated "How to contribute" section in README
 
 ## [23.03] 2023-03-30
-
 ### Added
   - initial actors file and actors annotation [#39](https://github.com/graphsense/graphsense-tagpacks/issues/39), [#38](https://github.com/graphsense/graphsense-tagpacks/issues/38), [#43](https://github.com/graphsense/graphsense-tagpacks/issues/43)
   - Actors from Walletexplorer [#35](https://github.com/graphsense/graphsense-tagpacks/issues/35)  
@@ -16,7 +21,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
   - USDT blacklist tagpack
 
 ## [23.01] 2023-01-30
-
 ### Added
 - demo ActorPacks file
 - ActorPacks: VASPs having proof-of-reserves, from Walletexplorer

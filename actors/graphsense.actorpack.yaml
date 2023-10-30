@@ -28446,6 +28446,16 @@ actors:
     legal_name: NiceHash LTD
     active: true
     twitter_handle: NiceHashMining
+- id: nicechange
+  label: Nice Change
+  jurisdictions:
+    - PA
+  categories:
+  - exchange
+  uri: nicechange.net
+  context:
+    refs:
+    - www.bestchange.com/nicechange-exchanger.html
 - id: nidhidao
   label: Nidhi-Dao
   jurisdictions: []

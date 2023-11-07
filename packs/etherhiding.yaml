@@ -1,0 +1,10 @@
+title: EtherHiding addresses
+creator: GraphSense Core team
+description: Web2 Malicious Code hidden in Web3 Smart Contracts
+source: https://labs.guard.io/etherhiding-hiding-web2-malicious-code-in-web3-smart-contracts-65ea78efad16
+currency: BSC
+confidence: web_crawl
+label: etherhiding
+tags:
+- address: '0x7f36D9292e7c70A204faCC2d255475A861487c60'
+- address: '0xfc1fE66FB63c542A3e4D45305DaB196E5EcA222A'

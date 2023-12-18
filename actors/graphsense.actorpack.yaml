@@ -36247,6 +36247,14 @@ actors:
     refs:
     - btc.com/stats/pool/simplecoin.us
     active: false
+- id: sinbadio
+  label: sinbad.io
+  uri: sinbad.io
+  categories:
+    - mixing_service
+  context:
+    refs:
+      - https://ofac.treasury.gov/recent-actions/20231129
 - id: sinegy
   label: SINEGY
   jurisdictions:

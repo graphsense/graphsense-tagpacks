@@ -1,0 +1,13 @@
+title: sinbad.io
+creator: GraphSense Core Team
+is_cluster_definer: false
+confidence: authority_data
+description: Addresses related to sinbad.io
+category: mixing_service
+currency: BTC
+label: sinbad.io
+source: https://ofac.treasury.gov/recent-actions/20231129
+actor: sinbadio
+tags:
+- address: bc1qq7p0es3dv5hcynjjf40f2xjjr6qp5py47d2f6n847vduuq9gvnyq7y9ecd
+- address: 1JHdQHkBZiim1cb4hyUh2PbzEbbg6z2TrF

@@ -1,11 +1,8 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [23.09] 2023-09-20
+## [24.01] 2023-01-08
 ### Added
-- new addresses related to the lazerus group
-- added actor kurant
-### Changed
-- added actors to eth wordcloud
+- added actor nicechange
 
 ## [23.06] 2023-06-12
 ### Changed

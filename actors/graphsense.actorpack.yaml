@@ -6918,6 +6918,21 @@ actors:
     - rebranded nuri
     active: true
     start_activity: '2015'
+- id: bitwise
+  label: bitwise
+  jurisdictions:
+  - US
+  categories:
+  - service
+  uri: bitwiseinvestments.com
+  context:
+    uris:
+    - bitbetf.com
+    refs:
+    - https://www.forbes.com/sites/digital-assets/2024/01/25/bitwise-become-first-to-disclose-bitcoin-etf-holdings-address
+    notes:
+    - Bitwise Bitcoin ET
+    active: true
 - id: bitwellex
   label: BitWell Exchange
   jurisdictions:

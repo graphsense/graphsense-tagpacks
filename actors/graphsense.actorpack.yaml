@@ -33799,6 +33799,31 @@ actors:
     images:
     - icons.llama.fi/ramp.png
     twitter_handle: RampDefi
+- id: rampnetwork
+  label: Ramp Network (Ramp Swaps Ltd)
+  jurisdictions:
+  - GB
+  categories:
+  - exchange
+  uri: ramp.network
+  context:
+    refs:
+    - www.linkedin.com/company/rampnetwork/
+    - facebook.com/RampNetwork/
+    twitter_handle: RampNetwork
+- id: nexchange
+  label: N Exchange (NEX Holdings LTD 120480 RMI)
+  jurisdictions:
+    - GB
+  categories:
+  - exchange
+  uri: n.exchange
+  context:
+    refs:
+    - www.facebook.com/nexchangeCC/
+    - nexchangecommunity.slack.co
+    - www.youtube.com/c/nexchange
+    twitter_handle: nexchangeCC
 - id: ramprotocol
   label: Ram Protocol
   jurisdictions: []

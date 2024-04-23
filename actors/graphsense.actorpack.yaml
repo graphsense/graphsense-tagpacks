@@ -4807,6 +4807,8 @@ actors:
   jurisdictions: []
   label: BetChain.com-old
   context:
+    uris:
+    - www.betchain.com
     refs:
     - www.walletexplorer.com/wallet/BetChain.com-old
 - id: betcoinag
@@ -5082,6 +5084,8 @@ actors:
   - exchange
   uri: bigone.com
   context:
+    uris:
+    - big.one
     coingecko_ids:
     - bigone
     refs:
@@ -5103,6 +5107,8 @@ actors:
   - exchange
   uri: biki.cc
   context:
+    uris:
+    - www.biki.com
     refs:
     - cer.live/exchange/biki
     - coinmarketcap.com/exchanges/biki/
@@ -5178,6 +5184,7 @@ actors:
     uris:
     - www.binance.us
     - www.binance.com
+    - www.trbinance.com
     coingecko_ids:
     - binance_dex_mini
     - binance_us
@@ -6053,6 +6060,8 @@ actors:
   - exchange
   uri: bitflyereuropesa.pxf.io
   context:
+    uris:
+    - bitflyer.com
     coingecko_ids:
     - bitflyer
     refs:
@@ -6804,6 +6813,8 @@ actors:
   - exchange
   uri: bittrex.com
   context:
+    uris:
+    - bittrexglobal.com
     coingecko_ids:
     - bittrex
     defilama_ids:
@@ -12387,6 +12398,8 @@ actors:
   jurisdictions: []
   label: Crypto-Games.net
   context:
+    uris:
+    - crypto.games
     refs:
     - www.walletexplorer.com/wallet/Crypto-Games.net
 - id: crypto-tradecom
@@ -20696,6 +20709,7 @@ actors:
   context:
     uris:
     - www.huobi.com
+    - hbg.com
     coingecko_ids:
     - huobi
     defilama_ids:
@@ -42017,7 +42031,7 @@ actors:
     - icons.llama.fi/unirex-finance.png
     twitter_handle: UnirexFinance
 - id: uniswap
-  label: Uniswap V1/V2/V3
+  label: Uniswap
   jurisdictions:
   - US
   categories:

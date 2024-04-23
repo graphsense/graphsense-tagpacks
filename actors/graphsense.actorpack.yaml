@@ -18398,6 +18398,9 @@ actors:
   categories:
     - exchange
   context:
+    uris:
+    - garantex.io
+    - garantex.org
     refs:
     - golden.com/wiki/Garantex-EKMYW54
     - glasschain.org/provider/Garantex%20Russia
@@ -19214,6 +19217,8 @@ actors:
   - exchange
   uri: www.gopax.co.kr
   context:
+    uris:
+    - gopax.com
     coingecko_ids:
     - gopax
     refs:
@@ -29215,6 +29220,7 @@ actors:
   context:
     uris:
     - www.okcoin.com
+    - okcoin.jp
     coingecko_ids:
     - okcoin
     defilama_ids:
@@ -30461,6 +30467,8 @@ actors:
   - exchange
   uri: p2pb2b.com
   context:
+    uris:
+    - p2pb2b.io
     coingecko_ids:
     - p2pb2b
     refs:

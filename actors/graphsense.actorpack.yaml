@@ -26737,6 +26737,11 @@ actors:
   context:
     refs:
     - btc.com/stats/pool/MiningKings 
+- id: miningpoolhub
+  label: Mining Pool Hub
+  categories:
+    - miner
+  uri: miningpoolhub.com
 - id: miningtycoon
   label: MiningTycoon
   jurisdictions: []
@@ -27887,6 +27892,11 @@ actors:
     - api.coingecko.com/api/v3/exchanges/nanu_exchange
     images:
     - assets.coingecko.com/markets/images/252/small/nanu-exchange.jpg?1536725777
+- id: nanopool
+  label: Nanopool
+  categories:
+  - miner
+  uri: nanopool.org
 - id: naosfinance
   label: NAOS Finance
   jurisdictions: []

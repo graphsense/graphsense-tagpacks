@@ -6,7 +6,8 @@ description: Addresses related to Hydra Market
 category: market
 currency: BTC
 label: Hydra Market
-lastmod: 2022-04-12
+is_cluster_definer: true
+lastmod: 2023-05-10
 source: https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220405
 actor: hydramarket
 tags:

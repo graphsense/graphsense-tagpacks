@@ -34334,6 +34334,11 @@ actors:
     images:
     - icons.llama.fi/revest-finance.jpg
     twitter_handle: RevestFinance
+- id: revolut
+  label: Revolut
+  uri: revolut.com
+  categories:
+    - exchange
 - id: revoluzion
   label: Revoluzion
   jurisdictions: []

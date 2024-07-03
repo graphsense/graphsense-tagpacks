@@ -16423,6 +16423,19 @@ actors:
     - icons.llama.fi/excalibur.png
     - assets.coingecko.com/markets/images/836/small/Excalibur.jpeg?1647829951
     twitter_handle: ExcaliburDeFi
+- id: exchcx
+  label: Exchange-Credit
+  categories:
+  - exchange
+  uri: exch.cx
+  context:
+    uris:
+    - exch.pw
+    refs:
+    - platform.arkhamintelligence.com/explorer/entity/exch
+    - www.linkedin.com/company/exchcx
+    - https://hszyoqwrcp7cxlxnqmovp6vjvmnwj33g4wviuxqzq47emieaxjaperyd.onion/
+    twitter_handle: exchex
 - id: exchangecredit
   label: Exchange-Credit
   jurisdictions:

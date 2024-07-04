@@ -16424,7 +16424,7 @@ actors:
     - assets.coingecko.com/markets/images/836/small/Excalibur.jpeg?1647829951
     twitter_handle: ExcaliburDeFi
 - id: exchcx
-  label: Exchange-Credit
+  label: Exch.cx
   categories:
   - exchange
   uri: exch.cx

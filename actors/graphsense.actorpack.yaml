@@ -5156,7 +5156,7 @@ actors:
     - icons.llama.fi/billion-happiness.png
     twitter_handle: BHC_Happiness
 - id: binance
-  label: Binance (US, DEX)
+  label: Binance
   jurisdictions:
   - MT
   - CA

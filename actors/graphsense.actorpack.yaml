@@ -26070,6 +26070,19 @@ actors:
     images:
     - icons.llama.fi/mercurity.png
     twitter_handle: MercurityDefi
+- id: mercuriyoio
+  label: Mercuryo.io
+  jurisdictions: 
+    - CA
+    - GB
+  categories:
+  - organization
+  - exchange
+  uri: mercuryo.io
+  context:
+    refs:
+      - https://www.linkedin.com/company/mercuryo-io/
+    twitter_handle: Mercuryo_io
 - id: meritcircle
   label: Merit Circle
   jurisdictions: []

@@ -26072,7 +26072,7 @@ actors:
     twitter_handle: MercurityDefi
 - id: mercuriyoio
   label: Mercuryo.io
-  jurisdictions: 
+  jurisdictions:
     - CA
     - GB
   categories:

@@ -8073,7 +8073,7 @@ actors:
 - id: btce
   label: Btc-E
   jurisdictions:
-  - AU
+  - RU
   categories:
   - exchange
   uri: btc-e.com

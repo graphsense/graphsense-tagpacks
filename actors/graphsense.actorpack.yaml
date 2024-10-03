@@ -9561,6 +9561,14 @@ actors:
     legal_name: ChainEX (Pty) Ltd
     active: true
     twitter_handle: ChainEXIO
+- id: chainflip
+  label: Chainflip.io
+  jurisdictions: [DE]
+  categories:
+    - defi_bridge
+  uri: chainflip.io
+  context:
+    twitter_handle: chainflip
 - id: chaingefinance
   label: Chainge Finance
   jurisdictions: []

@@ -3783,6 +3783,23 @@ actors:
     images:
     - icons.llama.fi/back-finance.jpg
     twitter_handle: Back_Finance
+- id: backpack
+  label: Backpack Exchange
+  jurisdictions:
+  - AE
+  categories:
+  - organization
+  - exchange
+  uri: backpack.exchange
+  context:
+    coingecko_ids:
+    - backpack-exchange
+    defilama_ids:
+    - backpack
+    refs:
+    - defillama.com/cex/backpack#information
+    - coinmarketcap.com/exchanges/backpack-exchange/
+    twitter_handle: backpack
 - id: bacondao
   label: BaconDAO
   jurisdictions: []
@@ -5838,6 +5855,23 @@ actors:
       - glasschain.org/provider/BitcoinToYou.com
       - golden.com/wiki/BitcoinToYou-XKEZKB6
     twitter_handle: bitcointoyou
+- id: bitcointry
+  label: Bitcointry Exchange
+  jurisdictions:
+  - TR
+  categories:
+  - organization
+  - exchange
+  uri: bitcointry.com
+  context:
+    coingecko_ids:
+    - bitcointry-exchange
+    defilama_ids:
+    - bitcointry
+    refs:
+    - defillama.com/cex/bitcointry#information
+    - coinmarketcap.com/exchanges/bitcointry-exchange/
+    twitter_handle: Bitcointrycom
 - id: bitcoinvideocasinocom
   uri: bitcoinvideocasino.com
   categories:
@@ -6447,6 +6481,23 @@ actors:
     - assets.coingecko.com/markets/images/277/small/%E5%8E%9F%E8%89%B2.png?1650557355
     active: true
     twitter_handle: _AscendEX
+- id: bitmake
+  label: BitMake
+  jurisdictions:
+  - AE
+  categories:
+  - organization
+  - exchange
+  uri: bitmake.com
+  context:
+    coingecko_ids:
+    - bitmake
+    defilama_ids:
+    - bitmake
+    refs:
+    - defillama.com/cex/bitmake#information
+    - coinmarketcap.com/exchanges/bitmake/
+    twitter_handle: BitMakeOfficial
 - id: bitme
   label: Bitme
   jurisdictions:
@@ -6867,6 +6918,23 @@ actors:
     refs:
     - www.theasianbanker.com/publication/virtual-currency-services
     active: false
+- id: bitunix
+  label: Bitunix Exchange
+  jurisdictions:
+  - SC
+  categories:
+  - organization
+  - exchange
+  uri: www.bitunix.com
+  context:
+    coingecko_ids:
+    - bitunix
+    defilama_ids:
+    - bitunix
+    refs:
+    - defillama.com/cex/bitunix#information
+    - coinmarketcap.com/exchanges/bitunix/
+    twitter_handle: BitunixOfficial
 - id: bitvavo
   label: Bitvavo
   jurisdictions:
@@ -7286,6 +7354,24 @@ actors:
     refs:
     - www.linkedin.com/company/blocktradecom/?originalSubdomain=lu
     active: true
+- id: blofin
+  label: BloFin Exchange
+  jurisdictions:
+  - MH
+  categories:
+  - organization
+  - exchange
+  uri: blofin.com
+  context:
+    coingecko_ids:
+    - blofin-spot
+    - blofin-futures
+    defilama_ids:
+    - blofin
+    refs:
+    - defillama.com/cex/blofin#information
+    - coinmarketcap.com/exchanges/blofin/
+    twitter_handle: Blofin_Official
 - id: blossom
   label: Blossom
   jurisdictions:
@@ -16801,6 +16887,23 @@ actors:
     images:
     - icons.llama.fi/fastyield-finance.png
     twitter_handle: fastyieldapp
+- id: fastex
+  label: Fastex
+  jurisdictions:
+  - LT
+  categories:
+  - organization
+  - exchange
+  uri: www.fastex.com
+  context:
+    coingecko_ids:
+    - fastex
+    defilama_ids:
+    - fastex
+    refs:
+    - defillama.com/cex/fastex#information
+    - coinmarketcap.com/exchanges/fastex/
+    twitter_handle: FastEx
 - id: fatbtc
   label: FatBTC
   jurisdictions:
@@ -17270,6 +17373,23 @@ actors:
     images:
     - icons.llama.fi/fliperino.png
     twitter_handle: Fliperino2
+- id: flipster
+  label: Flipster
+  jurisdictions:
+  - PL
+  categories:
+  - organization
+  - exchange
+  uri: flipster.io
+  context:
+    coingecko_ids:
+    - flipster
+    defilama_ids:
+    - flipster
+    refs:
+    - defillama.com/cex/flipster#information
+    - coinmarketcap.com/exchanges/flipster/
+    twitter_handle: flipster_io
 - id: float
   label: Float Capital
   jurisdictions: []
@@ -19860,6 +19980,29 @@ actors:
     - www.crunchbase.com/organization/hashnest
     - www.walletexplorer.com/wallet/Hashnest.com
     active: true
+- id: hashkeyexchange
+  label: Hashkey Exchange
+  jurisdictions:
+  - HK
+  categories:
+  - organization
+  - exchange
+  uri: www.hashkey.com
+  context:
+    coingecko_ids:
+    - hashkey-exchange
+    - hashkey-global
+    - hashkey-global-futures
+    - hashkey-platform-token
+    defilama_ids:
+    - hashkey-exchange
+    - hashkey-global
+    refs:
+    - defillama.com/cex/hashkey-exchange#information
+    - defillama.com/cex/hashkey-global#information
+    - coinmarketcap.com/exchanges/hashkey-exchange/
+    - coinmarketcap.com/exchanges/hashkey-global/
+    twitter_handle: hashkeyhsk
 - id: hatsfinance
   label: Hats.Finance
   jurisdictions: []
@@ -20257,6 +20400,22 @@ actors:
     active: true
     twitter_handle: hitbtc
     github_organisation: hitbtc-com
+- id: hibt
+  label: HiBT
+  jurisdictions:
+  - US
+  - CA
+  categories:
+  - organization
+  - exchange
+  uri: hibt.com
+  context:
+    defilama_ids:
+    - hibt
+    refs:
+    - defillama.com/cex/hibt#information
+    - coinmarketcap.com/exchanges/hibt/
+    twitter_handle: HIBTGlobal
 - id: hiveswap
   label: HiveSwap
   jurisdictions: []
@@ -28688,6 +28847,22 @@ actors:
     images:
     - icons.llama.fi/nomad.png
     twitter_handle: nomadxyz_
+- id: nonkyc
+  label: Nonkyc.io
+  jurisdictions: []
+  categories:
+  - organization
+  - exchange
+  uri: nonkyc.io
+  context:
+    coingecko_ids:
+    - flipster
+    defilama_ids:
+    - nonkyc-io
+    refs:
+    - defillama.com/cex/nonkyc#information
+    - coinmarketcap.com/exchanges/nonkyc/
+    twitter_handle: nonkyc_exchange
 - id: nominex
   label: Nominex
   jurisdictions:
@@ -34672,6 +34847,19 @@ actors:
     - icons.llama.fi/robiniaswap.png
     - icons.llama.fi/wisteriaswap.png
     twitter_handle: robiniaswap
+- id: robinhood
+  label: Robinhood
+  jurisdictions: []
+  categories:
+  - organization
+  - exchange
+  uri: robinhood.com
+  context:
+    defilama_ids:
+    - robinhood
+    refs:
+    - defillama.com/cex/robinhood#information
+    twitter_handle: RobinhoodApp
 - id: roboadvisorforyield
   label: Robo-Advisor for Yield / Ray
   jurisdictions: []
@@ -40822,6 +41010,23 @@ actors:
     images:
     - icons.llama.fi/tokemak.jpg
     twitter_handle: TokenReactor
+- id: toobit
+  label: Toobit
+  jurisdictions:
+  - KY
+  categories:
+  - organization
+  - exchange
+  uri: www.toobit.com
+  context:
+    coingecko_ids:
+    - toobit
+    defilama_ids:
+    - toobit
+    refs:
+    - defillama.com/cex/toobit#information
+    - coinmarketcap.com/exchanges/toobit/
+    twitter_handle: Toobit_official
 - id: tokencan
   label: Tokencan
   jurisdictions:

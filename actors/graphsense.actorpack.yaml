@@ -1981,6 +1981,15 @@ actors:
     images:
     - icons.llama.fi/ankr.jpg
     twitter_handle: ankr
+- id: anycash
+  label: AnyCash
+  jurisdictions: []
+  categories:
+  - exchange
+  uri: any.cash
+  context:
+    refs:
+    - t.me/AnyCashRoBot
 - id: annex
   label: Annex
   jurisdictions: []

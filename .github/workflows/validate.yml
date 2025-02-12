@@ -1,38 +1,29 @@
-name: Validate TagPacks
+name: Validate Private TagPacks
 
 on:
   push:
     branches:
+      - main
       - master
 
 jobs:
-  build:
-    runs-on: ubuntu-20.04
+  uv-example:
+    name: python
+    runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: [3.8]
+        python-version: [3.9]
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-    - name: Checkout TagPack tools
-      uses: actions/checkout@v2
-      with:
-        repository: graphsense/graphsense-tagpack-tool
-        path: tagpack-tool
-        ref: develop
-    - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v2
-      with:
-        python-version: ${{ matrix.python-version }}
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -e tagpack-tool
-    - name: Validate tagpacks
-      run: |
-        tagpack-tool tagpack validate packs
-    - name: Validate Actors
-      run: |
-        tagpack-tool actorpack validate actors
+      - uses: actions/checkout@v4
 
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Validate tagpacks
+        run: |
+          uvx --python ${{ matrix.python-version }} tagpack-tool tagpack validate packs
+
+      - name: Validate Actors
+        run: |
+          uvx --python ${{ matrix.python-version }} tagpack-tool actorpack validate actors

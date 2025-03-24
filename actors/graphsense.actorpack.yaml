@@ -46430,3 +46430,18 @@ actors:
     images:
     - icons.llama.fi/zyxswap.png
     twitter_handle: zyx_swap
+- id: payeer
+  label: Payeer
+  jurisdictions: []
+  categories:
+  - payment_processor
+  - exchange
+  uri: www.payeer.com
+- id: omg_omg_market
+  label: OMG!OMG! Market
+  jurisdictions: [RU]
+  categories:
+  - market
+  - drugs
+  - weapons
+  uri: https://cryptoslate.com/move-over-hydra-omgomg-is-the-darkwebs-latest-trojan-horse/

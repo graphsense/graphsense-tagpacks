@@ -46437,7 +46437,7 @@ actors:
   - payment_processor
   - exchange
   uri: www.payeer.com
-- id: omg_omg_market
+- id: omgomgmarket
   label: OMG!OMG! Market
   jurisdictions: [RU]
   categories:

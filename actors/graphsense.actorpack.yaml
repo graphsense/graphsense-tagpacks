@@ -472,6 +472,7 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/999Dice.com
 - id: Obyte
+  aliases: ["obyte"]
   label: Obyte Ostable/Oswap/Prophet/Counterstake
   jurisdictions: []
   categories:
@@ -504,6 +505,7 @@ actors:
     - icons.llama.fi/counterstake.png
     twitter_handle: ObyteOrg
 - id: Venomdao
+  aliases: ["venomdao"]
   label: VenomDao ViperSwap / CobraSwap / Comfy Money
   jurisdictions: []
   categories:
@@ -535,6 +537,7 @@ actors:
     - icons.llama.fi/comfy-money.svg
     twitter_handle: VenomDAO
 - id: ZBG
+  aliases: ["zbg"]
   label: ZBG
   jurisdictions:
   - MT
@@ -4827,6 +4830,7 @@ actors:
     - icons.llama.fi/beta-finance.jpg
     twitter_handle: beta_finance
 - id: betchaincom-old
+  aliases: ["betchaincomold"]
   uri: betchain.com-old
   categories:
   - gambling
@@ -5325,6 +5329,7 @@ actors:
     images:
     - assets.coingecko.com/markets/images/419/small/Birake.png?1559647171
 - id: birwocom-old
+  aliases: ["birwocomold"]
   uri: birwo.com-old
   categories:
   - service
@@ -5685,6 +5690,7 @@ actors:
     - www.theasianbanker.com/publication/virtual-currency-services
     active: false
 - id: bitcoin-bourse
+  aliases: ["bitcoinbourse"]
   uri: bitcoinbourse.eu/
   categories:
   - exchange
@@ -5696,6 +5702,7 @@ actors:
     - www.theasianbanker.com/publication/virtual-currency-services
     active: false
 - id: bitcoin-roulettecom
+  aliases: ["bitcoinroulettecom"]
   uri: bitcoin-roulette.com
   categories:
   - service
@@ -8325,6 +8332,7 @@ actors:
     - icons.llama.fi/btcst.png
     twitter_handle: BTCST2020
 - id: btcstcom-pirateat40
+  aliases: ["btcstcompirateat40"]
   uri: btcst.com-pirateat40
   categories:
   - service
@@ -10406,6 +10414,7 @@ actors:
     start_activity: '2013'
     end_activity: '2015'
 - id: coin-swapnet
+  aliases: ["coinswapnet"]
   uri: coin-swap.net
   categories:
   - service
@@ -10416,6 +10425,7 @@ actors:
     - www.walletexplorer.com/wallet/Coin-Swap.net
     active: false
 - id: coin-sweepercom
+  aliases: ["coinsweepercom"]
   uri: coin-sweeper.com
   categories:
   - service
@@ -12495,6 +12505,7 @@ actors:
     - icons.llama.fi/cryptex-locker.png
     twitter_handle: ExLocker
 - id: crypto-gamesnet
+  aliases: ["cryptogamesnet"]
   uri: crypto-games.net
   categories:
   - gambling
@@ -12506,6 +12517,7 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/Crypto-Games.net
 - id: crypto-tradecom
+  aliases: ["cryptotradecom"]
   uri: crypto-trade.com
   categories:
   - service
@@ -18759,6 +18771,7 @@ actors:
     - icons.llama.fi/gemkeeper.png
     twitter_handle: GemKeeperDeFi
 - id: genesis-miningcom
+  aliases: ["genesisminingcom"]
   uri: genesis-mining.com
   categories:
   - service
@@ -21043,6 +21056,7 @@ actors:
     - www.theasianbanker.com/publication/virtual-currency-services
     active: false
 - id: ice-dicecom
+  aliases: ["icedicecom"]
   uri: ice-dice.com
   categories:
   - service
@@ -21714,6 +21728,7 @@ actors:
     - icons.llama.fi/interest-protocol.jpg
     twitter_handle: InterestDeFi
 - id: internet_archive
+  aliases: [internetarchive]
   uri: https://archive.org
   label: Internet Archive
   jurisdictions: [US]
@@ -22419,6 +22434,7 @@ actors:
     - icons.llama.fi/jupiter-swap.png
     twitter_handle: jupiter_swap
 - id: just-dicecom
+  aliases: ["justdicecom"]
   uri: just-dice.com
   categories:
   - service
@@ -35546,6 +35562,7 @@ actors:
     start_activity: '2017'
     twitter_handle: satangcorp,statangpro
 - id: satoshi-karoshicom
+  aliases: ["satoshikaroshicom"]
   uri: satoshi-karoshi.com
   categories:
   - gambling
@@ -36546,6 +36563,7 @@ actors:
     - www.walletexplorer.com/wallet/SimpleCoin.cz
     active: true
 - id: simplecoinus_mining
+  aliases: ["simplecoinusmining"]
   label: Simplecoin.us
   categories:
   - mining_service
@@ -38756,6 +38774,7 @@ actors:
     - icons.llama.fi/strips-finance.png
     twitter_handle: StripsFinance
 - id: strongcoincom-fee
+  aliases: ["strongcoincomfee"]
   uri: strongcoin.com-fee
   categories:
   - service
@@ -43444,6 +43463,7 @@ actors:
       - https://www.crunchbase.com/organization/viabtc
       - https://btc.com/stats/pool/ViaBTC
 - id: vic-socksto
+  aliases: ["vicsocksto"]
   uri: vic-socks.to
   categories:
   - service

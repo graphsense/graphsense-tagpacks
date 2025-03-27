@@ -19285,7 +19285,9 @@ actors:
     - icons.llama.fi/gmx.png
     twitter_handle: GMX_IO
 - id: gnosis
-  aliases: [gnosissafe]
+  aliases:
+  - gnosissafe
+  - gnosis_safe
   label: gnosis DAO/Protocol v1
   jurisdictions: []
   categories:
@@ -21090,7 +21092,8 @@ actors:
     - icons.llama.fi/hunnyswap.png
     twitter_handle: hunnyswap
 - id: huobi
-  aliases: [htx]
+  aliases:
+  - htx
   label: Huobi
   jurisdictions:
   - SC
@@ -47070,6 +47073,8 @@ actors:
   categories: []
   uri: https://prismafinance.com/
   context: {}
+  aliases:
+  - prisma_finance
 - id: bonsai
   label: Bonsai
   jurisdictions: []
@@ -48457,6 +48462,8 @@ actors:
   categories: []
   uri: https://www.sknetworks.co.kr/en
   context: {}
+  aliases:
+  - sk_networks
 - id: propchain
   label: Propchain
   jurisdictions: []
@@ -48887,6 +48894,8 @@ actors:
     refs:
     - https://lair-finance.gitbook.io/lair-finance
     - https://github.com/bug4city/lair-lsd
+  aliases:
+  - lair_finance
 - id: expressprotocol
   label: Express Protocol
   jurisdictions: []
@@ -49236,6 +49245,8 @@ actors:
   categories: []
   uri: https://hectordao.com/
   context: {}
+  aliases:
+  - hector_network
 - id: hapi
   label: Hapi
   jurisdictions: []
@@ -49426,6 +49437,8 @@ actors:
   categories: []
   uri: https://www.lils.co.kr/index.jsp
   context: {}
+  aliases:
+  - lx_international
 - id: titanx
   label: Titanx
   jurisdictions: []
@@ -49642,6 +49655,8 @@ actors:
   context:
     refs:
     - https://github.com/Stacktical
+  aliases:
+  - dsla_protocol
 - id: digix
   label: Digix
   jurisdictions: []
@@ -50024,6 +50039,8 @@ actors:
   categories: []
   uri: https://klaystake.house/
   context: {}
+  aliases:
+  - klaystake_house
 - id: redi
   label: Redi
   jurisdictions: []
@@ -50462,7 +50479,7 @@ actors:
   - exchange
   uri: liqui.dummy
 - id: exchangea
-  label: Exchange_A
+  label: Exchange A
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -50544,7 +50561,7 @@ actors:
   - exchange
   uri: streamity.dummy
 - id: throneexchange
-  label: Throne_Exchange
+  label: Throne Exchange
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -50628,7 +50645,7 @@ actors:
   - exchange
   uri: dmex.dummy
 - id: ultimatechampions
-  label: Ultimate_Champions
+  label: Ultimate Champions
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -50686,7 +50703,7 @@ actors:
   - exchange
   uri: bep20usdt.dummy
 - id: norwegianblockexchange
-  label: Norwegian_Block_Exchange
+  label: Norwegian Block Exchange
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -50696,7 +50713,7 @@ actors:
   aliases:
   - norwegian_block_exchange
 - id: cossexchange
-  label: Coss_Exchange
+  label: Coss Exchange
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -50762,7 +50779,7 @@ actors:
   - defi_dex
   uri: unichainswap.dummy
 - id: indoexltd
-  label: Indoex_Ltd
+  label: Indoex Ltd
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -50772,7 +50789,7 @@ actors:
   aliases:
   - indoex_ltd
 - id: imparedrainer
-  label: Impare_Drainer
+  label: Impare Drainer
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -50782,7 +50799,7 @@ actors:
   aliases:
   - impare_drainer
 - id: tbccglobal
-  label: Tbcc_Global
+  label: Tbcc Global
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -50912,7 +50929,7 @@ actors:
   - defi_dex
   uri: yaka.dummy
 - id: bitcoinmeester
-  label: Bitcoin_Meester
+  label: Bitcoin Meester
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -50922,7 +50939,7 @@ actors:
   aliases:
   - bitcoin_meester
 - id: artisturbaexchange
-  label: Artis_Turba_Exchange
+  label: Artis Turba Exchange
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -50932,7 +50949,7 @@ actors:
   aliases:
   - artis_turba_exchange
 - id: carbondefi
-  label: Carbon_Defi
+  label: Carbon Defi
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -50974,7 +50991,7 @@ actors:
   - defi_dex
   uri: dyorswap.dummy
 - id: sorahashi
-  label: Sora_Hashi
+  label: Sora Hashi
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -50992,7 +51009,7 @@ actors:
   - defi_dex
   uri: echodex.dummy
 - id: multibankgroup
-  label: Multibank_Group
+  label: Multibank Group
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -51026,7 +51043,7 @@ actors:
   - defi_dex
   uri: shadow.dummy
 - id: anycoindirect
-  label: Anycoin_Direct
+  label: Anycoin Direct
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -51044,7 +51061,7 @@ actors:
   - defi_dex
   uri: syncswap.dummy
 - id: alcumexexchange
-  label: Alcumex_Exchange
+  label: Alcumex Exchange
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -51102,7 +51119,7 @@ actors:
   - exchange
   uri: quantaex.dummy
 - id: calypsoexchange
-  label: Calypso_Exchange
+  label: Calypso Exchange
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -51144,7 +51161,7 @@ actors:
   - exchange
   uri: xeggex.dummy
 - id: bnbbridgeexploiter
-  label: Bnb_Bridge_Exploiter
+  label: Bnb Bridge Exploiter
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -51154,7 +51171,7 @@ actors:
   aliases:
   - bnb_bridge_exploiter
 - id: yieldyak
-  label: Yield_Yak
+  label: Yield Yak
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -51188,7 +51205,7 @@ actors:
   - exchange
   uri: mbcbit.dummy
 - id: sterlingfinance
-  label: Sterling_Finance
+  label: Sterling Finance
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -51238,7 +51255,7 @@ actors:
   - exchange
   uri: yoobtc.dummy
 - id: lemoncash
-  label: Lemon_Cash
+  label: Lemon Cash
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -51304,7 +51321,7 @@ actors:
   - exchange
   uri: cashierest.dummy
 - id: nexbitpro
-  label: Nexbit_Pro
+  label: Nexbit Pro
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -51314,7 +51331,7 @@ actors:
   aliases:
   - nexbit_pro
 - id: umbrianarnibridge
-  label: Umbria_Narni_Bridge
+  label: Umbria Narni Bridge
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -51420,7 +51437,7 @@ actors:
   - exchange
   uri: tokenmarket.dummy
 - id: flataexchange
-  label: Flata_Exchange
+  label: Flata Exchange
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -51446,7 +51463,7 @@ actors:
   - defi_dex
   uri: dooar.dummy
 - id: primetrust
-  label: Prime_Trust
+  label: Prime Trust
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -51472,7 +51489,7 @@ actors:
   - exchange
   uri: freewallet.dummy
 - id: merchantmoe
-  label: Merchant_Moe
+  label: Merchant Moe
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
@@ -51530,7 +51547,7 @@ actors:
   - defi_dex
   uri: secta.dummy
 - id: eigenfx
-  label: Eigen_Fx
+  label: Eigen Fx
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris

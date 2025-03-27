@@ -204,7 +204,9 @@ actors:
     refs:
     - btc.com/stats/pool/1Hash
 - id: 1inch
-  aliases: [1inch_lop, 1inchlop]
+  aliases:
+  - 1inch_lop
+  - 1inchlop
   label: 1inch Network
   jurisdictions:
   - KN
@@ -6255,7 +6257,8 @@ actors:
     - icons.llama.fi/bitgert-swap.jpg
     twitter_handle: Evo_finances
 - id: bitget
-  aliases: [bitkeep]
+  aliases:
+  - bitkeep
   label: Bitget
   jurisdictions:
   - SG
@@ -46025,7 +46028,8 @@ actors:
     - icons.llama.fi/yokaiswap.jpg
     twitter_handle: yokaiswap
 - id: yoshiexchangeftm
-  aliases: [yoshiexchange]
+  aliases:
+  - yoshiexchange
   label: Yoshi Exchange
   jurisdictions: []
   categories:
@@ -48667,7 +48671,8 @@ actors:
     - https://github.com/diadata-org/
     twitter_handle: DIAdata_org
 - id: ozys
-  aliases: [ozys_hashed]
+  aliases:
+  - ozys_hashed
   label: Ozys
   jurisdictions: []
   categories: []
@@ -50081,7 +50086,9 @@ actors:
     - https://github.com/cowprotocol
     twitter_handle: cowswap
 - id: moonbeam
-  aliases: [moonriver, moonbase]
+  aliases:
+  - moonriver
+  - moonbase
   uri: https://moonbeam.foundation
   label: Moonbeam
   categories: []
@@ -50126,7 +50133,8 @@ actors:
   uri: https://coinspaid.com
   categories: []
 - id: digitalsurge
-  aliases: [digital_surge]
+  aliases:
+  - digital_surge
   label: Digital Surge
   uri: https://digitalsurge.com.au
   categories: []
@@ -50141,24 +50149,29 @@ actors:
 - id: simplex
   label: Simplex
   uri: https://www.simplex.com
-  categories: [payment_processor]
+  categories:
+  - payment_processor
 - id: anchoragedigital
-  aliases: [anchorage_digital]
+  aliases:
+  - anchorage_digital
   label: Anchorage Digital
   uri: https://www.anchorage.com
   categories: []
 - id: shakepay
   label: Shakepay
   uri: https://shakepay.com
-  categories: [payment_processor]
+  categories:
+  - payment_processor
 - id: ndax
   label: NDAX
   uri: https://ndax.io
-  categories: [exchange]
+  categories:
+  - exchange
 - id: iconomi
   label: ICONOMI
   uri: https://www.iconomi.com
-  categories: [exchange]
+  categories:
+  - exchange
 - id: abra
   label: Abra
   uri: https://www.abra.com
@@ -50170,29 +50183,36 @@ actors:
 - id: matrixport
   label: Matrixport
   uri: https://www.matrixport.com
-  categories: [exchange]
+  categories:
+  - exchange
 - id: bitkan
   label: BitKan
   uri: https://bitkan.com
-  categories: [exchange]
+  categories:
+  - exchange
 - id: paybis
   label: Paybis
   uri: https://paybis.com
-  categories: [exchange]
+  categories:
+  - exchange
 - id: coinswitch
   label: CoinSwitch
   uri: https://coinswitch.co
-  categories: [exchange]
+  categories:
+  - exchange
 - id: bity
   label: Bity
   uri: https://bity.com
-  categories: [exchange]
+  categories:
+  - exchange
 - id: bitcasino
   label: Bitcasino
   uri: https://bitcasino.io
-  categories: [gambling]
+  categories:
+  - gambling
 - id: zerohash
-  aliases: [zero_hash]
+  aliases:
+  - zero_hash
   label: Zero Hash
   uri: https://www.zerohash.com
   categories: []
@@ -50209,15 +50229,18 @@ actors:
   uri: https://app.chainhop.exchange/#/swap
   categories: []
 - id: mute
-  aliases: [koifinance]
+  aliases:
+  - koifinance
   label: Mute
   uri: https://mute.io
   categories: []
 - id: orbiter
-  aliases: [orbiter_finance]
+  aliases:
+  - orbiter_finance
   label: Orbiter Finance
   uri: https://orbiter.finance
-  categories: [defi_dex]
+  categories:
+  - defi_dex
 - id: velocore
   label: Velocore
   uri: https://velocore.xyz
@@ -50225,9 +50248,11 @@ actors:
 - id: zkeggex
   label: zkEggex
   uri: https://zkeggex.com
-  categories: [exchange]
+  categories:
+  - exchange
 - id: pandaexchange
-  aliases: [panda_exchange]
+  aliases:
+  - panda_exchange
   label: Panda Exchange
   uri: https://www.panda.exchange
   categories: []
@@ -50238,20 +50263,1319 @@ actors:
 - id: zonda
   label: Zonda
   uri: https://zondacrypto.com/en/home
-  categories: [exchange]
+  categories:
+  - exchange
 - id: wagmi
   label: Wagmi
   uri: https://wagmi.com/
-  categories: [defi_dex]
+  categories:
+  - defi_dex
 - id: oku
   label: OKU
   uri: https://oku.trade
-  categories: [defi_dex]
+  categories:
+  - defi_dex
 - id: 1xbet
   label: 1xBet
   uri: https://1xbet.com
-  categories: [gambling]
+  categories:
+  - gambling
 - id: arkham
   label: Arkham Intelligence
   uri: https://arkm.com
-  categories: [exchange]
+  categories:
+  - exchange
+- id: ezkalibur
+  label: Ezkalibur
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: ezkalibur.dummy
+- id: zebra
+  label: Zebra
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: zebra.dummy
+- id: gridex
+  label: Gridex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: gridex.dummy
+- id: solidly
+  label: Solidly
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: solidly.dummy
+- id: exchangea
+  label: Exchange_A
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: exchange_a.dummy
+  aliases:
+  - exchange_a
+- id: otsea
+  label: Otsea
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: otsea.dummy
+- id: wex
+  label: Wex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: wex.dummy
+- id: dooar
+  label: Dooar
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: dooar.dummy
+- id: auragi
+  label: Auragi
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: auragi.dummy
+- id: norwegianblockexchange
+  label: Norwegian_Block_Exchange
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: norwegian_block_exchange.dummy
+  aliases:
+  - norwegian_block_exchange
+- id: linea
+  label: Linea
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_bridge
+  uri: linea.dummy
+- id: ultimatechampions
+  label: Ultimate_Champions
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: ultimate_champions.dummy
+  aliases:
+  - ultimate_champions
+- id: anycoindirect
+  label: Anycoin_Direct
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: anycoin_direct.dummy
+  aliases:
+  - anycoin_direct
+- id: openxswap
+  label: Openxswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: openxswap.dummy
+- id: throneexchange
+  label: Throne_Exchange
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: throne_exchange.dummy
+  aliases:
+  - throne_exchange
+- id: fakephishing178858
+  label: Fake_Phishing178858
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - social_engineering
+  uri: fake_phishing178858.dummy
+  aliases:
+  - fake_phishing178858
+- id: firi
+  label: Firi
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: firi.dummy
+- id: lemoncash
+  label: Lemon_Cash
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: lemon_cash.dummy
+  aliases:
+  - lemon_cash
+- id: xs2exchange
+  label: Xs2Exchange
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: xs2exchange.dummy
+- id: shadow
+  label: Shadow
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: shadow.dummy
+- id: c2cx
+  label: C2Cx
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: c2cx.dummy
+- id: yieldyak
+  label: Yield_Yak
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: yield_yak.dummy
+  aliases:
+  - yield_yak
+- id: coindhan
+  label: Coindhan
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: coindhan.dummy
+- id: umbrianarnibridge
+  label: Umbria_Narni_Bridge
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_bridge
+  uri: umbria_narni_bridge.dummy
+  aliases:
+  - umbria_narni_bridge
+- id: unichainswap
+  label: Unichainswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: unichainswap.dummy
+- id: torus
+  label: Torus
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: torus.dummy
+- id: indoexltd
+  label: Indoex_Ltd
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: indoex_ltd.dummy
+  aliases:
+  - indoex_ltd
+- id: punkswap
+  label: Punkswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: punkswap.dummy
+- id: pharaoh
+  label: Pharaoh
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: pharaoh.dummy
+- id: bitcoinmeester
+  label: Bitcoin_Meester
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: bitcoin_meester.dummy
+  aliases:
+  - bitcoin_meester
+- id: artisturbaexchange
+  label: Artis_Turba_Exchange
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: artis_turba_exchange.dummy
+  aliases:
+  - artis_turba_exchange
+- id: stablebase
+  label: Stablebase
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: stablebase.dummy
+- id: citadelswap
+  label: Citadelswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: citadelswap.dummy
+- id: beraswap
+  label: Beraswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: beraswap.dummy
+- id: smardex
+  label: Smardex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: smardex.dummy
+- id: plantbaseswap
+  label: Plantbaseswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: plantbaseswap.dummy
+- id: carbonhood
+  label: Carbonhood
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: carbonhood.dummy
+- id: eidoo
+  label: Eidoo
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: eidoo.dummy
+- id: calypsoexchange
+  label: Calypso_Exchange
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: calypso_exchange.dummy
+  aliases:
+  - calypso_exchange
+- id: maverick
+  label: Maverick
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: maverick.dummy
+- id: finxflo
+  label: Finxflo
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: finxflo.dummy
+- id: blasterswap
+  label: Blasterswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: blasterswap.dummy
+- id: valantis
+  label: Valantis
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: valantis.dummy
+- id: yoobtc
+  label: Yoobtc
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: yoobtc.dummy
+- id: fenix
+  label: Fenix
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: fenix.dummy
+- id: sharkyswap
+  label: Sharkyswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: sharkyswap.dummy
+- id: primetrust
+  label: Prime_Trust
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: prime_trust.dummy
+  aliases:
+  - prime_trust
+- id: dyorswap
+  label: Dyorswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: dyorswap.dummy
+- id: yaka
+  label: Yaka
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: yaka.dummy
+- id: bitfextrade
+  label: Bitfextrade
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: bitfextrade.dummy
+- id: allbit
+  label: Allbit
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: allbit.dummy
+- id: sparrow
+  label: Sparrow
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: sparrow.dummy
+- id: joyso
+  label: Joyso
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: joyso.dummy
+- id: minedtradecom
+  label: Minedtradecom
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: minedtradecom.dummy
+- id: merchantmoe
+  label: Merchant_Moe
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: merchant_moe.dummy
+  aliases:
+  - merchant_moe
+- id: bnbbridgeexploiter
+  label: Bnb_Bridge_Exploiter
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - hacking
+  uri: bnb_bridge_exploiter.dummy
+  aliases:
+  - bnb_bridge_exploiter
+- id: derpdex
+  label: Derpdex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: derpdex.dummy
+- id: blazeswap
+  label: Blazeswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: blazeswap.dummy
+- id: flashliquidity
+  label: Flashliquidity
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: flashliquidity.dummy
+- id: cryptal
+  label: Cryptal
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: cryptal.dummy
+- id: optics
+  label: Optics
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_bridge
+  uri: optics.dummy
+- id: agni
+  label: Agni
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: agni.dummy
+- id: uex
+  label: Uex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: uex.dummy
+- id: velocimeter
+  label: Velocimeter
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: velocimeter.dummy
+- id: soswap
+  label: Soswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: soswap.dummy
+- id: tagz
+  label: Tagz
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: tagz.dummy
+- id: sobal
+  label: Sobal
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: sobal.dummy
+- id: flataexchange
+  label: Flata_Exchange
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: flata_exchange.dummy
+  aliases:
+  - flata_exchange
+- id: alienbase
+  label: Alienbase
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: alienbase.dummy
+- id: celsuis
+  label: Celsuis
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: celsuis.dummy
+- id: mauve
+  label: Mauve
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: mauve.dummy
+- id: tigergaming
+  label: Tigergaming
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: tigergaming.dummy
+- id: gbx
+  label: Gbx
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: gbx.dummy
+- id: iziswap
+  label: Iziswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: iziswap.dummy
+- id: alcumexexchange
+  label: Alcumex_Exchange
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: alcumex_exchange.dummy
+  aliases:
+  - alcumex_exchange
+- id: secta
+  label: Secta
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: secta.dummy
+- id: vinex
+  label: Vinex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: vinex.dummy
+- id: fusionx
+  label: Fusionx
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: fusionx.dummy
+- id: eigenfx
+  label: Eigen_Fx
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: eigen_fx.dummy
+  aliases:
+  - eigen_fx
+- id: levinswap
+  label: Levinswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: levinswap.dummy
+- id: cambochanger
+  label: Cambochanger
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: cambochanger.dummy
+- id: enosys
+  label: Enosys
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: enosys.dummy
+- id: burrbear
+  label: Burrbear
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: burrbear.dummy
+- id: autotronic
+  label: Autotronic
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: autotronic.dummy
+- id: xeggex
+  label: Xeggex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: xeggex.dummy
+- id: alphapo
+  label: Alphapo
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: alphapo.dummy
+- id: b2binpay
+  label: B2Binpay
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: b2binpay.dummy
+- id: gamdom
+  label: Gamdom
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: gamdom.dummy
+- id: cossexchange
+  label: Coss_Exchange
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: coss_exchange.dummy
+  aliases:
+  - coss_exchange
+- id: bitunio
+  label: Bitunio
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: bitunio.dummy
+- id: multibankgroup
+  label: Multibank_Group
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: multibank_group.dummy
+  aliases:
+  - multibank_group
+- id: chronos
+  label: Chronos
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: chronos.dummy
+- id: nexbitpro
+  label: Nexbit_Pro
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: nexbit_pro.dummy
+  aliases:
+  - nexbit_pro
+- id: gemswap
+  label: Gemswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: gemswap.dummy
+- id: dackieswap
+  label: Dackieswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: dackieswap.dummy
+- id: vesync
+  label: Vesync
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: vesync.dummy
+- id: sorahashi
+  label: Sora_Hashi
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_bridge
+  uri: sora_hashi.dummy
+  aliases:
+  - sora_hashi
+- id: lordtoken
+  label: Lordtoken
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: lordtoken.dummy
+- id: freewallet
+  label: Freewallet
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: freewallet.dummy
+- id: ggbtccom
+  label: Ggbtccom
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: ggbtccom.dummy
+- id: carbondefi
+  label: Carbon_Defi
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: carbon_defi.dummy
+  aliases:
+  - carbon_defi
+- id: chainup
+  label: Chainup
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: chainup.dummy
+- id: syncswap
+  label: Syncswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: syncswap.dummy
+- id: akronswap
+  label: Akronswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: akronswap.dummy
+- id: infusion
+  label: Infusion
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: infusion.dummy
+- id: bitebtc
+  label: Bitebtc
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: bitebtc.dummy
+- id: scale
+  label: Scale
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: scale.dummy
+- id: stex
+  label: Stex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: stex.dummy
+- id: bridgers
+  label: Bridgers
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: bridgers.dummy
+- id: bitberry
+  label: Bitberry
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: bitberry.dummy
+- id: streamity
+  label: Streamity
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: streamity.dummy
+- id: derebit
+  label: Derebit
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: derebit.dummy
+- id: integral
+  label: Integral
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: integral.dummy
+- id: pinkdrainer
+  label: Pinkdrainer
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - social_engineering
+  uri: pinkdrainer.dummy
+- id: defiswap
+  label: Defiswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: defiswap.dummy
+- id: liqui
+  label: Liqui
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: liqui.dummy
+- id: xchange
+  label: Xchange
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: xchange.dummy
+- id: sterlingfinance
+  label: Sterling_Finance
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: sterling_finance.dummy
+  aliases:
+  - sterling_finance
+- id: glacier
+  label: Glacier
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: glacier.dummy
+- id: fluid
+  label: Fluid
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: fluid.dummy
+- id: exchsc
+  label: Exchsc
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: exchsc.dummy
+- id: beldex
+  label: Beldex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: beldex.dummy
+- id: anyfrax
+  label: Anyfrax
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_bridge
+  uri: anyfrax.dummy
+- id: tbccglobal
+  label: Tbcc_Global
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: tbcc_global.dummy
+  aliases:
+  - tbcc_global
+- id: katana
+  label: Katana
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: katana.dummy
+- id: mbcbit
+  label: Mbcbit
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: mbcbit.dummy
+- id: bitbee
+  label: Bitbee
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: bitbee.dummy
+- id: youbank
+  label: Youbank
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: youbank.dummy
+- id: bitbase
+  label: Bitbase
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: bitbase.dummy
+- id: swapbased
+  label: Swapbased
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: swapbased.dummy
+- id: ceffu
+  label: Ceffu
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: ceffu.dummy
+- id: dmex
+  label: Dmex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: dmex.dummy
+- id: bep20usdt
+  label: Bep20Usdt
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: bep20usdt.dummy
+- id: echodex
+  label: Echodex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: echodex.dummy
+- id: atomsolutions
+  label: Atomsolutions
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: atomsolutions.dummy
+- id: nuri
+  label: Nuri
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: nuri.dummy
+- id: spartadex
+  label: Spartadex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: spartadex.dummy
+- id: silverswap
+  label: Silverswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: silverswap.dummy
+- id: cashierest
+  label: Cashierest
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: cashierest.dummy
+- id: ramses
+  label: Ramses
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: ramses.dummy
+- id: dextop
+  label: Dextop
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: dextop.dummy
+- id: bololexcom
+  label: Bololexcom
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: bololexcom.dummy
+- id: yunbi
+  label: Yunbi
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: yunbi.dummy
+- id: tokenmarket
+  label: Tokenmarket
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: tokenmarket.dummy
+- id: coinsph
+  label: Coinsph
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: coinsph.dummy
+- id: venomdrainer
+  label: Venomdrainer
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - social_engineering
+  uri: venomdrainer.dummy
+- id: difx
+  label: Difx
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: difx.dummy
+- id: idax
+  label: Idax
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: idax.dummy
+- id: quantaex
+  label: Quantaex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: quantaex.dummy
+- id: imparedrainer
+  label: Impare_Drainer
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - social_engineering
+  uri: impare_drainer.dummy
+  aliases:
+  - impare_drainer
+- id: peatio
+  label: Peatio
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: peatio.dummy
+- id: bebop
+  label: Bebop
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: bebop.dummy
+- id: kodiak
+  label: Kodiak
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: kodiak.dummy
+- id: lifi
+  label: Lifi
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: lifi.dummy
+- id: betfury
+  label: Betfury
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: betfury.dummy

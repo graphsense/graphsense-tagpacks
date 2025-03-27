@@ -5311,7 +5311,8 @@ actors:
     - icons.llama.fi/binance-multi-chain-capital.png
     twitter_handle: Binancemcc
 - id: bingbon
-  aliases: [bingx]
+  aliases:
+  - bingx
   label: Bingbon/BingX
   jurisdictions:
   - SG
@@ -13514,7 +13515,8 @@ actors:
     - icons.llama.fi/debets.png
     twitter_handle: debets_org
 - id: debridge
-  aliases: [debridgeggate]
+  aliases:
+  - debridgegate
   label: deBridge
   jurisdictions: []
   categories:
@@ -13828,6 +13830,7 @@ actors:
   aliases:
   - defikingdom
   - defikingdoms
+  - defi_kingdoms
 - id: defil
   label: DeFIL
   jurisdictions: []
@@ -14856,6 +14859,7 @@ actors:
     twitter_handle: BreederDodo
   aliases:
   - dodoex
+  - dodo_x
 - id: dogeclaw
   label: DogeClaw
   jurisdictions: []
@@ -18054,6 +18058,9 @@ actors:
     - icons.llama.fi/francium.png
     twitter_handle: Francium_Defi
 - id: fraxfinance
+  aliases:
+  - frax
+  - fraxswap
   label: Frax Finance Dex/Swap/Lend/Ether
   jurisdictions: []
   categories:
@@ -18319,6 +18326,8 @@ actors:
     - icons.llama.fi/ftm-frens.png
     twitter_handle: FTMFrens
 - id: ftx
+  aliases:
+  - ftx_us
   label: Ftx
   jurisdictions:
   - AG
@@ -20796,6 +20805,8 @@ actors:
     images:
     - icons.llama.fi/horizon-protocol.png
     twitter_handle: HorizonProtocol
+  aliases:
+  - horizondex
 - id: hotbit
   label: Hotbit
   jurisdictions:
@@ -22287,6 +22298,8 @@ actors:
     images:
     - icons.llama.fi/jelly.png
     twitter_handle: jellyprotocol
+  aliases:
+  - jelly_swap
 - id: jet
   label: Jet
   jurisdictions: []
@@ -22303,6 +22316,8 @@ actors:
     images:
     - icons.llama.fi/jet.jpg
     twitter_handle: JetProtocol
+  aliases:
+  - jetswap
 - id: jetfuelfinance
   label: JetFuel Finance / JetSwap
   jurisdictions: []
@@ -22573,6 +22588,8 @@ actors:
     images:
     - icons.llama.fi/junoswap.png
     twitter_handle: JunoNetwork
+  aliases:
+  - juno
 - id: jupiter
   label: Jupiter/Aggregator
   jurisdictions: []
@@ -26480,6 +26497,8 @@ actors:
     - icons.llama.fi/mercurity.png
     twitter_handle: MercurityDefi
 - id: mercuriyoio
+  aliases:
+  - mercuryo
   label: Mercuryo.io
   jurisdictions:
   - CA
@@ -27971,6 +27990,8 @@ actors:
     - www.walletexplorer.com/wallet/MPEx.co
     active: false
 - id: mstablecdp
+  aliases:
+  - mstable
   label: mStable (CDP, Yield)
   jurisdictions: []
   categories:
@@ -35372,6 +35393,8 @@ actors:
     images:
     - icons.llama.fi/rskswap.jpg
     twitter_handle: RskSwap
+  aliases:
+  - rsk
 - id: rubic
   label: Rubic
   jurisdictions: []
@@ -41650,6 +41673,8 @@ actors:
     - icons.llama.fi/tornadao.jpg
     twitter_handle: Tornadao_fi
 - id: tornado
+  aliases:
+  - tornadocash
   label: Tornado Cash
   jurisdictions: []
   categories:
@@ -43722,6 +43747,8 @@ actors:
     - icons.llama.fi/verse.png
     - assets.coingecko.com/markets/images/980/small/verse2.png?1672799829
     twitter_handle: BitcoinCom
+  aliases:
+  - verse_dex
 - id: vesper
   label: Vesper
   jurisdictions: []
@@ -45059,6 +45086,8 @@ actors:
     - icons.llama.fi/wonderly-finance.png
     twitter_handle: wonderlyfinance
 - id: woonetwork
+  aliases:
+  - woofi
   label: Woo Network (Exchange, Earn)
   jurisdictions:
   - VG
@@ -47158,6 +47187,8 @@ actors:
     - https://docs.spark.fi/
     - https://github.com/marsfoundation
     twitter_handle: sparkdotfi
+  aliases:
+  - sparkdex
 - id: salt
   label: Salt
   jurisdictions: []
@@ -47669,6 +47700,8 @@ actors:
   uri: https://qmall.io/
   context: {}
 - id: summerfi
+  aliases:
+  - oasisswap
   label: Summer.Fi
   jurisdictions: []
   categories: []
@@ -49791,6 +49824,8 @@ actors:
     refs:
     - https://docs.scroll.io/en/home/
     - https://github.com/scroll-tech
+  aliases:
+  - scrollswap
 - id: vpad
   label: Vlaunch
   jurisdictions: []
@@ -49880,6 +49915,8 @@ actors:
     refs:
     - https://docs.reservoir.tools/reference/what-is-reservoir
     twitter_handle: reservoir0x
+  aliases:
+  - reservoir_swap
 - id: imtoken
   label: Imtoken
   jurisdictions: []
@@ -50017,3 +50054,18 @@ actors:
     - https://docs.boost.xyz/
     - https://github.com/rabbitholegg
     twitter_handle: boostinbox_
+- id: cow
+  aliases:
+  - cowswap
+  - cowprotocol
+  - cowfi
+  - cow_protocol
+  label: CoW Protocol
+  jurisdictions: []
+  categories:
+  - defi_dex
+  uri: https://cow.fi/
+  context:
+    refs:
+    - https://github.com/cowprotocol
+    twitter_handle: cowswap

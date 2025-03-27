@@ -63,6 +63,7 @@ actors:
     twitter_handle: 0xProject
   aliases:
   - 0xapi
+  - 0x_api
 - id: 0xdao
   label: 0xDAO
   jurisdictions: []
@@ -670,6 +671,8 @@ actors:
     images:
     - assets.coingecko.com/markets/images/172/small/abcc.png?1546228821
     active: true
+  aliases:
+  - abcc_exchange
 - id: abelfinance
   label: ABEL Finance
   jurisdictions: []
@@ -799,6 +802,7 @@ actors:
 - id: across
   aliases:
   - acrossprotocol
+  - across_protocol
   label: Across
   jurisdictions: []
   categories:
@@ -3642,6 +3646,9 @@ actors:
     - icons.llama.fi/azuro.png
     twitter_handle: azuroprotocol
 - id: azpaya
+  aliases:
+  - arzpaya
+  - arzpayacom
   label: ARzPaya
   jurisdictions:
   - IR
@@ -4631,6 +4638,7 @@ actors:
     twitter_handle: beethoven_x
   aliases:
   - beethovenx
+  - beethoven_x
 - id: beglobalfinance
   label: BeGlobal Finance
   jurisdictions: []
@@ -5285,6 +5293,7 @@ actors:
     active: true
   aliases:
   - binanceus
+  - binance_us
 - id: binancemultichaincapital
   label: Binance Multi Chain Capital
   jurisdictions: []
@@ -5302,6 +5311,7 @@ actors:
     - icons.llama.fi/binance-multi-chain-capital.png
     twitter_handle: Binancemcc
 - id: bingbon
+  aliases: [bingx]
   label: Bingbon/BingX
   jurisdictions:
   - SG
@@ -7139,6 +7149,8 @@ actors:
     end_activity: '2021'
     start_activity: '2016'
     twitter_handle: BitZ_Group
+  aliases:
+  - bitz
 - id: bitznetwork
   label: Bitz
   jurisdictions:
@@ -8153,6 +8165,8 @@ actors:
     legal_name: BTC-Alpha
     active: true
     twitter_handle: btcalpha
+  aliases:
+  - btcalpha_exchange
 - id: btcbox
   label: BTCBOX
   jurisdictions:
@@ -8324,6 +8338,8 @@ actors:
     legal_name: BTC Markets Pty Ltd
     active: true
     twitter_handle: BTCMarkets
+  aliases:
+  - btc_markets
 - id: btcoraclecom
   uri: btcoracle.com
   categories:
@@ -8826,6 +8842,8 @@ actors:
     - assets.coingecko.com/markets/images/326/small/bw.com.jpg?1548664400
     active: true
     twitter_handle: BWOfficial2
+  aliases:
+  - bwcom
 - id: bwatch
   label: Bwatch
   jurisdictions: []
@@ -9396,6 +9414,8 @@ actors:
     - icons.llama.fi/casinocronos.jpg
     twitter_handle: casinocronos
 - id: catex
+  aliases:
+  - catex_exchange
   label: Catex
   jurisdictions:
   - CN
@@ -9524,6 +9544,7 @@ actors:
     twitter_handle: CelerNetwork
   aliases:
   - celernetwork
+  - celer_network
 - id: celerycash
   label: Celerycash
   jurisdictions: []
@@ -10470,6 +10491,8 @@ actors:
     active: false
     start_activity: '2013'
     end_activity: '2015'
+  aliases:
+  - coinexchange
 - id: coin-swapnet
   aliases:
   - coinswapnet
@@ -12665,6 +12688,8 @@ actors:
     active: true
     start_activity: '2016-06-01'
     twitter_handle: cryptocom
+  aliases:
+  - crypto_com
 - id: cryptolocker
   uri: cryptolocker
   categories:
@@ -12746,6 +12771,8 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/Cryptonator.com
+  aliases:
+  - cryptonator
 - id: cryptonex
   label: Cryptonex
   jurisdictions:
@@ -13487,6 +13514,7 @@ actors:
     - icons.llama.fi/debets.png
     twitter_handle: debets_org
 - id: debridge
+  aliases: [debridgeggate]
   label: deBridge
   jurisdictions: []
   categories:
@@ -13799,6 +13827,7 @@ actors:
     twitter_handle: DefiKingdoms
   aliases:
   - defikingdom
+  - defikingdoms
 - id: defil
   label: DeFIL
   jurisdictions: []
@@ -14050,6 +14079,8 @@ actors:
     active: true
     start_activity: '2018-02-01'
     twitter_handle: Delta_Exchange
+  aliases:
+  - delta_exchange
 - id: deltafinancial
   label: Delta Financial
   jurisdictions: []
@@ -14435,6 +14466,8 @@ actors:
     images:
     - icons.llama.fi/dfx-finance.jpg
     twitter_handle: DFXFinance
+  aliases:
+  - dfx
 - id: dfynnetwork
   label: Dfyn Network
   jurisdictions:
@@ -15204,6 +15237,8 @@ actors:
     images:
     - icons.llama.fi/dracula.png
     twitter_handle: DraculaProtocol
+  aliases:
+  - dracula_finance
 - id: dragonfruitprotocol
   label: Dragonfruit Protocol
   jurisdictions: []
@@ -15594,6 +15629,8 @@ actors:
     images:
     - icons.llama.fi/eklipse-finance.png
     twitter_handle: eklipseFinance
+  aliases:
+  - eklipse_finance
 - id: elasticswap
   label: ElasticSwap
   jurisdictions: []
@@ -15715,6 +15752,7 @@ actors:
 - id: elk
   aliases:
   - elkfinance
+  - elk_finance
   label: Elk Finance (Ethereum, BSC, Avalanche, Polygon)
   jurisdictions: []
   categories:
@@ -15765,6 +15803,8 @@ actors:
     - icons.llama.fi/ellipsis-finance.jpg
     - assets.coingecko.com/markets/images/1043/small/ellipsis.jpeg?1675317061
     twitter_handle: Ellipsisfi
+  aliases:
+  - ellipsis_finance
 - id: elonswap
   label: ElonSwap
   jurisdictions: []
@@ -16167,6 +16207,7 @@ actors:
 - id: equalizer
   aliases:
   - equalizerexchange
+  - equalizer_exchange
   label: Equalizer Exchange
   jurisdictions: []
   categories:
@@ -17336,6 +17377,8 @@ actors:
     - icons.llama.fi/firebird.jpg
     - assets.coingecko.com/markets/images/730/small/firebird-finance.png?1636117048
     twitter_handle: FinanceFirebird
+  aliases:
+  - firebird_finance
 - id: firedao
   label: FireDAO
   jurisdictions: []
@@ -17723,6 +17766,8 @@ actors:
     active: true
     start_activity: '2019'
     twitter_handle: Folgory1
+  aliases:
+  - folgory_exchange
 - id: foodcourt
   label: Foodcourt
   jurisdictions: []
@@ -18519,6 +18564,8 @@ actors:
     images:
     - icons.llama.fi/gains-network.png
     twitter_handle: GainsNetwork_io
+  aliases:
+  - gains_network
 - id: gajfinance
   label: Gaj Finance
   jurisdictions: []
@@ -18706,6 +18753,7 @@ actors:
 - id: gate
   aliases:
   - gateio
+  - gate_io
   label: Gate
   jurisdictions:
   - HK
@@ -18888,6 +18936,8 @@ actors:
     images:
     - icons.llama.fi/genesis-finance.png
     twitter_handle: cronos_genesis
+  aliases:
+  - genesis
 - id: genesys
   label: Genesys
   jurisdictions: []
@@ -19654,6 +19704,8 @@ actors:
     - assets.coingecko.com/markets/images/1027/small/gravity-finance.jpeg?1673611945
     - icons.llama.fi/gravity-finance.png
     twitter_handle: Gravity_Finance
+  aliases:
+  - gravity_finance
 - id: greenhousedex
   label: Greenhouse
   jurisdictions: []
@@ -20107,6 +20159,7 @@ actors:
 - id: hashkeyexchange
   aliases:
   - hashkey
+  - hashkey_exchange
   label: Hashkey Exchange
   jurisdictions:
   - HK
@@ -20710,6 +20763,8 @@ actors:
     images:
     - icons.llama.fi/hop-protocol.jpg
     twitter_handle: HopProtocol
+  aliases:
+  - hop_protocol
 - id: hopswap
   label: HopSwap
   jurisdictions: []
@@ -21939,6 +21994,7 @@ actors:
     twitter_handle: InverseFinance
   aliases:
   - inversefinance
+  - inverse_finance
 - id: investin
   label: Investin
   jurisdictions: []
@@ -22783,6 +22839,8 @@ actors:
     - api.coingecko.com/api/v3/exchanges/kanga
     images:
     - assets.coingecko.com/markets/images/852/small/kanga_logo.png?1650269423
+  aliases:
+  - kanga_exchange
 - id: kanois
   uri: kano.is
   categories:
@@ -23261,6 +23319,8 @@ actors:
 - id: klayswap
   aliases:
   - klayswapprotocol
+  - klay_swap
+  - klayswap_protocol
   label: KLAYSwap
   jurisdictions: []
   categories:
@@ -23332,6 +23392,7 @@ actors:
   aliases:
   - kleverio
   - klever
+  - klever_exchange
   label: Klever Exchange
   jurisdictions: []
   categories:
@@ -23607,6 +23668,8 @@ actors:
     - api.llama.fi/protocol/kokonut-swap
     images:
     - icons.llama.fi/kokonut-swap.jpg
+  aliases:
+  - kokonut_swap
 - id: kolibri
   label: Kolibri
   jurisdictions: []
@@ -24933,6 +24996,8 @@ actors:
     - s2.coinmarketcap.com/static/img/exchanges/64x64/107.png
     twitter_handle: livecoin_net
     active: false
+  aliases:
+  - livecoinnet
 - id: lixirfinance
   label: Lixir Finance
   jurisdictions: []
@@ -25760,6 +25825,7 @@ actors:
     twitter_handle: MAX_exch
   aliases:
   - maxexchange
+  - max_exchange
 - id: maker
   label: MakerDAO
   jurisdictions: []
@@ -25963,6 +26029,7 @@ actors:
     twitter_handle: MapProtocol
   aliases:
   - mapprotocol
+  - map_protocol
 - id: marapool
   label: Marathon Pool
   categories:
@@ -26374,6 +26441,8 @@ actors:
     legal_name: "Mercado Bitcoin Servi\xE7os Digitais Ltda."
     active: true
     twitter_handle: MercadoBitcoin
+  aliases:
+  - mercado_bitcoin
 - id: mercatox
   label: Mercatox
   jurisdictions:
@@ -27249,6 +27318,8 @@ actors:
     images:
     - icons.llama.fi/mint-club.png
     twitter_handle: MintClubPro
+  aliases:
+  - mint_club
 - id: minto
   label: Minto
   jurisdictions: []
@@ -28028,6 +28099,8 @@ actors:
     images:
     - icons.llama.fi/mummy-finance.jpg
     twitter_handle: mummyftm
+  aliases:
+  - mummy_finance
 - id: murica
   label: Murica
   jurisdictions: []
@@ -30214,6 +30287,8 @@ actors:
     - icons.llama.fi/openocean.jpg
     - assets.coingecko.com/markets/images/713/small/ooe.png?1633688592
     twitter_handle: OpenOceanGlobal
+  aliases:
+  - openocean
 - id: opensea
   label: Opensea
   jurisdictions: []
@@ -30423,6 +30498,8 @@ actors:
     images:
     - icons.llama.fi/opx-finance.jpg
     twitter_handle: opxfinance
+  aliases:
+  - opx_finance
 - id: opynconvexity
   label: Opyn Convexity/Gamma/Squeeth
   jurisdictions: []
@@ -30565,6 +30642,7 @@ actors:
   aliases:
   - orbitchain
   - klaystation
+  - orbit_chain
 - id: orca
   label: Orca
   jurisdictions: []
@@ -31128,6 +31206,7 @@ actors:
 - id: pangolin
   aliases:
   - pangolinexchange
+  - pangolin_exchange
   label: Pangolin (Songbird)
   jurisdictions: []
   categories:
@@ -32414,6 +32493,8 @@ actors:
     - assets.coingecko.com/markets/images/862/small/logo-platypus-v2-icon-only.png?1652157572
     - icons.llama.fi/platypus.png
     twitter_handle: Platypusdefi
+  aliases:
+  - platypus_finance
 - id: playtin
   uri: playt.in
   categories:
@@ -34259,6 +34340,8 @@ actors:
     - www.linkedin.com/company/rampnetwork/
     - facebook.com/RampNetwork/
     twitter_handle: RampNetwork
+  aliases:
+  - ramp_network
 - id: nexchange
   label: N Exchange (NEX Holdings LTD 120480 RMI)
   jurisdictions:
@@ -35461,6 +35544,8 @@ actors:
     images:
     - icons.llama.fi/saddle-finance.jpg
     twitter_handle: saddlefinance
+  aliases:
+  - saddle_finance
 - id: safedicecom
   uri: safedice.com
   categories:
@@ -36094,6 +36179,8 @@ actors:
     - assets.coingecko.com/markets/images/660/small/_Icon___SVG__Primary_-_Metallic_Gold_in_Square.png?1636170223
     twitter_handle: SecretNetwork
     github_organisation: secretdao
+  aliases:
+  - secret_network
 - id: securedao
   label: SecureDAO
   jurisdictions: []
@@ -37709,6 +37796,8 @@ actors:
     images:
     - icons.llama.fi/spartacus.jpg
     twitter_handle: Spartacus_Fi
+  aliases:
+  - spartacus_exchange
 - id: spartanprotocol
   label: Spartan Protocol
   jurisdictions: []
@@ -37863,6 +37952,7 @@ actors:
 - id: spherium
   aliases:
   - spheriumfinance
+  - spherium_finance
   label: Spherium
   jurisdictions: []
   categories:
@@ -38567,6 +38657,8 @@ actors:
     - icons.llama.fi/stargate-finance.png
     - icons.llama.fi/stargate.png
     twitter_handle: StargateFinance,StarGate_Fin
+  aliases:
+  - stargate
 - id: stargaze
   label: Stargaze
   jurisdictions: []
@@ -39939,6 +40031,7 @@ actors:
     twitter_handle: SynapseProtocol
   aliases:
   - synapsebridge
+  - synapse_bridge
 - id: syncnetwork
   label: SYNC Network
   jurisdictions: []
@@ -40209,6 +40302,7 @@ actors:
     twitter_handle: TheTNetwork
   aliases:
   - thresholdnetwork
+  - threshold_network
 - id: tealswap
   label: Tealswap
   jurisdictions: []
@@ -41314,6 +41408,7 @@ actors:
     active: true
   aliases:
   - tokenizexchange
+  - tokenize_xchange
 - id: tokenlon
   label: Tokenlon (The Tokenized Bitcoin)
   jurisdictions: []
@@ -41764,6 +41859,8 @@ actors:
     - icons.llama.fi/trader-joe.png
     - icons.llama.fi/joe-v2.jpg
     twitter_handle: traderjoe_xyz
+  aliases:
+  - trader_joe
 - id: tradesatoshi
   label: Trade Satoshi
   jurisdictions:
@@ -41967,6 +42064,9 @@ actors:
     - icons.llama.fi/trisolaris.jpg
     twitter_handle: trisolarislabs
 - id: tropicalfinance
+  aliases:
+  - tropical
+  - tropicalswap
   label: Tropical Finance
   jurisdictions: []
   categories:
@@ -42892,6 +42992,7 @@ actors:
     twitter_handle: upbitglobal,upbitID
   aliases:
   - upbitindonesia
+  - upbit_indonesia
 - id: updownbt
   uri: updown.bt
   categories:
@@ -43952,6 +44053,8 @@ actors:
     - assets.coingecko.com/markets/images/768/small/voltage-finance.png?1644051646
     - icons.llama.fi/voltage.png
     twitter_handle: voltfinance
+  aliases:
+  - voltage_finance
 - id: voltz
   label: Voltz
   jurisdictions: []
@@ -44904,6 +45007,9 @@ actors:
     - icons.llama.fi/wombat-exchange.png
     - assets.coingecko.com/markets/images/1004/small/wombat.png?1669788032
     twitter_handle: WombatExchange
+  aliases:
+  - wombatexchange
+  - wombat_exchange
 - id: wombexfinance
   label: Wombex Finance
   jurisdictions: []
@@ -45400,6 +45506,8 @@ actors:
     - assets.coingecko.com/markets/images/404/small/logo400x400.png?1575881839
     active: true
     twitter_handle: XTexchange
+  aliases:
+  - xtcom
 - id: xtoken
   label: xToken
   jurisdictions: []
@@ -46464,6 +46572,7 @@ actors:
 - id: zkswap
   aliases:
   - zkswapfinance
+  - zkswap_finance
   label: ZKSwap
   jurisdictions: []
   categories:
@@ -46837,6 +46946,8 @@ actors:
   context:
     refs:
     - https://apollox-finance.gitbook.io/apollox-finance/
+  aliases:
+  - apollox_perp
 - id: woofwork
   label: Woof Work
   jurisdictions: []
@@ -46883,12 +46994,16 @@ actors:
   categories: []
   uri: https://www.galaxy.com/
   context: {}
+  aliases:
+  - galaxy_digital
 - id: evodefi
   label: Evo Defi
   jurisdictions: []
   categories: []
   uri: https://bridge.evodefi.com/
   context: {}
+  aliases:
+  - evo_defi
 - id: starshark
   label: Starsharks
   jurisdictions: []
@@ -46928,6 +47043,8 @@ actors:
   categories: []
   uri: https://linexenesiscorp.com/en/
   context: {}
+  aliases:
+  - line_xenesis
 - id: bzxprotocol
   label: Bzx
   jurisdictions: []
@@ -47069,6 +47186,8 @@ actors:
     - https://docs.dgswap.io/
     - https://github.com/dragon-swap-klaytn
     twitter_handle: dgswap
+  aliases:
+  - dragon_swap
 - id: wam
   label: Wam
   jurisdictions: []
@@ -47127,6 +47246,8 @@ actors:
   categories: []
   uri: https://l2pass.com/
   context: {}
+  aliases:
+  - l2pass_mememorphosis
 - id: frametoken
   label: $Frame
   jurisdictions: []
@@ -47191,6 +47312,8 @@ actors:
   categories: []
   uri: https://x.com/benbybit/status/1892963530422505586
   context: {}
+  aliases:
+  - bybit_hacker
 - id: daostack
   label: Daostack
   jurisdictions: []
@@ -47199,6 +47322,7 @@ actors:
   context: {}
   aliases:
   - superdaokernel
+  - superdao_kernel
 - id: rocofinance
   label: Roco Finance
   jurisdictions: []
@@ -47232,6 +47356,8 @@ actors:
     refs:
     - https://docs.capybara.exchange/english
     twitter_handle: CapybaraDEX
+  aliases:
+  - capybara_exchange
 - id: dwflabs
   label: Dwf Labs
   jurisdictions: []
@@ -47341,6 +47467,8 @@ actors:
   categories: []
   uri: https://www.softbank.jp/en/corp/aboutus/
   context: {}
+  aliases:
+  - softbank_corp
 - id: fsn
   label: Fsn
   jurisdictions: []
@@ -47353,6 +47481,8 @@ actors:
   categories: []
   uri: https://www.decentral.games/
   context: {}
+  aliases:
+  - decentral_games
 - id: nym
   label: Nym
   jurisdictions: []
@@ -47390,6 +47520,8 @@ actors:
     - https://docs.crowdswap.org/
     - https://github.com/CrowdSwap
     twitter_handle: CrowdSwap_App
+  aliases:
+  - crowd_swap
 - id: animocabrands
   label: Animoca Brands
   jurisdictions: []
@@ -47513,6 +47645,8 @@ actors:
     - https://docs.bitcoinsuisse.com/
     - https://github.com/BitcoinSuisse
     twitter_handle: BitcoinSuisseAG
+  aliases:
+  - bitcoin_suisse
 - id: braintrust
   label: Braintrust
   jurisdictions: []
@@ -47567,6 +47701,8 @@ actors:
   categories: []
   uri: https://winr.games/
   context: {}
+  aliases:
+  - winr_protocol
 - id: sygnum
   label: Sygnum
   jurisdictions: []
@@ -47872,6 +48008,8 @@ actors:
   categories: []
   uri: https://stablelab.xyz/
   context: {}
+  aliases:
+  - stable_lab
 - id: twtcheck
   label: Twitfi
   jurisdictions: []
@@ -47905,6 +48043,8 @@ actors:
   context:
     refs:
     - https://docs.eve.exchange/eve-exchange-knowledge-base/project-overview/getting-started
+  aliases:
+  - eve_exchange
 - id: eco
   label: Eco
   jurisdictions: []
@@ -47923,6 +48063,8 @@ actors:
   categories: []
   uri: https://www.gmo.jp/en/service/search/4/
   context: {}
+  aliases:
+  - gmo_coin
 - id: landxfinance
   label: Landx
   jurisdictions: []
@@ -47938,6 +48080,7 @@ actors:
   aliases:
   - kakaocorp
   - kakaospace
+  - kakao_space
 - id: blockfi
   label: Blockfi
   jurisdictions: []
@@ -48019,6 +48162,8 @@ actors:
   categories: []
   uri: https://www.kakaopay.com/
   context: {}
+  aliases:
+  - kakao_wallet
 - id: sei
   label: Sei
   jurisdictions: []
@@ -48047,6 +48192,8 @@ actors:
   categories: []
   uri: https://hoprnet.org/
   context: {}
+  aliases:
+  - hopr_protocol
 - id: bolt
   label: Boltos
   jurisdictions: []
@@ -48059,6 +48206,8 @@ actors:
   categories: []
   uri: https://incognito.org/papps
   context: {}
+  aliases:
+  - incognito_chain
 - id: youhodler
   label: Youhodler
   jurisdictions: []
@@ -48356,6 +48505,8 @@ actors:
   categories: []
   uri: https://verichains.io/
   context: {}
+  aliases:
+  - verichains_vng
 - id: piction
   label: Piction
   jurisdictions: []
@@ -48398,6 +48549,8 @@ actors:
     refs:
     - https://docs.xei.finance/
     - https://github.com/xei-finance
+  aliases:
+  - xei_finance
 - id: linenextcorp
   label: Line Next Corp
   jurisdictions: []
@@ -48587,6 +48740,8 @@ actors:
   categories: []
   uri: https://kommunedao.xyz/
   context: {}
+  aliases:
+  - kommune_dao
 - id: kaiprotocol
   label: Kai Protocol
   jurisdictions: []
@@ -48664,6 +48819,8 @@ actors:
   categories: []
   uri: https://www.batch.money/
   context: {}
+  aliases:
+  - batch_money
 - id: koreaeconomicdaily
   label: Korea Economic Daily
   jurisdictions: []
@@ -48698,6 +48855,8 @@ actors:
     refs:
     - https://docs.retro.finance/
     - https://github.com/RetroDefi/Contracts
+  aliases:
+  - retro_finance
 - id: bolttprotocol
   label: Boltt Protocol
   jurisdictions: []
@@ -48788,6 +48947,8 @@ actors:
     refs:
     - https://docs.safe.global/
     - https://github.com/topics/gnosis-safe
+  aliases:
+  - gnosis_safe
 - id: juggernaut
   label: Juggernaut
   jurisdictions: []
@@ -48910,6 +49071,8 @@ actors:
   categories: []
   uri: https://www.gsretail.com/gsretail/ko/company
   context: {}
+  aliases:
+  - gs_retail
 - id: blockrazor
   label: Blockrazor
   jurisdictions: []
@@ -48929,6 +49092,8 @@ actors:
     - https://docs.forta.network/en/latest/
     - https://github.com/forta-network
     twitter_handle: FortaNetwork
+  aliases:
+  - forta_network
 - id: tellor
   label: Tellor
   jurisdictions: []
@@ -49132,6 +49297,8 @@ actors:
   categories: []
   uri: https://steamexchange.io/
   context: {}
+  aliases:
+  - steam_exchange
 - id: harmony
   label: Harmony
   jurisdictions: []
@@ -49218,6 +49385,8 @@ actors:
   categories: []
   uri: https://www.mk.co.kr/
   context: {}
+  aliases:
+  - maekyung_media_group
 - id: lxinternational
   label: Lx International
   jurisdictions: []
@@ -49278,6 +49447,8 @@ actors:
   categories: []
   uri: https://ridotto.io/
   context: {}
+  aliases:
+  - ridotto_token
 - id: artblocks
   label: Artblocks
   jurisdictions: []
@@ -49330,12 +49501,16 @@ actors:
     - https://docs.native.org/?
     - https://github.com/Native-org
     twitter_handle: native_fi
+  aliases:
+  - native_pool
 - id: gravitybridge
   label: Gravity Bridge
   jurisdictions: []
   categories: []
   uri: https://www.gravitybridge.net/
   context: {}
+  aliases:
+  - gravity_bridge
 - id: prode
   label: Prode
   jurisdictions: []
@@ -49548,6 +49723,8 @@ actors:
     - https://builder-docs.vercel.app/reference/intro
     - https://github.com/ourzora/nouns-builder?tab=readme-ov-file
     twitter_handle: nounsbuilder
+  aliases:
+  - nouns_builder
 - id: uphold
   label: Uphold
   jurisdictions: []
@@ -49828,6 +50005,8 @@ actors:
   categories: []
   uri: https://garden.finance/
   context: {}
+  aliases:
+  - garden_finance
 - id: boost
   label: Boost
   jurisdictions: []

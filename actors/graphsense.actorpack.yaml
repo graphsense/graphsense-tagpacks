@@ -19285,6 +19285,7 @@ actors:
     - icons.llama.fi/gmx.png
     twitter_handle: GMX_IO
 - id: gnosis
+  aliases: [gnosissafe]
   label: gnosis DAO/Protocol v1
   jurisdictions: []
   categories:
@@ -48988,17 +48989,6 @@ actors:
     - https://docs.gnosischain.com/bridges/About%20Token%20Bridges/omnibridge
     - https://github.com/omni
     twitter_handle: gnosischain
-- id: gnosissafe
-  label: Gnosis Safe
-  jurisdictions: []
-  categories: []
-  uri: https://safe.global/
-  context:
-    refs:
-    - https://docs.safe.global/
-    - https://github.com/topics/gnosis-safe
-  aliases:
-  - gnosis_safe
 - id: juggernaut
   label: Juggernaut
   jurisdictions: []

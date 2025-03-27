@@ -204,6 +204,7 @@ actors:
     refs:
     - btc.com/stats/pool/1Hash
 - id: 1inch
+  aliases: [1inch_lop, 1inchlop]
   label: 1inch Network
   jurisdictions:
   - KN
@@ -4639,6 +4640,7 @@ actors:
   aliases:
   - beethovenx
   - beethoven_x
+  - beets
 - id: beglobalfinance
   label: BeGlobal Finance
   jurisdictions: []
@@ -6253,6 +6255,7 @@ actors:
     - icons.llama.fi/bitgert-swap.jpg
     twitter_handle: Evo_finances
 - id: bitget
+  aliases: [bitkeep]
   label: Bitget
   jurisdictions:
   - SG
@@ -6267,6 +6270,7 @@ actors:
     - bitget
     refs:
     - www.crunchbase.com/organization/bitget-com
+    - https://bitkeep.com
     - api.coingecko.com/api/v3/exchanges/bitget
     - api.llama.fi/protocol/bitget
     - cer.live/exchange/bitget
@@ -10574,6 +10578,8 @@ actors:
     twitter_handle: coinbase
   aliases:
   - baseusdc
+  - coinbase_prime
+  - coinbaseprime
 - id: coinbene
   label: Coinbene
   jurisdictions:
@@ -14205,6 +14211,7 @@ actors:
     - icons.llama.fi/depth.png
     twitter_handle: DepthFi
 - id: deribit
+  aliases: []
   label: Deribit
   jurisdictions:
   - PA
@@ -45088,6 +45095,8 @@ actors:
 - id: woonetwork
   aliases:
   - woofi
+  - woox
+  - woo_x
   label: Woo Network (Exchange, Earn)
   jurisdictions:
   - VG
@@ -46016,6 +46025,7 @@ actors:
     - icons.llama.fi/yokaiswap.jpg
     twitter_handle: yokaiswap
 - id: yoshiexchangeftm
+  aliases: [yoshiexchange]
   label: Yoshi Exchange
   jurisdictions: []
   categories:
@@ -48657,6 +48667,7 @@ actors:
     - https://github.com/diadata-org/
     twitter_handle: DIAdata_org
 - id: ozys
+  aliases: [ozys_hashed]
   label: Ozys
   jurisdictions: []
   categories: []
@@ -50069,3 +50080,178 @@ actors:
     refs:
     - https://github.com/cowprotocol
     twitter_handle: cowswap
+- id: moonbeam
+  aliases: [moonriver, moonbase]
+  uri: https://moonbeam.foundation
+  label: Moonbeam
+  categories: []
+- id: switchain
+  label: Switchain
+  uri: https://www.switchain.com
+  categories: []
+- id: orionx
+  label: Orionx
+  uri: https://www.orionx.com
+  categories: []
+- id: wealthsimple
+  label: Wealthsimple
+  uri: https://www.wealthsimple.com
+  categories: []
+- id: cobinhood
+  label: Cobinhood
+  uri: https://cobinhood.com
+  categories: []
+- id: coindelta
+  label: Coindelta
+  uri: https://coindelta.com
+  categories: []
+- id: chainx
+  label: ChainX
+  uri: https://chainx.org
+  categories: []
+- id: jpex
+  label: JPEX
+  uri: https://www.jp-ex.io
+  categories: []
+- id: swapblast
+  label: SwapBlast
+  uri: https://swapblast.finance/
+  categories: []
+- id: thruster
+  label: Thruster
+  uri: https://thruster.finance
+  categories: []
+- id: coinspaid
+  label: CoinsPaid
+  uri: https://coinspaid.com
+  categories: []
+- id: digitalsurge
+  aliases: [digital_surge]
+  label: Digital Surge
+  uri: https://digitalsurge.com.au
+  categories: []
+- id: etoro
+  label: eToro
+  uri: https://www.etoro.com
+  categories: []
+- id: moonpay
+  label: MoonPay
+  uri: https://www.moonpay.com
+  categories: []
+- id: simplex
+  label: Simplex
+  uri: https://www.simplex.com
+  categories: [payment_processor]
+- id: anchoragedigital
+  aliases: [anchorage_digital]
+  label: Anchorage Digital
+  uri: https://www.anchorage.com
+  categories: []
+- id: shakepay
+  label: Shakepay
+  uri: https://shakepay.com
+  categories: [payment_processor]
+- id: ndax
+  label: NDAX
+  uri: https://ndax.io
+  categories: [exchange]
+- id: iconomi
+  label: ICONOMI
+  uri: https://www.iconomi.com
+  categories: [exchange]
+- id: abra
+  label: Abra
+  uri: https://www.abra.com
+  categories: []
+- id: coinify
+  label: Coinify
+  uri: https://www.coinify.com
+  categories: []
+- id: matrixport
+  label: Matrixport
+  uri: https://www.matrixport.com
+  categories: [exchange]
+- id: bitkan
+  label: BitKan
+  uri: https://bitkan.com
+  categories: [exchange]
+- id: paybis
+  label: Paybis
+  uri: https://paybis.com
+  categories: [exchange]
+- id: coinswitch
+  label: CoinSwitch
+  uri: https://coinswitch.co
+  categories: [exchange]
+- id: bity
+  label: Bity
+  uri: https://bity.com
+  categories: [exchange]
+- id: bitcasino
+  label: Bitcasino
+  uri: https://bitcasino.io
+  categories: [gambling]
+- id: zerohash
+  aliases: [zero_hash]
+  label: Zero Hash
+  uri: https://www.zerohash.com
+  categories: []
+- id: faast
+  label: Faa.st
+  uri: https://faa.st
+  categories: []
+- id: layerzero
+  label: LayerZero
+  uri: https://layerzero.network
+  categories: []
+- id: chainhop
+  label: ChainHop
+  uri: https://app.chainhop.exchange/#/swap
+  categories: []
+- id: mute
+  aliases: [koifinance]
+  label: Mute
+  uri: https://mute.io
+  categories: []
+- id: orbiter
+  aliases: [orbiter_finance]
+  label: Orbiter Finance
+  uri: https://orbiter.finance
+  categories: [defi_dex]
+- id: velocore
+  label: Velocore
+  uri: https://velocore.xyz
+  categories: []
+- id: zkeggex
+  label: zkEggex
+  uri: https://zkeggex.com
+  categories: [exchange]
+- id: pandaexchange
+  aliases: [panda_exchange]
+  label: Panda Exchange
+  uri: https://www.panda.exchange
+  categories: []
+- id: renrenbit
+  label: RenrenBit
+  uri: https://renrenbit.com/
+  categories: []
+- id: zonda
+  label: Zonda
+  uri: https://zondacrypto.com/en/home
+  categories: [exchange]
+- id: wagmi
+  label: Wagmi
+  uri: https://wagmi.com/
+  categories: [defi_dex]
+- id: oku
+  label: OKU
+  uri: https://oku.trade
+  categories: [defi_dex]
+- id: 1xbet
+  label: 1xBet
+  uri: https://1xbet.com
+  categories: [gambling]
+- id: arkham
+  label: Arkham Intelligence
+  uri: https://arkm.com
+  categories: [exchange]

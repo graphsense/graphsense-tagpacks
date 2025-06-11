@@ -61,6 +61,9 @@ actors:
     images:
     - icons.llama.fi/0x.png
     twitter_handle: 0xProject
+  aliases:
+  - 0xapi
+  - 0x_api
 - id: 0xdao
   label: 0xDAO
   jurisdictions: []
@@ -194,13 +197,16 @@ actors:
 - id: 1hash
   label: 1Hash
   uri: www.1hash.com
-  categories: 
-    - mining_service
-    - miner
+  categories:
+  - mining_service
+  - miner
   context:
     refs:
-      - btc.com/stats/pool/1Hash
+    - btc.com/stats/pool/1Hash
 - id: 1inch
+  aliases:
+  - 1inch_lop
+  - 1inchlop
   label: 1inch Network
   jurisdictions:
   - KN
@@ -247,17 +253,17 @@ actors:
   label: 1THash
   uri: www.1thash.top
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
     refs:
-      - btc.com/stats/pool/1THash
+    - btc.com/stats/pool/1THash
 - id: 21inc
   label: 21 Inc.
   uri: 21.co
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
     refs:
     - btc.com/stats/pool/21 Inc.
@@ -388,8 +394,8 @@ actors:
   label: 58Coin
   uri: 58coin.com
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
     refs:
     - btc.com/stats/pool/58COIN
@@ -440,8 +446,8 @@ actors:
   label: 8baochi
   uri: 8baochi.com/
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
     refs:
     - btc.com/stats/pool/8baochi
@@ -472,6 +478,9 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/999Dice.com
 - id: Obyte
+  aliases:
+  - obyte
+  - counterstake
   label: Obyte Ostable/Oswap/Prophet/Counterstake
   jurisdictions: []
   categories:
@@ -504,6 +513,8 @@ actors:
     - icons.llama.fi/counterstake.png
     twitter_handle: ObyteOrg
 - id: Venomdao
+  aliases:
+  - venomdao
   label: VenomDao ViperSwap / CobraSwap / Comfy Money
   jurisdictions: []
   categories:
@@ -535,6 +546,8 @@ actors:
     - icons.llama.fi/comfy-money.svg
     twitter_handle: VenomDAO
 - id: ZBG
+  aliases:
+  - zbg
   label: ZBG
   jurisdictions:
   - MT
@@ -575,8 +588,8 @@ actors:
   label: aaopool
   uri: btc.tmspool.top
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
     refs:
     - btc.com/stats/pool/AAO%20Pool
@@ -661,6 +674,8 @@ actors:
     images:
     - assets.coingecko.com/markets/images/172/small/abcc.png?1546228821
     active: true
+  aliases:
+  - abcc_exchange
 - id: abelfinance
   label: ABEL Finance
   jurisdictions: []
@@ -788,6 +803,9 @@ actors:
     images:
     - icons.llama.fi/acoconut.png
 - id: across
+  aliases:
+  - acrossprotocol
+  - across_protocol
   label: Across
   jurisdictions: []
   categories:
@@ -1577,6 +1595,8 @@ actors:
     - icons.llama.fi/alpacacity.png
     twitter_handle: CityAlpaca
 - id: alpacafinance
+  aliases:
+  - alpaca
   label: Alpaca Finance
   jurisdictions: []
   categories:
@@ -1950,6 +1970,8 @@ actors:
     images:
     - icons.llama.fi/angle.jpg
     twitter_handle: AngleProtocol
+  aliases:
+  - ageur
 - id: animeswap
   label: AnimeSwap
   jurisdictions: []
@@ -2064,6 +2086,8 @@ actors:
     images:
     - icons.llama.fi/antimatter.jpg
     twitter_handle: antimatterdefi
+  aliases:
+  - matter
 - id: antpoolcom
   uri: antpool.com
   categories:
@@ -2714,8 +2738,8 @@ actors:
 - id: arkpool
   label: arkpool
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   uri: www.arkpool.com
   context:
     refs:
@@ -3625,6 +3649,9 @@ actors:
     - icons.llama.fi/azuro.png
     twitter_handle: azuroprotocol
 - id: azpaya
+  aliases:
+  - arzpaya
+  - arzpayacom
   label: ARzPaya
   jurisdictions:
   - IR
@@ -3642,11 +3669,11 @@ actors:
   label: batpool
   uri: www.batpool.com
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
     refs:
-      - btc.com/stats/pool/BATPOOL
+    - btc.com/stats/pool/BATPOOL
 - id: b2bx
   label: B2Bx
   jurisdictions:
@@ -3715,6 +3742,8 @@ actors:
     - assets.coingecko.com/markets/images/986/small/BabyDogeSwap.png?1666232760
     twitter_handle: BabyDogeCoin
 - id: babylonfinance
+  aliases:
+  - babylon
   label: Babylon Finance
   jurisdictions: []
   categories:
@@ -3847,6 +3876,8 @@ actors:
     images:
     - icons.llama.fi/badger-dao.jpg
     twitter_handle: Yield Aggregator
+  aliases:
+  - badgerdao
 - id: bagelsfinance
   label: Bagels Finance
   jurisdictions: []
@@ -4186,7 +4217,8 @@ actors:
   uri: www.bao.finance
   context:
     notes:
-    - includes Swap, USD, Ballast, Markets, Basket, Masterchef V1) / Panda (Swap, Chef)
+    - includes Swap, USD, Ballast, Markets, Basket, Masterchef V1) / Panda (Swap,
+      Chef)
     uris:
     - app.bao.finance
     - www.baoswap.xyz
@@ -4607,6 +4639,10 @@ actors:
     - assets.coingecko.com/markets/images/729/small/JrrbHgla_400x400.png?1635921837
     - assets.coingecko.com/markets/images/1040/small/beethovenx.jpeg?1675062796
     twitter_handle: beethoven_x
+  aliases:
+  - beethovenx
+  - beethoven_x
+  - beets
 - id: beglobalfinance
   label: BeGlobal Finance
   jurisdictions: []
@@ -4733,6 +4769,8 @@ actors:
     - icons.llama.fi/benddao.png
     twitter_handle: BendDAO
 - id: benqi
+  aliases:
+  - benqifinance
   label: Benqi Lending/Staked Avax
   jurisdictions: []
   categories:
@@ -4827,6 +4865,8 @@ actors:
     - icons.llama.fi/beta-finance.jpg
     twitter_handle: beta_finance
 - id: betchaincom-old
+  aliases:
+  - betchaincomold
   uri: betchain.com-old
   categories:
   - gambling
@@ -5001,6 +5041,8 @@ actors:
     notes:
     - crunchbase says SG, cg/cer.live EE
 - id: biconomy
+  aliases:
+  - biconomyexchange
   label: Biconomy/Hyphen
   jurisdictions:
   - SG
@@ -5085,6 +5127,8 @@ actors:
     - icons.llama.fi/bifrost-liquid-crowdloan.jpg
     - icons.llama.fi/bifrost-staking.png
     twitter_handle: bifrost_finance
+  aliases:
+  - bifrost
 - id: bigdataprotocol
   label: Big Data Protocol
   jurisdictions: []
@@ -5251,6 +5295,9 @@ actors:
     twitter_handle: BinanceUS,binance,binancezh
     legal_name: Binance Holdings Limited
     active: true
+  aliases:
+  - binanceus
+  - binance_us
 - id: binancemultichaincapital
   label: Binance Multi Chain Capital
   jurisdictions: []
@@ -5268,6 +5315,8 @@ actors:
     - icons.llama.fi/binance-multi-chain-capital.png
     twitter_handle: Binancemcc
 - id: bingbon
+  aliases:
+  - bingx
   label: Bingbon/BingX
   jurisdictions:
   - SG
@@ -5325,6 +5374,8 @@ actors:
     images:
     - assets.coingecko.com/markets/images/419/small/Birake.png?1559647171
 - id: birwocom-old
+  aliases:
+  - birwocomold
   uri: birwo.com-old
   categories:
   - service
@@ -5528,8 +5579,8 @@ actors:
     - glasschain.org/provider/BitBay.net
     - www.crunchbase.com/organization/bitbay
     notes:
-    - rebranded to zonda. Cryptostats/coinamrketcap/cer.live say estonia. crunchbase says
-      malta
+    - rebranded to zonda. Cryptostats/coinamrketcap/cer.live say estonia. crunchbase
+      says malta
     images:
     - assets.coingecko.com/markets/images/2/small/logo_zonda.png?1638780494
     active: true
@@ -5544,7 +5595,7 @@ actors:
   context:
     refs:
     - www.theasianbanker.com/publication/virtual-currency-services
-    active: false    
+    active: false
 - id: bitbegin
   label: Bitbegin
   jurisdictions:
@@ -5668,11 +5719,11 @@ actors:
   label: Bitclub Network
   uri: bitclubnetwork.com
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
     refs:
-      - btc.com/stats/pool/BitClub
+    - btc.com/stats/pool/BitClub
 - id: bitcm
   uri: bit.cm
   categories:
@@ -5685,6 +5736,8 @@ actors:
     - www.theasianbanker.com/publication/virtual-currency-services
     active: false
 - id: bitcoin-bourse
+  aliases:
+  - bitcoinbourse
   uri: bitcoinbourse.eu/
   categories:
   - exchange
@@ -5696,6 +5749,8 @@ actors:
     - www.theasianbanker.com/publication/virtual-currency-services
     active: false
 - id: bitcoin-roulettecom
+  aliases:
+  - bitcoinroulettecom
   uri: bitcoin-roulette.com
   categories:
   - service
@@ -5817,11 +5872,11 @@ actors:
 - id: bitcoinindia
   label: Bitcoin India
   categories:
-    - mining_service
+  - mining_service
   uri: pool.bitcoin-india.org
   context:
     refs:
-      - btc.com/stats/pool/BitcoinIndia
+    - btc.com/stats/pool/BitcoinIndia
 - id: bitcoinp2p
   label: bitcoinp2p.com.br
   jurisdictions:
@@ -5846,23 +5901,23 @@ actors:
   label: Bitcoin Russia
   uri: bitcoin-russia.ru
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
     refs:
-      - btc.com/stats/pool/BitcoinRussia
+    - btc.com/stats/pool/BitcoinRussia
 - id: bitcointoyou
   label: Bitcointoyou
   uri: bitcointoyou.com
   jurisdictions:
-    - BR
+  - BR
   categories:
-    - exchange
+  - exchange
   context:
     refs:
-      - www.crunchbase.com/organization/bitcointoyou
-      - glasschain.org/provider/BitcoinToYou.com
-      - golden.com/wiki/BitcoinToYou-XKEZKB6
+    - www.crunchbase.com/organization/bitcointoyou
+    - glasschain.org/provider/BitcoinToYou.com
+    - golden.com/wiki/BitcoinToYou-XKEZKB6
     twitter_handle: bitcointoyou
 - id: bitcointry
   label: Bitcointry Exchange
@@ -6074,7 +6129,8 @@ actors:
     - www.cryptowisser.com/exchange/ethfinex/
     - www.crunchbase.com/organization/ethfinex
     notes:
-    - also cryptostats says BVI while crunchbase says Taiwan, the asian banker says HK
+    - also cryptostats says BVI while crunchbase says Taiwan, the asian banker says
+      HK
     - includes Ethfinex https://blog.bitfinex.com/announcements/new-vision-ethfinex/
     images:
     - icons.llama.fi/bitfinex.png
@@ -6201,6 +6257,8 @@ actors:
     - icons.llama.fi/bitgert-swap.jpg
     twitter_handle: Evo_finances
 - id: bitget
+  aliases:
+  - bitkeep
   label: Bitget
   jurisdictions:
   - SG
@@ -6215,6 +6273,7 @@ actors:
     - bitget
     refs:
     - www.crunchbase.com/organization/bitget-com
+    - https://bitkeep.com
     - api.coingecko.com/api/v3/exchanges/bitget
     - api.llama.fi/protocol/bitget
     - cer.live/exchange/bitget
@@ -6278,8 +6337,8 @@ actors:
     - assets.coingecko.com/markets/images/405/small/bitgloball.png?1639543042
     - assets.coingecko.com/markets/images/6/small/bithumb_BI.png?1573104549
     notes:
-    - 'bitglobal: also cryptostats puts them in seychelles while crunchbase in Hong kong. NB rebranding
-      of Bithumb global. cer live says KR'
+    - 'bitglobal: also cryptostats puts them in seychelles while crunchbase in Hong
+      kong. NB rebranding of Bithumb global. cer live says KR'
     - bitglobal SC
     legal_name: BTC Korea.com Co. Ltd.
     active: true
@@ -6490,6 +6549,8 @@ actors:
     - assets.coingecko.com/markets/images/277/small/%E5%8E%9F%E8%89%B2.png?1650557355
     active: true
     twitter_handle: _AscendEX
+  aliases:
+  - ascendex
 - id: bitmake
   label: BitMake
   jurisdictions:
@@ -6658,11 +6719,13 @@ actors:
   label: Bitparking
   uri: mmpool.bitparking.com
   categories:
-    - mining_service
+  - mining_service
   context:
     refs:
-      - btc.com/stats/pool/Bitparking 
+    - btc.com/stats/pool/Bitparking
 - id: bitpaycom
+  aliases:
+  - bitpay
   uri: bitpay.com
   categories:
   - service
@@ -6694,7 +6757,7 @@ actors:
   - exchange
   uri: bitrabbit.com
   context:
-    uris: 
+    uris:
     - bitrabbit.io
     refs:
     - coinmarketcap.com/exchanges/bitrabbit/
@@ -6727,16 +6790,16 @@ actors:
   label: Bits.media
   uri: bits.media
   categories:
-    - service
+  - service
   jurisdictions:
-    - RU
+  - RU
   context:
     refs:
-      - www.crunchbase.com/organization/bits-media
-      - golden.com/wiki/bits.media-5ZX3KBM
-      - glasschain.org/provider/Bits.Media
+    - www.crunchbase.com/organization/bits-media
+    - golden.com/wiki/bits.media-5ZX3KBM
+    - glasschain.org/provider/Bits.Media
     notes:
-      - Media Platform
+    - Media Platform
 - id: bitso
   label: Bitso
   jurisdictions:
@@ -7094,6 +7157,8 @@ actors:
     end_activity: '2021'
     start_activity: '2016'
     twitter_handle: BitZ_Group
+  aliases:
+  - bitz
 - id: bitznetwork
   label: Bitz
   jurisdictions:
@@ -7142,11 +7207,11 @@ actors:
   label: Bixin
   uri: haopool.com
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
     refs:
-      - btc.com/stats/pool/Bixin
+    - btc.com/stats/pool/Bixin
 - id: bkex
   label: BKEX
   jurisdictions:
@@ -7163,7 +7228,7 @@ actors:
     - facebook.com/BKEXGlobal
     - reddit.com/u/BKEX-Global
     - linkedin.com/company/bkex-com
-    - instagram.com/bkexglobal/ 
+    - instagram.com/bkexglobal/
     images:
     - assets.coingecko.com/markets/images/293/small/New_BKEX_logo.png?1646724631
     twitter_handle: BKEXGlobal
@@ -7226,10 +7291,10 @@ actors:
   label: blender.io
   uri: blender.io
   categories:
-    - mixing_service
+  - mixing_service
   context:
     refs:
-      - https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220506
+    - https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220506
 - id: bleutrade
   label: Bleutrade
   jurisdictions:
@@ -7312,6 +7377,8 @@ actors:
     - icons.llama.fi/blizz-finance.png
     twitter_handle: BlizzFinance
 - id: blockchain
+  aliases:
+  - blockchaincom
   label: Blockchain.com
   jurisdictions:
   - GB
@@ -7364,6 +7431,8 @@ actors:
     - www.linkedin.com/company/blocktradecom/?originalSubdomain=lu
     active: true
 - id: blofin
+  aliases:
+  - blofinexchange
   label: BloFin Exchange
   jurisdictions:
   - MH
@@ -7539,6 +7608,8 @@ actors:
   context:
     defilama_ids:
     - bobagateway
+  aliases:
+  - boba
 - id: bodhfinance
   label: Bodh Finance
   jurisdictions: []
@@ -7828,17 +7899,17 @@ actors:
     twitter_handle: BrahmaFi
 - id: braiins
   label: Braiins.com
-  jurisdictions: 
+  jurisdictions:
   - CZ
   categories:
   - mining_service
   uri: braiins.com
   context:
-   refs:
-   - https://www.crunchbase.com/organization/braiins
-   - braiins.com/pool
-   - btc.com/stats/pool/Braiins%20Pool
-   twitter_handle: BraiinsMining
+    refs:
+    - https://www.crunchbase.com/organization/braiins
+    - braiins.com/pool
+    - btc.com/stats/pool/Braiins%20Pool
+    twitter_handle: BraiinsMining
 - id: brainiacfinance
   label: Brainiac Finance
   jurisdictions: []
@@ -8039,33 +8110,33 @@ actors:
 - id: btccom
   label: BTC.com
   jurisdictions:
-    - NL
+  - NL
   uri: btc.com
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
     refs:
-      - www.crunchbase.com/organization/btc-com
-      - btc.com/stats/pool/BTC.com
+    - www.crunchbase.com/organization/btc-com
+    - btc.com/stats/pool/BTC.com
 - id: btcnuggets
   label: BTC Nuggets
   uri: 104.197.8.250
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
     refs:
-      - btc.com/stats/pool/BTC%20Nuggets
+    - btc.com/stats/pool/BTC%20Nuggets
 - id: btctop
   label: BTC.top
   uri: btc.top
   categories:
-    - mining_service
+  - mining_service
   context:
     twitter_handle: btctop_official,btopmining
     refs:
-      - btc.com/stats/pool/BTC.TOP
+    - btc.com/stats/pool/BTC.TOP
 - id: btc38
   label: Btc38
   jurisdictions:
@@ -8102,6 +8173,8 @@ actors:
     legal_name: BTC-Alpha
     active: true
     twitter_handle: btcalpha
+  aliases:
+  - btcalpha_exchange
 - id: btcbox
   label: BTCBOX
   jurisdictions:
@@ -8136,7 +8209,7 @@ actors:
     legal_name: BTCC Limited
     active: true
     notes:
-    -  BTCC mining pool has been closed in 2018
+    - BTCC mining pool has been closed in 2018
 - id: btccpool
   uri: pool.mineBitcoinCore.org
   categories:
@@ -8160,11 +8233,11 @@ actors:
 - id: btcdig
   label: BTCdig
   categories:
-    - mining_service
+  - mining_service
   uri: btcdig.com
   context:
     refs:
-      - btc.com/stats/pool/BTCDig
+    - btc.com/stats/pool/BTCDig
 - id: btce
   label: Btc-E
   jurisdictions:
@@ -8273,6 +8346,8 @@ actors:
     legal_name: BTC Markets Pty Ltd
     active: true
     twitter_handle: BTCMarkets
+  aliases:
+  - btc_markets
 - id: btcoraclecom
   uri: btcoracle.com
   categories:
@@ -8325,6 +8400,8 @@ actors:
     - icons.llama.fi/btcst.png
     twitter_handle: BTCST2020
 - id: btcstcom-pirateat40
+  aliases:
+  - btcstcompirateat40
   uri: btcst.com-pirateat40
   categories:
   - service
@@ -8396,6 +8473,8 @@ actors:
     twitter_handle: btcturk
     legal_name: Eliptik Yazilim ve Ticaret A.S.
     active: true
+  aliases:
+  - btcturk
 - id: bter
   label: Bter
   jurisdictions:
@@ -8559,6 +8638,8 @@ actors:
     - icons.llama.fi/bullionfx.jpg
     twitter_handle: BullionFx
 - id: bullishcom
+  aliases:
+  - bullish
   label: Bullish
   jurisdictions:
   - GI
@@ -8769,6 +8850,8 @@ actors:
     - assets.coingecko.com/markets/images/326/small/bw.com.jpg?1548664400
     active: true
     twitter_handle: BWOfficial2
+  aliases:
+  - bwcom
 - id: bwatch
   label: Bwatch
   jurisdictions: []
@@ -8854,11 +8937,11 @@ actors:
   label: Bytepool
   uri: bytepool.com
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
     refs:
-      - btc.com/stats/pool/BytePool
+    - btc.com/stats/pool/BytePool
 - id: cachegold
   label: CACHE.Gold
   jurisdictions: []
@@ -9076,11 +9159,11 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/CannabisRoadMarket
     active: false
-- id: canoe 
+- id: canoe
   label: Canoe
   uri: www.canoepool.com
   categories:
-    - mining_service
+  - mining_service
   context:
     refs:
     - btc.com/stats/pool/CanoePool
@@ -9339,6 +9422,8 @@ actors:
     - icons.llama.fi/casinocronos.jpg
     twitter_handle: casinocronos
 - id: catex
+  aliases:
+  - catex_exchange
   label: Catex
   jurisdictions:
   - CN
@@ -9465,6 +9550,9 @@ actors:
     images:
     - icons.llama.fi/cbridge.jpg
     twitter_handle: CelerNetwork
+  aliases:
+  - celernetwork
+  - celer_network
 - id: celerycash
   label: Celerycash
   jurisdictions: []
@@ -9620,6 +9708,8 @@ actors:
     - assets.coingecko.com/markets/images/56/small/main-icon.png?1617267530
     active: true
     twitter_handle: cex_io
+  aliases:
+  - cexio
 - id: chadfinance
   label: Chad Finance
   jurisdictions: []
@@ -9658,9 +9748,10 @@ actors:
     twitter_handle: ChainEXIO
 - id: chainflip
   label: Chainflip.io
-  jurisdictions: [DE]
+  jurisdictions:
+  - DE
   categories:
-    - defi_bridge
+  - defi_bridge
   uri: chainflip.io
   context:
     twitter_handle: chainflip
@@ -9782,7 +9873,8 @@ actors:
     - www.crunchbase.com/organization/changelly
     - cer.live/exchange/changelly
     notes:
-    - coinmarketcap and cryptostats/cer.live say it is at seychelles. cryptowisser hong kong
+    - coinmarketcap and cryptostats/cer.live say it is at seychelles. cryptowisser
+      hong kong
     images:
     - assets.coingecko.com/markets/images/580/small/pro_logo_cmc.png?1600833621
     active: true
@@ -9891,21 +9983,21 @@ actors:
 - id: chatex
   label: Chatex
   categories:
-    - service
-    - defi
-  jurisdictions: 
-    - EE
-    - RU
+  - service
+  - defi
+  jurisdictions:
+  - EE
+  - RU
   uri: chatex.com
   context:
     notes:
-      - Telegram Trading Chat
+    - Telegram Trading Chat
     refs:
-      - golden.com/wiki/Chatex-NYBR346
-      - glasschain.org/provider/Chatex%20Russia
-      - www.crunchbase.com/organization/chatex
-      - coinmarketcap.com/currencies/chatex
-      - etherscan.io/token/0x2ff385dda9a9d22df0e606e0dac977548c67d1e6
+    - golden.com/wiki/Chatex-NYBR346
+    - glasschain.org/provider/Chatex%20Russia
+    - www.crunchbase.com/organization/chatex
+    - coinmarketcap.com/currencies/chatex
+    - etherscan.io/token/0x2ff385dda9a9d22df0e606e0dac977548c67d1e6
     twitter_handle: Chatex_bot
 - id: chbtc
   label: Chbtc
@@ -10118,13 +10210,13 @@ actors:
   uri: centre.io
   context:
     uris:
-      - www.circle.com
+    - www.circle.com
     refs:
     - www.theasianbanker.com/publication/virtual-currency-services
     - en.wikipedia.org/wiki/USD_Coin
     - coinmarketcap.com/currencies/usd-coin/
     images:
-      - s2.coinmarketcap.com/static/img/coins/64x64/3408.png
+    - s2.coinmarketcap.com/static/img/coins/64x64/3408.png
     active: true
     twitter_handle: circle,centre_io
 - id: citadao
@@ -10264,6 +10356,8 @@ actors:
     images:
     - icons.llama.fi/clearpool.png
     twitter_handle: ClearpoolFin
+  aliases:
+  - cpooltoken
 - id: cleopatradao
   label: Cleopatra DAO
   jurisdictions: []
@@ -10405,7 +10499,11 @@ actors:
     active: false
     start_activity: '2013'
     end_activity: '2015'
+  aliases:
+  - coinexchange
 - id: coin-swapnet
+  aliases:
+  - coinswapnet
   uri: coin-swap.net
   categories:
   - service
@@ -10416,6 +10514,8 @@ actors:
     - www.walletexplorer.com/wallet/Coin-Swap.net
     active: false
 - id: coin-sweepercom
+  aliases:
+  - coinsweepercom
   uri: coin-sweeper.com
   categories:
   - service
@@ -10479,6 +10579,10 @@ actors:
     active: true
     start_activity: '2012'
     twitter_handle: coinbase
+  aliases:
+  - baseusdc
+  - coinbase_prime
+  - coinbaseprime
 - id: coinbene
   label: Coinbene
   jurisdictions:
@@ -10755,7 +10859,7 @@ actors:
   uri: coinfloor.co.uk
   context:
     uris:
-      - www.coincorner.com
+    - www.coincorner.com
     refs:
     - www.theasianbanker.com/publication/virtual-currency-services
     - cer.live/exchange/coinfloor
@@ -10776,8 +10880,8 @@ actors:
   - LT
   uri: coingate.com
   categories:
-    - exchange
-    - payment_processor
+  - exchange
+  - payment_processor
   context:
     twitter_handle: coingatecom
     refs:
@@ -10897,10 +11001,10 @@ actors:
   label: CoinLab
   uri: coinlab.com/
   categories:
-    - mining_service
+  - mining_service
   context:
     refs:
-    - btc.com/stats/pool/CoinLab  
+    - btc.com/stats/pool/CoinLab
 - id: coinlistpro
   label: Coinlist
   jurisdictions:
@@ -10918,6 +11022,8 @@ actors:
     - assets.coingecko.com/markets/images/587/small/CoinList.png?1601540662
     legal_name: CoinList Capital LLC
     active: true
+  aliases:
+  - coinlist
 - id: coinmama
   label: Coinmama
   jurisdictions:
@@ -11291,11 +11397,11 @@ actors:
   label: Cointerra
   uri: cointerra.com
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
-    refs: 
-      - btc.com/stats/pool/Cointerra
+    refs:
+    - btc.com/stats/pool/Cointerra
 - id: cointiger
   label: Cointiger
   jurisdictions:
@@ -11350,14 +11456,14 @@ actors:
 - id: cointraffic
   label: Cointraffic
   categories:
-    - service
+  - service
   jurisdictions:
-    - EE
+  - EE
   uri: cointraffic.io
   context:
     refs:
-      - https://www.crunchbase.com/organization/cointraffic
-      - https://glasschain.org/provider/Cointraffic%20Advertising
+    - https://www.crunchbase.com/organization/cointraffic
+    - https://glasschain.org/provider/Cointraffic%20Advertising
     notes:
     - Advertising Network
 - id: coinurlcom
@@ -11715,14 +11821,14 @@ actors:
     images:
     - icons.llama.fi/cone.png
     twitter_handle: Coneswap
-- id: connectbtc 
+- id: connectbtc
   label: connectbtc
   uri: www.connectbtc.com
   categories:
-    - mining_service
+  - mining_service
   context:
     refs:
-    - btc.com/stats/pool/ConnectBTC  
+    - btc.com/stats/pool/ConnectBTC
 - id: connext
   label: Connext
   jurisdictions: []
@@ -11953,6 +12059,8 @@ actors:
     - icons.llama.fi/cowaii-cash.png
     twitter_handle: CowaiiTomb
 - id: cozyfinance
+  aliases:
+  - cozy
   label: Cozy Finance
   jurisdictions: []
   categories:
@@ -12031,6 +12139,8 @@ actors:
     - icons.llama.fi/cranium-exchange.png
     twitter_handle: craniumexchange
 - id: creamfinance
+  aliases:
+  - cream
   label: CREAM Finance/Swap
   jurisdictions: []
   categories:
@@ -12435,8 +12545,8 @@ actors:
     active: false
     twitter_handle: cryptaldash
     notes:
-      - '2020: rebranded to DLTif'
-      - crunchbase says GI for ne DLTif, old cryptaldash says UA
+    - '2020: rebranded to DLTif'
+    - crunchbase says GI for ne DLTif, old cryptaldash says UA
 - id: cryptcominercom
   uri: cryptcominer.com
   categories:
@@ -12462,6 +12572,8 @@ actors:
     start_activity: '2018'
     twitter_handle: crypterumcom
 - id: cryptexfinance
+  aliases:
+  - cryptex
   label: Cryptex Finance
   jurisdictions: []
   categories:
@@ -12495,6 +12607,8 @@ actors:
     - icons.llama.fi/cryptex-locker.png
     twitter_handle: ExLocker
 - id: crypto-gamesnet
+  aliases:
+  - cryptogamesnet
   uri: crypto-games.net
   categories:
   - gambling
@@ -12506,6 +12620,8 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/Crypto-Games.net
 - id: crypto-tradecom
+  aliases:
+  - cryptotradecom
   uri: crypto-trade.com
   categories:
   - service
@@ -12582,6 +12698,8 @@ actors:
     active: true
     start_activity: '2016-06-01'
     twitter_handle: cryptocom
+  aliases:
+  - crypto_com
 - id: cryptolocker
   uri: cryptolocker
   categories:
@@ -12608,7 +12726,8 @@ actors:
     - cer.live/exchange/cryptology
     - facebook.com/Cryptologyexch
     notes:
-    - 'cryptostats/cer.live/coingecko: estonia. Cryptowisser: singapore, crunchbase says Cy'
+    - 'cryptostats/cer.live/coingecko: estonia. Cryptowisser: singapore, crunchbase
+      says Cy'
     images:
     - assets.coingecko.com/markets/images/287/small/logo-symbol.png?1669975181
     legal_name: Cypher Trading Ltd
@@ -12662,6 +12781,8 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/Cryptonator.com
+  aliases:
+  - cryptonator
 - id: cryptonex
   label: Cryptonex
   jurisdictions:
@@ -12941,7 +13062,7 @@ actors:
 - id: curve
   label: Curve Finance
   jurisdictions:
-    - CH
+  - CH
   categories:
   - organization
   - defi_dex
@@ -12988,6 +13109,9 @@ actors:
     twitter_handle: CurveFinance
     notes:
     - 'chains: Xdai, Ethereum, Arbitrum, Fantom, Avalanche, Moonbeam, Polygon'
+  aliases:
+  - wasabi
+  - curvellamalend
 - id: cvaultfinance
   label: cVault Finance (core)
   jurisdictions: []
@@ -13400,6 +13524,8 @@ actors:
     - icons.llama.fi/debets.png
     twitter_handle: debets_org
 - id: debridge
+  aliases:
+  - debridgegate
   label: deBridge
   jurisdictions: []
   categories:
@@ -13710,6 +13836,10 @@ actors:
     - assets.coingecko.com/markets/images/846/small/dfk_crystalvale_logo.png?1649052617
     - assets.coingecko.com/markets/images/721/small/defi_kingdoms.png?1634697345
     twitter_handle: DefiKingdoms
+  aliases:
+  - defikingdom
+  - defikingdoms
+  - defi_kingdoms
 - id: defil
   label: DeFIL
   jurisdictions: []
@@ -13961,6 +14091,8 @@ actors:
     active: true
     start_activity: '2018-02-01'
     twitter_handle: Delta_Exchange
+  aliases:
+  - delta_exchange
 - id: deltafinancial
   label: Delta Financial
   jurisdictions: []
@@ -14082,6 +14214,7 @@ actors:
     - icons.llama.fi/depth.png
     twitter_handle: DepthFi
 - id: deribit
+  aliases: []
   label: Deribit
   jurisdictions:
   - PA
@@ -14346,6 +14479,8 @@ actors:
     images:
     - icons.llama.fi/dfx-finance.jpg
     twitter_handle: DFXFinance
+  aliases:
+  - dfx
 - id: dfynnetwork
   label: Dfyn Network
   jurisdictions:
@@ -14369,6 +14504,8 @@ actors:
     - icons.llama.fi/dfyn-network.jpg
     - assets.coingecko.com/markets/images/674/small/dyfn.png?1621239014
     twitter_handle: _Dfyn
+  aliases:
+  - dfyn
 - id: dgex
   label: Dgex
   jurisdictions:
@@ -14530,7 +14667,7 @@ actors:
   uri: digitalbtc.com
   label: DigitalBTC
   categories:
-    - mining_service
+  - mining_service
   context:
     refs:
     - btc.com/stats/pool/digitalBTC
@@ -14730,6 +14867,9 @@ actors:
     - assets.coingecko.com/markets/images/588/small/dodoex.png?1601864278
     - assets.coingecko.com/markets/images/640/small/41tgsq69_400x400.png?1618372654
     twitter_handle: BreederDodo
+  aliases:
+  - dodoex
+  - dodo_x
 - id: dogeclaw
   label: DogeClaw
   jurisdictions: []
@@ -15044,11 +15184,11 @@ actors:
   label: dpool
   uri: www.dpool.top
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
     refs:
-      - btc.com/stats/pool/DPOOL
+    - btc.com/stats/pool/DPOOL
 - id: drachma
   label: Drachma
   jurisdictions: []
@@ -15111,6 +15251,8 @@ actors:
     images:
     - icons.llama.fi/dracula.png
     twitter_handle: DraculaProtocol
+  aliases:
+  - dracula_finance
 - id: dragonfruitprotocol
   label: Dragonfruit Protocol
   jurisdictions: []
@@ -15501,6 +15643,8 @@ actors:
     images:
     - icons.llama.fi/eklipse-finance.png
     twitter_handle: eklipseFinance
+  aliases:
+  - eklipse_finance
 - id: elasticswap
   label: ElasticSwap
   jurisdictions: []
@@ -15620,6 +15764,9 @@ actors:
     - btc.com/stats/pool/eligius
     active: false
 - id: elk
+  aliases:
+  - elkfinance
+  - elk_finance
   label: Elk Finance (Ethereum, BSC, Avalanche, Polygon)
   jurisdictions: []
   categories:
@@ -15670,6 +15817,8 @@ actors:
     - icons.llama.fi/ellipsis-finance.jpg
     - assets.coingecko.com/markets/images/1043/small/ellipsis.jpeg?1675317061
     twitter_handle: Ellipsisfi
+  aliases:
+  - ellipsis_finance
 - id: elonswap
   label: ElonSwap
   jurisdictions: []
@@ -15737,11 +15886,11 @@ actors:
   label: EMCD Pool
   uri: pool.emcd.io
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
     refs:
-      - btc.com/stats/pool/EMCDPool
+    - btc.com/stats/pool/EMCDPool
 - id: emdx
   label: EMDX
   jurisdictions:
@@ -15935,6 +16084,8 @@ actors:
     images:
     - icons.llama.fi/ens.jpg
     twitter_handle: ensdomains
+  aliases:
+  - ethereumnameservice
 - id: ensofinance
   label: Enso Finance
   jurisdictions: []
@@ -16001,11 +16152,11 @@ actors:
     images:
     - icons.llama.fi/enzyme-finance.jpg
     twitter_handle: enzymefinance
-- id: eobot 
+- id: eobot
   label: Eobot
   uri: eobot.com
   categories:
-    -  mining_service
+  - mining_service
   context:
     refs:
     - btc.com/stats/pool/Eobot
@@ -16068,6 +16219,9 @@ actors:
     - icons.llama.fi/epsylon.svg
     twitter_handle: epsylon_finance
 - id: equalizer
+  aliases:
+  - equalizerexchange
+  - equalizer_exchange
   label: Equalizer Exchange
   jurisdictions: []
   categories:
@@ -16262,7 +16416,7 @@ actors:
   - KY
   categories:
   - organization
-  - gambling 
+  - gambling
   uri: ethorse.com
   context:
     coingecko_ids:
@@ -16722,22 +16876,22 @@ actors:
     - www.cryptowisser.com/exchange/exrates/
     - cer.live/exchange/exrates
     active: false
-    notes: 
+    notes:
     - cryptowisser says CH
 - id: f2pool
   label: F2pool.com
   jurisdictions:
-    - CN
+  - CN
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   uri: www.f2pool.com
   context:
     refs:
-      - www.crunchbase.com/organization/f2pool
-      - www.f2pool.com/
+    - www.crunchbase.com/organization/f2pool
+    - www.f2pool.com/
     images:
-      - f2pool.com/static/images/icon-logo-blue.png
+    - f2pool.com/static/images/icon-logo-blue.png
 - id: fabric
   label: Fabric
   jurisdictions: []
@@ -17237,6 +17391,8 @@ actors:
     - icons.llama.fi/firebird.jpg
     - assets.coingecko.com/markets/images/730/small/firebird-finance.png?1636117048
     twitter_handle: FinanceFirebird
+  aliases:
+  - firebird_finance
 - id: firedao
   label: FireDAO
   jurisdictions: []
@@ -17463,6 +17619,8 @@ actors:
     images:
     - icons.llama.fi/floor-dao.jpg
     twitter_handle: FloorDAO
+  aliases:
+  - floor
 - id: flr
   label: FLR Dex/Farm/Loans
   jurisdictions: []
@@ -17622,6 +17780,8 @@ actors:
     active: true
     start_activity: '2019'
     twitter_handle: Folgory1
+  aliases:
+  - folgory_exchange
 - id: foodcourt
   label: Foodcourt
   jurisdictions: []
@@ -17773,14 +17933,14 @@ actors:
   label: Foundry
   uri: foundrydigital.com
   categories:
-    - mining_service
+  - mining_service
   context:
     refs:
-      - www.crunchbase.com/organization/foundry-digital-070f
-      - btc.com/stats/pool/Foundry%20USA
+    - www.crunchbase.com/organization/foundry-digital-070f
+    - btc.com/stats/pool/Foundry%20USA
     twitter_handle: FoundryServices
     notes:
-      - www.coindesk.com/business/2022/11/22/crypto-mining-and-staking-firm-foundry-buys-some-of-troubled-bitcoin-miner-compute-norths-assets/
+    - www.coindesk.com/business/2022/11/22/crypto-mining-and-staking-firm-foundry-buys-some-of-troubled-bitcoin-miner-compute-norths-assets/
 - id: fountainprotocol
   label: Fountain Protocol
   jurisdictions: []
@@ -17908,6 +18068,9 @@ actors:
     - icons.llama.fi/francium.png
     twitter_handle: Francium_Defi
 - id: fraxfinance
+  aliases:
+  - frax
+  - fraxswap
   label: Frax Finance Dex/Swap/Lend/Ether
   jurisdictions: []
   categories:
@@ -18046,6 +18209,8 @@ actors:
     - icons.llama.fi/friktion.png
     twitter_handle: friktion_labs
 - id: fringe
+  aliases:
+  - fringefinance
   label: Fringe
   jurisdictions: []
   categories:
@@ -18171,6 +18336,8 @@ actors:
     - icons.llama.fi/ftm-frens.png
     twitter_handle: FTMFrens
 - id: ftx
+  aliases:
+  - ftx_us
   label: Ftx
   jurisdictions:
   - AG
@@ -18188,7 +18355,7 @@ actors:
     notes:
     - 'cryptowisser: antigua and Barbuda'
     - 'Ftx us twitter_handle: ftx_us'
-    - 'cerlive says antigua and Barbuda'
+    - cerlive says antigua and Barbuda
     - crunchbase says BS
     active: false
     start_activity: '2019'
@@ -18416,6 +18583,8 @@ actors:
     images:
     - icons.llama.fi/gains-network.png
     twitter_handle: GainsNetwork_io
+  aliases:
+  - gains_network
 - id: gajfinance
   label: Gaj Finance
   jurisdictions: []
@@ -18542,11 +18711,11 @@ actors:
     twitter_handle: GamutExchange
 - id: garantex
   jurisdictions:
-    - RU
+  - RU
   label: Garantex Russia
   uri: garantex.io
   categories:
-    - exchange
+  - exchange
   context:
     uris:
     - garantex.io
@@ -18601,6 +18770,9 @@ actors:
     - icons.llama.fi/gardensdao.png
     twitter_handle: gardensdao
 - id: gate
+  aliases:
+  - gateio
+  - gate_io
   label: Gate
   jurisdictions:
   - HK
@@ -18662,11 +18834,11 @@ actors:
   label: GBMiners
   uri: gbminers.com
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
     refs:
-      - btc.com/stats/pool/GBMiners
+    - btc.com/stats/pool/GBMiners
 - id: gdac
   label: GDAC
   jurisdictions:
@@ -18728,7 +18900,7 @@ actors:
   - US
   categories:
   - exchange
-  uri:  gemini.com
+  uri: gemini.com
   context:
     uris:
     - gemini.sjv.io
@@ -18759,6 +18931,8 @@ actors:
     - icons.llama.fi/gemkeeper.png
     twitter_handle: GemKeeperDeFi
 - id: genesis-miningcom
+  aliases:
+  - genesisminingcom
   uri: genesis-mining.com
   categories:
   - service
@@ -18781,6 +18955,8 @@ actors:
     images:
     - icons.llama.fi/genesis-finance.png
     twitter_handle: cronos_genesis
+  aliases:
+  - genesis
 - id: genesys
   label: Genesys
   jurisdictions: []
@@ -19109,6 +19285,9 @@ actors:
     - icons.llama.fi/gmx.png
     twitter_handle: GMX_IO
 - id: gnosis
+  aliases:
+  - gnosissafe
+  - gnosis_safe
   label: gnosis DAO/Protocol v1
   jurisdictions: []
   categories:
@@ -19217,14 +19396,16 @@ actors:
     images:
     - icons.llama.fi/gogocoin.png
     twitter_handle: GOGO_coin
-- id: gogreenlight 
+  aliases:
+  - gogo
+- id: gogreenlight
   label: GogreenLight
   categories:
-    - mining_service
+  - mining_service
   uri: www.gogreenlight.se
   context:
     refs:
-    - btc.com/stats/pool/GoGreenLight 
+    - btc.com/stats/pool/GoGreenLight
 - id: goldfinch
   label: Goldfinch
   jurisdictions: []
@@ -19444,6 +19625,8 @@ actors:
     images:
     - icons.llama.fi/granary-finance.png
     twitter_handle: GranaryFinance
+  aliases:
+  - thegranary
 - id: grapefinance
   label: Grape Finance
   jurisdictions: []
@@ -19543,6 +19726,8 @@ actors:
     - assets.coingecko.com/markets/images/1027/small/gravity-finance.jpeg?1673611945
     - icons.llama.fi/gravity-finance.png
     twitter_handle: Gravity_Finance
+  aliases:
+  - gravity_finance
 - id: greenhousedex
   label: Greenhouse
   jurisdictions: []
@@ -19605,6 +19790,8 @@ actors:
     - icons.llama.fi/grizzlyfi.png
     twitter_handle: GrizzlyFi
 - id: groprotocol
+  aliases:
+  - gro
   label: groprotocol
   jurisdictions: []
   categories:
@@ -19738,6 +19925,8 @@ actors:
     - icons.llama.fi/gyro.jpg
     twitter_handle: GyroDAO
 - id: gyroscopeprotocol
+  aliases:
+  - gyroscope
   label: Gyroscope Protocol
   jurisdictions: []
   categories:
@@ -19906,10 +20095,10 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/HaoBTC.com
-- id: haozhuzhu 
+- id: haozhuzhu
   label: Haozhuzhu
   categories:
-    - mining_service
+  - mining_service
   uri: haozhuzhu.com
   context:
     refs:
@@ -19990,6 +20179,9 @@ actors:
     - www.walletexplorer.com/wallet/Hashnest.com
     active: true
 - id: hashkeyexchange
+  aliases:
+  - hashkey
+  - hashkey_exchange
   label: Hashkey Exchange
   jurisdictions:
   - HK
@@ -20176,6 +20368,8 @@ actors:
     images:
     - icons.llama.fi/hegic.jpg
     twitter_handle: HegicOptions
+  aliases:
+  - hegicherge
 - id: helioprotocol
   label: Helio Protocol
   jurisdictions: []
@@ -20358,14 +20552,14 @@ actors:
     images:
     - icons.llama.fi/hfione.jpg
     twitter_handle: fi_heco
-- id: hhtt 
+- id: hhtt
   label: hhtt
   uri: hhtt.1209k.com
   categories:
-    - mining_service
+  - mining_service
   context:
     refs:
-    - btc.com/stats/pool/HHTT  
+    - btc.com/stats/pool/HHTT
 - id: hippowswap
   label: HipPoWSwap
   jurisdictions: []
@@ -20557,6 +20751,8 @@ actors:
     - icons.llama.fi/honkswap.png
     twitter_handle: World_of_Honk
 - id: hoo
+  aliases:
+  - hoocom
   label: Hoo
   jurisdictions:
   - HK
@@ -20589,6 +20785,8 @@ actors:
     images:
     - icons.llama.fi/hop-protocol.jpg
     twitter_handle: HopProtocol
+  aliases:
+  - hop_protocol
 - id: hopswap
   label: HopSwap
   jurisdictions: []
@@ -20620,6 +20818,8 @@ actors:
     images:
     - icons.llama.fi/horizon-protocol.png
     twitter_handle: HorizonProtocol
+  aliases:
+  - horizondex
 - id: hotbit
   label: Hotbit
   jurisdictions:
@@ -20823,11 +21023,11 @@ actors:
   label: Hummerpool
   uri: www.hummerpool.com
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
     refs:
-      - btc.com/stats/pool/Hummerpool
+    - btc.com/stats/pool/Hummerpool
 - id: hummusexchange
   label: Hummus Exchange
   jurisdictions: []
@@ -20892,6 +21092,8 @@ actors:
     - icons.llama.fi/hunnyswap.png
     twitter_handle: hunnyswap
 - id: huobi
+  aliases:
+  - htx
   label: Huobi
   jurisdictions:
   - SC
@@ -20993,13 +21195,13 @@ actors:
   label: Hydra Market
   uri: https://hydramarket.co/
   categories:
-    - dark_web
-    - market
+  - dark_web
+  - market
   jurisdictions:
-    - RU
+  - RU
   context:
     refs:
-      - https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220405
+    - https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220405
     active: false
 - id: hyperfinance
   label: Hyper Finance
@@ -21043,6 +21245,8 @@ actors:
     - www.theasianbanker.com/publication/virtual-currency-services
     active: false
 - id: ice-dicecom
+  aliases:
+  - icedicecom
   uri: ice-dice.com
   categories:
   - service
@@ -21133,6 +21337,8 @@ actors:
     images:
     - icons.llama.fi/ichi-farm.png
     twitter_handle: ichifarm
+  aliases:
+  - ichi
 - id: icrypex
   label: Icrypex
   jurisdictions:
@@ -21323,6 +21529,8 @@ actors:
     - icons.llama.fi/impactmarket.png
     twitter_handle: IPCTmarket
 - id: impermaxfinance
+  aliases:
+  - impermax
   label: Impermax Finance
   jurisdictions: []
   categories:
@@ -21714,10 +21922,14 @@ actors:
     - icons.llama.fi/interest-protocol.jpg
     twitter_handle: InterestDeFi
 - id: internet_archive
+  aliases:
+  - internetarchive
   uri: https://archive.org
   label: Internet Archive
-  jurisdictions: [US]
-  categories: [organization]
+  jurisdictions:
+  - US
+  categories:
+  - organization
 - id: interlaycollateral
   label: Interlay Collatera/BTC/Staking/Kintsugi
   jurisdictions: []
@@ -21806,6 +22018,9 @@ actors:
     - icons.llama.fi/inverse-finance-firm.jpg
     - icons.llama.fi/inverse-finance-frontier.jpg
     twitter_handle: InverseFinance
+  aliases:
+  - inversefinance
+  - inverse_finance
 - id: investin
   label: Investin
   jurisdictions: []
@@ -22098,6 +22313,8 @@ actors:
     images:
     - icons.llama.fi/jelly.png
     twitter_handle: jellyprotocol
+  aliases:
+  - jelly_swap
 - id: jet
   label: Jet
   jurisdictions: []
@@ -22114,6 +22331,8 @@ actors:
     images:
     - icons.llama.fi/jet.jpg
     twitter_handle: JetProtocol
+  aliases:
+  - jetswap
 - id: jetfuelfinance
   label: JetFuel Finance / JetSwap
   jurisdictions: []
@@ -22384,6 +22603,8 @@ actors:
     images:
     - icons.llama.fi/junoswap.png
     twitter_handle: JunoNetwork
+  aliases:
+  - juno
 - id: jupiter
   label: Jupiter/Aggregator
   jurisdictions: []
@@ -22419,6 +22640,8 @@ actors:
     - icons.llama.fi/jupiter-swap.png
     twitter_handle: jupiter_swap
 - id: just-dicecom
+  aliases:
+  - justdicecom
   uri: just-dice.com
   categories:
   - service
@@ -22648,6 +22871,8 @@ actors:
     - api.coingecko.com/api/v3/exchanges/kanga
     images:
     - assets.coingecko.com/markets/images/852/small/kanga_logo.png?1650269423
+  aliases:
+  - kanga_exchange
 - id: kanois
   uri: kano.is
   categories:
@@ -22881,6 +23106,9 @@ actors:
     images:
     - icons.llama.fi/keep3r-network.jpg
     twitter_handle: thekeep3r
+  aliases:
+  - keep3rnetwork
+  - fixedforex
 - id: keepnetwork
   label: KEEP Network
   jurisdictions: []
@@ -23010,6 +23238,8 @@ actors:
     - icons.llama.fi/kimochi.jpg
     twitter_handle: KimochiFinance
 - id: kinefinance
+  aliases:
+  - kine
   label: Kine Finance
   jurisdictions: []
   categories:
@@ -23073,6 +23303,8 @@ actors:
     - icons.llama.fi/kitty-finance.png
     twitter_handle: KittyAVAX
 - id: klap
+  aliases:
+  - klapfinance
   label: Klap
   jurisdictions: []
   categories:
@@ -23117,6 +23349,10 @@ actors:
     - icons.llama.fi/klayportal.png
     twitter_handle: HashQuark
 - id: klayswap
+  aliases:
+  - klayswapprotocol
+  - klay_swap
+  - klayswap_protocol
   label: KLAYSwap
   jurisdictions: []
   categories:
@@ -23185,6 +23421,10 @@ actors:
     - icons.llama.fi/kleva-protocol.png
     twitter_handle: KLEVA_Protocol
 - id: kleverexchange
+  aliases:
+  - kleverio
+  - klever
+  - klever_exchange
   label: Klever Exchange
   jurisdictions: []
   categories:
@@ -23234,6 +23474,8 @@ actors:
     images:
     - icons.llama.fi/klima-dao.jpg
     twitter_handle: KlimaDAO
+  aliases:
+  - klima
 - id: klondike
   label: Klondike Finance
   jurisdictions: []
@@ -23398,7 +23640,7 @@ actors:
     images:
     - assets.coingecko.com/markets/images/751/small/opI6dpc3_400x400.png?1640272400
 - id: koinim
-  label: Koinim 
+  label: Koinim
   jurisdictions:
   - TR
   categories:
@@ -23458,6 +23700,8 @@ actors:
     - api.llama.fi/protocol/kokonut-swap
     images:
     - icons.llama.fi/kokonut-swap.jpg
+  aliases:
+  - kokonut_swap
 - id: kolibri
   label: Kolibri
   jurisdictions: []
@@ -23809,7 +24053,7 @@ actors:
 - id: kurant
   label: KuSwap
   jurisdictions:
-    - AT
+  - AT
   categories:
   - exchange
   uri: kurant.net
@@ -23935,6 +24179,8 @@ actors:
     - assets.coingecko.com/markets/images/706/small/kyberswap.png?1638932575
     - assets.coingecko.com/markets/images/961/small/kyberswap.jpeg?1662693719
     twitter_handle: KyberNetwork
+  aliases:
+  - kyberswap
 - id: kyotoswap
   label: KyotoSwap
   jurisdictions: []
@@ -24116,8 +24362,8 @@ actors:
     - facebook.com/LiquidAssetToken
     - medium.com/@latoken
     notes:
-    - crunchbase had contrasting infos (two companies for latoken in US and UK). cryptowisser EE. Others
-      have Cayman islands
+    - crunchbase had contrasting infos (two companies for latoken in US and UK). cryptowisser
+      EE. Others have Cayman islands
     images:
     - assets.coingecko.com/markets/images/124/small/LA_token.png?1605773251
     active: true
@@ -24143,14 +24389,14 @@ actors:
   label: Lazarus Group
   uri: https://home.treasury.gov/news/press-releases/sm774
   categories:
-    - phishing
-    - ransomware
-    - sanction
-    - service_hack
+  - phishing
+  - ransomware
+  - sanction
+  - service_hack
   context:
     notes:
-      - Monikers: Guardians of Peace or Whois Team, Hidden Cobra, Zinc
-      - Believed to consist of two units: BlueNorOff and AndAriel
+    - Monikers: Guardians of Peace or Whois Team, Hidden Cobra, Zinc
+    - Believed to consist of two units: BlueNorOff and AndAriel
 - id: lbank
   label: LBank
   jurisdictions:
@@ -24628,7 +24874,7 @@ actors:
     active: true
     start_activity: '2014'
     notes:
-    - 'offices in JP, SG, VN, US'
+    - offices in JP, SG, VN, US
     twitter_handle: Liquid_Global
 - id: liquidbolt
   label: Liquid Bolt
@@ -24782,6 +25028,8 @@ actors:
     - s2.coinmarketcap.com/static/img/exchanges/64x64/107.png
     twitter_handle: livecoin_net
     active: false
+  aliases:
+  - livecoinnet
 - id: lixirfinance
   label: Lixir Finance
   jurisdictions: []
@@ -24925,6 +25173,8 @@ actors:
     images:
     - assets.coingecko.com/markets/images/338/small/LT_Icon_Main.png?1664328842
 - id: lodestarfinance
+  aliases:
+  - lodestar
   label: Lodestar Finance
   jurisdictions: []
   categories:
@@ -25157,11 +25407,11 @@ actors:
   label: Lubian
   uri: www.lubian.com
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
     refs:
-      - bt.com/stats/pool/Lubian.com
+    - bt.com/stats/pool/Lubian.com
 - id: luchadores
   label: Luchadores
   jurisdictions: []
@@ -25309,12 +25559,12 @@ actors:
 - id: luxortech
   label: Luxor Tech
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   uri: www.luxor.tech
   context:
     refs:
-      - btc.com/stats/pool/Luxor
+    - btc.com/stats/pool/Luxor
 - id: lydiafinance
   label: Lydia Finance
   jurisdictions: []
@@ -25510,6 +25760,9 @@ actors:
     images:
     - icons.llama.fi/magpie.png
     twitter_handle: magpiexyz_io
+  aliases:
+  - eigenpie
+  - penpie
 - id: mahadao
   label: MahaDAO Arth
   jurisdictions: []
@@ -25602,6 +25855,9 @@ actors:
     active: true
     start_activity: '2014'
     twitter_handle: MAX_exch
+  aliases:
+  - maxexchange
+  - max_exchange
 - id: maker
   label: MakerDAO
   jurisdictions: []
@@ -25622,6 +25878,8 @@ actors:
     images:
     - icons.llama.fi/makerdao.jpg
     twitter_handle: MakerDAO
+  aliases:
+  - dai
 - id: makiswap
   label: MakiSwap
   jurisdictions: []
@@ -25753,6 +26011,8 @@ actors:
     - icons.llama.fi/mantra-dao.jpg
     twitter_handle: MANTRADAO
 - id: maple
+  aliases:
+  - maplefinance
   label: Maple
   jurisdictions: []
   categories:
@@ -25799,15 +26059,18 @@ actors:
     images:
     - icons.llama.fi/mapo.png
     twitter_handle: MapProtocol
-- id: marapool 
+  aliases:
+  - mapprotocol
+  - map_protocol
+- id: marapool
   label: Marathon Pool
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   uri: marathondh.com
   context:
     refs:
-      - btc.com/stats/pool/MARA%20Pool
+    - btc.com/stats/pool/MARA%20Pool
 - id: marginswap
   label: MarginSwap
   jurisdictions: []
@@ -25982,7 +26245,7 @@ actors:
 - id: maxbtc
   label: MaxBTC
   categories:
-    - mining_service
+  - mining_service
   uri: maxbtc.com
   context:
     refs:
@@ -26086,7 +26349,7 @@ actors:
   label: megabigpower
   uri: megabigpower.com
   categories:
-    - mining_service
+  - mining_service
   context:
     refs:
     - btc.com/stats/pool/MegaBigPower
@@ -26210,6 +26473,8 @@ actors:
     legal_name: "Mercado Bitcoin Servi\xE7os Digitais Ltda."
     active: true
     twitter_handle: MercadoBitcoin
+  aliases:
+  - mercado_bitcoin
 - id: mercatox
   label: Mercatox
   jurisdictions:
@@ -26247,17 +26512,19 @@ actors:
     - icons.llama.fi/mercurity.png
     twitter_handle: MercurityDefi
 - id: mercuriyoio
+  aliases:
+  - mercuryo
   label: Mercuryo.io
   jurisdictions:
-    - CA
-    - GB
+  - CA
+  - GB
   categories:
   - organization
   - exchange
   uri: mercuryo.io
   context:
     refs:
-      - https://www.linkedin.com/company/mercuryo-io/
+    - https://www.linkedin.com/company/mercuryo-io/
     twitter_handle: Mercuryo_io
 - id: meritcircle
   label: Merit Circle
@@ -26849,6 +27116,8 @@ actors:
     images:
     - icons.llama.fi/mimo-protocol.jpg
     twitter_handle: mimo_labs
+  aliases:
+  - parpeg
 - id: mindgames
   label: MIND Games
   jurisdictions: []
@@ -26876,7 +27145,7 @@ actors:
   label: Minerium
   uri: minerium.com
   categories:
-    - mining_service
+  - mining_service
   context:
     refs:
     - www.linkedin.com/company/minerium-us
@@ -26927,7 +27196,7 @@ actors:
   label: MiningCity
   uri: www.miningcity.com
   categories:
-    - mining_service
+  - mining_service
   context:
     refs:
     - btc.com/stats/pool/MiningCity
@@ -26935,14 +27204,14 @@ actors:
   label: miningkings
   uri: miningkings.com
   categories:
-    - mining_service
+  - mining_service
   context:
     refs:
-    - btc.com/stats/pool/MiningKings 
+    - btc.com/stats/pool/MiningKings
 - id: miningpoolhub
   label: Mining Pool Hub
   categories:
-    - miner
+  - miner
   uri: miningpoolhub.com
 - id: miningtycoon
   label: MiningTycoon
@@ -27083,6 +27352,8 @@ actors:
     images:
     - icons.llama.fi/mint-club.png
     twitter_handle: MintClubPro
+  aliases:
+  - mint_club
 - id: minto
   label: Minto
   jurisdictions: []
@@ -27486,6 +27757,8 @@ actors:
     images:
     - icons.llama.fi/moola-market.jpg
     twitter_handle: Moola_Market
+  aliases:
+  - moolainterestbearingmoo
 - id: moonbitcoin
   uri: moonbit.co.in
   categories:
@@ -27634,6 +27907,8 @@ actors:
     - icons.llama.fi/moonwell-artemis.png
     - icons.llama.fi/moonwell-apollo.png
     twitter_handle: MoonwellDeFi
+  aliases:
+  - moonwell
 - id: moremoney
   label: Moremoney
   jurisdictions: []
@@ -27730,6 +28005,8 @@ actors:
     - www.walletexplorer.com/wallet/MPEx.co
     active: false
 - id: mstablecdp
+  aliases:
+  - mstable
   label: mStable (CDP, Yield)
   jurisdictions: []
   categories:
@@ -27764,7 +28041,7 @@ actors:
   label: Mt. Red
   uri: mtred.com
   categories:
-    - mining_service
+  - mining_service
   context:
     refs:
     - btc.com/stats/pool/Mt%20Red
@@ -27858,6 +28135,8 @@ actors:
     images:
     - icons.llama.fi/mummy-finance.jpg
     twitter_handle: mummyftm
+  aliases:
+  - mummy_finance
 - id: murica
   label: Murica
   jurisdictions: []
@@ -27924,6 +28203,8 @@ actors:
     - assets.coingecko.com/markets/images/409/small/MEXC_logo_square.jpeg?1673000123
     active: true
     twitter_handle: MEXC_Global
+  aliases:
+  - mexc
 - id: mybitcoincom
   uri: mybitcoin.com
   categories:
@@ -27957,6 +28238,8 @@ actors:
     - icons.llama.fi/mycelium-perpetual-pools.jpg
     - icons.llama.fi/mycelium-perpetual-swaps.png
     twitter_handle: mycelium_xyz
+  aliases:
+  - mycelium
 - id: myetherwallet
   label: MyEtherWallet
   jurisdictions:
@@ -28240,7 +28523,8 @@ actors:
     - www.crunchbase.com/organization/nebeus
     twitter_handle: NebeusWorld
     notes:
-    - website/twitter says platform developed from spain, e-money licence Central Bank of Ireland, crunchbase says London, GB
+    - website/twitter says platform developed from spain, e-money licence Central
+      Bank of Ireland, crunchbase says London, GB
     active: true
 - id: neku
   label: Neku
@@ -28591,6 +28875,8 @@ actors:
     - assets.coingecko.com/markets/images/549/small/nexus-mutual.jpg?1594547672
     - icons.llama.fi/nexus-mutual.png
     twitter_handle: NexusMutual
+  aliases:
+  - nexusmutual
 - id: nexusprotocol
   label: Nexus Protocol
   jurisdictions: []
@@ -28695,7 +28981,7 @@ actors:
 - id: nicechange
   label: Nice Change
   jurisdictions:
-    - PA
+  - PA
   categories:
   - exchange
   uri: nicechange.net
@@ -28807,11 +29093,11 @@ actors:
 - id: nmcbit
   label: NMCBit
   categories:
-    - mining_service
+  - mining_service
   uri: nmcbit.com
   context:
     refs:
-    - btc.com/stats/pool/NMCbit 
+    - btc.com/stats/pool/NMCbit
 - id: noaharkdao
   label: NoahArkDAO
   jurisdictions: []
@@ -28996,7 +29282,7 @@ actors:
 - id: novablock
   label: Novablock
   categories:
-    - mining_service
+  - mining_service
   uri: novablock.com
   context:
     refs:
@@ -29507,14 +29793,16 @@ actors:
     - icons.llama.fi/okc-liquid-staking.jpg
     - icons.llama.fi/okcswap.png
     twitter_handle: okx,OKCNetwork
-- id: okkong 
+  aliases:
+  - okx
+- id: okkong
   label: okkong
   categories:
-    - mining_service
+  - mining_service
   uri: hash.okkong.com
   context:
     refs:
-    - btc.com/stats/pool/OKKONG 
+    - btc.com/stats/pool/OKKONG
 - id: oklink
   label: Oklink
   jurisdictions:
@@ -29531,7 +29819,7 @@ actors:
     start_activity: '2016'
 - id: okminer
   categories:
-    - mining_service
+  - mining_service
   label: okminer
   uri: www.okminer.com
   context:
@@ -30035,6 +30323,8 @@ actors:
     - icons.llama.fi/openocean.jpg
     - assets.coingecko.com/markets/images/713/small/ooe.png?1633688592
     twitter_handle: OpenOceanGlobal
+  aliases:
+  - openocean
 - id: opensea
   label: Opensea
   jurisdictions: []
@@ -30244,6 +30534,8 @@ actors:
     images:
     - icons.llama.fi/opx-finance.jpg
     twitter_handle: opxfinance
+  aliases:
+  - opx_finance
 - id: opynconvexity
   label: Opyn Convexity/Gamma/Squeeth
   jurisdictions: []
@@ -30269,6 +30561,8 @@ actors:
     - icons.llama.fi/opyn-gamma.jpg
     - icons.llama.fi/opyn-squeeth.jpg
     twitter_handle: opyn_
+  aliases:
+  - opynfinance
 - id: oracleswap
   label: Oracle Swap
   jurisdictions: []
@@ -30314,6 +30608,8 @@ actors:
     images:
     - icons.llama.fi/oraichain.png
     twitter_handle: oraichain
+  aliases:
+  - orai
 - id: oraidex
   label: OraiDEX
   jurisdictions: []
@@ -30379,6 +30675,10 @@ actors:
     - icons.llama.fi/orbit-bridge.png
     - icons.llama.fi/klaystation.png
     twitter_handle: Orbit_Chain
+  aliases:
+  - orbitchain
+  - klaystation
+  - orbit_chain
 - id: orca
   label: Orca
   jurisdictions: []
@@ -30681,12 +30981,12 @@ actors:
 - id: ozcoin
   label: OzCoin
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   uri: ozcoin.net
   context:
     refs:
-      - btc.com/stats/pool/OzCoin
+    - btc.com/stats/pool/OzCoin
 - id: p2pb2b
   label: P2Pb2B
   jurisdictions:
@@ -30715,10 +31015,10 @@ actors:
   label: P2pool.org
   uri: P2Pool.org
   categories:
-    - mining_service
+  - mining_service
   context:
     notes:
-      - https://www.reddit.com/r/Bitcoin/comments/2855h5/just_so_you_know_p2poolorg_is_not_p2pool_its_a/
+    - https://www.reddit.com/r/Bitcoin/comments/2855h5/just_so_you_know_p2poolorg_is_not_p2pool_its_a/
 - id: pacoca
   label: Pacoca
   jurisdictions: []
@@ -30835,6 +31135,8 @@ actors:
     images:
     - icons.llama.fi/paladin-finance.jpg
     twitter_handle: Paladin_vote
+  aliases:
+  - paladin
 - id: pancakeswapnew
   label: PancakeSwap (AMM, v2, Stableswap) PancakeSwap StableSwap
   jurisdictions: []
@@ -30865,6 +31167,8 @@ actors:
     - icons.llama.fi/pancakeswap-stableswap.jpg
     - assets.coingecko.com/markets/images/687/small/pancakeswap.jpeg?1626060212
     twitter_handle: PancakeSwap
+  aliases:
+  - pancakeswap
 - id: pandaland
   label: PandaLand
   jurisdictions: []
@@ -30936,6 +31240,9 @@ actors:
     - icons.llama.fi/pangea-swap.png
     twitter_handle: Pangea_Swap
 - id: pangolin
+  aliases:
+  - pangolinexchange
+  - pangolin_exchange
   label: Pangolin (Songbird)
   jurisdictions: []
   categories:
@@ -31664,7 +31971,7 @@ actors:
 - id: phashio
   label: Phash.io
   categories:
-    - mining_service
+  - mining_service
   uri: phash.io/
   context:
     refs:
@@ -31839,6 +32146,8 @@ actors:
     - icons.llama.fi/phuture.png
     twitter_handle: phuture_finance
 - id: pickle
+  aliases:
+  - picklefinance
   label: Pickle
   jurisdictions: []
   categories:
@@ -32220,6 +32529,8 @@ actors:
     - assets.coingecko.com/markets/images/862/small/logo-platypus-v2-icon-only.png?1652157572
     - icons.llama.fi/platypus.png
     twitter_handle: Platypusdefi
+  aliases:
+  - platypus_finance
 - id: playtin
   uri: playt.in
   categories:
@@ -32968,6 +33279,8 @@ actors:
     images:
     - icons.llama.fi/portal.png
     twitter_handle: portalbridge_
+  aliases:
+  - wormhole
 - id: portfinance
   label: Port Finance
   jurisdictions: []
@@ -33928,6 +34241,8 @@ actors:
     images:
     - icons.llama.fi/radiant.png
     twitter_handle: RDNTCapital
+  aliases:
+  - radiantcapital
 - id: radioshack
   label: RadioShack
   jurisdictions: []
@@ -34061,10 +34376,12 @@ actors:
     - www.linkedin.com/company/rampnetwork/
     - facebook.com/RampNetwork/
     twitter_handle: RampNetwork
+  aliases:
+  - ramp_network
 - id: nexchange
   label: N Exchange (NEX Holdings LTD 120480 RMI)
   jurisdictions:
-    - GB
+  - GB
   categories:
   - exchange
   uri: n.exchange
@@ -34169,11 +34486,11 @@ actors:
 - id: rawpoolcom
   label: Rawpool.com
   categories:
-    - mining_service
+  - mining_service
   uri: www.rawpool.com/
   context:
     refs:
-    - btc.com/stats/pool/Rawpool  
+    - btc.com/stats/pool/Rawpool
 - id: raydium2
   label: Raydium
   jurisdictions: []
@@ -34264,6 +34581,8 @@ actors:
     - icons.llama.fi/realt-rmm-marketplace.png
     - icons.llama.fi/realt.png
     twitter_handle: RealTPlatform
+  aliases:
+  - realtrmm
 - id: reaperfarm
   label: Reaper Farm
   jurisdictions: []
@@ -34302,6 +34621,9 @@ actors:
     - icons.llama.fi/redacted-protocol.jpg
     - icons.llama.fi/pirex.png
     twitter_handle: redactedcartel
+  aliases:
+  - pirex
+  - hiddenhand
 - id: redemption
   label: Redemption
   jurisdictions: []
@@ -34418,7 +34740,11 @@ actors:
     images:
     - icons.llama.fi/renvm.png
     twitter_handle: renprotocol
+  aliases:
+  - renproject
 - id: reserve
+  aliases:
+  - reserveprotocol
   label: Reserve
   jurisdictions: []
   categories:
@@ -34556,7 +34882,7 @@ actors:
   label: Revolut
   uri: revolut.com
   categories:
-    - exchange
+  - exchange
 - id: revoluzion
   label: Revoluzion
   jurisdictions: []
@@ -34883,6 +35209,8 @@ actors:
     - api.llama.fi/protocol/robo-advisor-for-yield
     images:
     - icons.llama.fi/robo-advisor-for-yield.jpg
+  aliases:
+  - stakedus
 - id: robovault
   label: Robo-Vault
   jurisdictions: []
@@ -35080,6 +35408,8 @@ actors:
     images:
     - icons.llama.fi/rskswap.jpg
     twitter_handle: RskSwap
+  aliases:
+  - rsk
 - id: rubic
   label: Rubic
   jurisdictions: []
@@ -35252,6 +35582,8 @@ actors:
     images:
     - icons.llama.fi/saddle-finance.jpg
     twitter_handle: saddlefinance
+  aliases:
+  - saddle_finance
 - id: safedicecom
   uri: safedice.com
   categories:
@@ -35546,6 +35878,8 @@ actors:
     start_activity: '2017'
     twitter_handle: satangcorp,statangpro
 - id: satoshi-karoshicom
+  aliases:
+  - satoshikaroshicom
   uri: satoshi-karoshi.com
   categories:
   - gambling
@@ -35623,11 +35957,11 @@ actors:
   label: SBI Crypto
   uri: sbicrypto.com
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
     refs:
-      - btc.com/stats/pool/SBI%20Crypto
+    - btc.com/stats/pool/SBI%20Crypto
 - id: scallop
   label: Scallop
   jurisdictions: []
@@ -35883,6 +36217,8 @@ actors:
     - assets.coingecko.com/markets/images/660/small/_Icon___SVG__Primary_-_Metallic_Gold_in_Square.png?1636170223
     twitter_handle: SecretNetwork
     github_organisation: secretdao
+  aliases:
+  - secret_network
 - id: securedao
   label: SecureDAO
   jurisdictions: []
@@ -36146,11 +36482,11 @@ actors:
 - id: shawnp0wers
   label: Shawnp0wers
   categories:
-    - miner
+  - miner
   uri: www.brainofshawn.com/
   context:
     refs:
-    - btc.com/stats/pool/shawnp0wers 
+    - btc.com/stats/pool/shawnp0wers
 - id: sheepdex
   label: SheepDex
   jurisdictions: []
@@ -36399,6 +36735,8 @@ actors:
     images:
     - icons.llama.fi/sideshift.png
     twitter_handle: sideshiftai
+  aliases:
+  - sideshiftai
 - id: siennaswap
   label: Sienna Network (Swap)
   jurisdictions: []
@@ -36478,7 +36816,7 @@ actors:
     - www.walletexplorer.com/wallet/SilkRoad2Market
     active: false
 - id: sigmapool
-  label: sigmapool 
+  label: sigmapool
   jurisdictions:
   - SG
   categories:
@@ -36546,6 +36884,8 @@ actors:
     - www.walletexplorer.com/wallet/SimpleCoin.cz
     active: true
 - id: simplecoinus_mining
+  aliases:
+  - simplecoinusmining
   label: Simplecoin.us
   categories:
   - mining_service
@@ -36559,10 +36899,10 @@ actors:
   label: sinbad.io
   uri: sinbad.io
   categories:
-    - mixing_service
+  - mixing_service
   context:
     refs:
-      - https://ofac.treasury.gov/recent-actions/20231129
+    - https://ofac.treasury.gov/recent-actions/20231129
 - id: sinegy
   label: SINEGY
   jurisdictions:
@@ -36764,6 +37104,8 @@ actors:
     - icons.llama.fi/smrt.png
     twitter_handle: 0xSmartCoin
 - id: smartcredit
+  aliases:
+  - smartcreditio
   label: SmartCredit
   jurisdictions: []
   categories:
@@ -37492,6 +37834,8 @@ actors:
     images:
     - icons.llama.fi/spartacus.jpg
     twitter_handle: Spartacus_Fi
+  aliases:
+  - spartacus_exchange
 - id: spartanprotocol
   label: Spartan Protocol
   jurisdictions: []
@@ -37644,6 +37988,9 @@ actors:
     - icons.llama.fi/sphere-finance.png
     twitter_handle: SphereDeFi
 - id: spherium
+  aliases:
+  - spheriumfinance
+  - spherium_finance
   label: Spherium
   jurisdictions: []
   categories:
@@ -37699,7 +38046,7 @@ actors:
 - id: spiderpool
   label: Spiderpool
   categories:
-    - mining_service
+  - mining_service
   uri: www.spiderpool.com/
   context:
     refs:
@@ -37861,6 +38208,8 @@ actors:
     - icons.llama.fi/spookyswap.jpg
     twitter_handle: SpookySwap
 - id: spoolprotocol
+  aliases:
+  - spool
   label: Spool Protocol
   jurisdictions: []
   categories:
@@ -38346,6 +38695,8 @@ actors:
     - icons.llama.fi/stargate-finance.png
     - icons.llama.fi/stargate.png
     twitter_handle: StargateFinance,StarGate_Fin
+  aliases:
+  - stargate
 - id: stargaze
   label: Stargaze
   jurisdictions: []
@@ -38723,6 +39074,8 @@ actors:
     images:
     - icons.llama.fi/strike.jpg
     twitter_handle: StrikeFinance
+  aliases:
+  - strikelending
 - id: strikex
   label: StrikeX
   jurisdictions: []
@@ -38740,6 +39093,8 @@ actors:
     - icons.llama.fi/strikex.png
     twitter_handle: StrikeXofficial
 - id: stripsfinance
+  aliases:
+  - strips
   label: Strips Finance
   jurisdictions: []
   categories:
@@ -38756,6 +39111,8 @@ actors:
     - icons.llama.fi/strips-finance.png
     twitter_handle: StripsFinance
 - id: strongcoincom-fee
+  aliases:
+  - strongcoincomfee
   uri: strongcoin.com-fee
   categories:
   - service
@@ -39631,6 +39988,8 @@ actors:
     - assets.coingecko.com/markets/images/937/small/Swych-500x500.png?1660739362
     twitter_handle: TitanoFinance
 - id: symbiosisfinance
+  aliases:
+  - symbiosis
   label: Symbiosis Finance
   jurisdictions: []
   categories:
@@ -39708,6 +40067,9 @@ actors:
     images:
     - icons.llama.fi/synapse.png
     twitter_handle: SynapseProtocol
+  aliases:
+  - synapsebridge
+  - synapse_bridge
 - id: syncnetwork
   label: SYNC Network
   jurisdictions: []
@@ -39742,6 +40104,8 @@ actors:
     images:
     - icons.llama.fi/synfutures.svg
     twitter_handle: SynFuturesDefi
+  aliases:
+  - synfutures
 - id: synlev
   label: SynLev
   jurisdictions: []
@@ -39906,14 +40270,14 @@ actors:
     - assets.coingecko.com/markets/images/784/small/w3UpakzC_400x400.jpg?1642748177
     - icons.llama.fi/tangoswap.jpg
     twitter_handle: TangoSwapCash
-- id: tangpool 
+- id: tangpool
   label: Tangpool
   uri: www.tangpool.com/
   categories:
-    - mining_service
+  - mining_service
   context:
     refs:
-    - btc.com/stats/pool/Tangpool  
+    - btc.com/stats/pool/Tangpool
 - id: tarina
   label: Tarina
   jurisdictions: []
@@ -39974,6 +40338,9 @@ actors:
     images:
     - icons.llama.fi/tbtc.png
     twitter_handle: TheTNetwork
+  aliases:
+  - thresholdnetwork
+  - threshold_network
 - id: tealswap
   label: Tealswap
   jurisdictions: []
@@ -40129,6 +40496,8 @@ actors:
     images:
     - icons.llama.fi/temple-dao.png
     twitter_handle: templedao
+  aliases:
+  - temple
 - id: tempodao
   label: TempoDAO
   jurisdictions: []
@@ -40281,11 +40650,11 @@ actors:
   label: Terra Pool
   uri: terrapool.io
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
     refs:
-      - btc.com/stats/pool/Terra%20Pool
+    - btc.com/stats/pool/Terra%20Pool
 - id: terraswap
   label: Terraswap (Classic)
   jurisdictions: []
@@ -40367,6 +40736,8 @@ actors:
     - icons.llama.fi/tetu.svg
     - assets.coingecko.com/markets/images/800/small/XZdZhhl2_400x400.jpeg?1644843781
     twitter_handle: tetu_io
+  aliases:
+  - tetuio
 - id: tezosliquiditybaking
   label: Tezos Liquidity Baking
   jurisdictions: []
@@ -40568,6 +40939,8 @@ actors:
     images:
     - icons.llama.fi/the-sandbox.jpg
     twitter_handle: TheSandboxGame
+  aliases:
+  - sandbox
 - id: theseedfarm
   label: The Seed Farm
   jurisdictions: []
@@ -40895,13 +41268,15 @@ actors:
     twitter_handle: TiFiToken
 - id: tigerpoolnet
   categories:
-    - mining_service
+  - mining_service
   uri: www.tigerpool.net/pool
   label: Tigerpool Net
   context:
     refs:
     - btc.com/stats/pool/tigerpool.net
 - id: timeless
+  aliases:
+  - timelessfinance
   label: Timeless Finance / Bunni
   jurisdictions: []
   categories:
@@ -41069,6 +41444,9 @@ actors:
     - assets.coingecko.com/markets/images/383/small/tokenize-exchange.png?1586138532
     twitter_handle: TokenizeXchange
     active: true
+  aliases:
+  - tokenizexchange
+  - tokenize_xchange
 - id: tokenlon
   label: Tokenlon (The Tokenized Bitcoin)
   jurisdictions: []
@@ -41196,6 +41574,8 @@ actors:
     images:
     - icons.llama.fi/tomb-finance.jpg
     twitter_handle: tombfinance
+  aliases:
+  - tombfinance
 - id: tombswapfantom
   label: Tomb Swap (Fantom)
   jurisdictions: []
@@ -41210,6 +41590,8 @@ actors:
     - api.coingecko.com/api/v3/exchanges/tomb_swap_fantom
     images:
     - assets.coingecko.com/markets/images/821/small/xt2eSfi5_400x400.jpg?1646121970
+  aliases:
+  - tombfinance
 - id: tomofinance
   label: TomoFinance
   jurisdictions: []
@@ -41306,6 +41688,8 @@ actors:
     - icons.llama.fi/tornadao.jpg
     twitter_handle: Tornadao_fi
 - id: tornado
+  aliases:
+  - tornadocash
   label: Tornado Cash
   jurisdictions: []
   categories:
@@ -41515,6 +41899,8 @@ actors:
     - icons.llama.fi/trader-joe.png
     - icons.llama.fi/joe-v2.jpg
     twitter_handle: traderjoe_xyz
+  aliases:
+  - trader_joe
 - id: tradesatoshi
   label: Trade Satoshi
   jurisdictions:
@@ -41589,12 +41975,12 @@ actors:
     twitter_handle: tranquil_fi
 - id: transactioncoinmining
   label: TransactionCoinMining
-  uri: sha256.transactioncoinmining.com/ 
-  categories: 
-    - mining_service
+  uri: sha256.transactioncoinmining.com/
+  categories:
+  - mining_service
   context:
     refs:
-    - btc.com/stats/pool/transactioncoinmining   
+    - btc.com/stats/pool/transactioncoinmining
 - id: trapezaprotocol
   label: Trapeza Protocol
   jurisdictions: []
@@ -41694,7 +42080,7 @@ actors:
   uri: triplemining.com/
   label: TripleMining
   categories:
-    - mining_service
+  - mining_service
   context:
     refs:
     - https://btc.com/stats/pool/TripleMining
@@ -41718,6 +42104,9 @@ actors:
     - icons.llama.fi/trisolaris.jpg
     twitter_handle: trisolarislabs
 - id: tropicalfinance
+  aliases:
+  - tropical
+  - tropicalswap
   label: Tropical Finance
   jurisdictions: []
   categories:
@@ -41951,10 +42340,10 @@ actors:
   uri: www.ultimuspool.com/
   label: Ultimus
   categories:
-    - mining_service
+  - mining_service
   context:
     refs:
-    - btc.com/stats/pool/ULTIMUS%20POOL  
+    - btc.com/stats/pool/ULTIMUS%20POOL
 - id: ultraprotocol
   label: Ultra Protocol
   jurisdictions: []
@@ -41993,6 +42382,8 @@ actors:
     - icons.llama.fi/ultronswap.png
     twitter_handle: ultron_found
 - id: umamifinance
+  aliases:
+  - umami
   label: Umami Finance
   jurisdictions: []
   categories:
@@ -42639,6 +43030,9 @@ actors:
     - assets.coingecko.com/markets/images/117/small/upbit.png?1520388800
     - assets.coingecko.com/markets/images/483/small/UM9P5MNb_400x400.png?1571029017
     twitter_handle: upbitglobal,upbitID
+  aliases:
+  - upbitindonesia
+  - upbit_indonesia
 - id: updownbt
   uri: updown.bt
   categories:
@@ -42711,6 +43105,8 @@ actors:
     images:
     - icons.llama.fi/usd+.png
     twitter_handle: overnight_fi
+  aliases:
+  - overnight
 - id: usdfilending
   label: USDFI Lending
   jurisdictions: []
@@ -43366,6 +43762,8 @@ actors:
     - icons.llama.fi/verse.png
     - assets.coingecko.com/markets/images/980/small/verse2.png?1672799829
     twitter_handle: BitcoinCom
+  aliases:
+  - verse_dex
 - id: vesper
   label: Vesper
   jurisdictions: []
@@ -43434,16 +43832,18 @@ actors:
 - id: viabtc
   label: viabtc.com
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   uri: viabtc.com
   jurisdictions:
-    - CN
+  - CN
   context:
     refs:
-      - https://www.crunchbase.com/organization/viabtc
-      - https://btc.com/stats/pool/ViaBTC
+    - https://www.crunchbase.com/organization/viabtc
+    - https://btc.com/stats/pool/ViaBTC
 - id: vic-socksto
+  aliases:
+  - vicsocksto
   uri: vic-socks.to
   categories:
   - service
@@ -43695,6 +44095,8 @@ actors:
     - assets.coingecko.com/markets/images/768/small/voltage-finance.png?1644051646
     - icons.llama.fi/voltage.png
     twitter_handle: voltfinance
+  aliases:
+  - voltage_finance
 - id: voltz
   label: Voltz
   jurisdictions: []
@@ -43918,13 +44320,13 @@ actors:
   label: Wall Street Market
   uri: www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2019/Presse2019/190503_WallStreetMarket.html
   categories:
-    - market
-    - dark_web
+  - market
+  - dark_web
   context:
     active: false
     refs:
-      - glasschain.org/provider/Wall%20Street%20Market
-      - de.wikipedia.org/wiki/Wall_Street_Market
+    - glasschain.org/provider/Wall%20Street%20Market
+    - de.wikipedia.org/wiki/Wall_Street_Market
 - id: wanbridge
   label: Wan Bridge
   jurisdictions: []
@@ -44139,10 +44541,10 @@ actors:
   uri: btc.waterhole.io
   label: Waterhole
   categories:
-    - mining_service
+  - mining_service
   context:
     refs:
-    - btc.com/stats/pool/Waterhole  
+    - btc.com/stats/pool/Waterhole
 - id: waterloan
   label: WaterLoan
   jurisdictions: []
@@ -44234,11 +44636,11 @@ actors:
   label: Wayi CN
   uri: www.easy2mine.com
   categories:
-    - mining_service
-    - miner
+  - mining_service
+  - miner
   context:
     refs:
-      - btc.com/stats/pool/WAYI.CN
+    - btc.com/stats/pool/WAYI.CN
 - id: wazirx
   label: WazirX
   jurisdictions:
@@ -44275,6 +44677,8 @@ actors:
     images:
     - icons.llama.fi/wbtc.png
     twitter_handle: WrappedBTC
+  aliases:
+  - wrappedbtc
 - id: webribedao
   label: weBribe DAO
   jurisdictions: []
@@ -44408,7 +44812,7 @@ actors:
     - assets.coingecko.com/markets/images/418/small/whitebit_final.png?1667923522
     active: true
     notes:
-    - cer.live/cg/cb say LT, 
+    - cer.live/cg/cb say LT,
     twitter_handle: WhiteBit
 - id: whiteheart
   label: Whiteheart
@@ -44576,7 +44980,7 @@ actors:
     refs:
     - www.cryptowisser.com/exchange/wirex-exchange/
     - www.crunchbase.com/organization/wirex-limited
-    twitter_handle: wirexapp   
+    twitter_handle: wirexapp
 - id: witswap
   label: WitSwap
   jurisdictions: []
@@ -44645,6 +45049,9 @@ actors:
     - icons.llama.fi/wombat-exchange.png
     - assets.coingecko.com/markets/images/1004/small/wombat.png?1669788032
     twitter_handle: WombatExchange
+  aliases:
+  - wombatexchange
+  - wombat_exchange
 - id: wombexfinance
   label: Wombex Finance
   jurisdictions: []
@@ -44694,6 +45101,10 @@ actors:
     - icons.llama.fi/wonderly-finance.png
     twitter_handle: wonderlyfinance
 - id: woonetwork
+  aliases:
+  - woofi
+  - woox
+  - woo_x
   label: Woo Network (Exchange, Earn)
   jurisdictions:
   - VG
@@ -45141,6 +45552,8 @@ actors:
     - assets.coingecko.com/markets/images/404/small/logo400x400.png?1575881839
     active: true
     twitter_handle: XTexchange
+  aliases:
+  - xtcom
 - id: xtoken
   label: xToken
   jurisdictions: []
@@ -45330,6 +45743,8 @@ actors:
   context:
     active: false
 - id: yearnfinance
+  aliases:
+  - yearn
   label: Yearn Finance
   jurisdictions: []
   categories:
@@ -45618,6 +46033,8 @@ actors:
     - icons.llama.fi/yokaiswap.jpg
     twitter_handle: yokaiswap
 - id: yoshiexchangeftm
+  aliases:
+  - yoshiexchange
   label: Yoshi Exchange
   jurisdictions: []
   categories:
@@ -45644,10 +46061,10 @@ actors:
     - assets.coingecko.com/markets/images/805/small/YoshiIcon.png?1645009739
     twitter_handle: YoshiExchange
 - id: yourbtcnet
-  uri:  yourbtc.net
+  uri: yourbtc.net
   label: Yourbtc.net
   categories:
-    - mining_service
+  - mining_service
   context:
     refs:
     - btc.com/stats/pool/Yourbtc.net
@@ -45850,7 +46267,8 @@ actors:
     - s2.coinmarketcap.com/static/img/exchanges/64x64/326.png
     twitter_handle: ZBexchange
     notes:
-    - cryptowisser says CN registered in Samoa (WS). Crunchbase says CH, cer.live says CN
+    - cryptowisser says CN registered in Samoa (WS). Crunchbase says CH, cer.live
+      says CN
     active: false
 - id: zbx
   label: ZBX
@@ -46040,17 +46458,17 @@ actors:
   label: ZG.com
   uri: zg.com
   jurisdictions:
-    - SG
-    - TW
-    - KR
+  - SG
+  - TW
+  - KR
   categories:
-    - exchange
+  - exchange
   context:
     twitter_handle: zgexchange
     refs:
-      - coinmarketcap.com/exchanges/zg-com/
-      - glasschain.org/provider/ZG.com
-      - golden.com/wiki/ZG.com-VKJ4DXG
+    - coinmarketcap.com/exchanges/zg-com/
+    - glasschain.org/provider/ZG.com
+    - golden.com/wiki/ZG.com-VKJ4DXG
 - id: zigzag
   label: ZigZag (zkSync v1)
   jurisdictions: []
@@ -46200,6 +46618,9 @@ actors:
     - assets.coingecko.com/markets/images/1056/small/zkBob.png?1676359700
     twitter_handle: zkBob_
 - id: zkswap
+  aliases:
+  - zkswapfinance
+  - zkswap_finance
   label: ZKSwap
   jurisdictions: []
   categories:
@@ -46380,7 +46801,7 @@ actors:
 - id: zyado
   label: Zyado
   jurisdictions:
-  - PT 
+  - PT
   categories:
   - exchange
   uri: zyado.com
@@ -46430,6 +46851,4735 @@ actors:
     images:
     - icons.llama.fi/zyxswap.png
     twitter_handle: zyx_swap
+- id: payeer
+  label: Payeer
+  jurisdictions: []
+  categories:
+  - payment_processor
+  - exchange
+  uri: www.payeer.com
+- id: omgomgmarket
+  label: OMG!OMG! Market
+  jurisdictions:
+  - RU
+  categories:
+  - market
+  - drugs
+  - weapons
+  uri: https://cryptoslate.com/move-over-hydra-omgomg-is-the-darkwebs-latest-trojan-horse/
+- id: swell
+  label: Swell
+  jurisdictions: []
+  categories: []
+  uri: https://www.swellnetwork.io/
+  context:
+    refs:
+    - https://docs.swellnetwork.io/
+  aliases:
+  - bloxstaking
+  - blockdaemon
+- id: gamezone
+  label: Game Zone
+  jurisdictions: []
+  categories: []
+  uri: https://gamezone.io/
+  context:
+    twitter_handle: gamezone_app
+- id: ydf
+  label: Yieldification
+  jurisdictions: []
+  categories: []
+  uri: https://yieldification.com/
+  context: {}
+- id: erc3643permissionedtoken
+  label: Erc3643
+  jurisdictions: []
+  categories: []
+  uri: https://www.erc3643.org/
+  context:
+    refs:
+    - https://github.com/ERC-3643/documentation
+    - https://github.com/ERC-3643
+    twitter_handle: ERC3643Org
+- id: ssv
+  label: Ssv
+  jurisdictions: []
+  categories: []
+  uri: https://ssv.network/
+  context:
+    refs:
+    - https://docs.ssv.network/learn/introduction
+    - https://github.com/ssvlabs/ssv
+    twitter_handle: ssv_network
+- id: nebulas
+  label: Nebulas Voyager
+  jurisdictions: []
+  categories: []
+  uri: https://www.nebulas.io/
+  context:
+    refs:
+    - https://github.com/nebulasio/
+- id: getprotocol
+  label: Get Protocol
+  jurisdictions: []
+  categories: []
+  uri: https://www.get-community.com/
+  context: {}
+- id: cumberland
+  label: Cumberland
+  jurisdictions: []
+  categories: []
+  uri: https://cumberland.io/
+  context: {}
+- id: projectgalaxy
+  label: Galxe
+  jurisdictions: []
+  categories: []
+  uri: https://www.galxe.com/
+  context:
+    refs:
+    - https://docs.galxe.com/
+    - https://github.com/galxe
+- id: worldcoin
+  label: Worldcoin
+  jurisdictions: []
+  categories: []
+  uri: https://worldcoin.org/
+  context: {}
+- id: stakestone
+  label: Stakestone
+  jurisdictions: []
+  categories: []
+  uri: https://stakestone.io/
+  context:
+    refs:
+    - https://docs.stakestone.io/
+- id: frankencoin
+  label: Frankencoin
+  jurisdictions: []
+  categories: []
+  uri: https://frankencoin.com/
+  context: {}
+- id: figment
+  label: Figment
+  jurisdictions: []
+  categories: []
+  uri: https://figment.io/
+  context:
+    refs:
+    - https://docs.figment.io/
+    - https://github.com/figment-networks
+    twitter_handle: Figment_io
+- id: kelpdao
+  label: Kelp Dao
+  jurisdictions: []
+  categories: []
+  uri: https://kelpdao.xyz/
+  context:
+    refs:
+    - https://kelp.gitbook.io/kelp
+    - https://github.com/Kelp-DAO
+    twitter_handle: KelpDAO
+- id: prestolabs
+  label: Presto Labs
+  jurisdictions: []
+  categories: []
+  uri: https://www.prestolabs.io/
+  context: {}
+- id: apolloxperp
+  label: Apollox Perp
+  jurisdictions: []
+  categories: []
+  uri: https://www.apollox.finance/en
+  context:
+    refs:
+    - https://apollox-finance.gitbook.io/apollox-finance/
+  aliases:
+  - apollox_perp
+- id: woofwork
+  label: Woof Work
+  jurisdictions: []
+  categories: []
+  uri: https://www.woofwork.io/
+  context: {}
+- id: kollect
+  label: Kollect
+  jurisdictions: []
+  categories: []
+  uri: https://kollect.cards/
+  context: {}
+- id: cosmostation
+  label: Cosmostation
+  jurisdictions: []
+  categories: []
+  uri: https://www.cosmostation.io/
+  context: {}
+- id: celltrion
+  label: Celltrion
+  jurisdictions: []
+  categories: []
+  uri: https://www.celltrion.com/en-us
+  context: {}
+- id: botto
+  label: Botto
+  jurisdictions: []
+  categories: []
+  uri: https://botto.com/
+  context: {}
+- id: puffer
+  label: Puffer
+  jurisdictions: []
+  categories: []
+  uri: https://www.puffer.fi/
+  context:
+    refs:
+    - https://docs.puffer.fi/
+    - https://github.com/PufferFinance
+    twitter_handle: Puffer_Finance
+- id: galaxydigital
+  label: Galaxy Digital
+  jurisdictions: []
+  categories: []
+  uri: https://www.galaxy.com/
+  context: {}
+  aliases:
+  - galaxy_digital
+- id: evodefi
+  label: Evo Defi
+  jurisdictions: []
+  categories: []
+  uri: https://bridge.evodefi.com/
+  context: {}
+  aliases:
+  - evo_defi
+- id: starshark
+  label: Starsharks
+  jurisdictions: []
+  categories: []
+  uri: https://www.starsharks.com/
+  context:
+    refs:
+    - https://doc.starsharks.com/
+    twitter_handle: StarSharks_SSS
+- id: anotherworld
+  label: Another World
+  jurisdictions: []
+  categories: []
+  uri: https://www.anotherworld.game/
+  context: {}
+- id: prismafinance
+  label: Prisma Finance
+  jurisdictions: []
+  categories: []
+  uri: https://prismafinance.com/
+  context: {}
+  aliases:
+  - prisma_finance
+- id: bonsai
+  label: Bonsai
+  jurisdictions: []
+  categories: []
+  uri: https://www.bonsai.meme/
+  context: {}
+- id: nftbank
+  label: Nft Bank
+  jurisdictions: []
+  categories: []
+  uri: https://nftbank.ai/
+  context: {}
+- id: linexenesis
+  label: Line Xenesis
+  jurisdictions: []
+  categories: []
+  uri: https://linexenesiscorp.com/en/
+  context: {}
+  aliases:
+  - line_xenesis
+- id: bzxprotocol
+  label: Bzx
+  jurisdictions: []
+  categories: []
+  uri: https://b0x.network/
+  context:
+    refs:
+    - https://github.com/bZxNetwork/documentation
+    - https://github.com/bZxNetwork
+- id: dbxen
+  label: Dbxen
+  jurisdictions: []
+  categories: []
+  uri: https://www.dbxen.org/
+  context: {}
+- id: linenextlnc
+  label: Line Next Lnc
+  jurisdictions: []
+  categories: []
+  uri: https://www.dosi.world/
+  context: {}
+- id: estfor
+  label: Estfor
+  jurisdictions: []
+  categories: []
+  uri: https://estfor.com/
+  context:
+    refs:
+    - https://wiki.estfor.com/index.php/Main_Page
+- id: blockchainspace
+  label: Blockchainspace
+  jurisdictions: []
+  categories: []
+  uri: https://www.blockchainspace.asia/
+  context: {}
+- id: foam
+  label: Foam
+  jurisdictions: []
+  categories: []
+  uri: https://foam.space/
+  context: {}
+- id: snapshot
+  label: Snapshot
+  jurisdictions: []
+  categories: []
+  uri: https://snapshot.box/#/
+  context:
+    refs:
+    - https://docs.snapshot.org/
+    - https://github.com/snapshot-labs
+- id: certik
+  label: Certik
+  jurisdictions: []
+  categories: []
+  uri: https://www.certik.com/
+  context: {}
+- id: raidparty
+  label: Raid Party
+  jurisdictions: []
+  categories: []
+  uri: https://raid.party/
+  context: {}
+- id: ajna
+  label: Ajna
+  jurisdictions: []
+  categories: []
+  uri: https://www.ajna.finance/
+  context:
+    refs:
+    - https://www.ajna.finance/#documentation-section
+    - https://github.com/ajna-finance
+    twitter_handle: ajnafi
+- id: superwalk
+  label: Superwalk
+  jurisdictions: []
+  categories: []
+  uri: https://superwalk.io/en
+  context:
+    refs:
+    - https://docs.superwalk.io/
+- id: somniumspace
+  label: Somnium Space
+  jurisdictions: []
+  categories: []
+  uri: https://www.somniumspace.com/
+  context: {}
+- id: stakefish
+  label: Stakefish
+  jurisdictions: []
+  categories: []
+  uri: https://stake.fish/
+  context:
+    refs:
+    - https://github.com/stakefish
+- id: odos
+  label: Odos
+  jurisdictions: []
+  categories: []
+  uri: https://www.odos.xyz/
+  context:
+    refs:
+    - https://docs.odos.xyz/
+    - https://github.com/odos-xyz
+- id: sparkprotocol
+  label: Spark
+  jurisdictions: []
+  categories: []
+  uri: https://spark.fi/
+  context:
+    refs:
+    - https://docs.spark.fi/
+    - https://github.com/marsfoundation
+    twitter_handle: sparkdotfi
+  aliases:
+  - sparkdex
+- id: salt
+  label: Salt
+  jurisdictions: []
+  categories: []
+  uri: https://saltlending.com/
+  context:
+    refs:
+    - https://docs.saltlending.com/#salt-partner-api
+    - https://github.com/SALTLending
+- id: sablierv22
+  label: Sablier
+  jurisdictions: []
+  categories: []
+  uri: https://sablier.com/
+  context:
+    refs:
+    - https://docs.sablier.com/
+    - https://github.com/sablier-labs
+- id: dragonswap
+  label: Dragon Swap
+  jurisdictions: []
+  categories: []
+  uri: https://dgswap.io/
+  context:
+    refs:
+    - https://docs.dgswap.io/
+    - https://github.com/dragon-swap-klaytn
+    twitter_handle: dgswap
+  aliases:
+  - dragon_swap
+- id: wam
+  label: Wam
+  jurisdictions: []
+  categories: []
+  uri: https://wam.app/
+  context: {}
+- id: somesing
+  label: Somesing
+  jurisdictions: []
+  categories: []
+  uri: https://somesing.io/service
+  context: {}
+- id: bitgo
+  label: Bitgo
+  jurisdictions: []
+  categories: []
+  uri: https://www.bitgo.com/
+  context: {}
+- id: rockx
+  label: Rockx
+  jurisdictions: []
+  categories: []
+  uri: https://www.rockx.com/
+  context:
+    refs:
+    - https://docs.liquidcollective.io/v1
+    - https://github.com/liquid-collective
+    twitter_handle: liquid_col
+- id: mtpelerin
+  label: Mt Pelerin
+  jurisdictions: []
+  categories: []
+  uri: https://www.mtpelerin.com/
+  context: {}
+- id: thegraph
+  label: The Graph
+  jurisdictions: []
+  categories: []
+  uri: https://thegraph.com/
+  context:
+    refs:
+    - https://thegraph.com/docs/en/
+    - https://github.com/graphprotocol
+- id: paragraph
+  label: Paragraph
+  jurisdictions: []
+  categories: []
+  uri: https://paragraph.xyz/
+  context:
+    refs:
+    - https://docs.paragraph.xyz/
+    twitter_handle: paragraph_xyz
+- id: l2passmememorphosis
+  label: L2Pass Mememorphosis
+  jurisdictions: []
+  categories: []
+  uri: https://l2pass.com/
+  context: {}
+  aliases:
+  - l2pass_mememorphosis
+- id: frametoken
+  label: $Frame
+  jurisdictions: []
+  categories: []
+  uri: https://frametoken.us/
+  context: {}
+- id: iskra
+  label: Iskra
+  jurisdictions: []
+  categories: []
+  uri: https://iskra.world/
+  context: {}
+- id: usdv
+  label: Usdv
+  jurisdictions: []
+  categories: []
+  uri: https://usdv.money/
+  context:
+    refs:
+    - https://docs.usdv.money/docs/what-is-usdv/readme
+- id: skale
+  label: Skale
+  jurisdictions: []
+  categories: []
+  uri: https://skale.space/
+  context:
+    refs:
+    - https://docs.skale.network/
+    - https://github.com/skalenetwork
+- id: floki
+  label: Floki
+  jurisdictions: []
+  categories: []
+  uri: https://floki.com/
+  context:
+    refs:
+    - https://docs.floki.com/floki-whitepaper
+    - https://github.com/Floki-Inu
+    twitter_handle: realflokiinu
+- id: consensys
+  label: Consensys
+  jurisdictions: []
+  categories: []
+  uri: https://consensys.io/
+  context:
+    refs:
+    - https://consensys.io/docs
+    - https://github.com/consensys
+    twitter_handle: consensys
+- id: xhash
+  label: Xhash
+  jurisdictions: []
+  categories: []
+  uri: https://www.xhash.com/
+  context:
+    refs:
+    - https://docs.xhash.com/
+    - https://github.com/xhash-com
+- id: bybithacker
+  label: Bybit Hacker
+  jurisdictions: []
+  categories: []
+  uri: https://x.com/benbybit/status/1892963530422505586
+  context: {}
+  aliases:
+  - bybit_hacker
+- id: daostack
+  label: Daostack
+  jurisdictions: []
+  categories: []
+  uri: https://daostack.notion.site/DAOstack-end-of-road-update-and-the-Common-Open-Development-program-announcement-b808c3bf9e3a4b47bd42b7a67da707b4
+  context: {}
+  aliases:
+  - superdaokernel
+  - superdao_kernel
+- id: rocofinance
+  label: Roco Finance
+  jurisdictions: []
+  categories: []
+  uri: https://roco.finance/
+  context:
+    refs:
+    - https://docs.roco.finance/rocofinance/technical-documents/roco-token
+- id: postvoyagercocone
+  label: Post Voyager Cocone
+  jurisdictions: []
+  categories: []
+  uri: https://postvoyager.com/
+  context: {}
+- id: seamlessprotocol
+  label: Seamless Protocol
+  jurisdictions: []
+  categories: []
+  uri: https://www.seamlessprotocol.com/
+  context:
+    refs:
+    - https://docs.seamlessprotocol.com/
+    - https://github.com/seamless-protocol/
+    twitter_handle: seamlessfi
+- id: capybaraexchange
+  label: Capybara Exchange
+  jurisdictions: []
+  categories: []
+  uri: https://www.capybara.exchange/
+  context:
+    refs:
+    - https://docs.capybara.exchange/english
+    twitter_handle: CapybaraDEX
+  aliases:
+  - capybara_exchange
+- id: dwflabs
+  label: Dwf Labs
+  jurisdictions: []
+  categories: []
+  uri: https://www.dwf-labs.com/
+  context: {}
+- id: bisonai
+  label: Bisonai
+  jurisdictions: []
+  categories: []
+  uri: https://bisonai.com/
+  context: {}
+- id: krackerlabs
+  label: Kracker Labs
+  jurisdictions: []
+  categories: []
+  uri: https://www.krackerlabs.io/
+  context: {}
+- id: lgelec
+  label: Lg Elec
+  jurisdictions: []
+  categories: []
+  uri: https://www.lge.co.kr/
+  context: {}
+- id: premiablue
+  label: Premia Blue
+  jurisdictions: []
+  categories: []
+  uri: https://premia.blue/
+  context:
+    refs:
+    - https://docs.premia.blue/
+- id: straitsx
+  label: Straitsx
+  jurisdictions: []
+  categories: []
+  uri: https://www.straitsx.com/en
+  context:
+    refs:
+    - https://docs.straitsx.com/docs/introduction
+    - https://github.com/StraitsX
+    twitter_handle: straitsx
+- id: kgen
+  label: Kgen
+  jurisdictions: []
+  categories: []
+  uri: https://kgen.io/
+  context: {}
+- id: fairxyz
+  label: Fairxyz
+  jurisdictions: []
+  categories: []
+  uri: https://fair.xyz/
+  context:
+    refs:
+    - https://docs.fair.xyz/
+    - https://github.com/FRAME-XYZ
+    twitter_handle: fairxyz
+- id: mangrove
+  label: Mangrove Exchange
+  jurisdictions: []
+  categories: []
+  uri: https://www.mangrove.exchange/
+  context:
+    refs:
+    - https://docs.mangrove.exchange/
+    - https://github.com/mangrovedao
+- id: bake
+  label: Bake
+  jurisdictions: []
+  categories: []
+  uri: https://bake.io/
+  context:
+    refs:
+    - https://github.com/cakedefi
+    twitter_handle: bake_io
+- id: klayfi
+  label: Klayfi
+  jurisdictions: []
+  categories: []
+  uri: https://klayfi.finance/
+  context: {}
+- id: wifimap
+  label: Wifi Map
+  jurisdictions: []
+  categories: []
+  uri: https://weconnectu.io/
+  context: {}
+- id: blast
+  label: Blast
+  jurisdictions: []
+  categories: []
+  uri: https://blast.io/en
+  context:
+    refs:
+    - https://docs.blast.io/about-blast
+    - https://github.com/blast-io
+- id: cobo
+  label: Cobo
+  jurisdictions: []
+  categories: []
+  uri: https://www.cobo.com/
+  context: {}
+- id: softbankcorp
+  label: Softbank Corp
+  jurisdictions: []
+  categories: []
+  uri: https://www.softbank.jp/en/corp/aboutus/
+  context: {}
+  aliases:
+  - softbank_corp
+- id: fsn
+  label: Fsn
+  jurisdictions: []
+  categories: []
+  uri: https://fsn.co.kr/
+  context: {}
+- id: decentralgames
+  label: Decentral Games
+  jurisdictions: []
+  categories: []
+  uri: https://www.decentral.games/
+  context: {}
+  aliases:
+  - decentral_games
+- id: nym
+  label: Nym
+  jurisdictions: []
+  categories: []
+  uri: https://nymtech.net/
+  context: {}
+- id: wemix
+  label: Wemix
+  jurisdictions: []
+  categories: []
+  uri: https://wemix.com/
+  context: {}
+- id: redbrick
+  label: Redbrick
+  jurisdictions: []
+  categories: []
+  uri: https://redbrick.land/
+  context: {}
+- id: takaturn
+  label: Gitcoin
+  jurisdictions: []
+  categories: []
+  uri: https://takaturn.io/
+  context:
+    refs:
+    - https://docs.takadao.io/takaturn-2.0-smart-contract-documentation
+    twitter_handle: TakafulDao
+- id: crowdswap
+  label: Crowd Swap
+  jurisdictions: []
+  categories: []
+  uri: https://crowdswap.org/
+  context:
+    refs:
+    - https://docs.crowdswap.org/
+    - https://github.com/CrowdSwap
+    twitter_handle: CrowdSwap_App
+  aliases:
+  - crowd_swap
+- id: animocabrands
+  label: Animoca Brands
+  jurisdictions: []
+  categories: []
+  uri: https://www.animocabrands.com/
+  context: {}
+- id: pineprotocol
+  label: 'Pine Protocol '
+  jurisdictions: []
+  categories: []
+  uri: https://pine.loans/
+  context:
+    refs:
+    - https://docs.pine.loans/
+    - https://github.com/pinedefi?view_as=public
+- id: falconx
+  label: Falconx
+  jurisdictions: []
+  categories: []
+  uri: https://www.falconx.io/
+  context: {}
+- id: leetswap
+  label: Leetswap
+  jurisdictions: []
+  categories: []
+  uri: https://leetswap.finance/
+  context:
+    refs:
+    - https://github.com/LeetSwap
+- id: micropets
+  label: Micropets
+  jurisdictions: []
+  categories: []
+  uri: https://micropets.io/
+  context: {}
+- id: apecoin
+  label: Apecoin
+  jurisdictions: []
+  categories: []
+  uri: https://apecoin.com/
+  context:
+    twitter_handle: apecoin
+- id: kakaoentertainment
+  label: Kakao Entertainment
+  jurisdictions: []
+  categories: []
+  uri: https://kakaoent.com/
+  context: {}
+- id: highlight
+  label: Highlight
+  jurisdictions: []
+  categories: []
+  uri: https://highlight.xyz/
+  context: {}
+- id: alkimiexchange
+  label: Alkimi
+  jurisdictions: []
+  categories: []
+  uri: https://www.alkimi.org/
+  context: {}
+- id: klaykingdom
+  label: Klay Kingdom
+  jurisdictions: []
+  categories: []
+  uri: https://klaykingdoms.com/
+  context: {}
+- id: hord
+  label: Hord
+  jurisdictions: []
+  categories: []
+  uri: https://www.hord.fi/
+  context:
+    refs:
+    - https://docs.hord.fi/
+    - https://github.com/hord
+    twitter_handle: HordApp
+- id: dorahacks
+  label: Dorahacks
+  jurisdictions: []
+  categories: []
+  uri: https://dorahacks.io/
+  context: {}
+- id: mantle
+  label: Mantle
+  jurisdictions: []
+  categories: []
+  uri: https://www.mantle.xyz/
+  context:
+    refs:
+    - https://docs.mantle.xyz/
+    - https://github.com/mantlenetworkio
+- id: layerbank
+  label: Layerbank
+  jurisdictions: []
+  categories: []
+  uri: https://layerbank.finance/
+  context:
+    refs:
+    - https://docs.layerbank.finance/
+    - https://github.com/layerbank/contracts
+    twitter_handle: LayerBankFi
+- id: disperse
+  label: Disperse
+  jurisdictions: []
+  categories: []
+  uri: https://disperse.app/
+  context: {}
+- id: dhp
+  label: Dhealth Network
+  jurisdictions: []
+  categories: []
+  uri: https://www.dhealth.com/
+  context: {}
+- id: bitcoinsuisse
+  label: Bitcoin Suisse
+  jurisdictions: []
+  categories: []
+  uri: https://bitcoinsuisse.com/
+  context:
+    refs:
+    - https://docs.bitcoinsuisse.com/
+    - https://github.com/BitcoinSuisse
+    twitter_handle: BitcoinSuisseAG
+  aliases:
+  - bitcoin_suisse
+- id: braintrust
+  label: Braintrust
+  jurisdictions: []
+  categories: []
+  uri: https://www.usebraintrust.com/
+  context:
+    refs:
+    - https://docs.usebraintrust.com/communitydocs
+    twitter_handle: usebraintrust
+- id: goodgang
+  label: Goodgang
+  jurisdictions: []
+  categories: []
+  uri: https://goodganglabs.com/
+  context: {}
+- id: qmall
+  label: Qmall
+  jurisdictions: []
+  categories: []
+  uri: https://qmall.io/
+  context: {}
+- id: summerfi
+  aliases:
+  - oasisswap
+  label: Summer.Fi
+  jurisdictions: []
+  categories: []
+  uri: https://summer.fi/borrow
+  context:
+    refs:
+    - https://docs.summer.fi/
+    - https://github.com/OasisDEX
+- id: oobit
+  label: Oobit
+  jurisdictions: []
+  categories: []
+  uri: https://www.oobit.com/
+  context: {}
+- id: boomer
+  label: Boomer On Base
+  jurisdictions: []
+  categories: []
+  uri: https://www.baseboomer.com/
+  context: {}
+- id: gumi
+  label: Gumi
+  jurisdictions: []
+  categories: []
+  uri: https://gu3.co.jp/
+  context: {}
+- id: winrprotocol
+  label: Winr Chain
+  jurisdictions: []
+  categories: []
+  uri: https://winr.games/
+  context: {}
+  aliases:
+  - winr_protocol
+- id: sygnum
+  label: Sygnum
+  jurisdictions: []
+  categories: []
+  uri: https://www.sygnum.com/
+  context: {}
+- id: xencrypto
+  label: Xencrypto
+  jurisdictions: []
+  categories: []
+  uri: https://xen.network/
+  context:
+    refs:
+    - https://faircrypto.org/xenft_litepaper.pdf
+- id: dose
+  label: Dose
+  jurisdictions: []
+  categories: []
+  uri: https://www.dosetoken.com/
+  context: {}
+- id: sani
+  label: Sanin Inu
+  jurisdictions: []
+  categories: []
+  uri: https://sanininu.com/
+  context: {}
+- id: fuse
+  label: Fuse
+  jurisdictions: []
+  categories: []
+  uri: https://console.fuse.io/
+  context: {}
+- id: yeahmobi
+  label: Yeahmobi
+  jurisdictions: []
+  categories: []
+  uri: https://digital.yeahmobi.com/index.html
+  context: {}
+- id: copper
+  label: Copper
+  jurisdictions: []
+  categories: []
+  uri: https://copper.co/
+  context: {}
+  aliases:
+  - copperco
+- id: allianceblock
+  label: Alliance Block
+  jurisdictions: []
+  categories: []
+  uri: https://allianceblock.io/
+  context:
+    refs:
+    - https://support.allianceblock.io/support/home
+    - https://github.com/Stichting-AllianceBlock-Foundation/
+    twitter_handle: allianceblock
+- id: bonk
+  label: Bonk
+  jurisdictions: []
+  categories: []
+  uri: https://bonkcoin.com/
+  context:
+    refs:
+    - https://bonkcoin.com/integrations?category=Developer
+    - https://bonkccoin.github.io/
+    twitter_handle: bonk_inu
+- id: dharma
+  label: Dharma
+  jurisdictions: []
+  categories: []
+  uri: https://www.dharma.io/
+  context:
+    refs:
+    - https://dharmaprotocol.github.io/developer-docs/#/
+    - https://github.com/dharmaprotocol
+- id: phala
+  label: Phala
+  jurisdictions: []
+  categories: []
+  uri: https://phala.network/
+  context:
+    refs:
+    - https://docs.phala.network/
+    - https://github.com/Phala-Network
+    twitter_handle: PhalaNetwork
+- id: nucypher
+  label: Nucypher
+  jurisdictions: []
+  categories: []
+  uri: https://www.nucypher.com/
+  context:
+    refs:
+    - https://docs.nucypher.com/
+    - https://github.com/drae12/nucypher/tree/master
+- id: bnb
+  label: Bnb
+  jurisdictions: []
+  categories: []
+  uri: https://www.bnbchain.org/en
+  context:
+    refs:
+    - https://docs.bnbchain.org/docs/overview
+    - https://github.com/bnb-chain
+    twitter_handle: BNBChain
+- id: smarttokenlabs
+  label: Smart Layer Network
+  jurisdictions: []
+  categories: []
+  uri: https://www.smartlayer.network/
+  context:
+    refs:
+    - https://sln-doc.vercel.app/getting-started/quick-start
+    - https://github.com/TokenScript
+    twitter_handle: SmartLayer
+- id: baseswap
+  label: Baseswap
+  jurisdictions: []
+  categories: []
+  uri: https://baseswap.fi/
+  context:
+    refs:
+    - https://docs.baseswap.fi/baseswap
+    - https://github.com/baseswapfi
+    twitter_handle: BaseSwapDex
+- id: spooldao
+  label: Yelay
+  jurisdictions: []
+  categories: []
+  uri: https://www.yelay.io/
+  context: {}
+- id: kaiaswap
+  label: Kaiaswap
+  jurisdictions: []
+  categories: []
+  uri: https://kaiaswap.org/home
+  context: {}
+- id: kwenta
+  label: Kwenta
+  jurisdictions: []
+  categories: []
+  uri: https://kwenta.io/
+  context:
+    refs:
+    - https://docs.kwenta.io/
+    - https://github.com/Kwenta
+- id: junkyard
+  label: Junkyard
+  jurisdictions: []
+  categories: []
+  uri: https://junkyard.wtf/
+  context: {}
+- id: coqinu
+  label: Coqinu
+  jurisdictions: []
+  categories: []
+  uri: https://coqinu.com/
+  context: {}
+- id: aeroswap
+  label: Aeroswap
+  jurisdictions: []
+  categories: []
+  uri: https://aeroswap.io/
+  context: {}
+- id: marlin
+  label: Marlin
+  jurisdictions: []
+  categories: []
+  uri: https://www.marlin.org/
+  context: {}
+- id: abga
+  label: Abga
+  jurisdictions: []
+  categories: []
+  uri: https://www.abga.asia/
+  context: {}
+- id: dinolfg
+  label: Dinolfg
+  jurisdictions: []
+  categories: []
+  uri: https://dinolfg.com/
+  context: {}
+- id: xyonetwork
+  label: Xyo Network
+  jurisdictions: []
+  categories: []
+  uri: https://xyo.network/
+  context:
+    refs:
+    - https://docs.xyo.network/docs
+    - https://github.com/XYOracleNetwork
+    twitter_handle: OfficialXYO
+- id: sov
+  label: Shib Original Vision
+  jurisdictions: []
+  categories: []
+  uri: https://www.shiboriginalvision.com/
+  context: {}
+- id: bitpie
+  label: Bitpie
+  jurisdictions: []
+  categories: []
+  uri: https://bitpie.com/
+  context:
+    refs:
+    - https://docs.bitpie.com/en/latest/#
+    - https://github.com/bitpiedotcom
+    twitter_handle: BitpieWallet
+- id: morpho
+  label: Morpho
+  jurisdictions: []
+  categories: []
+  uri: https://morpho.org/
+  context:
+    refs:
+    - https://docs.morpho.org/
+    - https://github.com/morpho-org
+    twitter_handle: MorphoLabs/
+  aliases:
+  - metamorphovaults
+- id: tapioca
+  label: Tapioca
+  jurisdictions: []
+  categories: []
+  uri: https://www.tapioca.xyz/
+  context: {}
+- id: groundx
+  label: Groundx
+  jurisdictions: []
+  categories: []
+  uri: https://www.groundx.xyz/
+  context: {}
+- id: kaijukingz
+  label: Kaiju Kingz Origins
+  jurisdictions: []
+  categories: []
+  uri: https://origins.kaijukingz.io/
+  context: {}
+- id: kaia
+  label: Kaia
+  jurisdictions: []
+  categories: []
+  uri: https://www.kaia.io/
+  context: {}
+  aliases:
+  - kaiafoundation
+- id: thrust
+  label: Thrust
+  jurisdictions: []
+  categories: []
+  uri: https://www.playone.games/
+  context: {}
+- id: ventfinance
+  label: Vent
+  jurisdictions: []
+  categories: []
+  uri: https://www.vent.finance/
+  context: {}
+- id: automatanetwork
+  label: Automata
+  jurisdictions: []
+  categories: []
+  uri: https://www.ata.network/
+  context:
+    refs:
+    - https://docs.ata.network/
+    - https://ata.ws/github
+- id: nile
+  label: Nile
+  jurisdictions: []
+  categories: []
+  uri: https://www.nile.build/swap
+  context:
+    refs:
+    - https://docs.thenile.exchange/
+    twitter_handle: nileexchange
+- id: geodnet
+  label: Geodnet
+  jurisdictions: []
+  categories: []
+  uri: https://geodnet.com/
+  context: {}
+- id: artichoke
+  label: Artichoke
+  jurisdictions: []
+  categories: []
+  uri: https://articho.ke/
+  context: {}
+- id: bitrefill
+  label: Bitrefill
+  jurisdictions: []
+  categories: []
+  uri: https://www.bitrefill.com/
+  context: {}
+- id: polygongmee
+  label: Arc8 Mocaverse
+  jurisdictions: []
+  categories: []
+  uri: https://www.arc8.com/
+  context: {}
+- id: stablelab
+  label: Stable Lab
+  jurisdictions: []
+  categories: []
+  uri: https://stablelab.xyz/
+  context: {}
+  aliases:
+  - stable_lab
+- id: twtcheck
+  label: Twitfi
+  jurisdictions: []
+  categories: []
+  uri: https://twitfi.com/
+  context:
+    refs:
+    - https://twitfi.com/how-to-play.html
+- id: argent
+  label: Argent
+  jurisdictions: []
+  categories: []
+  uri: https://www.argent.xyz/
+  context:
+    refs:
+    - https://docs.argent.xyz/
+    - https://github.com/argentlabs
+- id: chainlink
+  label: Chainlink
+  jurisdictions: []
+  categories: []
+  uri: https://chain.link/
+  context:
+    refs:
+    - https://docs.chain.link/
+- id: eveexchange
+  label: Eve Exchange
+  jurisdictions: []
+  categories: []
+  uri: https://eve.exchange/
+  context:
+    refs:
+    - https://docs.eve.exchange/eve-exchange-knowledge-base/project-overview/getting-started
+  aliases:
+  - eve_exchange
+- id: eco
+  label: Eco
+  jurisdictions: []
+  categories: []
+  uri: https://eco.com/
+  context: {}
+- id: dtravel
+  label: Trvl
+  jurisdictions: []
+  categories: []
+  uri: https://trvl.com/
+  context: {}
+- id: gmocoin
+  label: Gmo Coin
+  jurisdictions: []
+  categories: []
+  uri: https://www.gmo.jp/en/service/search/4/
+  context: {}
+  aliases:
+  - gmo_coin
+- id: landxfinance
+  label: Landx
+  jurisdictions: []
+  categories: []
+  uri: https://landx.fi/
+  context: {}
+- id: kakaopay
+  label: Kakaopay
+  jurisdictions: []
+  categories: []
+  uri: https://www.kakaocorp.com/page/
+  context: {}
+  aliases:
+  - kakaocorp
+  - kakaospace
+  - kakao_space
+- id: blockfi
+  label: Blockfi
+  jurisdictions: []
+  categories: []
+  uri: https://blockfi.com/
+  context:
+    refs:
+    - https://github.com/blockfi
+- id: bft
+  label: Bf Token
+  jurisdictions: []
+  categories: []
+  uri: https://bf-token.bnktothefuture.com/
+  context: {}
+- id: genius
+  label: Genius Ai
+  jurisdictions: []
+  categories: []
+  uri: https://www.geni.app/
+  context: {}
+- id: echelon
+  label: Echelon Dao
+  jurisdictions: []
+  categories: []
+  uri: https://echelondao.com/
+  context: {}
+- id: crederitcen
+  label: Creder Itcen
+  jurisdictions: []
+  categories: []
+  uri: https://www.creder.biz/
+  context: {}
+- id: nation3
+  label: Nation3
+  jurisdictions: []
+  categories: []
+  uri: https://nation3.org/
+  context: {}
+- id: mintfun
+  label: Mint Fun
+  jurisdictions: []
+  categories: []
+  uri: https://mint.fun/feed/trending
+  context: {}
+- id: vegaprotocol
+  label: Vega
+  jurisdictions: []
+  categories: []
+  uri: https://vega.xyz/
+  context: {}
+- id: 48club
+  label: 48 Club
+  jurisdictions: []
+  categories: []
+  uri: https://www.48.club/
+  context:
+    refs:
+    - https://docs.48.club/
+    - https://github.com/48Club
+    twitter_handle: 48club_official
+- id: alongside
+  label: Alongside
+  jurisdictions: []
+  categories: []
+  uri: https://alongside.xyz/en-us
+  context:
+    refs:
+    - https://docs.amktdao.com/amkt-documentation
+    - https://github.com/Alongside-Finance/amkt-v2
+- id: vertex
+  label: Vertex
+  jurisdictions: []
+  categories: []
+  uri: https://vertexprotocol.com/
+  context: {}
+- id: kakaowallet
+  label: Kakao Wallet
+  jurisdictions: []
+  categories: []
+  uri: https://www.kakaopay.com/
+  context: {}
+  aliases:
+  - kakao_wallet
+- id: sei
+  label: Sei
+  jurisdictions: []
+  categories: []
+  uri: https://www.sei.io/
+  context:
+    refs:
+    - https://www.docs.sei.io/
+    - https://github.com/sei-protocol/sei-chain
+    twitter_handle: SeiNetwork
+- id: bughole
+  label: Bughole
+  jurisdictions: []
+  categories: []
+  uri: https://bughole.io/
+  context: {}
+- id: glodollar
+  label: Glo Dollar
+  jurisdictions: []
+  categories: []
+  uri: https://www.glodollar.org/
+  context: {}
+- id: hoprprotocol
+  label: Hopr Protocol
+  jurisdictions: []
+  categories: []
+  uri: https://hoprnet.org/
+  context: {}
+  aliases:
+  - hopr_protocol
+- id: bolt
+  label: Boltos
+  jurisdictions: []
+  categories: []
+  uri: https://www.boltos.ai/
+  context: {}
+- id: incognitochain
+  label: Incognito Chain
+  jurisdictions: []
+  categories: []
+  uri: https://incognito.org/papps
+  context: {}
+  aliases:
+  - incognito_chain
+- id: youhodler
+  label: Youhodler
+  jurisdictions: []
+  categories: []
+  uri: https://www.youhodler.com/
+  context: {}
+- id: erc4337
+  label: Erc4337
+  jurisdictions: []
+  categories: []
+  uri: https://www.erc4337.io/
+  context:
+    refs:
+    - https://www.erc4337.io/docs
+- id: pibble
+  label: Pibble
+  jurisdictions: []
+  categories: []
+  uri: https://pibbleapp.io/
+  context: {}
+- id: segasingapore
+  label: Sega Singapore
+  jurisdictions: []
+  categories: []
+  uri: https://www.sega.co.jp/en/index.html
+  context: {}
+- id: ntvrk
+  label: Netvrk
+  jurisdictions: []
+  categories: []
+  uri: https://www.netvrk.co/
+  context:
+    refs:
+    - https://docs.netvrk.co/
+    twitter_handle: Netvrk_Official
+- id: decent
+  label: Decent
+  jurisdictions: []
+  categories: []
+  uri: https://decent.xyz/
+  context:
+    refs:
+    - https://docs.decent.xyz/overview/introduction/what-is-decent
+    - https://github.com/decentxyz
+    twitter_handle: decentxyz
+- id: ahnlabblockchaincompany
+  label: Ahnlab Blockchain Company
+  jurisdictions: []
+  categories: []
+  uri: https://ahnlabblockchain.company/
+  context: {}
+- id: moloch
+  label: Moloch Dao
+  jurisdictions: []
+  categories: []
+  uri: https://molochdao.com/
+  context:
+    refs:
+    - https://molochdao.com/docs/introduction/wtf-is-moloch/
+    - https://github.com/MolochVentures/moloch
+- id: decentraweb
+  label: Decentraweb
+  jurisdictions: []
+  categories: []
+  uri: https://decentraweb.org/
+  context:
+    refs:
+    - https://docs.decentraweb.org/decentraweb
+    - https://github.com/decentraweb
+    twitter_handle: decentra_web
+- id: kromefinance
+  label: Krome Finance
+  jurisdictions: []
+  categories: []
+  uri: https://x.com/kromefinance
+  context: {}
+- id: choice
+  label: Choice
+  jurisdictions: []
+  categories: []
+  uri: https://choise.ai/
+  context: {}
+  aliases:
+  - choise
+- id: base
+  label: Base
+  jurisdictions: []
+  categories: []
+  uri: https://base.org/
+  context: {}
+- id: nagacoin
+  label: Naga Coin
+  jurisdictions: []
+  categories: []
+  uri: https://nagacoin.io/
+  context: {}
+- id: perpybeta
+  label: Perpy Finance
+  jurisdictions: []
+  categories: []
+  uri: https://perpy.finance/
+  context: {}
+- id: revomon
+  label: Revomon
+  jurisdictions: []
+  categories: []
+  uri: https://revomon.io/
+  context: {}
+- id: sunflowerlandexpansion
+  label: Sunflower Land
+  jurisdictions: []
+  categories: []
+  uri: https://sunflower-land.com/
+  context:
+    refs:
+    - https://docs.sunflower-land.com/
+    - https://github.com/sunflower-land/sunflower-land
+    twitter_handle: 0xsunflowerland
+- id: pepe
+  label: Pepe
+  jurisdictions: []
+  categories: []
+  uri: https://www.pepe.vip/
+  context:
+    twitter_handle: pepecoineth
+- id: propy
+  label: Propy
+  jurisdictions: []
+  categories: []
+  uri: https://propy.com/home/
+  context:
+    refs:
+    - https://propy.com/browse/knowledge-base/document-management-guide/
+    - https://github.com/Propy
+    twitter_handle: PropyInc
+- id: voxies
+  label: Voxies
+  jurisdictions: []
+  categories: []
+  uri: https://www.voxies.io/
+  context:
+    twitter_handle: VoxieTactics
+- id: l2dao
+  label: Layer2Dao
+  jurisdictions: []
+  categories: []
+  uri: https://www.layer2dao.org/
+  context: {}
+- id: unmarshal
+  label: Unmarshal
+  jurisdictions: []
+  categories: []
+  uri: https://unmarshal.io/
+  context: {}
+- id: livepeer
+  label: Livepeer
+  jurisdictions: []
+  categories: []
+  uri: https://livepeer.org/
+  context:
+    refs:
+    - https://docs.livepeer.org/developers/introduction
+    - https://github.com/livepeer
+    twitter_handle: Livepeer
+- id: helio
+  label: Lista Dao
+  jurisdictions: []
+  categories: []
+  uri: https://lista.org/
+  context:
+    refs:
+    - https://docs.bsc.lista.org/
+- id: pearlabyss
+  label: Pearl Abyss
+  jurisdictions: []
+  categories: []
+  uri: https://www.pearlabyss.com/en-US?lang=en
+  context: {}
+- id: dexilla
+  label: Dexilla
+  jurisdictions: []
+  categories: []
+  uri: https://dexilla.com/
+  context:
+    refs:
+    - https://docs.dexilla.com/dexilla
+    - https://github.com/dexilla
+    twitter_handle: DexillaDAO
+- id: tigristrade
+  label: Tigris
+  jurisdictions: []
+  categories: []
+  uri: https://tigris.trade/
+  context: {}
+- id: sknetworks
+  label: Sk Networks
+  jurisdictions: []
+  categories: []
+  uri: https://www.sknetworks.co.kr/en
+  context: {}
+  aliases:
+  - sk_networks
+- id: propchain
+  label: Propchain
+  jurisdictions: []
+  categories: []
+  uri: https://www.propchain.com/
+  context: {}
+- id: ternoa
+  label: Ternoa
+  jurisdictions: []
+  categories: []
+  uri: https://www.ternoa.network/
+  context: {}
+- id: amp
+  label: Ampera
+  jurisdictions: []
+  categories: []
+  uri: https://ampera.xyz/
+  context:
+    refs:
+    - https://github.com/AmperaFoundation
+- id: paladexlp
+  label: Pala Dex Lp
+  jurisdictions: []
+  categories: []
+  uri: https://pala.io/
+  context: {}
+  aliases:
+  - palanftmarketplace
+- id: mudol
+  label: Mudol
+  jurisdictions: []
+  categories: []
+  uri: https://mudol2.com/
+  context: {}
+- id: netmarble
+  label: Netmarble
+  jurisdictions: []
+  categories: []
+  uri: https://ch.netmarble.com/Eng/Index
+  context: {}
+- id: netcoins
+  label: Netcoins
+  jurisdictions: []
+  categories: []
+  uri: https://www.netcoins.com/
+  context: {}
+- id: overtime
+  label: Overtime Markets
+  jurisdictions: []
+  categories: []
+  uri: https://www.overtimemarkets.xyz/
+  context:
+    refs:
+    - https://docs.overtimemarkets.xyz/
+    - https://github.com/thales-markets
+- id: taiko
+  label: Taiko
+  jurisdictions: []
+  categories: []
+  uri: https://taiko.xyz/
+  context:
+    refs:
+    - https://docs.taiko.xyz/
+    - https://github.com/taikoxyz
+    twitter_handle: taikoxyz
+- id: manifold
+  label: Manifold
+  jurisdictions: []
+  categories: []
+  uri: https://www.manifold.xyz/
+  context:
+    refs:
+    - https://docs.manifold.xyz/
+    - https://github.com/manifoldxyz
+    twitter_handle: manifoldxyz
+- id: meow
+  label: Meow
+  jurisdictions: []
+  categories: []
+  uri: https://www.meow.inc/
+  context: {}
+- id: metis
+  label: Metis
+  jurisdictions: []
+  categories: []
+  uri: https://www.metis.io/
+  context:
+    refs:
+    - https://docs.metis.io/dev/
+    - https://github.com/MetisProtocol
+    twitter_handle: MetisL2
+- id: verichainsvng
+  label: Verichains Vng
+  jurisdictions: []
+  categories: []
+  uri: https://verichains.io/
+  context: {}
+  aliases:
+  - verichains_vng
+- id: piction
+  label: Piction
+  jurisdictions: []
+  categories: []
+  uri: https://piction.network/
+  context: {}
+- id: jumpcryptoeverstake
+  label: Jump Crypto Everstake
+  jurisdictions: []
+  categories: []
+  uri: https://jumpcrypto.com/
+  context: {}
+- id: duelbits
+  label: Duelbits
+  jurisdictions: []
+  categories: []
+  uri: https://duelbits.com/
+  context: {}
+- id: klaycity
+  label: Klaycity
+  jurisdictions: []
+  categories: []
+  uri: https://klaycity.com/
+  context: {}
+- id: panana
+  label: Panana Finance
+  jurisdictions: []
+  categories: []
+  uri: https://www.panana.finance/
+  context:
+    refs:
+    - https://docs.panana.finance/
+    twitter_handle: PananaFinance
+- id: xeifinance
+  label: Xei Finance
+  jurisdictions: []
+  categories: []
+  uri: https://xei.finance/home
+  context:
+    refs:
+    - https://docs.xei.finance/
+    - https://github.com/xei-finance
+  aliases:
+  - xei_finance
+- id: linenextcorp
+  label: Line Next Corp
+  jurisdictions: []
+  categories: []
+  uri: https://linecorp.com/en/
+  context: {}
+- id: zerolend
+  label: Zerolend
+  jurisdictions: []
+  categories: []
+  uri: https://zerolend.xyz/
+  context:
+    refs:
+    - https://docs.zerolend.xyz/
+    - https://github.com/zerolend
+    twitter_handle: zerolendxyz
+- id: unsheth
+  label: Unsheth
+  jurisdictions: []
+  categories: []
+  uri: https://unsheth.xyz/
+  context: {}
+- id: dextools
+  label: Dextools
+  jurisdictions: []
+  categories: []
+  uri: https://www.dextools.io/
+  context: {}
+- id: rollbit
+  label: Rollbit
+  jurisdictions: []
+  categories: []
+  uri: https://rollbit.com/
+  context: {}
+- id: million
+  label: Million
+  jurisdictions: []
+  categories: []
+  uri: https://www.milliontoken.org/
+  context: {}
+- id: daosquare
+  label: Daosquare
+  jurisdictions: []
+  categories: []
+  uri: https://daosquare.io/
+  context: {}
+- id: op
+  label: Op
+  jurisdictions: []
+  categories: []
+  uri: https://app.optimism.io/announcement
+  context: {}
+- id: superform
+  label: Superform
+  jurisdictions: []
+  categories: []
+  uri: https://www.superform.xyz/
+  context:
+    refs:
+    - https://docs.superform.xyz/
+    - https://github.com/superform-xyz
+    twitter_handle: superformxyz
+- id: dia
+  label: Dia
+  jurisdictions: []
+  categories: []
+  uri: https://www.diadata.org/
+  context:
+    refs:
+    - https://docs.diadata.org/
+    - https://github.com/diadata-org/
+    twitter_handle: DIAdata_org
+- id: ozys
+  aliases:
+  - ozys_hashed
+  label: Ozys
+  jurisdictions: []
+  categories: []
+  uri: https://ozys.io/
+  context: {}
+- id: umaproject
+  label: 'Uma '
+  jurisdictions: []
+  categories: []
+  uri: https://uma.xyz/
+  context:
+    refs:
+    - https://docs.uma.xyz/
+    - https://github.com/UMAprotocol
+    twitter_handle: UMAprotocol
+- id: socket
+  label: Socket
+  jurisdictions: []
+  categories: []
+  uri: https://www.socket.tech/
+  context: {}
+- id: furio
+  label: Furio
+  jurisdictions: []
+  categories: []
+  uri: https://app.furio.io/
+  context: {}
+- id: amorepacific
+  label: Amorepacific
+  jurisdictions: []
+  categories: []
+  uri: https://www.apgroup.com/int/en/
+  context: {}
+- id: wavax
+  label: Wavax
+  jurisdictions: []
+  categories: []
+  uri: https://www.avax.network/
+  context:
+    refs:
+    - https://docs.avax.network/
+    - https://github.com/ava-labs
+    twitter_handle: avax
+- id: everstake
+  label: Everstake
+  jurisdictions: []
+  categories: []
+  uri: https://everstake.one/
+  context:
+    refs:
+    - https://github.com/everstake
+- id: krosslab
+  label: Krosslab
+  jurisdictions: []
+  categories: []
+  uri: https://www.krosslab.io/
+  context: {}
+- id: foxify
+  label: Foxify
+  jurisdictions: []
+  categories: []
+  uri: https://www.foxify.trade/
+  context:
+    refs:
+    - https://docs.foxify.trade/
+- id: locg
+  label: Loc Game
+  jurisdictions: []
+  categories: []
+  uri: https://www.locgame.io/
+  context: {}
+- id: thirdweb
+  label: Thirdweb
+  jurisdictions: []
+  categories: []
+  uri: https://thirdweb.com/
+  context:
+    refs:
+    - https://portal.thirdweb.com/
+    - https://github.com/thirdweb-dev
+- id: cryptoswordmagic
+  label: Crypto Sword Magic
+  jurisdictions: []
+  categories: []
+  uri: http://www.cryptoswordandmagic.com/
+  context: {}
+- id: yologames
+  label: Yolo Games
+  jurisdictions: []
+  categories: []
+  uri: https://yologames.io/
+  context: {}
+- id: lucidao
+  label: Lucidao
+  jurisdictions: []
+  categories: []
+  uri: https://lucidao.com/
+  context: {}
+- id: defigeek
+  label: Defigeek Community (Dfgc)
+  jurisdictions: []
+  categories: []
+  uri: https://defigeek.xyz/
+  context: {}
+- id: swarm
+  label: Swarm
+  jurisdictions: []
+  categories: []
+  uri: https://www.ethswarm.org/
+  context: {}
+- id: kommunedao
+  label: Kommune Dao
+  jurisdictions: []
+  categories: []
+  uri: https://kommunedao.xyz/
+  context: {}
+  aliases:
+  - kommune_dao
+- id: kaiprotocol
+  label: Kai Protocol
+  jurisdictions: []
+  categories: []
+  uri: https://kaiprotocol.fi/
+  context: {}
+- id: quantstamp
+  label: Quantstamp
+  jurisdictions: []
+  categories: []
+  uri: https://quantstamp.com/
+  context: {}
+- id: sftbsc
+  label: Sft Network
+  jurisdictions: []
+  categories: []
+  uri: https://sft.network/
+  context:
+    refs:
+    - https://sftprotocol.gitbook.io/sft-chain/
+    - https://github.com/SFT-project
+    twitter_handle: SFTProtocol
+- id: cyber
+  label: Cyber.Co
+  jurisdictions: []
+  categories: []
+  uri: https://cyber.co/
+  context:
+    refs:
+    - https://docs.cyber.co/
+    - https://github.com/xave-finance
+- id: fjord
+  label: Fjord
+  jurisdictions: []
+  categories: []
+  uri: https://www.fjordfoundry.com/
+  context:
+    refs:
+    - https://help.fjordfoundry.com/fjord-foundry-docs
+- id: transak
+  label: Transak
+  jurisdictions: []
+  categories: []
+  uri: https://transak.com/
+  context: {}
+- id: port3nft
+  label: Port3
+  jurisdictions: []
+  categories: []
+  uri: https://port3.io/
+  context:
+    refs:
+    - https://docs.port3.io/
+    - https://github.com/Port3-Network
+    twitter_handle: Port3Network
+- id: etherfi
+  label: Etherfi
+  jurisdictions: []
+  categories: []
+  uri: https://www.ether.fi/
+  context:
+    refs:
+    - https://etherfi.gitbook.io/etherfi/ether.fi-whitepaper/technical-documentation
+    - https://github.com/etherfi-protocol
+- id: texan
+  label: Texan
+  jurisdictions: []
+  categories: []
+  uri: https://texan.cc/
+  context:
+    twitter_handle: texan_token
+- id: batchmoney
+  label: Batch Money
+  jurisdictions: []
+  categories: []
+  uri: https://www.batch.money/
+  context: {}
+  aliases:
+  - batch_money
+- id: koreaeconomicdaily
+  label: Korea Economic Daily
+  jurisdictions: []
+  categories: []
+  uri: https://www.kedglobal.com/
+  context: {}
+- id: lairfinance
+  label: Lair
+  jurisdictions: []
+  categories: []
+  uri: https://lair.fi/
+  context:
+    refs:
+    - https://lair-finance.gitbook.io/lair-finance
+    - https://github.com/bug4city/lair-lsd
+  aliases:
+  - lair_finance
+- id: expressprotocol
+  label: Express Protocol
+  jurisdictions: []
+  categories: []
+  uri: https://www.expressprotocol.io/
+  context:
+    refs:
+    - https://docs.expressprotocol.io/
+    - https://github.com/Pandora-Finance/Express-Protocol-SDK
+    twitter_handle: expressprotocol
+- id: retrofinance
+  label: Retro Finance
+  jurisdictions: []
+  categories: []
+  uri: https://retro.finance/
+  context:
+    refs:
+    - https://docs.retro.finance/
+    - https://github.com/RetroDefi/Contracts
+  aliases:
+  - retro_finance
+- id: bolttprotocol
+  label: Boltt Protocol
+  jurisdictions: []
+  categories: []
+  uri: https://bolttcoin.io/
+  context: {}
+- id: btcb
+  label: Btcb
+  jurisdictions: []
+  categories: []
+  uri: https://core.app/bridge/
+  context: {}
+- id: gme24
+  label: Gamestop
+  jurisdictions: []
+  categories: []
+  uri: https://gamestop-coin.vip/
+  context: {}
+- id: pyth
+  label: Pyth Network
+  jurisdictions: []
+  categories: []
+  uri: https://pyth.network/
+  context:
+    refs:
+    - https://docs.pyth.network/documentation/
+    - https://github.com/pyth-network
+  aliases:
+  - pythnetwork
+- id: morpheus
+  label: Morpheus Labs
+  jurisdictions: []
+  categories: []
+  uri: https://morpheuslabs.io/
+  context: {}
+- id: openzeppelin
+  label: Openzeppelin
+  jurisdictions: []
+  categories: []
+  uri: https://www.openzeppelin.com/
+  context:
+    refs:
+    - https://docs.openzeppelin.com/
+    - https://github.com/openzeppelin
+    twitter_handle: OpenZeppelin
+- id: wintermute
+  label: Wintermute
+  jurisdictions: []
+  categories: []
+  uri: https://www.wintermute.com/
+  context: {}
+- id: moby
+  label: Moby
+  jurisdictions: []
+  categories: []
+  uri: https://moby.trade/
+  context:
+    refs:
+    - https://docs.moby.trade/
+- id: endaoment
+  label: Endaoment
+  jurisdictions: []
+  categories: []
+  uri: https://endaoment.org/
+  context:
+    refs:
+    - https://docs.endaoment.org/introduction
+    - https://github.com/endaoment/endaoment-sdk
+    twitter_handle: endaomentdotorg
+  aliases:
+  - endaomentdao
+- id: omnibridge
+  label: Omnibridge
+  jurisdictions: []
+  categories: []
+  uri: https://omni.legacy.gnosischain.com/bridge
+  context:
+    refs:
+    - https://docs.gnosischain.com/bridges/About%20Token%20Bridges/omnibridge
+    - https://github.com/omni
+    twitter_handle: gnosischain
+- id: juggernaut
+  label: Juggernaut
+  jurisdictions: []
+  categories: []
+  uri: https://jgndefi.com/
+  context: {}
+- id: vnx
+  label: Vnx Gold
+  jurisdictions: []
+  categories: []
+  uri: https://vnx.li/vchf/
+  context: {}
+- id: arbitrum
+  label: Arbitrum
+  jurisdictions: []
+  categories: []
+  uri: https://arbitrum.foundation/
+  context:
+    refs:
+    - https://docs.arbitrum.foundation/deployment-addresses
+- id: archprotocol
+  label: Arch Finance
+  jurisdictions: []
+  categories: []
+  uri: https://www.arch.finance/
+  context:
+    refs:
+    - https://docs.arch.finance/arch-knowledge-base
+    - https://github.com/arch-protocol
+    twitter_handle: Arch_Finance
+- id: hmx
+  label: Hmx
+  jurisdictions: []
+  categories: []
+  uri: https://hmx.org/arbitrum
+  context: {}
+- id: ubp
+  label: Ubp
+  jurisdictions: []
+  categories: []
+  uri: https://www.unionbankph.com/
+  context: {}
+- id: bnx
+  label: Binaryx
+  jurisdictions: []
+  categories: []
+  uri: https://www.binaryx.pro/
+  context: {}
+- id: hifi
+  label: Hifi
+  jurisdictions: []
+  categories: []
+  uri: https://hifi.finance/
+  context:
+    refs:
+    - https://docs.hifi.finance/
+    - https://github.com/hifi-finance
+    twitter_handle: HifiFinance
+- id: steer
+  label: Steer Finance
+  jurisdictions: []
+  categories: []
+  uri: https://steer.finance/
+  context:
+    refs:
+    - https://docs.steer.finance/
+    - https://github.com/steerprotocol
+- id: bandprotocol
+  label: 'Band Protocol '
+  jurisdictions: []
+  categories: []
+  uri: https://www.bandprotocol.com/
+  context:
+    refs:
+    - https://docs.bandchain.org/
+    - https://github.com/bandprotocol/chain
+    twitter_handle: BandProtocol
+- id: pooh1
+  label: Pooh
+  jurisdictions: []
+  categories: []
+  uri: https://pooh.money/
+  context: {}
+- id: opnx
+  label: Opnx
+  jurisdictions: []
+  categories: []
+  uri: https://opnx.com/en
+  context: {}
+- id: lynex
+  label: Lynex
+  jurisdictions: []
+  categories: []
+  uri: https://www.lynex.fi/
+  context:
+    refs:
+    - https://lynex.gitbook.io/lynex-docs
+- id: marblex
+  label: Marblex
+  jurisdictions: []
+  categories: []
+  uri: https://www.marblex.io/
+  context: {}
+- id: blocknationxyz
+  label: Blocknationxyz
+  jurisdictions: []
+  categories: []
+  uri: https://x.com/BlocknationXYZ
+  context: {}
+- id: roobet
+  label: Roobet
+  jurisdictions: []
+  categories: []
+  uri: https://roobet.com/
+  context:
+    twitter_handle: Roobet
+- id: gsretail
+  label: Gs Retail
+  jurisdictions: []
+  categories: []
+  uri: https://www.gsretail.com/gsretail/ko/company
+  context: {}
+  aliases:
+  - gs_retail
+- id: blockrazor
+  label: Blockrazor
+  jurisdictions: []
+  categories: []
+  uri: https://www.blockrazor.io/
+  context:
+    refs:
+    - https://blockrazor.gitbook.io/blockrazor
+    - https://github.com/BlockRazorinc
+- id: fortanetwork
+  label: Forta Network
+  jurisdictions: []
+  categories: []
+  uri: https://forta.org/
+  context:
+    refs:
+    - https://docs.forta.network/en/latest/
+    - https://github.com/forta-network
+    twitter_handle: FortaNetwork
+  aliases:
+  - forta_network
+- id: tellor
+  label: Tellor
+  jurisdictions: []
+  categories: []
+  uri: https://tellor.io/
+  context:
+    refs:
+    - https://docs.tellor.io/tellor/the-basics/readme
+    - https://github.com/tellor-io
+    twitter_handle: wearetellor
+- id: apron
+  label: Apron Network
+  jurisdictions: []
+  categories: []
+  uri: https://apron.network/
+  context: {}
+- id: everrich
+  label: Everrich
+  jurisdictions: []
+  categories: []
+  uri: https://www.everrich-group.com/
+  context: {}
+- id: p2eall
+  label: P2Eall
+  jurisdictions: []
+  categories: []
+  uri: https://x2eall.com/ranking/game/list
+  context: {}
+- id: madworld
+  label: Madworld
+  jurisdictions: []
+  categories: []
+  uri: https://madworld.io/
+  context: {}
+- id: imelab
+  label: Ime
+  jurisdictions: []
+  categories: []
+  uri: https://imem.app/
+  context: {}
+- id: kirobo
+  label: Kirobo
+  jurisdictions: []
+  categories: []
+  uri: https://www.kirobo.io/
+  context:
+    twitter_handle: kirobo_io
+- id: tokamaknetwork
+  label: Tokamak Network
+  jurisdictions: []
+  categories: []
+  uri: https://www.tokamak.network/
+  context:
+    refs:
+    - https://docs.tokamak.network/home
+    - https://github.com/tokamak-network
+- id: pointpay
+  label: Pointpay
+  jurisdictions: []
+  categories: []
+  uri: https://exchange.pointpay.io/
+  context: {}
+- id: paykassapro
+  label: Paykassa.Pro
+  jurisdictions: []
+  categories: []
+  uri: https://paykassa.pro/en/
+  context: {}
+- id: zksync
+  label: Zksync
+  jurisdictions: []
+  categories: []
+  uri: https://zksync.io/
+  context:
+    refs:
+    - https://docs.zksync.io/
+- id: memecoin
+  label: Memecoin
+  jurisdictions: []
+  categories: []
+  uri: https://www.stakeland.com/
+  context:
+    refs:
+    - https://www.stakeland.com/about
+- id: mars4
+  label: Mars4
+  jurisdictions: []
+  categories: []
+  uri: https://www.mars4.me/
+  context: {}
+- id: cube
+  label: Cube
+  jurisdictions: []
+  categories: []
+  uri: https://layer3.xyz/collections/intro-to-cubes
+  context: {}
+- id: hectornetwork
+  label: Hector Network
+  jurisdictions: []
+  categories: []
+  uri: https://hectordao.com/
+  context: {}
+  aliases:
+  - hector_network
+- id: hapi
+  label: Hapi
+  jurisdictions: []
+  categories: []
+  uri: https://hapi.one/
+  context: {}
+- id: degentoken
+  label: Degen
+  jurisdictions: []
+  categories: []
+  uri: https://www.degen.tips/
+  context:
+    refs:
+    - https://github.com/degen-token
+    twitter_handle: degentokenbase
+- id: habl
+  label: Habl
+  jurisdictions: []
+  categories: []
+  uri: https://x.com/hiblocks?lang=en
+  context: {}
+- id: metabora
+  label: Metabora
+  jurisdictions: []
+  categories: []
+  uri: https://www.metabora.io/
+  context: {}
+- id: vestpetpov
+  label: Vestchain
+  jurisdictions: []
+  categories: []
+  uri: https://agbcoin.com/deposit-vest-coin/
+  context: {}
+- id: polychainmonster
+  label: Protocol Monster Labs
+  jurisdictions: []
+  categories: []
+  uri: https://protocolmonsterlabs.com/
+  context: {}
+- id: bcug
+  label: Blockchain Cuties
+  jurisdictions: []
+  categories: []
+  uri: https://blockchaincuties.com/
+  context: {}
+- id: eigenlayer
+  label: Eigenlayer
+  jurisdictions: []
+  categories: []
+  uri: https://www.eigenlayer.xyz/
+  context:
+    refs:
+    - https://docs.eigenlayer.xyz/
+    - https://github.com/Layr-Labs
+- id: vectorspaceai
+  label: Vector Space Biosciences
+  jurisdictions: []
+  categories: []
+  uri: https://vectorspacebio.science/
+  context:
+    twitter_handle: VectorSpaceBio
+- id: peapods
+  label: Peapods Finance
+  jurisdictions: []
+  categories: []
+  uri: https://peapods.finance/
+  context: {}
+- id: omen
+  label: Omen
+  jurisdictions: []
+  categories: []
+  uri: https://omen.eth.limo/
+  context:
+    refs:
+    - https://dxdocs.eth.limo/docs/Products/omen/
+- id: juicebox
+  label: Juicebox
+  jurisdictions: []
+  categories: []
+  uri: https://juicebox.money/
+  context:
+    refs:
+    - https://docs.juicebox.money/dev/
+    - https://github.com/jbx-protocol
+    twitter_handle: juiceboxETH
+- id: kiln
+  label: Kiln
+  jurisdictions: []
+  categories: []
+  uri: https://www.kiln.fi/
+  context:
+    refs:
+    - https://docs.kiln.fi/v1
+    - https://github.com/kilnfi
+    twitter_handle: Kiln_finance
+- id: steamexchange
+  label: Steam Exchange
+  jurisdictions: []
+  categories: []
+  uri: https://steamexchange.io/
+  context: {}
+  aliases:
+  - steam_exchange
+- id: harmony
+  label: Harmony
+  jurisdictions: []
+  categories: []
+  uri: https://bridge.harmony.one/
+  context: {}
+- id: ebunker
+  label: Ebunker
+  jurisdictions: []
+  categories: []
+  uri: https://www.ebunker.io/
+  context:
+    refs:
+    - https://docs.ebunker.io/docs/introduction/
+    - https://github.com/ebunker-io
+    twitter_handle: ebunker_eth
+- id: artgobblers
+  label: Artgobblers
+  jurisdictions: []
+  categories: []
+  uri: https://artgobblers.com/
+  context:
+    refs:
+    - https://github.com/artgobblers
+    twitter_handle: artgobblers
+- id: playdapp
+  label: Playdapp
+  jurisdictions: []
+  categories: []
+  uri: https://playdapp.com/
+  context: {}
+- id: astradao
+  label: Astradao
+  jurisdictions: []
+  categories: []
+  uri: https://astradao.org/
+  context: {}
+- id: apyvision
+  label: Apy Vision
+  jurisdictions: []
+  categories: []
+  uri: https://apy.vision/
+  context: {}
+- id: communitygaming
+  label: Community Gaming
+  jurisdictions: []
+  categories: []
+  uri: https://www.communitygaming.io/
+  context:
+    refs:
+    - https://github.com/TournamentDAO
+    twitter_handle: CommunityGaming
+- id: safemoon
+  label: Safemoon
+  jurisdictions: []
+  categories: []
+  uri: https://safemoon.com/
+  context: {}
+- id: stakecom
+  label: Stake.Com
+  jurisdictions: []
+  categories: []
+  uri: https://stake.com/
+  context: {}
+- id: airswap
+  label: Airswap
+  jurisdictions: []
+  categories: []
+  uri: https://www.airswap.io/
+  context:
+    refs:
+    - https://github.com/airswap/airswap-web
+    twitter_handle: airswap
+- id: maekyungmediagroup
+  label: Maekyung Media Group
+  jurisdictions: []
+  categories: []
+  uri: https://www.mk.co.kr/
+  context: {}
+  aliases:
+  - maekyung_media_group
+- id: lxinternational
+  label: Lx International
+  jurisdictions: []
+  categories: []
+  uri: https://www.lils.co.kr/index.jsp
+  context: {}
+  aliases:
+  - lx_international
+- id: titanx
+  label: Titanx
+  jurisdictions: []
+  categories: []
+  uri: https://app.titanx.win/mine
+  context:
+    refs:
+    - https://docs.titanx.win/titanx
+    twitter_handle: TitanXCrypto
+- id: unlock
+  label: Unlock Protocol
+  jurisdictions: []
+  categories: []
+  uri: https://unlock-protocol.com/
+  context:
+    refs:
+    - https://docs.unlock-protocol.com/
+    - https://github.com/unlock-protocol
+- id: zora
+  label: Zora
+  jurisdictions: []
+  categories: []
+  uri: https://zora.co/
+  context:
+    refs:
+    - https://docs.zora.co/
+    - https://github.com/ourzora
+- id: rss3
+  label: Rss3
+  jurisdictions: []
+  categories: []
+  uri: https://rss3.io/
+  context:
+    refs:
+    - https://docs.rss3.io/
+    - https://link.rss3.io/github
+- id: gelato
+  label: Gelato Network
+  jurisdictions: []
+  categories: []
+  uri: https://www.gelato.network/
+  context: {}
+- id: lootex
+  label: Lootex
+  jurisdictions: []
+  categories: []
+  uri: https://lootex.io/
+  context: {}
+- id: ridottotoken
+  label: Ridotto
+  jurisdictions: []
+  categories: []
+  uri: https://ridotto.io/
+  context: {}
+  aliases:
+  - ridotto_token
+- id: artblocks
+  label: Artblocks
+  jurisdictions: []
+  categories: []
+  uri: https://www.artblocks.io/
+  context:
+    refs:
+    - https://github.com/ArtBlocks
+- id: celo
+  label: Celo
+  jurisdictions: []
+  categories: []
+  uri: https://celo.org/
+  context:
+    refs:
+    - https://docs.celo.org/
+- id: bloom
+  label: Bloom
+  jurisdictions: []
+  categories: []
+  uri: https://bloom.co/
+  context: {}
+- id: exoticmarkets
+  label: Exotic Markets
+  jurisdictions: []
+  categories: []
+  uri: https://www.exotic.markets/
+  context:
+    refs:
+    - https://docs.exoticmarkets.xyz/faq
+- id: streamr
+  label: Streamr Network
+  jurisdictions: []
+  categories: []
+  uri: https://streamr.network/
+  context: {}
+- id: geeq
+  label: Geeq
+  jurisdictions: []
+  categories: []
+  uri: https://geeq.io/
+  context: {}
+- id: nativepool
+  label: Native
+  jurisdictions: []
+  categories: []
+  uri: https://native.org/
+  context:
+    refs:
+    - https://docs.native.org/?
+    - https://github.com/Native-org
+    twitter_handle: native_fi
+  aliases:
+  - native_pool
+- id: gravitybridge
+  label: Gravity Bridge
+  jurisdictions: []
+  categories: []
+  uri: https://www.gravitybridge.net/
+  context: {}
+  aliases:
+  - gravity_bridge
+- id: prode
+  label: Prode
+  jurisdictions: []
+  categories: []
+  uri: https://prode.eth.limo/#/
+  context:
+    refs:
+    - https://prode-eth.gitbook.io/prode.eth-en
+    - 'https://github.com/prodeapp '
+    twitter_handle: prode_eth
+- id: coreto
+  label: Coreto
+  jurisdictions: []
+  categories: []
+  uri: https://www.coreto.io/
+  context: {}
+- id: energi
+  label: Energi
+  jurisdictions: []
+  categories: []
+  uri: https://energi.world/
+  context: {}
+- id: nodedao
+  label: Node Dao
+  jurisdictions: []
+  categories: []
+  uri: https://www.nodedao.com/
+  context:
+    refs:
+    - https://doc.nodedao.com/
+    - https://github.com/NodeDAO
+    twitter_handle: Node_DAO
+- id: pegaxy
+  label: Pegaxy
+  jurisdictions: []
+  categories: []
+  uri: https://pegaxy.io/
+  context: {}
+- id: bcdtby3videnz
+  label: Bcdiploma
+  jurisdictions: []
+  categories: []
+  uri: https://www.bcdiploma.com/en
+  context: {}
+- id: insureum
+  label: Insureum
+  jurisdictions: []
+  categories: []
+  uri: https://www.insureum.io/
+  context: {}
+- id: amazy
+  label: Amazy
+  jurisdictions: []
+  categories: []
+  uri: https://amazy.io/
+  context: {}
+- id: splits
+  label: Splits
+  jurisdictions: []
+  categories: []
+  uri: https://splits.org/
+  context:
+    refs:
+    - https://docs.splits.org/
+    - https://github.com/0xSplits
+    twitter_handle: 0xsplits
+- id: monsterra
+  label: Monsterra
+  jurisdictions: []
+  categories: []
+  uri: https://monsterra.io/
+  context:
+    refs:
+    - https://whitepaper.monsterra.io/
+- id: zenon
+  label: Zenon Network
+  jurisdictions: []
+  categories: []
+  uri: https://zenon.network/
+  context: {}
+- id: liquidcollective
+  label: Liquid Collective
+  jurisdictions: []
+  categories: []
+  uri: https://liquidcollective.io/
+  context:
+    refs:
+    - https://docs.liquidcollective.io/v1/
+    - https://github.com/liquid-collective/
+    twitter_handle: liquid_col/
+- id: dslaprotocol
+  label: Dsla Network
+  jurisdictions: []
+  categories: []
+  uri: https://stacktical.com/
+  context:
+    refs:
+    - https://github.com/Stacktical
+  aliases:
+  - dsla_protocol
+- id: digix
+  label: Digix
+  jurisdictions: []
+  categories: []
+  uri: https://digixglobal.io/#/
+  context: {}
+- id: cryptocart
+  label: Cryptocart
+  jurisdictions: []
+  categories: []
+  uri: https://cryptocart.cc/
+  context: {}
+- id: weth
+  label: Weth
+  jurisdictions: []
+  categories: []
+  uri: https://weth.io/
+  context:
+    refs:
+    - https://ethereum.org/en/developers/docs/
+    - https://github.com/ethereum/ethereum-org-website
+    twitter_handle: ethdotorg
+- id: props
+  label: Props Protocol
+  jurisdictions: []
+  categories: []
+  uri: https://www.props.xyz/
+  context: {}
+- id: auxo
+  label: Auxo
+  jurisdictions: []
+  categories: []
+  uri: https://auxo.fi/
+  context:
+    refs:
+    - https://docs.auxo.fi/auxo-docs
+    - https://github.com/AuxoDAO
+    twitter_handle: AuxoDAO
+- id: aventus
+  label: Aventus
+  jurisdictions: []
+  categories: []
+  uri: https://www.aventus.io/
+  context: {}
+- id: paxos
+  label: Paxos
+  jurisdictions: []
+  categories: []
+  uri: https://paxos.com/
+  context: {}
+- id: simpleswap
+  label: Simpleswap
+  jurisdictions: []
+  categories: []
+  uri: https://simpleswap.io/
+  context: {}
+- id: tronusd
+  label: Tron
+  jurisdictions: []
+  categories: []
+  uri: https://usdd.io/#/
+  context: {}
+- id: overlay
+  label: Overlay
+  jurisdictions: []
+  categories: []
+  uri: https://overlay.market/#/
+  context:
+    refs:
+    - https://docs.overlay.market/
+    - https://github.com/overlay-market
+- id: mcpepes
+  label: Mcpepe'S
+  jurisdictions: []
+  categories: []
+  uri: https://mcpepes.com/
+  context: {}
+- id: factor
+  label: Factor
+  jurisdictions: []
+  categories: []
+  uri: https://factor.fi/
+  context:
+    refs:
+    - https://docs.factor.fi/
+    - https://github.com/factorDAO
+- id: cryptomus
+  label: Cryptomus
+  jurisdictions: []
+  categories: []
+  uri: https://cryptomus.com/
+  context: {}
+- id: splinterlanddectokencontract
+  label: Splinterlands
+  jurisdictions: []
+  categories: []
+  uri: https://next.splinterlands.com/
+  context: {}
+- id: kryllio
+  label: "Kryll\xE2\xB3"
+  jurisdictions: []
+  categories: []
+  uri: https://www.kryll.io/
+  context: {}
+- id: nounsbuilder
+  label: Nouns Builder
+  jurisdictions: []
+  categories: []
+  uri: https://nouns.build/
+  context:
+    refs:
+    - https://builder-docs.vercel.app/reference/intro
+    - https://github.com/ourzora/nouns-builder?tab=readme-ov-file
+    twitter_handle: nounsbuilder
+  aliases:
+  - nouns_builder
+- id: uphold
+  label: Uphold
+  jurisdictions: []
+  categories: []
+  uri: https://uphold.com/en-eu
+  context: {}
+- id: pixnftassets
+  label: Pix Nft Assets
+  jurisdictions: []
+  categories: []
+  uri: https://www.planetix.com/
+  context: {}
+- id: geojam
+  label: Geojam
+  jurisdictions: []
+  categories: []
+  uri: https://www.geojam.xyz/
+  context: {}
+- id: sofa
+  label: Sofa
+  jurisdictions: []
+  categories: []
+  uri: https://www.sofa.org/
+  context: {}
+- id: renzo
+  label: Renzo
+  jurisdictions: []
+  categories: []
+  uri: https://www.renzoprotocol.com/
+  context:
+    refs:
+    - https://docs.renzoprotocol.com/docs/
+    - https://github.com/Renzo-Protocol
+- id: shibawap
+  label: Dog Collar
+  jurisdictions: []
+  categories: []
+  uri: https://www.tagdao.llc/
+  context: {}
+- id: peanuttrade
+  label: Peanut
+  jurisdictions: []
+  categories: []
+  uri: https://peanut.trade/home
+  context: {}
+- id: realm
+  label: Realm
+  jurisdictions: []
+  categories: []
+  uri: https://realm.art/
+  context: {}
+- id: radarglobal
+  label: Radar
+  jurisdictions: []
+  categories: []
+  uri: https://radar.global/
+  context: {}
+- id: scroll
+  label: Scroll
+  jurisdictions: []
+  categories: []
+  uri: https://scroll.io/
+  context:
+    refs:
+    - https://docs.scroll.io/en/home/
+    - https://github.com/scroll-tech
+  aliases:
+  - scrollswap
+- id: vpad
+  label: Vlaunch
+  jurisdictions: []
+  categories: []
+  uri: https://www.vlaunch.com/
+  context: {}
+- id: delight
+  label: Delight
+  jurisdictions: []
+  categories: []
+  uri: https://delightlabs.io/
+  context: {}
+- id: cask
+  label: Cask Protocol
+  jurisdictions: []
+  categories: []
+  uri: https://cask.fi/
+  context:
+    refs:
+    - https://github.com/CaskProtocol/
+- id: aerodrome
+  label: Aerodrome Finance
+  jurisdictions: []
+  categories: []
+  uri: https://aerodrome.finance/
+  context:
+    refs:
+    - https://aerodrome.finance/docs
+    - https://github.com/aerodrome-finance
+- id: doopkendu
+  label: Kendu Inu
+  jurisdictions: []
+  categories: []
+  uri: https://www.kenduinu.com/
+  context: {}
+- id: dash2trade
+  label: Dash 2 Trade
+  jurisdictions: []
+  categories: []
+  uri: https://dash2trade.com/
+  context: {}
+- id: ambient
+  label: Ambient
+  jurisdictions: []
+  categories: []
+  uri: https://us.ambient.finance/
+  context:
+    refs:
+    - https://docs.ambient.finance/
+- id: rentible
+  label: Rentible
+  jurisdictions: []
+  categories: []
+  uri: https://rentible.io/
+  context: {}
+- id: milo
+  label: Milo Inu
+  jurisdictions: []
+  categories: []
+  uri: https://www.miloinu.io/
+  context: {}
+- id: cryptomines
+  label: Cryptomines
+  jurisdictions: []
+  categories: []
+  uri: https://cryptomines.app/
+  context:
+    refs:
+    - https://docs.cryptomines.app/
+    twitter_handle: cryptominesapp
+- id: iexec
+  label: Iexec
+  jurisdictions: []
+  categories: []
+  uri: https://www.iex.ec/
+  context:
+    refs:
+    - https://protocol.docs.iex.ec/
+    - https://github.com/iExecBlockchainComputing
+    twitter_handle: iEx_ec
+- id: reservoir
+  label: Reservoir
+  jurisdictions: []
+  categories: []
+  uri: https://reservoir.tools/
+  context:
+    refs:
+    - https://docs.reservoir.tools/reference/what-is-reservoir
+    twitter_handle: reservoir0x
+  aliases:
+  - reservoir_swap
+- id: imtoken
+  label: Imtoken
+  jurisdictions: []
+  categories: []
+  uri: https://token.im/#
+  context:
+    refs:
+    - https://docs.token.im/
+    - https://github.com/consenlabs
+    twitter_handle: imTokenOfficial
+- id: trueusd
+  label: Trueusd
+  jurisdictions: []
+  categories: []
+  uri: https://tusd.io/
+  context: {}
+- id: cambria
+  label: Cambria
+  jurisdictions: []
+  categories: []
+  uri: https://cambria.gg/
+  context: {}
+- id: blocklordsproject
+  label: Blocklords
+  jurisdictions: []
+  categories: []
+  uri: https://blocklords.com/
+  context:
+    refs:
+    - https://github.com/blocklords
+- id: yieldnest
+  label: Yieldnest
+  jurisdictions: []
+  categories: []
+  uri: https://www.yieldnest.finance/
+  context:
+    refs:
+    - https://docs.yieldnest.finance/
+    - https://github.com/yieldnest
+    twitter_handle: YieldNestFi
+- id: klip
+  label: Klip
+  jurisdictions: []
+  categories: []
+  uri: https://klipwallet.com/
+  context: {}
+- id: alamedaresearch
+  label: Alameda Research
+  jurisdictions: []
+  categories: []
+  uri: https://www.alameda-research.com/
+  context: {}
+- id: ethena
+  label: Ethena
+  jurisdictions: []
+  categories: []
+  uri: https://ethena.fi/
+  context:
+    refs:
+    - https://ethena-labs.gitbook.io/ethena-labs
+    - https://github.com/ethena-labs
+    twitter_handle: ethena_labs
+- id: carry
+  label: Carry
+  jurisdictions: []
+  categories: []
+  uri: https://carryprotocol.io/
+  context:
+    refs:
+    - https://github.com/carryprotocol
+- id: drgn
+  label: Dragon Chain
+  jurisdictions: []
+  categories: []
+  uri: https://dragonchain.com/
+  context:
+    refs:
+    - https://docs.dragonchain.com/
+    - https://github.com/dragonchain/dragonchain
+    twitter_handle: dragonchain
+- id: internetmoney
+  label: Internet Money
+  jurisdictions: []
+  categories: []
+  uri: https://internetmoney.io/
+  context: {}
+- id: rndr
+  label: Render Network
+  jurisdictions: []
+  categories: []
+  uri: https://rendernetwork.com/
+  context:
+    refs:
+    - https://know.rendernetwork.com/
+    - https://github.com/rendernetwork
+- id: dlpduck
+  label: Duckdao
+  jurisdictions: []
+  categories: []
+  uri: https://duckdao.io/
+  context: {}
+- id: klaystakehouse
+  label: Klaystake House
+  jurisdictions: []
+  categories: []
+  uri: https://klaystake.house/
+  context: {}
+  aliases:
+  - klaystake_house
+- id: redi
+  label: Redi
+  jurisdictions: []
+  categories: []
+  uri: https://redi.io/
+  context: {}
+- id: ebchanwhasystems
+  label: Ebc Hanwha Systems
+  jurisdictions: []
+  categories: []
+  uri: https://www.hanwhasystems.com/en/index.do
+  context: {}
+- id: gardenfinance
+  label: Garden
+  jurisdictions: []
+  categories: []
+  uri: https://garden.finance/
+  context: {}
+  aliases:
+  - garden_finance
+- id: boost
+  label: Boost
+  jurisdictions: []
+  categories: []
+  uri: https://boost.xyz/
+  context:
+    refs:
+    - https://docs.boost.xyz/
+    - https://github.com/rabbitholegg
+    twitter_handle: boostinbox_
+- id: cow
+  aliases:
+  - cowswap
+  - cowprotocol
+  - cowfi
+  - cow_protocol
+  label: CoW Protocol
+  jurisdictions: []
+  categories:
+  - defi_dex
+  uri: https://cow.fi/
+  context:
+    refs:
+    - https://github.com/cowprotocol
+    twitter_handle: cowswap
+- id: moonbeam
+  aliases:
+  - moonriver
+  - moonbase
+  uri: https://moonbeam.foundation
+  label: Moonbeam
+  categories: []
+- id: switchain
+  label: Switchain
+  uri: https://www.switchain.com
+  categories: []
+- id: orionx
+  label: Orionx
+  uri: https://www.orionx.com
+  categories: []
+- id: wealthsimple
+  label: Wealthsimple
+  uri: https://www.wealthsimple.com
+  categories: []
+- id: cobinhood
+  label: Cobinhood
+  uri: https://cobinhood.com
+  categories: []
+- id: coindelta
+  label: Coindelta
+  uri: https://coindelta.com
+  categories: []
+- id: chainx
+  label: ChainX
+  uri: https://chainx.org
+  categories: []
+- id: jpex
+  label: JPEX
+  uri: https://www.jp-ex.io
+  categories: []
+- id: swapblast
+  label: SwapBlast
+  uri: https://swapblast.finance/
+  categories: []
+- id: thruster
+  label: Thruster
+  uri: https://thruster.finance
+  categories: []
+- id: coinspaid
+  label: CoinsPaid
+  uri: https://coinspaid.com
+  categories: []
+- id: digitalsurge
+  aliases:
+  - digital_surge
+  label: Digital Surge
+  uri: https://digitalsurge.com.au
+  categories: []
+- id: etoro
+  label: eToro
+  uri: https://www.etoro.com
+  categories: []
+- id: moonpay
+  label: MoonPay
+  uri: https://www.moonpay.com
+  categories: []
+- id: simplex
+  label: Simplex
+  uri: https://www.simplex.com
+  categories:
+  - payment_processor
+- id: anchoragedigital
+  aliases:
+  - anchorage_digital
+  label: Anchorage Digital
+  uri: https://www.anchorage.com
+  categories: []
+- id: shakepay
+  label: Shakepay
+  uri: https://shakepay.com
+  categories:
+  - payment_processor
+- id: ndax
+  label: NDAX
+  uri: https://ndax.io
+  categories:
+  - exchange
+- id: iconomi
+  label: ICONOMI
+  uri: https://www.iconomi.com
+  categories:
+  - exchange
+- id: abra
+  label: Abra
+  uri: https://www.abra.com
+  categories: []
+- id: coinify
+  label: Coinify
+  uri: https://www.coinify.com
+  categories: []
+- id: matrixport
+  label: Matrixport
+  uri: https://www.matrixport.com
+  categories:
+  - exchange
+- id: bitkan
+  label: BitKan
+  uri: https://bitkan.com
+  categories:
+  - exchange
+- id: paybis
+  label: Paybis
+  uri: https://paybis.com
+  categories:
+  - exchange
+- id: coinswitch
+  label: CoinSwitch
+  uri: https://coinswitch.co
+  categories:
+  - exchange
+- id: bity
+  label: Bity
+  uri: https://bity.com
+  categories:
+  - exchange
+- id: bitcasino
+  label: Bitcasino
+  uri: https://bitcasino.io
+  categories:
+  - gambling
+- id: zerohash
+  aliases:
+  - zero_hash
+  label: Zero Hash
+  uri: https://www.zerohash.com
+  categories: []
+- id: faast
+  label: Faa.st
+  uri: https://faa.st
+  categories: []
+- id: layerzero
+  label: LayerZero
+  uri: https://layerzero.network
+  categories: []
+- id: chainhop
+  label: ChainHop
+  uri: https://app.chainhop.exchange/#/swap
+  categories: []
+- id: mute
+  aliases:
+  - koifinance
+  label: Mute
+  uri: https://mute.io
+  categories: []
+- id: orbiter
+  aliases:
+  - orbiter_finance
+  label: Orbiter Finance
+  uri: https://orbiter.finance
+  categories:
+  - defi_dex
+- id: velocore
+  label: Velocore
+  uri: https://velocore.xyz
+  categories: []
+- id: zkeggex
+  label: zkEggex
+  uri: https://zkeggex.com
+  categories:
+  - exchange
+- id: pandaexchange
+  aliases:
+  - panda_exchange
+  label: Panda Exchange
+  uri: https://www.panda.exchange
+  categories: []
+- id: renrenbit
+  label: RenrenBit
+  uri: https://renrenbit.com/
+  categories: []
+- id: zonda
+  label: Zonda
+  uri: https://zondacrypto.com/en/home
+  categories:
+  - exchange
+- id: wagmi
+  label: Wagmi
+  uri: https://wagmi.com/
+  categories:
+  - defi_dex
+- id: oku
+  label: OKU
+  uri: https://oku.trade
+  categories:
+  - defi_dex
+- id: 1xbet
+  label: 1xBet
+  uri: https://1xbet.com
+  categories:
+  - gambling
+- id: arkham
+  label: Arkham Intelligence
+  uri: https://arkm.com
+  categories:
+  - exchange
+- id: swapbased
+  label: Swapbased
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: swapbased.dummy
+- id: ramses
+  label: Ramses
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: ramses.dummy
+- id: gridex
+  label: Gridex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: gridex.dummy
+- id: peatio
+  label: Peatio
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: peatio.dummy
+- id: wex
+  label: Wex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: wex.dummy
+- id: cambochanger
+  label: Cambochanger
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: cambochanger.dummy
+- id: bitbase
+  label: Bitbase
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: bitbase.dummy
+- id: gbx
+  label: Gbx
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: gbx.dummy
+- id: ezkalibur
+  label: Ezkalibur
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: ezkalibur.dummy
+- id: fluid
+  label: Fluid
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: fluid.dummy
+- id: solidly
+  label: Solidly
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: solidly.dummy
+- id: allbit
+  label: Allbit
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: allbit.dummy
+- id: agni
+  label: Agni
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: agni.dummy
+- id: iziswap
+  label: Iziswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: iziswap.dummy
+- id: dextop
+  label: Dextop
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: dextop.dummy
+- id: coinsph
+  label: Coinsph
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: coinsph.dummy
+- id: flashliquidity
+  label: Flashliquidity
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: flashliquidity.dummy
+- id: sharkyswap
+  label: Sharkyswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: sharkyswap.dummy
+- id: spartadex
+  label: Spartadex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: spartadex.dummy
+- id: citadelswap
+  label: Citadelswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: citadelswap.dummy
+- id: bitebtc
+  label: Bitebtc
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: bitebtc.dummy
+- id: minedtradecom
+  label: Minedtradecom
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: minedtradecom.dummy
+- id: optics
+  label: Optics
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_bridge
+  uri: optics.dummy
+- id: liqui
+  label: Liqui
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: liqui.dummy
+- id: exchangea
+  label: Exchange A
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: exchange_a.dummy
+  aliases:
+  - exchange_a
+- id: fusionx
+  label: Fusionx
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: fusionx.dummy
+- id: atomsolutions
+  label: Atomsolutions
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: atomsolutions.dummy
+- id: auragi
+  label: Auragi
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: auragi.dummy
+- id: torus
+  label: Torus
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: torus.dummy
+- id: gemswap
+  label: Gemswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: gemswap.dummy
+- id: valantis
+  label: Valantis
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: valantis.dummy
+- id: blazeswap
+  label: Blazeswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: blazeswap.dummy
+- id: kodiak
+  label: Kodiak
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: kodiak.dummy
+- id: streamity
+  label: Streamity
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: streamity.dummy
+- id: throneexchange
+  label: Throne Exchange
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: throne_exchange.dummy
+  aliases:
+  - throne_exchange
+- id: sobal
+  label: Sobal
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: sobal.dummy
+- id: celsuis
+  label: Celsuis
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: celsuis.dummy
+- id: tigergaming
+  label: Tigergaming
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: tigergaming.dummy
+- id: glacier
+  label: Glacier
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: glacier.dummy
+- id: fakephishing178858
+  label: Fake_Phishing178858
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - social_engineering
+  uri: fake_phishing178858.dummy
+  aliases:
+  - fake_phishing178858
+- id: ggbtccom
+  label: Ggbtccom
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: ggbtccom.dummy
+- id: punkswap
+  label: Punkswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: punkswap.dummy
+- id: lordtoken
+  label: Lordtoken
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: lordtoken.dummy
+- id: dmex
+  label: Dmex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: dmex.dummy
+- id: ultimatechampions
+  label: Ultimate Champions
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: ultimate_champions.dummy
+  aliases:
+  - ultimate_champions
+- id: b2binpay
+  label: B2Binpay
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: b2binpay.dummy
+- id: chronos
+  label: Chronos
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: chronos.dummy
+- id: velocimeter
+  label: Velocimeter
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: velocimeter.dummy
+- id: joyso
+  label: Joyso
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: joyso.dummy
+- id: smardex
+  label: Smardex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: smardex.dummy
+- id: bep20usdt
+  label: Bep20Usdt
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: bep20usdt.dummy
+- id: norwegianblockexchange
+  label: Norwegian Block Exchange
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: norwegian_block_exchange.dummy
+  aliases:
+  - norwegian_block_exchange
+- id: cossexchange
+  label: Coss Exchange
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: coss_exchange.dummy
+  aliases:
+  - coss_exchange
+- id: youbank
+  label: Youbank
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: youbank.dummy
+- id: bololexcom
+  label: Bololexcom
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: bololexcom.dummy
+- id: bitunio
+  label: Bitunio
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: bitunio.dummy
+- id: eidoo
+  label: Eidoo
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: eidoo.dummy
+- id: bitfextrade
+  label: Bitfextrade
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: bitfextrade.dummy
+- id: beldex
+  label: Beldex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: beldex.dummy
+- id: unichainswap
+  label: Unichainswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: unichainswap.dummy
+- id: indoexltd
+  label: Indoex Ltd
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: indoex_ltd.dummy
+  aliases:
+  - indoex_ltd
+- id: imparedrainer
+  label: Impare Drainer
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - social_engineering
+  uri: impare_drainer.dummy
+  aliases:
+  - impare_drainer
+- id: tbccglobal
+  label: Tbcc Global
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: tbcc_global.dummy
+  aliases:
+  - tbcc_global
+- id: scale
+  label: Scale
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: scale.dummy
+- id: anyfrax
+  label: Anyfrax
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_bridge
+  uri: anyfrax.dummy
+- id: ceffu
+  label: Ceffu
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: ceffu.dummy
+- id: dackieswap
+  label: Dackieswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: dackieswap.dummy
+- id: alphapo
+  label: Alphapo
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: alphapo.dummy
+- id: lifi
+  label: Lifi
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: lifi.dummy
+- id: zebra
+  label: Zebra
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: zebra.dummy
+- id: blasterswap
+  label: Blasterswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: blasterswap.dummy
+- id: plantbaseswap
+  label: Plantbaseswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: plantbaseswap.dummy
+- id: finxflo
+  label: Finxflo
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: finxflo.dummy
+- id: xchange
+  label: Xchange
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: xchange.dummy
+- id: difx
+  label: Difx
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: difx.dummy
+- id: fenix
+  label: Fenix
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: fenix.dummy
+- id: betfury
+  label: Betfury
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: betfury.dummy
+- id: yaka
+  label: Yaka
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: yaka.dummy
+- id: bitcoinmeester
+  label: Bitcoin Meester
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: bitcoin_meester.dummy
+  aliases:
+  - bitcoin_meester
+- id: artisturbaexchange
+  label: Artis Turba Exchange
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: artis_turba_exchange.dummy
+  aliases:
+  - artis_turba_exchange
+- id: carbondefi
+  label: Carbon Defi
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: carbon_defi.dummy
+  aliases:
+  - carbon_defi
+- id: firi
+  label: Firi
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: firi.dummy
+- id: coindhan
+  label: Coindhan
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: coindhan.dummy
+- id: carbonhood
+  label: Carbonhood
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: carbonhood.dummy
+- id: dyorswap
+  label: Dyorswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: dyorswap.dummy
+- id: sorahashi
+  label: Sora Hashi
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_bridge
+  uri: sora_hashi.dummy
+  aliases:
+  - sora_hashi
+- id: echodex
+  label: Echodex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: echodex.dummy
+- id: multibankgroup
+  label: Multibank Group
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: multibank_group.dummy
+  aliases:
+  - multibank_group
+- id: integral
+  label: Integral
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: integral.dummy
+- id: idax
+  label: Idax
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: idax.dummy
+- id: shadow
+  label: Shadow
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: shadow.dummy
+- id: anycoindirect
+  label: Anycoin Direct
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: anycoin_direct.dummy
+  aliases:
+  - anycoin_direct
+- id: syncswap
+  label: Syncswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: syncswap.dummy
+- id: alcumexexchange
+  label: Alcumex Exchange
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: alcumex_exchange.dummy
+  aliases:
+  - alcumex_exchange
+- id: vinex
+  label: Vinex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: vinex.dummy
+- id: maverick
+  label: Maverick
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: maverick.dummy
+- id: tagz
+  label: Tagz
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: tagz.dummy
+- id: exchsc
+  label: Exchsc
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: exchsc.dummy
+- id: beraswap
+  label: Beraswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: beraswap.dummy
+- id: quantaex
+  label: Quantaex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: quantaex.dummy
+- id: calypsoexchange
+  label: Calypso Exchange
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: calypso_exchange.dummy
+  aliases:
+  - calypso_exchange
+- id: yunbi
+  label: Yunbi
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: yunbi.dummy
+- id: bitberry
+  label: Bitberry
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: bitberry.dummy
+- id: enosys
+  label: Enosys
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: enosys.dummy
+- id: xeggex
+  label: Xeggex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: xeggex.dummy
+- id: bnbbridgeexploiter
+  label: Bnb Bridge Exploiter
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - hacking
+  uri: bnb_bridge_exploiter.dummy
+  aliases:
+  - bnb_bridge_exploiter
+- id: yieldyak
+  label: Yield Yak
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: yield_yak.dummy
+  aliases:
+  - yield_yak
+- id: derebit
+  label: Derebit
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: derebit.dummy
+- id: soswap
+  label: Soswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: soswap.dummy
+- id: mbcbit
+  label: Mbcbit
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: mbcbit.dummy
+- id: sterlingfinance
+  label: Sterling Finance
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: sterling_finance.dummy
+  aliases:
+  - sterling_finance
+- id: alienbase
+  label: Alienbase
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: alienbase.dummy
+- id: silverswap
+  label: Silverswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: silverswap.dummy
+- id: akronswap
+  label: Akronswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: akronswap.dummy
+- id: sparrow
+  label: Sparrow
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: sparrow.dummy
+- id: yoobtc
+  label: Yoobtc
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: yoobtc.dummy
+- id: lemoncash
+  label: Lemon Cash
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: lemon_cash.dummy
+  aliases:
+  - lemon_cash
+- id: bebop
+  label: Bebop
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: bebop.dummy
+- id: defiswap
+  label: Defiswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: defiswap.dummy
+- id: nuri
+  label: Nuri
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: nuri.dummy
+- id: venomdrainer
+  label: Venomdrainer
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - social_engineering
+  uri: venomdrainer.dummy
+- id: burrbear
+  label: Burrbear
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: burrbear.dummy
+- id: cryptal
+  label: Cryptal
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: cryptal.dummy
+- id: cashierest
+  label: Cashierest
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: cashierest.dummy
+- id: nexbitpro
+  label: Nexbit Pro
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: nexbit_pro.dummy
+  aliases:
+  - nexbit_pro
+- id: umbrianarnibridge
+  label: Umbria Narni Bridge
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_bridge
+  uri: umbria_narni_bridge.dummy
+  aliases:
+  - umbria_narni_bridge
+- id: bridgers
+  label: Bridgers
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: bridgers.dummy
+- id: xs2exchange
+  label: Xs2Exchange
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: xs2exchange.dummy
+- id: katana
+  label: Katana
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: katana.dummy
+- id: c2cx
+  label: C2Cx
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: c2cx.dummy
+- id: uex
+  label: Uex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: uex.dummy
+- id: infusion
+  label: Infusion
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: infusion.dummy
+- id: pharaoh
+  label: Pharaoh
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: pharaoh.dummy
+- id: levinswap
+  label: Levinswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: levinswap.dummy
+- id: chainup
+  label: Chainup
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: chainup.dummy
+- id: stex
+  label: Stex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: stex.dummy
+- id: openxswap
+  label: Openxswap
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: openxswap.dummy
+- id: tokenmarket
+  label: Tokenmarket
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: tokenmarket.dummy
+- id: flataexchange
+  label: Flata Exchange
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: flata_exchange.dummy
+  aliases:
+  - flata_exchange
+- id: otsea
+  label: Otsea
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: otsea.dummy
+- id: dooar
+  label: Dooar
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: dooar.dummy
+- id: primetrust
+  label: Prime Trust
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: prime_trust.dummy
+  aliases:
+  - prime_trust
+- id: gamdom
+  label: Gamdom
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: gamdom.dummy
+- id: freewallet
+  label: Freewallet
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: freewallet.dummy
+- id: merchantmoe
+  label: Merchant Moe
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: merchant_moe.dummy
+  aliases:
+  - merchant_moe
+- id: bitbee
+  label: Bitbee
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: bitbee.dummy
+- id: pinkdrainer
+  label: Pinkdrainer
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - social_engineering
+  uri: pinkdrainer.dummy
+- id: derpdex
+  label: Derpdex
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: derpdex.dummy
+- id: stablebase
+  label: Stablebase
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: stablebase.dummy
+- id: linea
+  label: Linea
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_bridge
+  uri: linea.dummy
+- id: secta
+  label: Secta
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: secta.dummy
+- id: eigenfx
+  label: Eigen Fx
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - exchange
+  uri: eigen_fx.dummy
+  aliases:
+  - eigen_fx
+- id: mauve
+  label: Mauve
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: mauve.dummy
+- id: autotronic
+  label: Autotronic
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: autotronic.dummy
+- id: vesync
+  label: Vesync
+  context:
+    notes:
+    - This is a dummy datapoint like all .dummy uris
+  categories:
+  - defi_dex
+  uri: vesync.dummy
 - id: ramzinex
   label: Ramzinex
   jurisdictions:

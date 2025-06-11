@@ -46430,3 +46430,12 @@ actors:
     images:
     - icons.llama.fi/zyxswap.png
     twitter_handle: zyx_swap
+- id: ramzinex
+  label: Ramzinex
+  jurisdictions:
+  - IR
+  categories:
+  - exchange
+  uri: ramzinex.com
+  context:
+    twitter_handle: Ramzinex_com

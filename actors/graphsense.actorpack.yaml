@@ -9985,6 +9985,8 @@ actors:
   categories:
   - service
   - defi
+  - exchange
+  - sanction
   jurisdictions:
   - EE
   - RU

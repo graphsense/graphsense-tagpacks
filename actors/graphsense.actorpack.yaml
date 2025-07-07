@@ -51591,3 +51591,10 @@ actors:
   uri: ramzinex.com
   context:
     twitter_handle: Ramzinex_com
+- id: ethervista
+  label: Ethervista
+  categories:
+  - defi_dex
+  uri: www.x.com/ethervista
+  context:
+    twitter_handle: ethervista

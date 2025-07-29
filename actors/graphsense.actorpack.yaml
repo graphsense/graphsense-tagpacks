@@ -11199,6 +11199,7 @@ actors:
   uri: coinpayments.net
   categories:
   - service
+  - payment_processor
   jurisdictions: []
   label: CoinPayments.net
   context:

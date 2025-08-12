@@ -2960,7 +2960,6 @@ tags:
 - label: 0x_EtherToken-v4
   address: '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2'
   category: defi_dex
-  actor: 0x
 - label: 0x_AssetProxyOwner-v4
   address: '0xdffe798c7172dd6deb32baee68af322e8f495ce0'
   category: defi_dex

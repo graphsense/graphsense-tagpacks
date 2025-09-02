@@ -26815,6 +26815,19 @@ actors:
     images:
     - icons.llama.fi/metaversepro.png
     twitter_handle: MetaverseProDAO
+- id: metamask
+  label: MetaMask
+  jurisdictions:
+    - US
+  categories:
+  - organization
+  uri: metamask.io
+  context:
+    refs:
+    - defillama.com/protocol/metamask
+    images:
+    - icons.llama.fi/metamask.png
+    twitter_handle: MetaMask
 - id: meteorapools
   label: Meteora (pools, vaults)
   jurisdictions: []

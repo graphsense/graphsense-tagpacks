@@ -51612,3 +51612,8 @@ actors:
   uri: www.x.com/ethervista
   context:
     twitter_handle: ethervista
+- id: lockbit
+  label: LockBit
+  uri: https://en.wikipedia.org/wiki/LockBit
+  categories:
+  - ransomware

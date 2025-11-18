@@ -707,7 +707,7 @@ actors:
     - icons.llama.fi/abracadabra.svg
     twitter_handle: MIM_Spell
 - id: abraxasmarket
-  uri: abraxasmarket
+  uri: www.walletexplorer.com/wallet/AbraxasMarket
   categories:
   - service
   jurisdictions: []
@@ -1113,7 +1113,7 @@ actors:
     - icons.llama.fi/agora.jpg
     twitter_handle: AgoraDefi
 - id: agoramarket
-  uri: agoramarket
+  uri: www.walletexplorer.com/wallet/AgoraMarket
   categories:
   - service
   jurisdictions: []
@@ -2859,7 +2859,7 @@ actors:
     - icons.llama.fi/asgard-finance.jpg
     twitter_handle: AsgardDAO
 - id: asicminer
-  uri: asicminer
+  uri: www.walletexplorer.com/wallet/ASICMiner
   categories:
   - service
   - mining_service
@@ -7234,7 +7234,7 @@ actors:
     twitter_handle: BKEXGlobal
     active: true
 - id: blackbankmarket
-  uri: blackbankmarket
+  uri: www.walletexplorer.com/wallet/BlackBankMarket
   categories:
   - service
   jurisdictions: []
@@ -7525,7 +7525,7 @@ actors:
     - icons.llama.fi/blueshift.jpg
     twitter_handle: blueshiftfi
 - id: blueskymarketplace
-  uri: blueskymarketplace
+  uri: www.walletexplorer.com/wallet/BlueSkyMarketplace
   categories:
   - service
   jurisdictions: []
@@ -9150,7 +9150,7 @@ actors:
     - icons.llama.fi/candle.png
     twitter_handle: Candle_Labs
 - id: cannabisroadmarket
-  uri: cannabisroadmarket
+  uri: www.walletexplorer.com/wallet/CannabisRoadMarket
   categories:
   - service
   jurisdictions: []
@@ -11479,7 +11479,7 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/CoinURL.com
 - id: coinvault
-  uri: coinvault
+  uri: www.coinvault.io
   categories:
   - service
   jurisdictions: []
@@ -12704,7 +12704,7 @@ actors:
   aliases:
   - crypto_com
 - id: cryptolocker
-  uri: cryptolocker
+  uri: wikipedia.org/wiki/CryptoLocker
   categories:
   - service
   jurisdictions: []
@@ -14831,7 +14831,7 @@ actors:
     - icons.llama.fi/dna-dollar.jpg
     twitter_handle: dna_dollar
 - id: doctordmarket
-  uri: doctordmarket
+  uri: https://www.walletexplorer.com/wallet/DoctorDMarket
   categories:
   - service
   jurisdictions: []
@@ -16625,7 +16625,7 @@ actors:
     - icons.llama.fi/evolutionland.jpg
     twitter_handle: Evolution_Land
 - id: evolutionmarket
-  uri: evolutionmarket
+  uri: wikipedia.org/wiki/Evolution_(marketplace)
   categories:
   - service
   jurisdictions: []
@@ -19037,7 +19037,7 @@ actors:
     - icons.llama.fi/geode.png
     twitter_handle: Geode_Finance
 - id: germanplazamarket
-  uri: germanplazamarket
+  uri: wikipedia.org/wiki/Wall_Street_Market
   categories:
   - service
   jurisdictions: []
@@ -19752,7 +19752,7 @@ actors:
     - assets.coingecko.com/markets/images/889/small/ANnNLN8x_400x400.jpeg?1654575956
     twitter_handle: GREENHOUSEDEX
 - id: greenroadmarket
-  uri: greenroadmarket
+  uri: www.walletexplorer.com/wallet/GreenRoadMarket
   categories:
   - service
   jurisdictions: []
@@ -26992,7 +26992,7 @@ actors:
     - icons.llama.fi/midasdao.jpg
     twitter_handle: Midas_DAO
 - id: middleearthmarketplace
-  uri: middleearthmarketplace
+  uri: www.walletexplorer.com/wallet/MiddleEarthMarketplace
   categories:
   - service
   jurisdictions: []
@@ -29364,7 +29364,7 @@ actors:
     refs:
     - www.theasianbanker.com/publication/virtual-currency-services
 - id: nucleusmarket
-  uri: nucleusmarket
+  uri: www.walletexplorer.com/wallet/NucleusMarket
   categories:
   - service
   jurisdictions: []
@@ -31216,7 +31216,7 @@ actors:
     - icons.llama.fi/pandora.png
     twitter_handle: Pandora_DEX
 - id: pandoraopenmarket
-  uri: pandoraopenmarket
+  uri: www.walletexplorer.com/wallet/PandoraOpenMarket
   categories:
   - service
   jurisdictions: []
@@ -36518,7 +36518,7 @@ actors:
     - icons.llama.fi/sheepdex.jpg
     twitter_handle: SheepDex
 - id: sheepmarketplace
-  uri: sheepmarketplace
+  uri: www.walletexplorer.com/wallet/SheepMarketplace
   categories:
   - service
   jurisdictions: []
@@ -36822,7 +36822,7 @@ actors:
     images:
     - icons.llama.fi/sigmausd.png
 - id: silkroad2market
-  uri: silkroad2market
+  uri: www.walletexplorer.com/wallet/SilkRoad2Market
   categories:
   - service
   jurisdictions: []
@@ -36845,7 +36845,7 @@ actors:
     refs:
     - btc.com/stats/pool/Sigmapool.com
 - id: silkroadmarketplace
-  uri: silkroadmarketplace
+  uri: www.walletexplorer.com/wallet/SilkRoadMarketplace
   categories:
   - service
   jurisdictions: []
@@ -40773,7 +40773,7 @@ actors:
   jurisdictions: []
   categories:
   - defi_dex
-  uri: tfm
+  uri: tfm.com
   context:
     defilama_ids:
     - tfm
@@ -51617,3 +51617,12 @@ actors:
   uri: https://en.wikipedia.org/wiki/LockBit
   categories:
   - ransomware
+- id: osl
+  aliases:
+  - oslcom
+  label: osl.com
+  categories:
+  - exchange
+  jurisdictions:
+  - HK
+  uri: x.com/osldotcom

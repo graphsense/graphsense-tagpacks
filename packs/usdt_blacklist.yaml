@@ -6,6 +6,7 @@ confidence: ledger_immanent
 source: https://ikna.io
 lastmod: 2023-02-22
 currency: ETH
+category: black_list
 tags:
 - address: '0x008fe40574e881e7247b50b991c0cc057d66647f'
   context: '{"transaction": "0x348a042dfedaf64400bf6660fe0ed523b373f172b7914985600d882ac09e0631",

@@ -22,8 +22,8 @@ jobs:
 
       - name: Validate tagpacks
         run: |
-          uvx --python ${{ matrix.python-version }} tagpack-tool tagpack validate packs
+          uvx --python ${{ matrix.python-version }} --from git+https://github.com/graphsense/graphsense-lib@develop[tagpacks] graphsense-cli tagpack-tool tagpack validate packs
 
       - name: Validate Actors
         run: |
-          uvx --python ${{ matrix.python-version }} tagpack-tool actorpack validate actors
+          uvx --python ${{ matrix.python-version }} --from git+https://github.com/graphsense/graphsense-lib@develop[tagpacks] graphsense-cli tagpack-tool actorpack validate actors

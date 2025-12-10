@@ -51635,3 +51635,12 @@ actors:
   uri: rainbet.com
   context:
     twitter_handle: rainbetcom
+- id: shuffle
+  label: Shuffle
+  jurisdictions:
+  - CW
+  categories:
+  - gambling
+  uri: shuffle.com
+  context:
+    twitter_handle: shufflecom

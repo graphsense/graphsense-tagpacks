@@ -51626,3 +51626,12 @@ actors:
   jurisdictions:
   - HK
   uri: x.com/osldotcom
+- id: rainbet
+  label: Rainbet
+  jurisdictions:
+  - CW
+  categories:
+  - gambling
+  uri: rainbet.com
+  context:
+    twitter_handle: rainbetcom

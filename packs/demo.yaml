@@ -11,6 +11,31 @@ actor: internet_archive
 tags:
 - address: 1Archive1n2C579dMsAu3iC6tWzuQJz8dN
   currency: BTC
+  actor: internet_archive
+  category: organization
+  concepts:
+  - entity
+  - organization
+  context:
+    ai_review:
+      tool_version: 0.1.0
+      model: gpt-4o
+      reviewed_at: '2026-02-12T17:20:50.017715'
+      overall_assessment: The tag is accurate and well-sourced, with a clear label and matching actor.
+      needs_human_review: false
+      actor_reasoning:
+        suggested: internet_archive
+        confidence: high
+        reason: The label 'Internet Archive' clearly matches the actor 'internet_archive', and the source URL 
+          (https://archive.org/donate/cryptocurrency) confirms this association. The actor's jurisdiction and categories
+          align with the tag's context.
+      category_reasoning:
+        category: organization
+        concepts:
+        - entity
+        - organization
+        reason: The Internet Archive is a non-profit organization, and the lead category 'organization' is appropriate. 
+          The concepts 'entity' and 'organization' are inherited from the taxonomy hierarchy.
 - address: 1K1rgZ1dz9w7dsR1HGS1drmzfUHMtqx1Tc
   currency: BCH
 - address: '0xFA8E3920daF271daB92Be9B87d9998DDd94FEF08'

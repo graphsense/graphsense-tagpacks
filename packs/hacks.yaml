@@ -10,6 +10,29 @@ tags:
   label: Bitstamp
   source: https://www.reddit.com/r/Bitcoin/comments/2rdvi7/bistamps_cold_storage_address/
   actor: bitstamp
+  concepts:
+  - entity
+  - service
+  context:
+    ai_review:
+      tool_version: 0.1.0
+      model: gpt-4o
+      reviewed_at: '2026-02-12T17:20:52.612031'
+      overall_assessment: The tag is accurate and appropriately attributed to Bitstamp. The category and concepts align 
+        with the actor's role as a cryptocurrency exchange.
+      needs_human_review: false
+      actor_reasoning:
+        suggested: bitstamp
+        confidence: high
+        reason: The label 'Bitstamp' clearly matches the actor 'bitstamp', which is a well-known cryptocurrency 
+          exchange. The source provided also supports this attribution as it references Bitstamp's cold storage address.
+      category_reasoning:
+        category: exchange
+        concepts:
+        - entity
+        - service
+        reason: The tag refers to Bitstamp, which is a centralized cryptocurrency exchange. The lead category 'exchange'
+          is appropriate, and the ancestor concepts 'entity' and 'service' are included as per the hierarchy.
 - address: 3A1KUd5H4hBEHk4bZB4C3hGgvuXuVX7p7t
   category: exchange
   label: Bitstamp
@@ -852,575 +875,690 @@ tags:
 - address: 131oVmmougbyqdzJbBbuH3rZ2H8jnibtew
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 13mZDxXPwNYBJGpL7PKvUGDqYuvSfCSDWZ
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 13SNYvAHPhQRJQ5YAscozFfHpPC8Zv9uhZ
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 13VeCuWGfADhZ6BsT8AEcAHC8XfDUQXJGg
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 15VjS4phKXggkBha4fBuwASXNh3DEhSfX4
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 16aydFi1nxYZ3CJJSxRZyCYdGMSN3Rqgaj
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 16DpJ3yYU9U6ftbx2yVNzVDLjiADkNHKHN
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 16hDAtVwWAgw5mB7VWgw2HjjrVXHnAdLNb
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 16LjNwfewj6hNRiftMRLmhMvoKui4WvTRk
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 16QXvHKmMNLEhxQhZxbvFKTpvdMmG1mXbt
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 16VU8XG3AHcMcnRZuzyL3oayEr8tyrh1er
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 17TDx276QnvgtnnYK13FaBxhyvqzL7R97U
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 17xoqTXiQqDDiHeqmo2SzCrcLEW4owdUMb
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 18QXQMSR9KN6Q7zVzTjyMWFNVLyguqAMRi
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 18uBZFj3kn8sMSo6oXXprVnxzkFhJRXpyu
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 194HyHzPZdsfTMHhHZA18LEbPXqz6rdtxS
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 19h8YyKXrkNmxN5yeiNzrLf3HjC6eSXkPb
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 19j5v1Mj3FZdsCGCXQDoc6FAaJqREp8fn1
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1ANgC9K3BaFaqSftvV1BttNEAYx3wCzJ93
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1Ayy13r2r4yx4xdUWxKi4jiSV38oFrTj2A
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1Bd2AgYQkLWU3h9PiUZU8qQ67B66iSPbtd
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1BezeEEZmUDWP35GtXKPqvC1uHp2rENmTx
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1BMuFEGxNxCsUSwcNsLTnwgTMhzj9G97EX
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1BRqM3xrTbhwSCKKyuMdWYWBG2BMWWDCpj
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1BSkWsx3zRT2Nh4qVLtnsgKayNsSFu5gCP
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1C2cA9VpBi5j9GHV7mtQerbsBmTMTPMzke
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1CoywkKVnwAwJU3Yo33a2sJA4iNCG42dvQ
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1DgP9WKNfuFAzn4NLcueQqxkoNitwyy2B1
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1DHGK3udunLJADv37rSUYSi8qGq2vCcukj
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1Dm5xUUaLj3MMord32nbLEqqXoamcVPnSa
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1E6ss2ujcgieuTauN4NwZ3o1mXesKuDRxC
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1ExDFZJRQRthskuAxhKjffWyqSsRcMbNym
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1FGGLoAohjLgsrU5wtwV3h7QqWfmAPGGRE
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1FQbtziij4j7bt1aANKagtNZf9V2ErcLUQ
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1G1AY74wkwUm2rh5EV2BntpSn867GtpqTg
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1GHvk2145Q9T73bdjGGeCiCdbFe6RTYnbD
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1GkAXNSCzfDxnw93tAqj6i3ofKzCf12zDJ
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1GLsqb6rMERLLeSQibaaCjwmLsiTy5rEqk
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1GwWv6W7yaqPTnnCLaH8aB3bnCjYpLvrgm
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1GxkYqhxV4R6i118T3fbtLt3yEg7AqWmxF
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1H3AL19bUYShrzuRAmjkYGPFqMhAuu2cDq
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1H4pZTm3Kf2moYsEEtZJ9sTfxKPzchq8oj
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1JbaTD7YpLWd3sktDUAEEhTG7yWkPnLMjs
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1JqX7UCZ7BXT91sasnkHnvYz36E4RKCQ5U
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1JZxzRF9TcwPEwsXabfnHs6urkoWLNW4ny
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1KkeRqHSftnDcoHKoZ7aDKcpiVvCSVYCwa
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1KTZGEpfkpuMHsBjV3eK9Cc5gtx8BXtnk
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1KwihZq5PrpSG8hQUjr5XnMNW7kw4xrnJy
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1L14nGZbBdVrmh1barkxnkg3CR9G9msbnb
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1LnNsUycA3iAWhqKj1L3vEH1GV6nJE5NtF
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1LSzUeGejzgfoT2oF4LQ32simvJjoQuA2U
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1MAxnF9SWFjCKDTrMnKhAxMCTPmRStQwpb
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1Mn2idx4ApBMUpqBUfn93581NmMANwkcV7
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1MWzyk74rLJdnDxHA2PAU3yVsqRvdQRrWf
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1Np4JZSyfWJ2AnwhA45V2J3RFsH3S9xBAK
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1NtfZA9xEVghmzZgWSyuBVUfSfBaiRYoV3
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1pM6f66bHpvfCWwMLgrPfW63JyWXJZVyT
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1PU5RKTFCWqT5xQhDkPxr5g56fgMj1gWM7
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1Q7jMKLTAcpfNEWJ8Z4GD9bg8YGMtPVppY
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1QBuBCo2LCrJ1d3zG4mtK485EYjQsf4gAa
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 31oEYybpBgU87xv7kU8pgSHLDkvLDM3xtA
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 31wfy6T29y54QvjXyrmXRG7BXuXrLjmLpS
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 32DZbXx2cBeeeEC4KujjRmmV2wTG1CfLUs
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 34B9vDx9jSrsoYKSSYaLA6fciroDHqcG9n
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 356CyPqPwutSwX8Wc5oBTGAy3thjY1nP7q
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 35BqV8BRzzw1ECHxRrKJ2k2NcbW8ujL5ua
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 35KC4BTntz2rHF4MmiGYEFYHcRSH9vi672
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 35pTdgB4UUCDdw4LCgzcXdAvJVxDRLtut1
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 36KfH6x7GJmawgZoyHogtnW58aPE1tSBJ1
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 37iDJGnikXmnXMHhkSQznfk63uwGpeafRR
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 37RdavSBDBee9wNeUSsPQbvVx2tsieWHtR
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 387L3RdiSK8ux5rNic4neTvTF1NAmEpo85
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 38SKE9TmxYVuZv2kbSoxFwcYdgJvEVgZqZ
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 38vexwwQpdJ7orhadKWT6ZTKYSg7sNXVaV
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3937Q5S4dFpnN6VfeLkyfYmnxsiAiUZBPZ
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 393gdv8vSUBqzKoCnx4iqZBsjgzyQ4dfy2
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 39fPYu6CVjP8BYMpfD86zH6ZHGFPttHAwo
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3A1Md7V4XStZK8uRqnF6C9SJSxELAiAuax
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3AiU6z6kVew8uKoddQJZ7w7fV7ai1aCtyD
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3Ak2Vyy9eEvJmAUktENeVhp6oZkmDPA3UN
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3BKpkuENWmEFsE6tsHwXCD2RMgPKjFmDUj
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3BtF9mgr2iRnrSKFgUHvrDoAoHudejWVrv
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3BxqiQi65kAzqtXNKLZq9eh6YHJXSLNvoB
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3BzsZYXQ8yEdNXD4xEXq2fdCX6dmx4cuNF
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3CUvNo4Tst8xB1foEeu438b9JPvSRmpbGW
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3Dr7qs73iQzFSgnNS5B85mfekGh2xJBKjw
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3EbFTtBuSuUJhZ5YhsRfnXRKsm38H1XaYQ
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3ETiHHYuMLSBbftCXbw1UTmBHwh8ggyXR2
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3FaNiXdeUbgnngvcTXMaHqvJoFCaNCxPPU
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3GL9ctF6r3YdfCUonAsqoLVE5m3sAqe6tE
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3GPi2ZWFtrJjuz8pnVNWxFis6a4LJzLpbL
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3H4vhcm6SKkHnBM833yGE8YnPCsCu5dkMY
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3HsEuSvvNroP39HDT5QtLpNs2KjL3ZFMYo
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3J1MZwMAUBwmAY1UcVARt3x8WvYAf1m8ZV
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3J3V2uHvP2ZhDa9AnKNyJS3qS3Q28UEYQM
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3J4RfQdVinW2QrgLSx8P9Q2Skcz41rVJ4E
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3JaXQLUwHFPEs89dRG8GWqBMXQqQidYEVf
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3JHamN2o7FViXQjNEDhMMoFDqCndhQ6t6W
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3JRsCPCVfkF9HNgjz1Qy7az6fpEkZYbeWD
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3KoW3gShTvXRWZjwNyHhs8FfUgkWWT7vji
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3KYJje7Bkin6wG3MNXtywyYwHLEcpt355k
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3L3m2y5QsMK3sk8N2TTUipLe6jExMGeR3Q
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3LR4XvWPXL954EN84RSNCz7ztEedDw7YYt
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3LybaskwqhYWy2DZYL3TK8i6xQMgfRYk3j
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3LZMQMyuUtD3RGVok4aiGcwxT6wyuukT1o
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3M7GoR67gfjKYtnj5n14ooupnMWT8KuneG
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3Mefi5wzbj6KjQYawmwpuyajo713iFuT3T
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3MovG6357NUfDTZfAX9nkGd9tixMCYu2MP
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3MX45Bej9jRtJgz55dT2qV4p56gfY51kri
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3NPYQdi2tB1eZs2c7vJnwhTy6YWR136XuH
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3PnTWht62c2WEqXkA4QnaaBTbd2Yzpc8VV
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3QpH5iMCz3vvphcKXqbZcNicaCkMwGXiUz
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 3QSkYAMUtrRdRoF8mFeZSWAcYf9PDQnjco
   category: exchange
   label: Zaif
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   actor: zaif
 - address: 1FmwHh6pgkf4meCMoqo8fHH3GNRF571f9w
   label: Zaif hack
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   abuse: service_hack
 - address: 3AQUApGQrgmpkrdWbPJJfJusZQYin5q68Z
   label: Zaif hack
-  source: https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
+  source: 
+    https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-zaif-exchange-hack-a3b4d1faed8f
   abuse: service_hack
 - address: 1EnJHhq8Jq8vDuZA5ahVh6H4t6jh1mB4rq
   label: Nicehash hack

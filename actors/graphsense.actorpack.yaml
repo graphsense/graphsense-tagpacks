@@ -52253,3 +52253,114 @@ actors:
   uri: shuffle.com
   context:
     twitter_handle: shufflecom
+# --- BitcoinTemporalGraph additions (2026-03-23) ---
+- id: directbet
+  label: DirectBet
+  jurisdictions: []
+  categories:
+  - gambling
+  uri: directbet.eu
+- id: cryptowall
+  label: CryptoWall
+  jurisdictions: []
+  categories:
+  - ransomware
+  uri: https://en.wikipedia.org/wiki/CryptoWall
+- id: bitsler
+  label: Bitsler
+  jurisdictions:
+  - CW
+  categories:
+  - gambling
+  uri: www.bitsler.com
+- id: faucethub
+  label: FaucetHUB
+  jurisdictions: []
+  categories:
+  - faucet
+  uri: faucethub.io
+- id: boomchange
+  label: Boomchange
+  jurisdictions: []
+  categories:
+  - exchange
+  uri: boomchange.com
+- id: moneypot
+  label: MoneyPot
+  jurisdictions: []
+  categories:
+  - gambling
+  uri: moneypot.com
+- id: ckpool
+  label: CKPool
+  jurisdictions: []
+  categories:
+  - mining_service
+  uri: solo.ckpool.org
+- id: fairlay
+  label: Fairlay
+  jurisdictions:
+  - CR
+  categories:
+  - gambling
+  uri: fairlay.com
+- id: chipmixer
+  label: ChipMixer
+  jurisdictions:
+  - VN
+  categories:
+  - mixing_service
+  uri: chipmixer.com
+- id: sportsbetio
+  label: Sportsbet.io
+  jurisdictions:
+  - CW
+  categories:
+  - gambling
+  uri: sportsbet.io
+- id: luckygames
+  label: LuckyGames
+  jurisdictions: []
+  categories:
+  - gambling
+  uri: luckygames.io
+- id: whirlwind
+  label: Whirlwind
+  jurisdictions: []
+  categories:
+  - mixing_service
+  uri: whirlwind.cash
+- id: nexybit
+  label: Nexybit
+  jurisdictions:
+  - KR
+  categories:
+  - exchange
+  uri: nexybit.com
+- id: freebitcoin
+  label: FreeBitco.in
+  jurisdictions: []
+  categories:
+  - faucet
+  uri: freebitco.in
+- id: rocketpotio
+  label: Rocketpot.io
+  jurisdictions:
+  - CW
+  categories:
+  - gambling
+  uri: rocketpot.io
+- id: dmalocker
+  label: DMA Locker
+  jurisdictions: []
+  uri: https://malpedia.caad.fkie.fraunhofer.de/details/win.dma_locker
+  categories:
+  - ransomware
+- id: satoshihero
+  label: Satoshi Hero
+  jurisdictions:
+  - CW
+  categories:
+  - faucet
+  - gambling
+  uri: satoshihero.com

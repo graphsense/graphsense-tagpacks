@@ -63,6 +63,9 @@ actors:
     images:
     - icons.llama.fi/0x.png
     twitter_handle: 0xProject
+    aliases:
+    - 0xapi
+    - 0x_api
   aliases:
   - 0xapi
   - 0x_api
@@ -261,6 +264,9 @@ actors:
     - assets.coingecko.com/markets/images/611/small/1inch-liquidity-protocol.png?1608873020
     twitter_handle: 1inchNetwork
     github_organisation: 1inch
+    aliases:
+    - 1inch_lop
+    - 1inchlop
 - id: 1swap
   label: 1Swap
   jurisdictions: []
@@ -542,6 +548,8 @@ actors:
     coingecko_trust_score: 3
     coingecko_trust_score_rank: 736
     coingecko_has_trading_incentive: false
+    aliases:
+    - 9mmv3pulsechain
   aliases:
   - 9mmv3pulsechain
 - id: obyte
@@ -579,6 +587,9 @@ actors:
     - icons.llama.fi/prophet.png
     - icons.llama.fi/counterstake.png
     twitter_handle: ObyteOrg
+    aliases:
+    - counterstake
+    - Obyte
 - id: venomdao
   aliases:
   - Venomdao
@@ -612,6 +623,8 @@ actors:
     - icons.llama.fi/cobraswap.png
     - icons.llama.fi/comfy-money.svg
     twitter_handle: VenomDAO
+    aliases:
+    - Venomdao
 - id: zbg
   aliases:
   - ZBG
@@ -635,6 +648,8 @@ actors:
     notes:
     - coingecko/cer.live says est. in CN
     twitter_handle: ZBG_Exchange
+    aliases:
+    - ZBG
 - id: aada
   label: Aada
   jurisdictions: []
@@ -741,6 +756,8 @@ actors:
     images:
     - assets.coingecko.com/markets/images/172/small/abcc.png?1546228821
     active: true
+    aliases:
+    - abcc_exchange
   aliases:
   - abcc_exchange
 - id: abelfinance
@@ -778,6 +795,8 @@ actors:
     coingecko_has_trading_incentive: false
     year_established: 2025
     description: The liquidity layer of Abstract, built to power seamless swaps, deep incentives, and native DeFi growth.
+    aliases:
+    - aboreanfinancev3
   aliases:
   - aboreanfinancev3
 - id: abracadabra
@@ -911,6 +930,9 @@ actors:
     images:
     - icons.llama.fi/across.png
     twitter_handle: AcrossProtocol
+    aliases:
+    - acrossprotocol
+    - across_protocol
 - id: acryptos
   label: ACryptoS
   jurisdictions: []
@@ -1773,6 +1795,8 @@ actors:
     images:
     - icons.llama.fi/alpaca-finance.jpg
     twitter_handle: AlpacaFinance
+    aliases:
+    - alpaca
 - id: alphabaymarket
   uri: alphabaymarket.org
   categories:
@@ -2138,6 +2162,8 @@ actors:
     images:
     - icons.llama.fi/angle.jpg
     twitter_handle: AngleProtocol
+    aliases:
+    - ageur
   aliases:
   - ageur
 - id: animeswap
@@ -2265,6 +2291,8 @@ actors:
     year_established: 2024
     coingecko_trust_score_rank: 1000
     coingecko_has_trading_incentive: false
+    aliases:
+    - antfarmethereum
   aliases:
   - antfarmethereum
 - id: antimatter
@@ -2285,6 +2313,8 @@ actors:
     images:
     - icons.llama.fi/antimatter.jpg
     twitter_handle: antimatterdefi
+    aliases:
+    - matter
   aliases:
   - matter
 - id: antpoolcom
@@ -2404,6 +2434,8 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 455
     coingecko_has_trading_incentive: false
+    aliases:
+    - apertureswap
   aliases:
   - apertureswap
 - id: apeswap
@@ -2664,6 +2696,8 @@ actors:
     coingecko_trust_score: 1
     coingecko_trust_score_rank: 854
     coingecko_has_trading_incentive: false
+    aliases:
+    - aquaspacev3
   aliases:
   - aquaspacev3
 - id: aqx
@@ -3333,6 +3367,8 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 340
     coingecko_has_trading_incentive: false
+    aliases:
+    - astroport_v2
   aliases:
   - astroport_v2
 - id: astroswap
@@ -3702,6 +3738,8 @@ actors:
     year_established: 2023
     coingecko_trust_score_rank: 951
     coingecko_has_trading_incentive: false
+    aliases:
+    - halo_trade
   aliases:
   - halo_trade
 - id: aurigami
@@ -3839,6 +3877,8 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 549
     coingecko_has_trading_incentive: false
+    aliases:
+    - aux
   aliases:
   - aux
 - id: avalaunch
@@ -4084,6 +4124,9 @@ actors:
     - s2.coinmarketcap.com/static/img/exchanges/64x64/1048.png
     active: true
     start_activity: '2018'
+    aliases:
+    - arzpaya
+    - arzpayacom
 - id: batpool
   label: batpool
   uri: www.batpool.com
@@ -4184,6 +4227,8 @@ actors:
     images:
     - icons.llama.fi/babylon-finance.jpg
     twitter_handle: BabylonFinance
+    aliases:
+    - babylon
 - id: babylonmarket
   uri: drk.lol/Bab
   categories:
@@ -4316,6 +4361,8 @@ actors:
     images:
     - icons.llama.fi/badger-dao.jpg
     twitter_handle: Yield Aggregator
+    aliases:
+    - badgerdao
   aliases:
   - badgerdao
 - id: bagelsfinance
@@ -5204,6 +5251,12 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 353
     coingecko_has_trading_incentive: false
+    aliases:
+    - beethovenx
+    - beethoven_x
+    - beets
+    - beets-sonic
+    - beets-v3-sonic
   aliases:
   - beethovenx
   - beethoven_x
@@ -5379,6 +5432,8 @@ actors:
     - icons.llama.fi/benqi-lending.jpg
     - icons.llama.fi/benqi-staked-avax.png
     twitter_handle: BenqiFinance
+    aliases:
+    - benqifinance
 - id: benswap
   label: BenSwap
   jurisdictions: []
@@ -5463,6 +5518,8 @@ actors:
     - www.betchain.com
     refs:
     - www.walletexplorer.com/wallet/BetChain.com-old
+    aliases:
+    - betchaincom-old
 - id: betcoinag
   uri: betcoin.ag
   categories:
@@ -5700,6 +5757,8 @@ actors:
     coingecko_trust_score_rank: 53
     description: Biconomy.com is a cryptocurrency trading and investment platform where users can easily buy, sell, exchange, and store cryptocurrencies. The platform is intuitive and beginner-friendly, supporting basic crypto transactions, digital wallets, and payments such as SEPA, SWIFT, etc. Established in October 2019, Biconomy.com currently serves over 1 million users and institutions globally, offering access to a wide range of assets and contracts across Spot and crypto derivatives like Futures and Options. The platform also includes features like Demo and Copy Trading, Launchpad projects, Earn and Kickstarter products, an NFT Marketplace, and more.
     coingecko_has_trading_incentive: false
+    aliases:
+    - biconomyexchange
 - id: bidesk
   label: Bidesk
   jurisdictions:
@@ -5755,6 +5814,8 @@ actors:
     - icons.llama.fi/bifrost-liquid-crowdloan.jpg
     - icons.llama.fi/bifrost-staking.png
     twitter_handle: bifrost_finance
+    aliases:
+    - bifrost
   aliases:
   - bifrost
 - id: bifrostswap
@@ -5959,6 +6020,9 @@ actors:
     coingecko_trust_score_rank: 1
     description: One of the world’s largest cryptocurrency exchanges by trading volume, offering a wide range of services including spot, futures, and staking options.
     coingecko_has_trading_incentive: false
+    aliases:
+    - binanceus
+    - binance_us
   aliases:
   - binanceus
   - binance_us
@@ -6013,6 +6077,8 @@ actors:
     coingecko_trust_score_rank: 12
     description: "Founded in 2018, BingX is a leading crypto exchange, serving over 10 million users worldwide. BingX offers diversified products and services, including spot, derivatives, copy trading, and asset management – all designed for the evolving needs of users, from beginners to professionals. \n\nBingX is committed to providing a trustworthy platform that empowers users with innovative tools and features to elevate their trading proficiency. In 2024, BingX proudly became Chelsea FC's principal partner, marking an exciting debut in the world of sports."
     coingecko_has_trading_incentive: false
+    aliases:
+    - bingx
 - id: bione
   label: BiONE
   jurisdictions:
@@ -6056,6 +6122,8 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/Birwo.com-old
     active: false
+    aliases:
+    - birwocom-old
 - id: bishares
   label: BiShares
   jurisdictions: []
@@ -6520,6 +6588,8 @@ actors:
     refs:
     - www.theasianbanker.com/publication/virtual-currency-services
     active: false
+    aliases:
+    - bitcoin-bourse
 - id: bitcoinroulettecom
   aliases:
   - bitcoin-roulettecom
@@ -6532,6 +6602,8 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/Bitcoin-Roulette.com
     active: false
+    aliases:
+    - bitcoin-roulettecom
 - id: bitcoin24
   label: Bitcoin-24
   jurisdictions:
@@ -7151,6 +7223,8 @@ actors:
     coingecko_trust_score_rank: 6
     description: Established in 2018, Bitget is the world's leading cryptocurrency exchange and Web3 company. Serving over 100 million users in 150+ countries and regions, the Bitget exchange is committed to helping users trade smarter with its pioneering copy trading feature and other trading solutions, while offering real-time access to Bitcoin price, Ethereum price, and other cryptocurrency prices. Formerly known as BitKeep, Bitget Wallet is a world-class multi-chain crypto wallet that offers an array of comprehensive Web3 solutions and features including wallet functionality, token swap, NFT Marketplace, DApp browser, and more. Bitget is at the forefront of driving crypto adoption through strategic partnerships, such as its role as the Official Crypto Partner of the World's Top Football League, LALIGA, in EASTERN, SEA and LATAM market, as well as a global partner of Turkish National athletes Buse Tosun Çavuşoğlu (Wrestling world champion), Samet Gümüş (Boxing gold medalist) and İlkin Aydın (Volleyball national team), to inspire the global community to embrace the future of cryptocurrency.
     coingecko_has_trading_incentive: false
+    aliases:
+    - bitkeep
 - id: bitgoinc
   label: BitGo
   jurisdictions:
@@ -7446,6 +7520,8 @@ actors:
     coingecko_trust_score_rank: 24
     description: "AscendEX (formerly BitMax) is a leading global digital asset financial platform founded by a group of Wall Street quantitative trading veterans in 2018, building on core value of “Efficiency, Resilience and Transparency.” \n \nDriven by its continuous innovative product development and early-mover advantage in strategic alignment with the leading projects from DeFi ecosystem, AscendEX offers trading services across over 200 trading pairs across cash, margin, and futures products, in particular margin trading of over 50 tokens in cross-asset collateral mode and futures trading in both cross-asset and isolated margin modes."
     coingecko_has_trading_incentive: false
+    aliases:
+    - ascendex
   aliases:
   - ascendex
 - id: bitmake
@@ -7650,6 +7726,8 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/BitPay.com
+    aliases:
+    - bitpay
 - id: bitpif
   label: BITPIF
   jurisdictions: []
@@ -7708,6 +7786,13 @@ actors:
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 95
     coingecko_has_trading_incentive: false
+- id: bitsler
+  label: Bitsler
+  jurisdictions:
+  - CW
+  categories:
+  - gambling
+  uri: www.bitsler.com
 - id: bitsmedia
   label: Bits.media
   uri: bits.media
@@ -8146,6 +8231,8 @@ actors:
     end_activity: '2021'
     start_activity: '2016'
     twitter_handle: BitZ_Group
+    aliases:
+    - bitz
   aliases:
   - bitz
 - id: bitznetwork
@@ -8284,6 +8371,8 @@ actors:
     coingecko_trust_score_rank: 363
     description: 'Blackhole is a next-generation decentralized exchange (DEX) built on the Avalanche C-Chain, optimized for deep liquidity, sustainable emissions, and long-term incentive alignment across the DeFi ecosystem. At its core, Blackhole leverages an enhanced ve(3,3) tokenomics model, combining dynamic governance, emissions-based rewards, and advanced automated market maker (AMM) infrastructure to deliver capital-efficient liquidity solutions. The native token of the protocol, $BLACK, is used for: Emission rewards to liquidity providers   Locking into veNFTs to gain governance rights and rewards   Staking to earn protocol revenue and bribes   Perma-locking to mint special Supermassive veNFTs with non-decaying power   Blackhole’s unique two-tier governance system revolves around veBLACK vote-escrowed NFTs minted by locking $BLACK tokens. Users can choose between two types: Singularity veNFT: Users lock $BLACK for up to 4 years to earn veBLACK, gaining proportional voting power and protocol revenue.   Supermassive veNFT: Created by permanently burning $BLACK tokens. These NFTs receive enhanced rewards, non-decaying voting power, and a 10% rebase bonus. All team tokens are burned into Supermassive veNFTs, eliminating future sell pressure.   How Does Blackhole Work? Blackhole’s incentive engine operates in epochs. Each week, veNFT holders vote on “gauges” that determine which liquidity pools receive $BLACK emissions. In return, voters earn: A share of trading fees from voted pools   100% of bribes and partner incentives from those pools   Rebase rewards based on emission dynamics   The protocol features variable AMMs for volatile assets, stable AMMs for correlated pairs like stablecoins, and concentrated liquidity pools for precision market-making. LPs can earn higher fees by focusing capital around price ranges and staking to access emissions. New projects can launch liquidity via Genesis Pools, a capital-efficient bootstrapping system with fixed price contributions and auto-staking. Genesis participants earn LP tokens and start receiving emissions from epoch one. What Makes Blackhole Unique? Dual veNFT system: Long-term governance through both flexible and permanent locks   Dynamic emissions model: Four emission phases—early growth, inflation control, and a governance-driven terminal phase called “Hawking Radiation”   Protocol alignment: All team tokens permanently burned into Supermassive veNFTs   Revenue streams: Voters earn from trading fees, bribes, and rebases   Advanced AMM design: Modular, concentrated liquidity architecture powered by Algebra Integral. Projects can bootstrap deep liquidity via our innovative Genesis Pools, a capital efficient and incentive aligned tool for pre-TGE liquidity seeding.'
     coingecko_has_trading_incentive: false
+    aliases:
+    - blackholev3
   aliases:
   - blackholev3
 - id: blackpool
@@ -8448,6 +8537,8 @@ actors:
     - assets.coingecko.com/markets/images/613/small/unnamedddd.png?1610503741
     legal_name: Blockchain Luxembourg S.A.
     active: true
+    aliases:
+    - blockchaincom
 - id: blockng
   label: BlockNG
   jurisdictions: []
@@ -8506,6 +8597,8 @@ actors:
     coingecko_trust_score_rank: 61
     description: BloFin offers a diverse range of trading options, including futures and spot trading. Known for its robust security measures and user-friendly interface, BloFin caters to both novice and experienced traders, emphasizing transparency and fund safety.
     coingecko_has_trading_incentive: false
+    aliases:
+    - blofinexchange
 - id: blossom
   label: Blossom
   jurisdictions:
@@ -8689,6 +8782,8 @@ actors:
   context:
     defilama_ids:
     - bobagateway
+    aliases:
+    - boba
   aliases:
   - boba
 - id: bodhfinance
@@ -8834,6 +8929,12 @@ actors:
     images:
     - icons.llama.fi/boofinance.svg
     twitter_handle: Boo_Finance
+- id: boomchange
+  label: Boomchange
+  jurisdictions: []
+  categories:
+  - exchange
+  uri: boomchange.com
 - id: boredcandycity
   label: Bored Candy City
   jurisdictions: []
@@ -9295,6 +9396,8 @@ actors:
     coingecko_trust_score_rank: 584
     description: "ALP.COM is a globally licensed cryptocurrency exchange, originally launched in November 2016. The platform operates under European (Polish) and El Salvador licenses, providing secure and compliant services for trading, purchasing, and managing digital assets. ALP.COM serves users across more than 100 countries, with a strong presence in the CIS region, European Union, and key Asian markets. Our mission is to make crypto trading secure, accessible, and intuitive for users worldwide.\n\nFrom its early years, ALP.COM established deep roots in the CIS market, was frequently mentioned in top finance and fintech media such as Forklog, and actively participated in major cryptocurrency conferences including “The Capital 2019” in Singapore, “Cryptofin” in Estonia, “Money of the Future” in Ukraine, and “Blockchain Economy 2020” in Turkey.\n\nALP.COM is open to collaborations with crypto projects and listing of promising coins. The platform provides a secure API and 24/7 multilingual technical support. Users can trade, store, and transfer cryptocurrency seamlessly via ALP.COM’s iOS and Android mobile apps, ensuring access to full trading functionality anytime, anywhere."
     coingecko_has_trading_incentive: false
+    aliases:
+    - btcalpha_exchange
   aliases:
   - btcalpha_exchange
 - id: btcbox
@@ -9483,6 +9586,8 @@ actors:
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 154
     coingecko_has_trading_incentive: false
+    aliases:
+    - btc_markets
   aliases:
   - btc_markets
 - id: btcoraclecom
@@ -9548,6 +9653,8 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/Btcst.com-pirateat40
     active: false
+    aliases:
+    - btcstcom-pirateat40
 - id: btctcom
   uri: btct.com
   categories:
@@ -9620,6 +9727,8 @@ actors:
     year_established: 2013
     coingecko_trust_score_rank: 858
     coingecko_has_trading_incentive: false
+    aliases:
+    - btcturk
   aliases:
   - btcturk
 - id: bter
@@ -9862,6 +9971,8 @@ actors:
     coingecko_trust_score: 9
     coingecko_trust_score_rank: 11
     coingecko_has_trading_incentive: false
+    aliases:
+    - bullish
 - id: bumperfinance
   label: Bumper Finance
   jurisdictions: []
@@ -10111,6 +10222,8 @@ actors:
     - assets.coingecko.com/markets/images/326/small/bw.com.jpg?1548664400
     active: true
     twitter_handle: BWOfficial2
+    aliases:
+    - bwcom
   aliases:
   - bwcom
 - id: bwatch
@@ -10197,6 +10310,8 @@ actors:
     coingecko_trust_score_rank: 2
     description: Bybit is the world’s second-largest cryptocurrency exchange by trading volume, serving a global community of over 60 million users. Founded in 2018, Bybit is redefining openness in the decentralized world by creating a simpler, open and equal ecosystem for everyone. With a strong focus on Web3, Bybit partners strategically with leading blockchain protocols to provide robust infrastructure and drive on-chain innovation. Renowned for its secure custody, diverse marketplaces, intuitive user experience, and advanced blockchain tools, Bybit bridges the gap between TradFi and DeFi, empowering builders, creators, and enthusiasts to unlock the full potential of Web3. Discover the future of decentralized finance at Bybit.com.
     coingecko_has_trading_incentive: false
+    aliases:
+    - bybit-eu
   aliases:
   - bybit-eu
 - id: bydfi
@@ -10453,6 +10568,13 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 467
     coingecko_has_trading_incentive: false
+    aliases:
+    - camelot-v3
+    - camelot-v3-superposition
+    - camelot-v3-gravity
+    - camelot-v2-apechain
+    - camelot-v3-corn
+    - camelot-v2-superposition
   aliases:
   - camelot-v3
   - camelot-v3-superposition
@@ -10826,6 +10948,8 @@ actors:
     coingecko_trust_score_rank: 589
     description: "Established in August 2018, Catex is a centralized cryptocurrency exchange. It has global communities in Brazil, Vietnam, South Korea, Bangladesh, Russia, Turkey, Middle East, India, Indonesia, and the United States.\n\nPlatform has staking, farming and multiple faucets.\n\nThe exchange claims to have SNA and microservice-based distributed architecture to support horizontal scaling."
     coingecko_has_trading_incentive: false
+    aliases:
+    - catex_exchange
 - id: catsluck
   label: CatsLuck
   jurisdictions: []
@@ -10949,6 +11073,9 @@ actors:
     images:
     - icons.llama.fi/cbridge.jpg
     twitter_handle: CelerNetwork
+    aliases:
+    - celernetwork
+    - celer_network
   aliases:
   - celernetwork
   - celer_network
@@ -11143,6 +11270,8 @@ actors:
     coingecko_trust_score_rank: 42
     description: CEX.IO is a global cryptocurrency platform serving more than 15 million users. Its services include spot trading, anything-to-anything swaps, staking, savings, and crypto card payments. The platform operates within multiple regulatory frameworks and positions itself with an emphasis on compliance, security practices, and deep liquidity.
     coingecko_has_trading_incentive: false
+    aliases:
+    - cexio
   aliases:
   - cexio
 - id: chadfinance
@@ -11627,6 +11756,13 @@ actors:
     images:
     - icons.llama.fi/chintai.png
     twitter_handle: ChintaiNetwork
+- id: chipmixer
+  label: ChipMixer
+  jurisdictions:
+  - VN
+  categories:
+  - mixing_service
+  uri: chipmixer.com
 - id: chocodoge
   label: Chocodoge
   jurisdictions: []
@@ -11760,6 +11896,12 @@ actors:
     - icons.llama.fi/civfund.png
     - icons.llama.fi/dotoracle.jpg
     twitter_handle: CivFund,DoTOracle
+- id: ckpool
+  label: CKPool
+  jurisdictions: []
+  categories:
+  - mining_service
+  uri: solo.ckpool.org
 - id: claimswap
   label: ClaimSwap
   jurisdictions: []
@@ -11831,6 +11973,8 @@ actors:
     images:
     - icons.llama.fi/clearpool.png
     twitter_handle: ClearpoolFin
+    aliases:
+    - cpooltoken
   aliases:
   - cpooltoken
 - id: cleopatradao
@@ -11991,6 +12135,8 @@ actors:
     active: false
     start_activity: '2013'
     end_activity: '2015'
+    aliases:
+    - coinexchange
   aliases:
   - coinexchange
 - id: coinswapnet
@@ -12005,6 +12151,8 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/Coin-Swap.net
     active: false
+    aliases:
+    - coin-swapnet
 - id: coinsweepercom
   aliases:
   - coin-sweepercom
@@ -12017,6 +12165,8 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/Coin-Sweeper.com
     active: false
+    aliases:
+    - coin-sweepercom
 - id: coinapultcom
   uri: coinapult.com
   categories:
@@ -12082,6 +12232,11 @@ actors:
     coingecko_trust_score_rank: 3
     description: A leading U.S.-based exchange known for its regulatory compliance, user-friendly interface, and support for fiat-to-crypto transactions.
     coingecko_has_trading_incentive: false
+    aliases:
+    - baseusdc
+    - coinbase_prime
+    - coinbaseprime
+    - coinbase_international
   aliases:
   - baseusdc
   - coinbase_prime
@@ -12546,6 +12701,8 @@ actors:
     - assets.coingecko.com/markets/images/587/small/CoinList.png?1601540662
     legal_name: CoinList Capital LLC
     active: true
+    aliases:
+    - coinlist
   aliases:
   - coinlist
 - id: coinmama
@@ -13511,6 +13668,8 @@ actors:
     coingecko_trust_score: 3
     coingecko_trust_score_rank: 744
     coingecko_has_trading_incentive: false
+    aliases:
+    - convergence-finance-v2
   aliases:
   - convergence-finance-v2
 - id: convex
@@ -13730,6 +13889,8 @@ actors:
     images:
     - icons.llama.fi/cozy-finance.png
     twitter_handle: cozyfinance
+    aliases:
+    - cozy
 - id: cpatex
   label: C-Patex
   jurisdictions:
@@ -13820,6 +13981,8 @@ actors:
     - icons.llama.fi/cream-finance.png
     - icons.llama.fi/creamswap.jpg
     twitter_handle: CreamdotFinance
+    aliases:
+    - cream
 - id: creditum
   label: Creditum
   jurisdictions: []
@@ -14256,6 +14419,8 @@ actors:
     images:
     - icons.llama.fi/cryptex-finance.jpg
     twitter_handle: CryptexFinance
+    aliases:
+    - cryptex
 - id: cryptexlocker
   label: CryptEx Locker
   jurisdictions: []
@@ -14285,6 +14450,8 @@ actors:
     - crypto.games
     refs:
     - www.walletexplorer.com/wallet/Crypto-Games.net
+    aliases:
+    - crypto-gamesnet
 - id: cryptotradecom
   aliases:
   - crypto-tradecom
@@ -14300,6 +14467,8 @@ actors:
     - www.walletexplorer.com/wallet/Crypto-Trade.com
     - www.theasianbanker.com/publication/virtual-currency-services
     active: false
+    aliases:
+    - crypto-tradecom
 - id: cryptoblades
   label: CryptoBlades
   jurisdictions: []
@@ -14371,6 +14540,8 @@ actors:
     coingecko_trust_score_rank: 29
     description: Crypto.com Exchange is the best place to trade crypto, with deep liquidity, low fees and best execution prices, users can trade major cryptocurrencies like Bitcoin, Ethereum, and many more and receive great CRO-powered rewards
     coingecko_has_trading_incentive: false
+    aliases:
+    - crypto_com
   aliases:
   - crypto_com
 - id: cryptolocker
@@ -14461,6 +14632,8 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/Cryptonator.com
+    aliases:
+    - cryptonator
   aliases:
   - cryptonator
 - id: cryptonex
@@ -14577,6 +14750,12 @@ actors:
     notes:
     - www.facebook.com/CryptoTradeExchange/
     active: true
+- id: cryptowall
+  label: CryptoWall
+  jurisdictions: []
+  categories:
+  - ransomware
+  uri: https://en.wikipedia.org/wiki/CryptoWall
 - id: cryptox
   label: Cryptox
   jurisdictions:
@@ -14876,6 +15055,23 @@ actors:
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 202
     coingecko_has_trading_incentive: false
+    aliases:
+    - wasabi
+    - curvellamalend
+    - curve-monad
+    - curve-base
+    - curve-plasma
+    - curve-gnosis
+    - curve-fraxtal
+    - curve-tac
+    - curve-plume
+    - curve-etherlink
+    - curve-xdc
+    - curve-hyperevm
+    - curve-sonic
+    - curve-bsc
+    - curve-taiko
+    - curve-celo
   aliases:
   - wasabi
   - curvellamalend
@@ -15388,6 +15584,8 @@ actors:
     images:
     - icons.llama.fi/debridge.png
     twitter_handle: deBridgeFinance
+    aliases:
+    - debridgegate
 - id: decoin
   label: Decoin
   jurisdictions:
@@ -15718,6 +15916,10 @@ actors:
     coingecko_trust_score_rank: 427
     description: "Defi Kingdoms (Crystalvale) is Defi Kingdoms' expansion to its own subnet Defi Kingdoms Blockchain (DFK chain). \n\nCRYSTAL acts as the main token of value in Crystalvale, giving it utility above and beyond that of a regular coin. It can be spent to purchase and mint Hero NFTs, swapped on the in-game DEX, staked for fee sharing, pooled for liquidity, and applied to applicable governance votes. \n\nDeFi Kingdoms Blockchain is an EVM-compatible blockchain that will be validated by our subnet and uses the proof of authority/proof of stake consensus algorithms developed by Ava Labs. \n\nJEWEL is used for gas fees on the DFK Chain, where the gameplay transactions for Crystalvale take place."
     coingecko_has_trading_incentive: false
+    aliases:
+    - defikingdom
+    - defikingdoms
+    - defi_kingdoms
   aliases:
   - defikingdom
   - defikingdoms
@@ -16020,6 +16222,8 @@ actors:
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 213
     coingecko_has_trading_incentive: false
+    aliases:
+    - delta_exchange
   aliases:
   - delta_exchange
 - id: deltafinancial
@@ -16075,6 +16279,8 @@ actors:
     coingecko_trust_score_rank: 446
     description: DeltaSwap is the native AMM for GammaSwap perpetual options
     coingecko_has_trading_incentive: false
+    aliases:
+    - deltaswapbase
   aliases:
   - deltaswapbase
 - id: deltatheta
@@ -16516,6 +16722,8 @@ actors:
     images:
     - icons.llama.fi/dfx-finance.jpg
     twitter_handle: DFXFinance
+    aliases:
+    - dfx
   aliases:
   - dfx
 - id: dfynnetwork
@@ -16546,6 +16754,8 @@ actors:
     coingecko_trust_score: 3
     coingecko_trust_score_rank: 753
     coingecko_has_trading_incentive: false
+    aliases:
+    - dfyn
   aliases:
   - dfyn
 - id: dgex
@@ -16816,6 +17026,12 @@ actors:
     images:
     - icons.llama.fi/dios-finance.svg
     twitter_handle: DiosFinance
+- id: directbet
+  label: DirectBet
+  jurisdictions: []
+  categories:
+  - gambling
+  uri: directbet.eu
 - id: dispensertf
   uri: dispenser.tf
   categories:
@@ -16869,6 +17085,12 @@ actors:
     images:
     - icons.llama.fi/djed-stablecoin.jpg
     twitter_handle: DjedStablecoin
+- id: dmalocker
+  label: DMA Locker
+  jurisdictions: []
+  uri: https://malpedia.caad.fkie.fraunhofer.de/details/win.dma_locker
+  categories:
+  - ransomware
 - id: dmdfinance
   label: DMD Finance / DolphinSwap
   jurisdictions: []
@@ -16975,6 +17197,9 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 234
     coingecko_has_trading_incentive: false
+    aliases:
+    - dodoex
+    - dodo_x
   aliases:
   - dodoex
   - dodo_x
@@ -17409,6 +17634,8 @@ actors:
     images:
     - icons.llama.fi/dracula.png
     twitter_handle: DraculaProtocol
+    aliases:
+    - dracula_finance
   aliases:
   - dracula_finance
 - id: draculafinance
@@ -17811,6 +18038,8 @@ actors:
     coingecko_has_trading_incentive: false
     uris:
     - app.ebisusbay.com
+    aliases:
+    - ebisusbaycronoszkevm
   aliases:
   - ebisusbaycronoszkevm
 - id: echidnafinance
@@ -17922,6 +18151,9 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 269
     coingecko_has_trading_incentive: false
+    aliases:
+    - ekubov2ethereum
+    - ekubov3ethereum
   aliases:
   - ekubov2ethereum
   - ekubov3ethereum
@@ -17968,6 +18200,8 @@ actors:
     images:
     - icons.llama.fi/eklipse-finance.png
     twitter_handle: eklipseFinance
+    aliases:
+    - eklipse_finance
   aliases:
   - eklipse_finance
 - id: elasticswap
@@ -18150,6 +18384,9 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 540
     coingecko_has_trading_incentive: false
+    aliases:
+    - elkfinance
+    - elk_finance
 - id: ellipsisfinance
   label: Ellipsis Finance
   jurisdictions: []
@@ -18170,6 +18407,8 @@ actors:
     - icons.llama.fi/ellipsis-finance.jpg
     - assets.coingecko.com/markets/images/1043/small/ellipsis.jpeg?1675317061
     twitter_handle: Ellipsisfi
+    aliases:
+    - ellipsis_finance
   aliases:
   - ellipsis_finance
 - id: elonswap
@@ -18454,6 +18693,8 @@ actors:
     coingecko_has_trading_incentive: false
     uris:
     - v3.dex.enosys.global
+    aliases:
+    - enosysv3flare
   aliases:
   - enosysv3flare
 - id: ens
@@ -18472,6 +18713,8 @@ actors:
     images:
     - icons.llama.fi/ens.jpg
     twitter_handle: ensdomains
+    aliases:
+    - ethereumnameservice
   aliases:
   - ethereumnameservice
 - id: ensofinance
@@ -18644,6 +18887,10 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 453
     coingecko_has_trading_incentive: false
+    aliases:
+    - equalizerexchange
+    - equalizer_exchange
+    - equalizer-base
 - id: equilibrium
   label: Equilibrium
   jurisdictions: []
@@ -18833,6 +19080,8 @@ actors:
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 180
     coingecko_has_trading_incentive: false
+    aliases:
+    - etherexlegacy
   aliases:
   - etherexlegacy
 - id: ethernity
@@ -19423,6 +19672,13 @@ actors:
     images:
     - icons.llama.fi/fairfi.jpg
     twitter_handle: FairFi_
+- id: fairlay
+  label: Fairlay
+  jurisdictions:
+  - CR
+  categories:
+  - gambling
+  uri: fairlay.com
 - id: fairproofcom
   uri: fairproof.com
   categories:
@@ -19653,6 +19909,12 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/FaucetBOX.com
+- id: faucethub
+  label: FaucetHUB
+  jurisdictions: []
+  categories:
+  - faucet
+  uri: faucethub.io
 - id: fcoin
   uri: www.fcoin.com
   categories:
@@ -19959,6 +20221,8 @@ actors:
     - icons.llama.fi/firebird.jpg
     - assets.coingecko.com/markets/images/730/small/firebird-finance.png?1636117048
     twitter_handle: FinanceFirebird
+    aliases:
+    - firebird_finance
   aliases:
   - firebird_finance
 - id: firedao
@@ -20209,6 +20473,8 @@ actors:
     images:
     - icons.llama.fi/floor-dao.jpg
     twitter_handle: FloorDAO
+    aliases:
+    - floor
   aliases:
   - floor
 - id: flowswap
@@ -20249,6 +20515,8 @@ actors:
     coingecko_has_trading_incentive: false
     year_established: 2022
     description: The Ecosystem-focused DEX built on the Sui Blockchain
+    aliases:
+    - flowxfinance
   aliases:
   - flowxfinance
 - id: flr
@@ -20443,6 +20711,8 @@ actors:
     active: true
     start_activity: '2019'
     twitter_handle: Folgory1
+    aliases:
+    - folgory_exchange
   aliases:
   - folgory_exchange
 - id: foodcourt
@@ -20778,6 +21048,9 @@ actors:
     coingecko_trust_score_rank: 311
     description: Fraxswap is the first constant product automated market maker with an embedded time-weighted average market maker (TWAMM) for conducting large trades over long periods of time trustlessly. It is fully permissionless and the core AMM is based on Uniswap V2. This new AMM helps traders execute large orders efficiently and will be heavily used by the Frax Protocol to increase the stability of the pegs for the FRAX &amp; FPI stablecoins as well as return protocol excess profits to FXS holders through TWAMM purchases.
     coingecko_has_trading_incentive: false
+    aliases:
+    - frax
+    - fraxswap
 - id: freebielifefinance
   label: Freebie Life Finance
   jurisdictions: []
@@ -20794,6 +21067,12 @@ actors:
     images:
     - icons.llama.fi/freebie-life-finance.png
     twitter_handle: freebielifeme
+- id: freebitcoin
+  label: FreeBitco.in
+  jurisdictions: []
+  categories:
+  - faucet
+  uri: freebitco.in
 - id: freeliquid
   label: FreeLiquid
   jurisdictions: []
@@ -20909,6 +21188,8 @@ actors:
     images:
     - icons.llama.fi/fringe.png
     twitter_handle: fringefinance
+    aliases:
+    - fringefinance
 - id: frognationfarm
   label: Frog Nation Farm
   jurisdictions: []
@@ -21042,6 +21323,8 @@ actors:
     active: false
     start_activity: '2019'
     twitter_handle: FTX_Official,ftx_us
+    aliases:
+    - ftx_us
 - id: fubt
   label: FUBT
   jurisdictions:
@@ -21297,6 +21580,8 @@ actors:
     images:
     - icons.llama.fi/gains-network.png
     twitter_handle: GainsNetwork_io
+    aliases:
+    - gains_network
   aliases:
   - gains_network
 - id: gajfinance
@@ -21544,6 +21829,10 @@ actors:
     coingecko_trust_score_rank: 5
     description: Gate was established in 2013 and provides digital asset trading and related blockchain services to users globally. The platform reports serving more than 51 million users and supports spot, futures, and margin trading, as well as wealth management products for over 4,500 cryptocurrencies. Gate states that it uses zero-knowledge technology to provide verifiable proof of reserves. According to the company, as of January 6, 2026, its reported total reserves were valued at approximately USD 9.478 billion, with a reserve ratio between 124% and 125%, covering nearly 500 types of user assets. Various Gate entities have obtained regulatory registrations, licenses, authorizations, or approvals in multiple jurisdictions, including Malta, Italy, Gibraltar, the Bahamas, Hong Kong, Japan, and the United Arab Emirates. In 2024, Gate Group completed the acquisition of a Japan-licensed exchange. In April 2025, Gate Technology FZE obtained a full operational license from Dubai’s Virtual Assets Regulatory Authority (VARA). In October 2025, Gate Technology Ltd. received authorization under the EU’s Markets in Crypto-Assets (MiCA) framework from the Malta Financial Services Authority (MFSA). In February 2026, Gate's Malta-based entity, Gate Technology Ltd, officially obtained a Payment Institution license under the EU's Second Payment Services Directive (PSD2) from the Malta Financial Services Authority (MFSA).
     coingecko_has_trading_incentive: false
+    aliases:
+    - gateio
+    - gate_io
+    - gate_us
 - id: gatecoin
   label: Gatecoin
   jurisdictions:
@@ -21691,6 +21980,8 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/Genesis-Mining.com
+    aliases:
+    - genesis-miningcom
 - id: genesisfinance
   label: Genesis Finance
   jurisdictions: []
@@ -21705,6 +21996,8 @@ actors:
     images:
     - icons.llama.fi/genesis-finance.png
     twitter_handle: cronos_genesis
+    aliases:
+    - genesis
   aliases:
   - genesis
 - id: genesys
@@ -22151,6 +22444,9 @@ actors:
     - icons.llama.fi/gnosis-dao.jpg
     - icons.llama.fi/gnosis-protocol-v1.png
     twitter_handle: GnosisDAO,gnosisPM
+    aliases:
+    - gnosissafe
+    - gnosis_safe
 - id: goatswap
   label: Goat Swap
   jurisdictions: []
@@ -22237,6 +22533,8 @@ actors:
     images:
     - icons.llama.fi/gogocoin.png
     twitter_handle: GOGO_coin
+    aliases:
+    - gogo
   aliases:
   - gogo
 - id: gogreenlight
@@ -22470,6 +22768,8 @@ actors:
     images:
     - icons.llama.fi/granary-finance.png
     twitter_handle: GranaryFinance
+    aliases:
+    - thegranary
   aliases:
   - thegranary
 - id: grapefinance
@@ -22576,6 +22876,8 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 526
     coingecko_has_trading_incentive: false
+    aliases:
+    - gravity_finance
   aliases:
   - gravity_finance
 - id: greenhousedex
@@ -22663,6 +22965,8 @@ actors:
     images:
     - icons.llama.fi/gro.png
     twitter_handle: groprotocol
+    aliases:
+    - gro
 - id: grovex
   label: GroveX
   jurisdictions:
@@ -22866,6 +23170,8 @@ actors:
     images:
     - icons.llama.fi/gyroscope-protocol.png
     twitter_handle: GyroStable
+    aliases:
+    - gyroscope
 - id: h2finance
   label: H2 Finance
   jurisdictions: []
@@ -23161,6 +23467,9 @@ actors:
     coingecko_trust_score_rank: 15
     description: On a mission to set the bar for virtual asset exchanges in compliance, safety, and security, Hash Blockchain Limited (HashKey Exchange) is Hong Kong's first licensed virtual asset exchange for retail users. HashKey Exchange has recently received approval from the Securities and Futures Commission (SFC) of Hong Kong to operate a virtual asset trading platform under Type 1 (Dealing in securities) licence and Type 7 (Providing automated trading services) licence. As HashKey Group's exchange business, HashKey Exchange provides all-in-one trading services for both professional investors (PI) and retail investors. HashKey Exchange has obtained ISO 27001 (Information Security) and ISO 27701 (Data Privacy) management system certifications.
     coingecko_has_trading_incentive: false
+    aliases:
+    - hashkey
+    - hashkey_exchange
 - id: hata
   label: Hata
   jurisdictions:
@@ -23360,6 +23669,8 @@ actors:
     images:
     - icons.llama.fi/hegic.jpg
     twitter_handle: HegicOptions
+    aliases:
+    - hegicherge
   aliases:
   - hegicherge
 - id: helioprotocol
@@ -23507,6 +23818,8 @@ actors:
     coingecko_trust_score: 3
     coingecko_trust_score_rank: 797
     coingecko_has_trading_incentive: false
+    aliases:
+    - herculesv3
   aliases:
   - herculesv3
 - id: hermesdefi
@@ -23695,6 +24008,8 @@ actors:
     coingecko_trust_score: 3
     coingecko_trust_score_rank: 773
     coingecko_has_trading_incentive: false
+    aliases:
+    - hiveswap-v3
   aliases:
   - hiveswap-v3
 - id: hodlfox
@@ -23854,6 +24169,8 @@ actors:
     active: true
     start_activity: '2018-05-01'
     twitter_handle: hoo_exchange
+    aliases:
+    - hoocom
 - id: hopprotocol
   label: Hop Protocol
   jurisdictions: []
@@ -23872,6 +24189,8 @@ actors:
     images:
     - icons.llama.fi/hop-protocol.jpg
     twitter_handle: HopProtocol
+    aliases:
+    - hop_protocol
   aliases:
   - hop_protocol
 - id: hopswap
@@ -23914,6 +24233,8 @@ actors:
     coingecko_trust_score: 3
     coingecko_trust_score_rank: 785
     coingecko_has_trading_incentive: false
+    aliases:
+    - horizondex
   aliases:
   - horizondex
 - id: hotbit
@@ -24239,6 +24560,8 @@ actors:
     coingecko_trust_score_rank: 10
     description: HTX (previously Huobi) is a leading cryptocurrency exchange recognized for its strong security measures and a wide range of trading options. With a user-friendly interface and high liquidity, it caters to both novice and experienced traders while offering various incentives like staking and referral programs.
     coingecko_has_trading_incentive: false
+    aliases:
+    - htx
 - id: huobijapan
   label: Huobi Japan
   jurisdictions:
@@ -24333,6 +24656,9 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 554
     coingecko_has_trading_incentive: false
+    aliases:
+    - hybrafinancev3
+    - hybrafinancev4
   aliases:
   - hybrafinancev3
   - hybrafinancev4
@@ -24535,6 +24861,8 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 423
     coingecko_has_trading_incentive: false
+    aliases:
+    - hyperswapv3
   aliases:
   - hyperswapv3
 - id: hypertrade
@@ -24594,6 +24922,8 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/Ice-Dice.com
     active: false
+    aliases:
+    - ice-dicecom
 - id: icecolony
   label: Ice Colony
   jurisdictions: []
@@ -24685,6 +25015,8 @@ actors:
     images:
     - icons.llama.fi/ichi-farm.png
     twitter_handle: ichifarm
+    aliases:
+    - ichi
   aliases:
   - ichi
 - id: icpswap
@@ -24939,6 +25271,8 @@ actors:
     images:
     - icons.llama.fi/impermax-finance.png
     twitter_handle: ImpermaxFinance
+    aliases:
+    - impermax
 - id: impossiblefinancev3
   label: Impossible Finance
   jurisdictions: []
@@ -25404,6 +25738,9 @@ actors:
   - US
   categories:
   - organization
+  context:
+    aliases:
+    - internet_archive
 - id: interlaycollateral
   label: Interlay Collatera/BTC/Staking/Kintsugi
   jurisdictions: []
@@ -25488,6 +25825,8 @@ actors:
     coingecko_trust_score_rank: 222
     description: The multichain AMM DEX with concentrated liquidity build on SVM
     coingecko_has_trading_incentive: false
+    aliases:
+    - invariant_eclipse
   aliases:
   - invariant_eclipse
 - id: inversefinancefrontier
@@ -25509,6 +25848,9 @@ actors:
     - icons.llama.fi/inverse-finance-firm.jpg
     - icons.llama.fi/inverse-finance-frontier.jpg
     twitter_handle: InverseFinance
+    aliases:
+    - inversefinance
+    - inverse_finance
   aliases:
   - inversefinance
   - inverse_finance
@@ -25887,6 +26229,8 @@ actors:
     coingecko_trust_score: 3
     coingecko_trust_score_rank: 739
     coingecko_has_trading_incentive: false
+    aliases:
+    - jediswap-starknet-alpha
   aliases:
   - jediswap-starknet-alpha
 - id: jelly
@@ -25905,6 +26249,8 @@ actors:
     images:
     - icons.llama.fi/jelly.png
     twitter_handle: jellyprotocol
+    aliases:
+    - jelly_swap
   aliases:
   - jelly_swap
 - id: jellyverse
@@ -25940,6 +26286,8 @@ actors:
     images:
     - icons.llama.fi/jet.jpg
     twitter_handle: JetProtocol
+    aliases:
+    - jetswap
   aliases:
   - jetswap
 - id: jetfuelfinance
@@ -26218,6 +26566,8 @@ actors:
     images:
     - icons.llama.fi/junoswap.png
     twitter_handle: JunoNetwork
+    aliases:
+    - juno
   aliases:
   - juno
 - id: jupiter
@@ -26275,6 +26625,8 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/Just-Dice.com
     active: false
+    aliases:
+    - just-dicecom
 - id: justcoin
   label: Justcoin
   jurisdictions:
@@ -26344,6 +26696,9 @@ actors:
     coingecko_trust_score: 3
     coingecko_trust_score_rank: 752
     coingecko_has_trading_incentive: false
+    aliases:
+    - justmoney-tron
+    - justmoney_bttc
   aliases:
   - justmoney-tron
   - justmoney_bttc
@@ -26515,6 +26870,8 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 248
     coingecko_has_trading_incentive: false
+    aliases:
+    - kanga_exchange
   aliases:
   - kanga_exchange
 - id: kanois
@@ -26788,6 +27145,9 @@ actors:
     images:
     - icons.llama.fi/keep3r-network.jpg
     twitter_handle: thekeep3r
+    aliases:
+    - keep3rnetwork
+    - fixedforex
   aliases:
   - keep3rnetwork
   - fixedforex
@@ -26939,6 +27299,8 @@ actors:
     coingecko_trust_score: 4
     coingecko_trust_score_rank: 669
     coingecko_has_trading_incentive: false
+    aliases:
+    - kimv4
   aliases:
   - kimv4
 - id: kimochi
@@ -26976,6 +27338,8 @@ actors:
     images:
     - icons.llama.fi/kine-finance.jpg
     twitter_handle: KineProtocol
+    aliases:
+    - kine
 - id: kinesislabs
   label: Kinesis Labs
   jurisdictions: []
@@ -27064,6 +27428,9 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 499
     coingecko_has_trading_incentive: false
+    aliases:
+    - kittenswapalgebra
+    - kittenswapv3
   aliases:
   - kittenswapalgebra
   - kittenswapv3
@@ -27101,6 +27468,8 @@ actors:
     images:
     - icons.llama.fi/klap.png
     twitter_handle: klapfinance
+    aliases:
+    - klapfinance
 - id: klaybank
   label: KlayBank
   jurisdictions: []
@@ -27160,6 +27529,10 @@ actors:
     year_established: 2021
     coingecko_trust_score_rank: 678
     coingecko_has_trading_incentive: false
+    aliases:
+    - klayswapprotocol
+    - klay_swap
+    - klayswap_protocol
 - id: klend
   label: KLend
   jurisdictions: []
@@ -27225,6 +27598,10 @@ actors:
     - api.coingecko.com/api/v3/exchanges/klever_exchange
     images:
     - assets.coingecko.com/markets/images/984/small/1524.png?1666270365
+    aliases:
+    - kleverio
+    - klever
+    - klever_exchange
 - id: klexfinance
   label: KLEX Finance / Klaylend
   jurisdictions: []
@@ -27262,6 +27639,8 @@ actors:
     images:
     - icons.llama.fi/klima-dao.jpg
     twitter_handle: KlimaDAO
+    aliases:
+    - klima
   aliases:
   - klima
 - id: klondike
@@ -27532,6 +27911,8 @@ actors:
     - api.llama.fi/protocol/kokonut-swap
     images:
     - icons.llama.fi/kokonut-swap.jpg
+    aliases:
+    - kokonut_swap
   aliases:
   - kokonut_swap
 - id: kolibri
@@ -28138,6 +28519,8 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 443
     coingecko_has_trading_incentive: false
+    aliases:
+    - kyberswap
   aliases:
   - kyberswap
 - id: kyofinancev3
@@ -29137,6 +29520,8 @@ actors:
     - s2.coinmarketcap.com/static/img/exchanges/64x64/107.png
     twitter_handle: livecoin_net
     active: false
+    aliases:
+    - livecoinnet
   aliases:
   - livecoinnet
 - id: lixirfinance
@@ -29315,6 +29700,8 @@ actors:
     images:
     - icons.llama.fi/lodestar-finance.png
     twitter_handle: LodestarFinance
+    aliases:
+    - lodestar
 - id: lofty
   label: Lofty
   jurisdictions: []
@@ -29578,6 +29965,12 @@ actors:
     images:
     - icons.llama.fi/luckychip.png
     twitter_handle: LuckyChip_io
+- id: luckygames
+  label: LuckyGames
+  jurisdictions: []
+  categories:
+  - gambling
+  uri: luckygames.io
 - id: lumenswap
   label: LumenSwap
   jurisdictions: []
@@ -29870,6 +30263,9 @@ actors:
     coingecko_has_trading_incentive: false
     uris:
     - magicsea.finance
+    aliases:
+    - magicseashimmerevm
+    - magicseav21iotaevm
   aliases:
   - magicseashimmerevm
   - magicseav21iotaevm
@@ -29963,6 +30359,9 @@ actors:
     images:
     - icons.llama.fi/magpie.png
     twitter_handle: magpiexyz_io
+    aliases:
+    - eigenpie
+    - penpie
   aliases:
   - eigenpie
   - penpie
@@ -30063,6 +30462,9 @@ actors:
     coingecko_trust_score: 7
     coingecko_trust_score_rank: 81
     coingecko_has_trading_incentive: false
+    aliases:
+    - maxexchange
+    - max_exchange
   aliases:
   - maxexchange
   - max_exchange
@@ -30086,6 +30488,8 @@ actors:
     images:
     - icons.llama.fi/makerdao.jpg
     twitter_handle: MakerDAO
+    aliases:
+    - dai
   aliases:
   - dai
 - id: makiswap
@@ -30246,6 +30650,8 @@ actors:
     images:
     - icons.llama.fi/maple.png
     twitter_handle: maplefinance
+    aliases:
+    - maplefinance
 - id: mapledefi
   label: MapleDeFi
   jurisdictions: []
@@ -30276,6 +30682,9 @@ actors:
     images:
     - icons.llama.fi/mapo.png
     twitter_handle: MapProtocol
+    aliases:
+    - mapprotocol
+    - map_protocol
   aliases:
   - mapprotocol
   - map_protocol
@@ -30510,6 +30919,15 @@ actors:
     uris:
     - app.mav.xyz
     description: Maverick Protocol is DeFi’s Liquidity Operating System, offering one-stop liquidity solutions for token projects, liquidity providers, and blockchain ecosystems to bootstrap efficient markets with optimized liquidity and reduced budget spending.
+    aliases:
+    - maverickprotocolv1bsc
+    - maverickprotocolv1ethereum
+    - maverickprotocolv1zksync
+    - maverickprotocolv2arbitrum
+    - maverickprotocolv2base
+    - maverickprotocolv2bsc
+    - maverickprotocolv2ethereum
+    - maverickprotocolv2zksyncera
   aliases:
   - maverickprotocolv1bsc
   - maverickprotocolv1ethereum
@@ -30800,6 +31218,8 @@ actors:
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 157
     coingecko_has_trading_incentive: false
+    aliases:
+    - mercado_bitcoin
   aliases:
   - mercado_bitcoin
 - id: mercatox
@@ -30853,6 +31273,8 @@ actors:
     refs:
     - https://www.linkedin.com/company/mercuryo-io/
     twitter_handle: Mercuryo_io
+    aliases:
+    - mercuryo
 - id: meridian
   label: Meridian
   jurisdictions: []
@@ -31344,6 +31766,9 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 298
     coingecko_has_trading_incentive: false
+    aliases:
+    - metropolis-dlmm-sonic
+    - metropolis-sonic
   aliases:
   - metropolis-dlmm-sonic
   - metropolis-sonic
@@ -31565,6 +31990,8 @@ actors:
     images:
     - icons.llama.fi/mimo-protocol.jpg
     twitter_handle: mimo_labs
+    aliases:
+    - parpeg
   aliases:
   - parpeg
 - id: mindgames
@@ -31806,6 +32233,8 @@ actors:
     images:
     - icons.llama.fi/mint-club.png
     twitter_handle: MintClubPro
+    aliases:
+    - mint_club
   aliases:
   - mint_club
 - id: minto
@@ -32171,6 +32600,8 @@ actors:
     coingecko_has_trading_incentive: false
     year_established: 2023
     coingecko_trust_score: 1
+    aliases:
+    - moltenfinancev4
   aliases:
   - moltenfinancev4
 - id: momentum
@@ -32233,6 +32664,12 @@ actors:
     images:
     - icons.llama.fi/moneyonchain.jpg
     twitter_handle: moneyonchainok
+- id: moneypot
+  label: MoneyPot
+  jurisdictions: []
+  categories:
+  - gambling
+  uri: moneypot.com
 - id: monolith
   label: Monolith
   jurisdictions: []
@@ -32315,6 +32752,8 @@ actors:
     images:
     - icons.llama.fi/moola-market.jpg
     twitter_handle: Moola_Market
+    aliases:
+    - moolainterestbearingmoo
   aliases:
   - moolainterestbearingmoo
 - id: moonbitcoin
@@ -32465,6 +32904,8 @@ actors:
     - icons.llama.fi/moonwell-artemis.png
     - icons.llama.fi/moonwell-apollo.png
     twitter_handle: MoonwellDeFi
+    aliases:
+    - moonwell
   aliases:
   - moonwell
 - id: moremoney
@@ -32598,6 +33039,8 @@ actors:
     images:
     - icons.llama.fi/mstable.png
     twitter_handle: mstable_
+    aliases:
+    - mstable
 - id: mtgox
   label: Mtgox
   jurisdictions:
@@ -32727,6 +33170,8 @@ actors:
     images:
     - icons.llama.fi/mummy-finance.jpg
     twitter_handle: mummyftm
+    aliases:
+    - mummy_finance
   aliases:
   - mummy_finance
 - id: murica
@@ -32802,6 +33247,8 @@ actors:
     coingecko_trust_score_rank: 9
     description: Established in April 2018, MEXC is a digital-asset trading platforms. The core team comes from enterprises and financial companies with experience in blockchain and financial industries.
     coingecko_has_trading_incentive: false
+    aliases:
+    - mexc
   aliases:
   - mexc
 - id: mybitcoincom
@@ -32837,6 +33284,8 @@ actors:
     - icons.llama.fi/mycelium-perpetual-pools.jpg
     - icons.llama.fi/mycelium-perpetual-swaps.png
     twitter_handle: mycelium_xyz
+    aliases:
+    - mycelium
   aliases:
   - mycelium
 - id: myetherwallet
@@ -32892,6 +33341,8 @@ actors:
     year_established: 2023
     coingecko_trust_score_rank: 873
     coingecko_has_trading_incentive: false
+    aliases:
+    - myswap-cl
   aliases:
   - myswap-cl
 - id: mytrade
@@ -33539,6 +33990,8 @@ actors:
     - assets.coingecko.com/markets/images/549/small/nexus-mutual.jpg?1594547672
     - icons.llama.fi/nexus-mutual.png
     twitter_handle: NexusMutual
+    aliases:
+    - nexusmutual
   aliases:
   - nexusmutual
 - id: nexusprotocol
@@ -33557,6 +34010,13 @@ actors:
     images:
     - icons.llama.fi/nexus-protocol.jpg
     twitter_handle: NexusProtocol
+- id: nexybit
+  label: Nexybit
+  jurisdictions:
+  - KR
+  categories:
+  - exchange
+  uri: nexybit.com
 - id: nft20
   label: NFT20
   jurisdictions: []
@@ -34619,6 +35079,8 @@ actors:
     coingecko_trust_score_rank: 4
     description: OKX is a leading global cryptocurrency exchange offering diverse trading options, advanced security, and Web3 integration for millions of users worldwide.
     coingecko_has_trading_incentive: false
+    aliases:
+    - okx
   aliases:
   - okx
 - id: okieswapstableswap
@@ -34854,6 +35316,8 @@ actors:
     - coin-images.coingecko.com/markets/images/22020/small/omni-exchange.jpeg?1754537271
     coingecko_trust_score_rank: 1009
     coingecko_has_trading_incentive: false
+    aliases:
+    - omniexchangev3base
   aliases:
   - omniexchangev3base
 - id: omniprotocol
@@ -35215,6 +35679,8 @@ actors:
     year_established: 2020
     coingecko_trust_score_rank: 860
     coingecko_has_trading_incentive: false
+    aliases:
+    - openocean
   aliases:
   - openocean
 - id: opensea
@@ -35431,6 +35897,8 @@ actors:
     images:
     - icons.llama.fi/opx-finance.jpg
     twitter_handle: opxfinance
+    aliases:
+    - opx_finance
   aliases:
   - opx_finance
 - id: opynconvexity
@@ -35458,6 +35926,8 @@ actors:
     - icons.llama.fi/opyn-gamma.jpg
     - icons.llama.fi/opyn-squeeth.jpg
     twitter_handle: opyn_
+    aliases:
+    - opynfinance
   aliases:
   - opynfinance
 - id: oracleswap
@@ -35505,6 +35975,8 @@ actors:
     images:
     - icons.llama.fi/oraichain.png
     twitter_handle: oraichain
+    aliases:
+    - orai
   aliases:
   - orai
 - id: oraidex
@@ -35597,6 +36069,10 @@ actors:
     - icons.llama.fi/orbit-bridge.png
     - icons.llama.fi/klaystation.png
     twitter_handle: Orbit_Chain
+    aliases:
+    - orbitchain
+    - klaystation
+    - orbit_chain
   aliases:
   - orbitchain
   - klaystation
@@ -35750,6 +36226,8 @@ actors:
     coingecko_trust_score_rank: 862
     description: The ARM allows anyone to redeemable assets without needing to wait through an exit queue. It is an AMM without a bonding curve. ARM has facilitated the swap of billions of dollars on a single pair. Origin is in the process of building additional ARM pairs which will be added periodically to this page.
     coingecko_has_trading_incentive: false
+    aliases:
+    - originarmsonic
   aliases:
   - originarmsonic
 - id: origindollar
@@ -35803,6 +36281,8 @@ actors:
     coingecko_trust_score: 3
     coingecko_trust_score_rank: 750
     coingecko_has_trading_incentive: false
+    aliases:
+    - orionethereum
   aliases:
   - orionethereum
 - id: orionmoney
@@ -35860,6 +36340,8 @@ actors:
     coingecko_trust_score_rank: 19
     description: "About OSL OSL is a centralized digital asset exchange operated under OSL Group (HKEX: 863.HK), it is global exchange sevices, marking a pivotal milestone in the company’s global compliance-driven expansion strategy. The international platform initially debuts with efficient fiat-to-stablecoin conversion and fund settlement services, with plans to introduce derivatives, lending and other products for retail and institutional clients worldwide. Rising blockchain complexity and stablecoin saturation exposes users to risks, ranging from tedious transaction paths, high slippage, to slow settlement, and even restricted withdrawals or frozen accounts. OSL Group's global exchange platform addresses these pain points with a one-click fiat gateway, enabling zero-slippage instant conversion between USDC and USD at a 1:1 ratio, streamlines fund transfers with transparency and speed. Users can also receive limited-time BTC rewards by trading other major assets. Backed by OSL Group’s international licenses, compliant clearing capabilities, direct banking network, and liquidity support from strategic market makers, the global exchange extends well beyond USDC-USD trading. Users can purchase crypto via credit card and Apple Pay, transfer funds through bank rails, and manage assets across multiple chains. It will also provide conversion services between a wider range of fiat currencies and major stablecoins, accommodating diverse deposit and withdrawal requirements while ensuring transparent pricing, low slippage, and fast settlement."
     coingecko_has_trading_incentive: false
+    aliases:
+    - oslhk
   aliases:
   - oslhk
 - id: osmosis
@@ -36192,6 +36674,8 @@ actors:
     images:
     - icons.llama.fi/paladin-finance.jpg
     twitter_handle: Paladin_vote
+    aliases:
+    - paladin
   aliases:
   - paladin
 - id: pancakeswapnew
@@ -36287,6 +36771,9 @@ actors:
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 98
     coingecko_has_trading_incentive: false
+    aliases:
+    - pancakeswap
+    - pancakeswap_aptos
   aliases:
   - pancakeswap
   - pancakeswap_aptos
@@ -36394,6 +36881,9 @@ actors:
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 198
     coingecko_has_trading_incentive: false
+    aliases:
+    - pangolinexchange
+    - pangolin_exchange
 - id: pankuku
   label: PanKUKU
   jurisdictions: []
@@ -36869,6 +37359,8 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 304
     coingecko_has_trading_incentive: false
+    aliases:
+    - pearlfiv15
   aliases:
   - pearlfiv15
 - id: pearzap
@@ -37182,6 +37674,8 @@ actors:
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 112
     coingecko_has_trading_incentive: false
+    aliases:
+    - pharaohexchangelegacy
   aliases:
   - pharaohexchangelegacy
 - id: pharaohexchangev1
@@ -37204,6 +37698,8 @@ actors:
     coingecko_trust_score: 4
     coingecko_trust_score_rank: 622
     coingecko_has_trading_incentive: false
+    aliases:
+    - pharaohexchangev2
   aliases:
   - pharaohexchangev2
 - id: phashio
@@ -37429,6 +37925,8 @@ actors:
     images:
     - icons.llama.fi/pickle.svg
     twitter_handle: picklefinance
+    aliases:
+    - picklefinance
 - id: picnic
   label: Picnic
   jurisdictions: []
@@ -37849,6 +38347,8 @@ actors:
     - assets.coingecko.com/markets/images/862/small/logo-platypus-v2-icon-only.png?1652157572
     - icons.llama.fi/platypus.png
     twitter_handle: Platypusdefi
+    aliases:
+    - platypus_finance
   aliases:
   - platypus_finance
 - id: playtin
@@ -38661,6 +39161,8 @@ actors:
     images:
     - icons.llama.fi/portal.png
     twitter_handle: portalbridge_
+    aliases:
+    - wormhole
   aliases:
   - wormhole
 - id: portfinance
@@ -38715,6 +39217,8 @@ actors:
     coingecko_trust_score_rank: 415
     coingecko_has_trading_incentive: false
     year_established: 2023
+    aliases:
+    - potatoswapxlayer
   aliases:
   - potatoswapxlayer
 - id: potluckprotocol
@@ -39273,6 +39777,8 @@ actors:
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 185
     coingecko_has_trading_incentive: false
+    aliases:
+    - pulsexv2
   aliases:
   - pulsexv2
 - id: pumpkindao
@@ -39328,6 +39834,8 @@ actors:
     coingecko_trust_score_rank: 821
     coingecko_has_trading_incentive: false
     description: KittyPunch's PunchSwap V3 is a CLMM style decentralized exchange on Flow.
+    aliases:
+    - punchswapv3
   aliases:
   - punchswapv3
 - id: pup
@@ -39675,6 +40183,10 @@ actors:
     coingecko_trust_score_rank: 111
     description: Next-gen Layer 2 DEX. Trade at lightning-fast speeds with near-zero gas fees.
     coingecko_has_trading_incentive: false
+    aliases:
+    - quickswap-v4-base
+    - quickswap-mantra
+    - quickswap-somnia
   aliases:
   - quickswap-v4-base
   - quickswap-mantra
@@ -39833,6 +40345,8 @@ actors:
     images:
     - icons.llama.fi/radiant.png
     twitter_handle: RDNTCapital
+    aliases:
+    - radiantcapital
   aliases:
   - radiantcapital
 - id: radioshack
@@ -39898,6 +40412,8 @@ actors:
     coingecko_trust_score: 2
     coingecko_trust_score_rank: 830
     coingecko_has_trading_incentive: false
+    aliases:
+    - raexchangev1
   aliases:
   - raexchangev1
 - id: ragetrade
@@ -39968,6 +40484,15 @@ actors:
     images:
     - icons.llama.fi/railgun.jpg
     twitter_handle: railgun_project
+- id: rainbet
+  label: Rainbet
+  jurisdictions:
+  - CW
+  categories:
+  - gambling
+  uri: rainbet.com
+  context:
+    twitter_handle: rainbetcom
 - id: ramp
   label: Ramp
   jurisdictions: []
@@ -39996,6 +40521,8 @@ actors:
     - www.linkedin.com/company/rampnetwork/
     - facebook.com/RampNetwork/
     twitter_handle: RampNetwork
+    aliases:
+    - ramp_network
   aliases:
   - ramp_network
 - id: nexchange
@@ -40046,6 +40573,8 @@ actors:
     coingecko_trust_score_rank: 789
     coingecko_has_trading_incentive: false
     description: Ramses Exchange is a concentrated liquidity layer and decentralized exchange built on HyperEVM, powered by x(3,3)—a fluid and accessible incentive model iterated on from ve(3,3)
+    aliases:
+    - ramsesv3hyperevm
   aliases:
   - ramsesv3hyperevm
 - id: rarible
@@ -40238,6 +40767,8 @@ actors:
     - icons.llama.fi/realt-rmm-marketplace.png
     - icons.llama.fi/realt.png
     twitter_handle: RealTPlatform
+    aliases:
+    - realtrmm
   aliases:
   - realtrmm
 - id: reaperfarm
@@ -40278,6 +40809,9 @@ actors:
     - icons.llama.fi/redacted-protocol.jpg
     - icons.llama.fi/pirex.png
     twitter_handle: redactedcartel
+    aliases:
+    - pirex
+    - hiddenhand
   aliases:
   - pirex
   - hiddenhand
@@ -40420,6 +40954,8 @@ actors:
     images:
     - icons.llama.fi/renvm.png
     twitter_handle: renprotocol
+    aliases:
+    - renproject
   aliases:
   - renproject
 - id: reserve
@@ -40440,6 +40976,8 @@ actors:
     images:
     - icons.llama.fi/reserve.jpg
     twitter_handle: reserveprotocol
+    aliases:
+    - reserveprotocol
 - id: resfinex
   label: Resfinex
   jurisdictions:
@@ -40924,6 +41462,8 @@ actors:
     - api.llama.fi/protocol/robo-advisor-for-yield
     images:
     - icons.llama.fi/robo-advisor-for-yield.jpg
+    aliases:
+    - stakedus
   aliases:
   - stakedus
 - id: robotsfarm
@@ -40989,6 +41529,13 @@ actors:
     images:
     - icons.llama.fi/rocket-pool.jpg
     twitter_handle: Rocket_Pool
+- id: rocketpotio
+  label: Rocketpot.io
+  jurisdictions:
+  - CW
+  categories:
+  - gambling
+  uri: rocketpot.io
 - id: rocketswap
   label: RocketSwap
   jurisdictions: []
@@ -41196,6 +41743,8 @@ actors:
     images:
     - icons.llama.fi/rskswap.jpg
     twitter_handle: RskSwap
+    aliases:
+    - rsk
   aliases:
   - rsk
 - id: rubic
@@ -41399,6 +41948,8 @@ actors:
     images:
     - icons.llama.fi/saddle-finance.jpg
     twitter_handle: saddlefinance
+    aliases:
+    - saddle_finance
   aliases:
   - saddle_finance
 - id: safedicecom
@@ -41543,6 +42094,8 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 542
     coingecko_has_trading_incentive: false
+    aliases:
+    - saitaswapethereum
   aliases:
   - saitaswapethereum
 - id: sakeperp
@@ -41700,6 +42253,8 @@ actors:
     coingecko_trust_score_rank: 429
     description: Saros DEX is a Unified Suite of DeFi Products on Solana established in 2021
     coingecko_has_trading_incentive: false
+    aliases:
+    - saros-dlmm
   aliases:
   - saros-dlmm
 - id: sashimidao
@@ -41776,6 +42331,8 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/Satoshi-Karoshi.com
+    aliases:
+    - satoshi-karoshicom
 - id: satoshibetcom
   uri: satoshibet.com
   categories:
@@ -41803,6 +42360,14 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/SatoshiDice.com
+- id: satoshihero
+  label: Satoshi Hero
+  jurisdictions:
+  - CW
+  categories:
+  - faucet
+  - gambling
+  uri: satoshihero.com
 - id: satoshiminescom
   uri: satoshimines.com
   categories:
@@ -42136,6 +42701,8 @@ actors:
     - assets.coingecko.com/markets/images/660/small/_Icon___SVG__Primary_-_Metallic_Gold_in_Square.png?1636170223
     twitter_handle: SecretNetwork
     github_organisation: secretdao
+    aliases:
+    - secret_network
   aliases:
   - secret_network
 - id: sectafinancev2linea
@@ -42160,6 +42727,8 @@ actors:
     coingecko_trust_score_rank: 804
     description: Experience seamless decentralized trading on our intuitive DEX built exclusively for the Linea network.
     coingecko_has_trading_incentive: false
+    aliases:
+    - sectafinancev3linea
   aliases:
   - sectafinancev3linea
 - id: sectoronev22megaeth
@@ -42451,6 +43020,8 @@ actors:
     coingecko_trust_score_rank: 286
     description: Shadow Exchange is a concentrated liquidity layer and exchange built on the Sonic network, powered by x(3,3)—a more fluid and accessible incentive model. With sub-second block times and instant finality, Shadow delivers an ultra-responsive trading experience on par with Sonic's speed. Liquidity providers can adjust positions rapidly to capture opportunities, while traders enjoy near-zero slippage on Shadow.
     coingecko_has_trading_incentive: false
+    aliases:
+    - shadowexchangelegacy
   aliases:
   - shadowexchangelegacy
 - id: shadowswap
@@ -42772,6 +43343,16 @@ actors:
     images:
     - icons.llama.fi/shiroswap.jpg
     twitter_handle: ShiroTokens
+- id: shuffle
+  label: Shuffle
+  jurisdictions:
+  - CW
+  categories:
+  - gambling
+  uri: shuffle.com
+  context:
+    twitter_handle: shufflecom
+# --- BitcoinTemporalGraph additions (2026-03-23) ---
 - id: sicx
   label: sICX
   jurisdictions: []
@@ -42807,6 +43388,8 @@ actors:
     images:
     - icons.llama.fi/sideshift.png
     twitter_handle: sideshiftai
+    aliases:
+    - sideshiftai
   aliases:
   - sideshiftai
 - id: siennaswap
@@ -42983,6 +43566,8 @@ actors:
     refs:
     - btc.com/stats/pool/simplecoin.us
     active: false
+    aliases:
+    - simplecoinus_mining
 - id: sinbadio
   label: sinbad.io
   uri: sinbad.io
@@ -43167,6 +43752,8 @@ actors:
     coingecko_trust_score: 3
     coingecko_trust_score_rank: 778
     coingecko_has_trading_incentive: false
+    aliases:
+    - skydromev2
   aliases:
   - skydromev2
 - id: sleepearnfinance
@@ -43231,6 +43818,8 @@ actors:
     images:
     - icons.llama.fi/smartcredit.png
     twitter_handle: smartcredit_io
+    aliases:
+    - smartcreditio
 - id: smartdex
   label: SmartDEX
   jurisdictions: []
@@ -43653,6 +44242,8 @@ actors:
     year_established: 2020
     coingecko_trust_score_rank: 989
     coingecko_has_trading_incentive: false
+    aliases:
+    - solidex-v3
   aliases:
   - solidex-v3
 - id: solidlizard
@@ -44105,6 +44696,8 @@ actors:
     coingecko_trust_score: 2
     coingecko_trust_score_rank: 819
     coingecko_has_trading_incentive: false
+    aliases:
+    - spacefi_zksync
   aliases:
   - spacefi_zksync
 - id: spadefinance
@@ -44144,6 +44737,9 @@ actors:
     coingecko_trust_score: 3
     coingecko_trust_score_rank: 798
     coingecko_has_trading_incentive: false
+    aliases:
+    - sparkdexv31
+    - sparkdexv4
   aliases:
   - sparkdexv31
   - sparkdexv4
@@ -44168,6 +44764,8 @@ actors:
     images:
     - icons.llama.fi/spartacus.jpg
     twitter_handle: Spartacus_Fi
+    aliases:
+    - spartacus_exchange
   aliases:
   - spartacus_exchange
 - id: spartanprotocol
@@ -44341,6 +44939,9 @@ actors:
     images:
     - icons.llama.fi/spherium.jpg
     twitter_handle: SpheriumFinance
+    aliases:
+    - spheriumfinance
+    - spherium_finance
 - id: sphynx
   label: Sphynx
   jurisdictions: []
@@ -44608,6 +45209,8 @@ actors:
     images:
     - icons.llama.fi/spool-protocol.png
     twitter_handle: SpoolFi
+    aliases:
+    - spool
 - id: sportbet
   label: SportBet
   jurisdictions: []
@@ -44624,6 +45227,13 @@ actors:
     images:
     - icons.llama.fi/sportbet.jpg
     twitter_handle: SportBetOne
+- id: sportsbetio
+  label: Sportsbet.io
+  jurisdictions:
+  - CW
+  categories:
+  - gambling
+  uri: sportsbet.io
 - id: squadswapdynamobsc
   label: SquadSwap Dynamo (BSC)
   jurisdictions: []
@@ -44643,6 +45253,8 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 408
     coingecko_has_trading_incentive: false
+    aliases:
+    - squadswapwowbsc
   aliases:
   - squadswapwowbsc
 - id: squiddao
@@ -45140,6 +45752,8 @@ actors:
     - icons.llama.fi/stargate-finance.png
     - icons.llama.fi/stargate.png
     twitter_handle: StargateFinance,StarGate_Fin
+    aliases:
+    - stargate
   aliases:
   - stargate
 - id: stargaze
@@ -45502,6 +46116,8 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 262
     coingecko_has_trading_incentive: false
+    aliases:
+    - ston_fi
   aliases:
   - ston_fi
 - id: stormgain
@@ -45602,6 +46218,8 @@ actors:
     images:
     - icons.llama.fi/strike.jpg
     twitter_handle: StrikeFinance
+    aliases:
+    - strikelending
   aliases:
   - strikelending
 - id: strikex
@@ -45638,6 +46256,8 @@ actors:
     images:
     - icons.llama.fi/strips-finance.png
     twitter_handle: StripsFinance
+    aliases:
+    - strips
 - id: strongcoincomfee
   aliases:
   - strongcoincom-fee
@@ -45649,6 +46269,8 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/StrongCoin.com-fee
+    aliases:
+    - strongcoincom-fee
 - id: stronghands
   label: Stronghands
   jurisdictions: []
@@ -46462,6 +47084,8 @@ actors:
     coingecko_trust_score: 4
     coingecko_trust_score_rank: 683
     coingecko_has_trading_incentive: false
+    aliases:
+    - swapsicle-v2-mantle
   aliases:
   - swapsicle-v2-mantle
 - id: swapxalgebra
@@ -46483,6 +47107,8 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 324
     coingecko_has_trading_incentive: false
+    aliases:
+    - swapxv2
   aliases:
   - swapxv2
 - id: swapzone
@@ -46753,6 +47379,8 @@ actors:
     images:
     - icons.llama.fi/symbiosis-finance.png
     twitter_handle: symbiosis_fi
+    aliases:
+    - symbiosis
 - id: symblox
   label: Symblox
   jurisdictions: []
@@ -46814,6 +47442,9 @@ actors:
     images:
     - icons.llama.fi/synapse.png
     twitter_handle: SynapseProtocol
+    aliases:
+    - synapsebridge
+    - synapse_bridge
   aliases:
   - synapsebridge
   - synapse_bridge
@@ -46851,6 +47482,8 @@ actors:
     images:
     - icons.llama.fi/synfutures.svg
     twitter_handle: SynFuturesDefi
+    aliases:
+    - synfutures
   aliases:
   - synfutures
 - id: synlev
@@ -46922,6 +47555,8 @@ actors:
     coingecko_trust_score_rank: 572
     description: Synthswap is one of the first decentralized exchanges (DEX) with an automated market-maker (AMM) in the Base ecosystem.
     coingecko_has_trading_incentive: false
+    aliases:
+    - synthswapv3
   aliases:
   - synthswapv3
 - id: syrupfinance
@@ -47160,6 +47795,9 @@ actors:
     images:
     - icons.llama.fi/tbtc.png
     twitter_handle: TheTNetwork
+    aliases:
+    - thresholdnetwork
+    - threshold_network
   aliases:
   - thresholdnetwork
   - threshold_network
@@ -47318,6 +47956,8 @@ actors:
     images:
     - icons.llama.fi/temple-dao.png
     twitter_handle: templedao
+    aliases:
+    - temple
   aliases:
   - temple
 - id: tempodao
@@ -47581,6 +48221,8 @@ actors:
     - icons.llama.fi/tetu.svg
     - assets.coingecko.com/markets/images/800/small/XZdZhhl2_400x400.jpeg?1644843781
     twitter_handle: tetu_io
+    aliases:
+    - tetuio
   aliases:
   - tetuio
 - id: tezosliquiditybaking
@@ -47636,6 +48278,9 @@ actors:
     coingecko_has_trading_incentive: false
     year_established: 2023
     description: Launched on Nov 1 2024, ThalaSwap V2 is the second generation of the Thala automated market maker (AMM) on the Aptos blockchain. ThalaSwap V2 offers a range of advanced features and pool types to facilitate efficient liquidity provision and optimization.  ThalaSwap V2 supports stable pools and weighted pools –– including liquidity bootstrapping pools (LBPs) to facilitate token launches. ThalaSwap V2 is uniquely both Coin &amp; FungibleAsset (FA) compatible.  ThalaSwap V2 utilizes the x*y=k formula to maintain efficient and balanced liquidity pools. Liquidity providers are incentivized with rewards generated from transaction fees. ThalaSwap V2’s design includes flexible fee structures to accommodate both stable and volatile pairs, providing users with optimized rates depending on the asset class.
+    aliases:
+    - thalaswapv1
+    - thalaswapv2
   aliases:
   - thalaswapv1
   - thalaswapv2
@@ -47828,6 +48473,8 @@ actors:
     images:
     - icons.llama.fi/the-sandbox.jpg
     twitter_handle: TheSandboxGame
+    aliases:
+    - sandbox
   aliases:
   - sandbox
 - id: theseedfarm
@@ -48243,6 +48890,8 @@ actors:
     - icons.llama.fi/timeless-finance.jpg
     - icons.llama.fi/bunni.png
     twitter_handle: Timeless_Fi
+    aliases:
+    - timelessfinance
 - id: timeswap
   label: Timeswap
   jurisdictions: []
@@ -48421,6 +49070,9 @@ actors:
     - assets.coingecko.com/markets/images/383/small/tokenize-exchange.png?1586138532
     twitter_handle: TokenizeXchange
     active: true
+    aliases:
+    - tokenizexchange
+    - tokenize_xchange
   aliases:
   - tokenizexchange
   - tokenize_xchange
@@ -48569,6 +49221,8 @@ actors:
     images:
     - icons.llama.fi/tomb-finance.jpg
     twitter_handle: tombfinance
+    aliases:
+    - tombfinance
   aliases:
   - tombfinance
 - id: tombswapfantom
@@ -48589,6 +49243,8 @@ actors:
     year_established: 2022
     coingecko_trust_score_rank: 841
     coingecko_has_trading_incentive: false
+    aliases:
+    - tombfinance
   aliases:
   - tombfinance
 - id: tomofinance
@@ -48628,6 +49284,8 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 368
     coingecko_has_trading_incentive: false
+    aliases:
+    - tonco
   aliases:
   - tonco
 - id: topbtc
@@ -48718,6 +49376,8 @@ actors:
     images:
     - icons.llama.fi/tornado-cash.jpg
     twitter_handle: TornadoCash
+    aliases:
+    - tornadocash
 - id: tornadocore
   label: Tornado Finance
   jurisdictions: []
@@ -48934,6 +49594,14 @@ actors:
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 166
     coingecko_has_trading_incentive: false
+    aliases:
+    - trader_joe
+    - traderjoe-v2-2-monad
+    - traderjoe-v2-2-arbitrum
+    - traderjoe-v2-2-avalanche
+    - traderjoe-v2-1-avalanche
+    - traderjoe-v2-1-arbitrum
+    - traderjoe-v2-1-bsc
   aliases:
   - trader_joe
   - traderjoe-v2-2-monad
@@ -49172,6 +49840,9 @@ actors:
     images:
     - icons.llama.fi/tropical-finance.png
     twitter_handle: tropicalfi_
+    aliases:
+    - tropical
+    - tropicalswap
 - id: tropykusfinance
   label: Tropykus Finance
   jurisdictions: []
@@ -49459,6 +50130,8 @@ actors:
     images:
     - icons.llama.fi/umamifinance.png
     twitter_handle: UmamiDao
+    aliases:
+    - umami
 - id: umbrella
   label: Umbrella Network
   jurisdictions: []
@@ -50208,6 +50881,9 @@ actors:
     coingecko_trust_score_rank: 33
     description: Upbit is known for its extensive trading options for cryptocurrency. It emphasizes security and compliance, offering a user-friendly platform while catering primarily to the South Korean market and expanding into Southeast Asia.
     coingecko_has_trading_incentive: false
+    aliases:
+    - upbitindonesia
+    - upbit_indonesia
   aliases:
   - upbitindonesia
   - upbit_indonesia
@@ -50283,6 +50959,8 @@ actors:
     images:
     - icons.llama.fi/usd+.png
     twitter_handle: overnight_fi
+    aliases:
+    - overnight
   aliases:
   - overnight
 - id: usdfilending
@@ -50309,6 +50987,8 @@ actors:
     coingecko_trust_score: 3
     coingecko_trust_score_rank: 790
     coingecko_has_trading_incentive: false
+    aliases:
+    - usdfi
   aliases:
   - usdfi
 - id: usecryptos
@@ -50591,6 +51271,8 @@ actors:
     coingecko_trust_score: 3
     coingecko_trust_score_rank: 761
     coingecko_has_trading_incentive: false
+    aliases:
+    - vapordex-v2
   aliases:
   - vapordex-v2
 - id: vaporfi
@@ -50885,6 +51567,21 @@ actors:
     coingecko_trust_score_rank: 167
     description: "Velodrome Finance, at its core, is a solution for protocols on Optimism to properly incentivize liquidity for their own use cases. Building on top of the groundwork laid out by Solidly, our team has addressed that first iteration's core issues to realize its full potential.\n\nThe team behind Velodrome Finance previously launched veDAO, an initiative incubated by Information Token. veDAO's founding mandate was to engage with the Solidly ecosystem, a protocol launched on the Fantom network by Andre Cronje, while driving long-term value to the veDAO community.\n\nThe veDAO team has since developed deep subject matter expertise on both Solidly, the veNFT primitive, and the ve(3,3) mechanism, becoming the go-to resource for protocols and chains seeking support around these topics."
     coingecko_has_trading_incentive: false
+    aliases:
+    - velodrome-finance-v2
+    - velodrome-finance-v2-mode
+    - velodrome-finance-v2-ink
+    - velodrome-finance-v2-fraxtal
+    - velodrome-finance-slipstream-ink
+    - velodrome-finance-slipstream-celo
+    - velodrome-finance-slipstream
+    - velodrome-finance-slipstream-soneium
+    - velodrome-finance-slipstream-unichain
+    - velodrome-finance-slipstream-lisk
+    - velodrome-finance-slipstream-superseed
+    - velodrome-finance-slipstream-fraxtal
+    - velodrome-finance-slipstream-swellchain
+    - velodrome-finance-slipstream-mode
   aliases:
   - velodrome-finance-v2
   - velodrome-finance-v2-mode
@@ -51044,6 +51741,8 @@ actors:
     coingecko_trust_score_rank: 644
     description: The Verse DEX, available at <a href="http://verse.bitcoin.com">verse.bitcoin.com</a>, is a full-featured decentralized exchange. It is a key component of the <a href="https://www.bitcoin.com">Bitcoin.com</a>/Verse ecosystem, providing anyone in the world with a secure way to permissionlessly swap cryptocurrencies without having to rely on third-party custodians. You can also earn yield by providing liquidity to the Verse DEX. More information about VERSE token is available at <a href="https://www.getverse.com/">getverse.com</a>.
     coingecko_has_trading_incentive: false
+    aliases:
+    - verse_dex
   aliases:
   - verse_dex
 - id: vesper
@@ -51134,6 +51833,8 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/Vic-Socks.to
+    aliases:
+    - vic-socksto
 - id: vidya
   label: Vidya
   jurisdictions: []
@@ -51395,6 +52096,10 @@ actors:
     coingecko_trust_score_rank: 557
     description: "Voltage was created to give anyone access to a powerful suite of defi tools from an all-in-one application that is also conveniently accessible on any smart device.\uFEFF"
     coingecko_has_trading_incentive: false
+    aliases:
+    - voltage_finance
+    - voltage-finance-v4
+    - voltage-finance-v3
   aliases:
   - voltage_finance
   - voltage-finance-v4
@@ -51668,6 +52373,8 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 310
     coingecko_has_trading_incentive: false
+    aliases:
+    - xflows
   aliases:
   - xflows
 - id: wanlend
@@ -52029,6 +52736,8 @@ actors:
     images:
     - icons.llama.fi/wbtc.png
     twitter_handle: WrappedBTC
+    aliases:
+    - wrappedbtc
   aliases:
   - wrappedbtc
 - id: webribedao
@@ -52424,6 +53133,9 @@ actors:
     - icons.llama.fi/wombat-exchange.png
     - assets.coingecko.com/markets/images/1004/small/wombat.png?1669788032
     twitter_handle: WombatExchange
+    aliases:
+    - wombatexchange
+    - wombat_exchange
   aliases:
   - wombatexchange
   - wombat_exchange
@@ -52528,6 +53240,10 @@ actors:
     coingecko_trust_score_rank: 599
     description: WOO X is a global centralized crypto futures and spot trading platform offering best-in-class liquidity and price execution. WOO X has an average daily volume exceeding $600 million and is home to hundreds of thousands of traders worldwide. WOO X traders benefit from radical transparency through our industry-first live Proof of Reserves &amp; liabilities dashboard and the company's mission to maintain the trust of its growing community of traders.
     coingecko_has_trading_incentive: false
+    aliases:
+    - woofi
+    - woox
+    - woo_x
 - id: wowswap
   label: WOWswap
   jurisdictions: []
@@ -52935,6 +53651,8 @@ actors:
     coingecko_trust_score_rank: 495
     description: XSwap Protocol is a decentralized finance (DeFi) protocol built on the Xinfin network. It serves as an automated liquidity protocol that enables users to exchange various XRC-20 tokens without the need for a centralized intermediary or order book. XSwap operates as a decentralized exchange, meaning it doesn't rely on traditional order books. Instead, it utilizes liquidity pools to facilitate token swaps. Users can trade various Xinfin-based tokens directly from their wallets without the need for a centralized authority.  XSwap uses the concept of AMM, which involves using smart contracts to automate trading functions. Liquidity providers (LPs) deposit pairs of tokens into smart contracts, creating liquidity pools. These pools are used to facilitate trades, with prices determined algorithmically based on the ratio of the two tokens in the pool. Users contribute to liquidity pools by depositing an equal value of two tokens into a smart contract. In return, they receive liquidity provider (LP) tokens, representing their share of the pool. These LP tokens can be redeemed at any time, along with a portion of the trading fees generated by the pool. XSwap uses a mathematical formula called the constant product formula (x * y = k) to determine the price of assets in a liquidity pool. The product of the quantities of the two tokens (x and y) remains constant, which allows for price adjustments as the ratio of tokens changes with each trade. Users can easily swap one XRC-20 token for another directly through XSwap's user interface or by interacting with its smart contracts. The trade is executed at the current market price determined by the AMM algorithm. XSwap is a permissionless and open-source protocol. Anyone can access and use the platform without requiring approval.  XSP is the governance token of the Uniswap protocol. Holders of UNI can participate in the decision-making process by voting on proposals related to the protocol's development and parameters. XSwap serves as the first launchpad within the XDC network, providing a comprehensive suite of services including token creation, presale initiation, token and liquidity locker, and multisender functionality for all XRC20 tokens. Additionally, XSwap features a robust farming platform and extends its services to include a mobile wallet for user convenience. XSwap plays a pivotal role in the growth of decentralized finance by providing a user-friendly, permissionless, and efficient way for users to trade a wide variety of tokens directly from their wallets.
     coingecko_has_trading_incentive: false
+    aliases:
+    - xswap-v3
   aliases:
   - xswap-v3
 - id: xt
@@ -52961,6 +53679,8 @@ actors:
     coingecko_trust_score_rank: 27
     description: "By consistently expanding its ecosystem, XT.COM is dedicated to providing users with the most secure, trusted, and hassle-free digital asset trading services. Our exchange is built from a desire to give everyone access to digital assets regardless where you are. \n\nFounded in 2018, XT.COM is a global digital asset trading platform, now serving over 12 million registered users across more than 200 countries and regions, with an ecosystem traffic exceeding 40 million. XT.COM crypto exchange is offering a wide range of trading options including spot trading, margin trading, and futures trading, as well as a marketplace for real-world assets (RWA). Guided by the vision “Xplore Crypto, Trade with Trust,” our platform strives to provide a secure, trusted, and intuitive trading experience."
     coingecko_has_trading_incentive: false
+    aliases:
+    - xtcom
   aliases:
   - xtcom
 - id: xtoken
@@ -53171,6 +53891,8 @@ actors:
     images:
     - icons.llama.fi/yearn-finance.jpg
     twitter_handle: iearnfinance
+    aliases:
+    - yearn
 - id: yelfinance
   label: YEL Finance
   jurisdictions: []
@@ -53469,6 +54191,8 @@ actors:
     - icons.llama.fi/yoshi-exchange.jpg
     - assets.coingecko.com/markets/images/805/small/YoshiIcon.png?1645009739
     twitter_handle: YoshiExchange
+    aliases:
+    - yoshiexchange
 - id: yourbtcnet
   uri: yourbtc.net
   label: Yourbtc.net
@@ -54090,6 +54814,12 @@ actors:
     coingecko_trust_score_rank: 354
     description: The First Swap to Earn DEX Platform
     coingecko_has_trading_incentive: false
+    aliases:
+    - zkswapfinance
+    - zkswap_finance
+    - zkswapfinancestableswap
+    - zkswapfinancev3
+    - zkswapfinancev3sonic
 - id: zlot
   label: zLot
   jurisdictions: []
@@ -54332,6 +55062,9 @@ actors:
   context:
     refs:
     - https://docs.swellnetwork.io/
+    aliases:
+    - bloxstaking
+    - blockdaemon
   aliases:
   - bloxstaking
   - blockdaemon
@@ -54451,6 +55184,8 @@ actors:
   context:
     refs:
     - https://apollox-finance.gitbook.io/apollox-finance/
+    aliases:
+    - apollox_perp
   aliases:
   - apollox_perp
 - id: woofwork
@@ -54498,7 +55233,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://www.galaxy.com/
-  context: {}
+  context:
+    aliases:
+    - galaxy_digital
   aliases:
   - galaxy_digital
 - id: evodefi
@@ -54506,7 +55243,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://bridge.evodefi.com/
-  context: {}
+  context:
+    aliases:
+    - evo_defi
   aliases:
   - evo_defi
 - id: starshark
@@ -54529,7 +55268,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://prismafinance.com/
-  context: {}
+  context:
+    aliases:
+    - prisma_finance
   aliases:
   - prisma_finance
 - id: bonsai
@@ -54549,7 +55290,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://linexenesiscorp.com/en/
-  context: {}
+  context:
+    aliases:
+    - line_xenesis
   aliases:
   - line_xenesis
 - id: bzxprotocol
@@ -54665,6 +55408,8 @@ actors:
     - https://docs.spark.fi/
     - https://github.com/marsfoundation
     twitter_handle: sparkdotfi
+    aliases:
+    - sparkdex
   aliases:
   - sparkdex
 - id: salt
@@ -54715,6 +55460,9 @@ actors:
     coingecko_trust_score_rank: 335
     description: DragonSwap is a decentralized cryptocurrency exchange launched in 2024, built on the Kaia ecosystem. The platform offers a variety of services, including token swaps, liquidity provision, and farming.
     coingecko_has_trading_incentive: false
+    aliases:
+    - dragon_swap
+    - saphyrev2
   aliases:
   - dragon_swap
   - saphyrev2
@@ -54775,7 +55523,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://l2pass.com/
-  context: {}
+  context:
+    aliases:
+    - l2pass_mememorphosis
   aliases:
   - l2pass_mememorphosis
 - id: frametoken
@@ -54851,6 +55601,8 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 327
     coingecko_has_trading_incentive: false
+    aliases:
+    - bybit_hacker
   aliases:
   - bybit_hacker
 - id: daostack
@@ -54858,7 +55610,10 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://daostack.notion.site/DAOstack-end-of-road-update-and-the-Common-Open-Development-program-announcement-b808c3bf9e3a4b47bd42b7a67da707b4
-  context: {}
+  context:
+    aliases:
+    - superdaokernel
+    - superdao_kernel
   aliases:
   - superdaokernel
   - superdao_kernel
@@ -54906,6 +55661,8 @@ actors:
     coingecko_trust_score_rank: 224
     description: Capybara brings an innovative, scalable algorithm and design, low-slippage single-sided DEX on Dragon Chain backed by Kaia Chain (merge of Klaytn and  Finschia)!
     coingecko_has_trading_incentive: false
+    aliases:
+    - capybara_exchange
   aliases:
   - capybara_exchange
 - id: dwflabs
@@ -55016,7 +55773,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://www.softbank.jp/en/corp/aboutus/
-  context: {}
+  context:
+    aliases:
+    - softbank_corp
   aliases:
   - softbank_corp
 - id: fsn
@@ -55030,7 +55789,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://www.decentral.games/
-  context: {}
+  context:
+    aliases:
+    - decentral_games
   aliases:
   - decentral_games
 - id: nym
@@ -55070,6 +55831,8 @@ actors:
     - https://docs.crowdswap.org/
     - https://github.com/CrowdSwap
     twitter_handle: CrowdSwap_App
+    aliases:
+    - crowd_swap
   aliases:
   - crowd_swap
 - id: animocabrands
@@ -55195,6 +55958,8 @@ actors:
     - https://docs.bitcoinsuisse.com/
     - https://github.com/BitcoinSuisse
     twitter_handle: BitcoinSuisseAG
+    aliases:
+    - bitcoin_suisse
   aliases:
   - bitcoin_suisse
 - id: braintrust
@@ -55240,6 +56005,8 @@ actors:
     refs:
     - https://docs.summer.fi/
     - https://github.com/OasisDEX
+    aliases:
+    - oasisswap
 - id: oobit
   label: Oobit
   jurisdictions: []
@@ -55263,7 +56030,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://winr.games/
-  context: {}
+  context:
+    aliases:
+    - winr_protocol
   aliases:
   - winr_protocol
 - id: sygnum
@@ -55309,7 +56078,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://copper.co/
-  context: {}
+  context:
+    aliases:
+    - copperco
   aliases:
   - copperco
 - id: allianceblock
@@ -55504,6 +56275,8 @@ actors:
     - https://docs.morpho.org/
     - https://github.com/morpho-org
     twitter_handle: MorphoLabs/
+    aliases:
+    - metamorphovaults
   aliases:
   - metamorphovaults
 - id: tapioca
@@ -55529,7 +56302,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://www.kaia.io/
-  context: {}
+  context:
+    aliases:
+    - kaiafoundation
   aliases:
   - kaiafoundation
 - id: thrust
@@ -55577,6 +56352,8 @@ actors:
     coingecko_trust_score: 1
     coingecko_trust_score_rank: 851
     coingecko_has_trading_incentive: false
+    aliases:
+    - nilev1
   aliases:
   - nilev1
 - id: geodnet
@@ -55608,7 +56385,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://stablelab.xyz/
-  context: {}
+  context:
+    aliases:
+    - stable_lab
   aliases:
   - stable_lab
 - id: twtcheck
@@ -55644,6 +56423,8 @@ actors:
   context:
     refs:
     - https://docs.eve.exchange/eve-exchange-knowledge-base/project-overview/getting-started
+    aliases:
+    - eve_exchange
   aliases:
   - eve_exchange
 - id: eco
@@ -55663,7 +56444,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://www.gmo.jp/en/service/search/4/
-  context: {}
+  context:
+    aliases:
+    - gmo_coin
   aliases:
   - gmo_coin
 - id: landxfinance
@@ -55677,7 +56460,11 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://www.kakaocorp.com/page/
-  context: {}
+  context:
+    aliases:
+    - kakaocorp
+    - kakaospace
+    - kakao_space
   aliases:
   - kakaocorp
   - kakaospace
@@ -55762,7 +56549,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://www.kakaopay.com/
-  context: {}
+  context:
+    aliases:
+    - kakao_wallet
   aliases:
   - kakao_wallet
 - id: sei
@@ -55792,7 +56581,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://hoprnet.org/
-  context: {}
+  context:
+    aliases:
+    - hopr_protocol
   aliases:
   - hopr_protocol
 - id: bolt
@@ -55806,7 +56597,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://incognito.org/papps
-  context: {}
+  context:
+    aliases:
+    - incognito_chain
   aliases:
   - incognito_chain
 - id: youhodler
@@ -55904,6 +56697,8 @@ actors:
     coingecko_trust_score_rank: 520
     description: Choice is an AMM and aggregator on Injective.
     coingecko_has_trading_incentive: false
+    aliases:
+    - choise
   aliases:
   - choise
 - id: base
@@ -56021,7 +56816,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://www.sknetworks.co.kr/en
-  context: {}
+  context:
+    aliases:
+    - sk_networks
   aliases:
   - sk_networks
 - id: propchain
@@ -56049,7 +56846,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://pala.io/
-  context: {}
+  context:
+    aliases:
+    - palanftmarketplace
   aliases:
   - palanftmarketplace
 - id: mudol
@@ -56120,7 +56919,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://verichains.io/
-  context: {}
+  context:
+    aliases:
+    - verichains_vng
   aliases:
   - verichains_vng
 - id: piction
@@ -56165,6 +56966,8 @@ actors:
     refs:
     - https://docs.xei.finance/
     - https://github.com/xei-finance
+    aliases:
+    - xei_finance
   aliases:
   - xei_finance
 - id: linenextcorp
@@ -56246,7 +57049,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://ozys.io/
-  context: {}
+  context:
+    aliases:
+    - ozys_hashed
 - id: umaproject
   label: 'Uma '
   jurisdictions: []
@@ -56357,7 +57162,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://kommunedao.xyz/
-  context: {}
+  context:
+    aliases:
+    - kommune_dao
   aliases:
   - kommune_dao
 - id: kaiprotocol
@@ -56436,7 +57243,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://www.batch.money/
-  context: {}
+  context:
+    aliases:
+    - batch_money
   aliases:
   - batch_money
 - id: koreaeconomicdaily
@@ -56454,6 +57263,8 @@ actors:
     refs:
     - https://lair-finance.gitbook.io/lair-finance
     - https://github.com/bug4city/lair-lsd
+    aliases:
+    - lair_finance
   aliases:
   - lair_finance
 - id: expressprotocol
@@ -56486,6 +57297,8 @@ actors:
     coingecko_trust_score_rank: 829
     description: Unique concentrated liquidity AMM on Polygon with ve(3,3) mechanics, oTokenomics and Merkl distributed emissions
     coingecko_has_trading_incentive: false
+    aliases:
+    - retro_finance
   aliases:
   - retro_finance
 - id: bolttprotocol
@@ -56515,6 +57328,8 @@ actors:
     refs:
     - https://docs.pyth.network/documentation/
     - https://github.com/pyth-network
+    aliases:
+    - pythnetwork
   aliases:
   - pythnetwork
 - id: morpheus
@@ -56606,6 +57421,8 @@ actors:
     - https://docs.endaoment.org/introduction
     - https://github.com/endaoment/endaoment-sdk
     twitter_handle: endaomentdotorg
+    aliases:
+    - endaomentdao
   aliases:
   - endaomentdao
 - id: omnibridge
@@ -56731,6 +57548,8 @@ actors:
     coingecko_trust_score_rank: 326
     description: Introducing Lynex, The native liquidity marketplace on Linea An advanced automated market maker (AMM) that seamlessly integrates the finest elements derived from Curve, Convex,  Velodrome and Thena. Its purpose is to function as the primary liquidity hub within the Linea network. Notably, Lynex NFTs actively participate in decision-making processes related to token emissions while enjoying incentives and fees generated by the protocol.
     coingecko_has_trading_incentive: false
+    aliases:
+    - lynex-v2-linea
   aliases:
   - lynex-v2-linea
 - id: marblex
@@ -56757,7 +57576,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://www.gsretail.com/gsretail/ko/company
-  context: {}
+  context:
+    aliases:
+    - gs_retail
   aliases:
   - gs_retail
 - id: blockrazor
@@ -56779,6 +57600,8 @@ actors:
     - https://docs.forta.network/en/latest/
     - https://github.com/forta-network
     twitter_handle: FortaNetwork
+    aliases:
+    - forta_network
   aliases:
   - forta_network
 - id: tellor
@@ -56906,7 +57729,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://hectordao.com/
-  context: {}
+  context:
+    aliases:
+    - hector_network
   aliases:
   - hector_network
 - id: hapi
@@ -57023,6 +57848,9 @@ actors:
     coingecko_trust_score_rank: 929
     description: Rails Network EVM Swap
     coingecko_has_trading_incentive: false
+    aliases:
+    - steam_exchange
+    - steam-exchange-rails-network
   aliases:
   - steam_exchange
   - steam-exchange-rails-network
@@ -57104,7 +57932,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://www.mk.co.kr/
-  context: {}
+  context:
+    aliases:
+    - maekyung_media_group
   aliases:
   - maekyung_media_group
 - id: lxinternational
@@ -57112,7 +57942,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://www.lils.co.kr/index.jsp
-  context: {}
+  context:
+    aliases:
+    - lx_international
   aliases:
   - lx_international
 - id: titanx
@@ -57168,7 +58000,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://ridotto.io/
-  context: {}
+  context:
+    aliases:
+    - ridotto_token
   aliases:
   - ridotto_token
 - id: artblocks
@@ -57243,6 +58077,8 @@ actors:
     coingecko_trust_score_rank: 113
     description: Native is an on-chain platform to build token liquidity that is openly accessible and cost effective.
     coingecko_has_trading_incentive: false
+    aliases:
+    - native_pool
   aliases:
   - native_pool
 - id: gravitybridge
@@ -57250,7 +58086,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://www.gravitybridge.net/
-  context: {}
+  context:
+    aliases:
+    - gravity_bridge
   aliases:
   - gravity_bridge
 - id: prode
@@ -57351,6 +58189,8 @@ actors:
   context:
     refs:
     - https://github.com/Stacktical
+    aliases:
+    - dsla_protocol
   aliases:
   - dsla_protocol
 - id: digix
@@ -57467,6 +58307,8 @@ actors:
     - https://builder-docs.vercel.app/reference/intro
     - https://github.com/ourzora/nouns-builder?tab=readme-ov-file
     twitter_handle: nounsbuilder
+    aliases:
+    - nouns_builder
   aliases:
   - nouns_builder
 - id: uphold
@@ -57535,6 +58377,8 @@ actors:
     refs:
     - https://docs.scroll.io/en/home/
     - https://github.com/scroll-tech
+    aliases:
+    - scrollswap
   aliases:
   - scrollswap
 - id: unisat
@@ -57556,6 +58400,8 @@ actors:
     year_established: 2023
     coingecko_trust_score_rank: 948
     coingecko_has_trading_incentive: false
+    aliases:
+    - unisatrunes
   aliases:
   - unisatrunes
 - id: vpad
@@ -57674,6 +58520,10 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 534
     coingecko_has_trading_incentive: false
+    aliases:
+    - reservoir_swap
+    - reservoir-v2
+    - reservoir-v3
   aliases:
   - reservoir_swap
   - reservoir-v2
@@ -57784,7 +58634,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://klaystake.house/
-  context: {}
+  context:
+    aliases:
+    - klaystake_house
   aliases:
   - klaystake_house
 - id: redi
@@ -57804,7 +58656,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://garden.finance/
-  context: {}
+  context:
+    aliases:
+    - garden_finance
   aliases:
   - garden_finance
 - id: boost
@@ -57832,6 +58686,11 @@ actors:
     refs:
     - https://github.com/cowprotocol
     twitter_handle: cowswap
+    aliases:
+    - cowswap
+    - cowprotocol
+    - cowfi
+    - cow_protocol
 - id: moonbeam
   aliases:
   - moonriver
@@ -57839,6 +58698,10 @@ actors:
   uri: https://moonbeam.foundation
   label: Moonbeam
   categories: []
+  context:
+    aliases:
+    - moonriver
+    - moonbase
 - id: switchain
   label: Switchain
   uri: https://www.switchain.com
@@ -57898,6 +58761,10 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 323
     coingecko_has_trading_incentive: false
+    aliases:
+    - thruster-v3
+    - thruster-v2-0-3-fee-tier
+    - thruster-v2-1-0-fee-tier
 - id: coinspaid
   label: CoinsPaid
   uri: https://coinspaid.com
@@ -57908,6 +58775,9 @@ actors:
   label: Digital Surge
   uri: https://digitalsurge.com.au
   categories: []
+  context:
+    aliases:
+    - digital_surge
 - id: etoro
   label: eToro
   uri: https://www.etoro.com
@@ -57927,6 +58797,9 @@ actors:
   label: Anchorage Digital
   uri: https://www.anchorage.com
   categories: []
+  context:
+    aliases:
+    - anchorage_digital
 - id: shakepay
   label: Shakepay
   uri: https://shakepay.com
@@ -58000,6 +58873,9 @@ actors:
   label: Zero Hash
   uri: https://www.zerohash.com
   categories: []
+  context:
+    aliases:
+    - zero_hash
 - id: faast
   label: Faa.st
   uri: https://faa.st
@@ -58036,6 +58912,9 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 403
     coingecko_has_trading_incentive: false
+    aliases:
+    - koifinance
+    - koifinancev3
 - id: orbiter
   aliases:
   - orbiter_finance
@@ -58043,6 +58922,9 @@ actors:
   uri: https://orbiter.finance
   categories:
   - defi_dex
+  context:
+    aliases:
+    - orbiter_finance
 - id: velocore
   label: Velocore
   uri: https://velocore.xyz
@@ -58071,6 +58953,9 @@ actors:
   label: Panda Exchange
   uri: https://www.panda.exchange
   categories: []
+  context:
+    aliases:
+    - panda_exchange
 - id: renrenbit
   label: RenrenBit
   uri: https://renrenbit.com/
@@ -58111,6 +58996,8 @@ actors:
     coingecko_trust_score_rank: 219
     description: The Wagmi protocol is a limited TVL decentralized exchange with advanced liquidity provision strategies, GMI mechanics and leverage.
     coingecko_has_trading_incentive: false
+    aliases:
+    - wagmi-sonic
   jurisdictions:
   - AE
   aliases:
@@ -58212,6 +59099,8 @@ actors:
     coingecko_trust_score_rank: 653
     description: SwapBased is a decentralized exchange that offers Concentrated Liquidity &amp; Farms, V2 Liquidity &amp; Farms and Perpetuals all in one place.
     coingecko_has_trading_incentive: false
+    aliases:
+    - swapbased-v3
   categories:
   - defi_dex
   uri: swapbased.dummy
@@ -58240,6 +59129,8 @@ actors:
     coingecko_trust_score: 2
     coingecko_trust_score_rank: 702
     coingecko_has_trading_incentive: false
+    aliases:
+    - ramses-v2
   categories:
   - defi_dex
   uri: ramses.dummy
@@ -58330,6 +59221,11 @@ actors:
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 99
     coingecko_has_trading_incentive: false
+    aliases:
+    - fluid-arbitrum
+    - fluid-plasma
+    - fluid-base
+    - fluid-polygon
   categories:
   - defi_dex
   uri: fluid.dummy
@@ -58471,6 +59367,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - exchange_a
   categories:
   - exchange
   uri: exchange_a.dummy
@@ -58493,6 +59391,8 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 506
     coingecko_has_trading_incentive: false
+    aliases:
+    - fusionx-v3
   categories:
   - defi_dex
   uri: fusionx.dummy
@@ -58555,6 +59455,8 @@ actors:
     coingecko_trust_score: 3
     coingecko_trust_score_rank: 731
     coingecko_has_trading_incentive: false
+    aliases:
+    - blazeswap-flare
   categories:
   - defi_dex
   uri: blazeswap.dummy
@@ -58579,6 +59481,9 @@ actors:
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 156
     coingecko_has_trading_incentive: false
+    aliases:
+    - kodiak-v3
+    - kodiak-v2
   categories:
   - defi_dex
   uri: kodiak.dummy
@@ -58598,6 +59503,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - throne_exchange
   categories:
   - defi_dex
   uri: throne_exchange.dummy
@@ -58640,6 +59547,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - fake_phishing178858
   categories:
   - social_engineering
   uri: fake_phishing178858.dummy
@@ -58713,6 +59622,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - ultimate_champions
   categories:
   - exchange
   uri: ultimate_champions.dummy
@@ -58771,6 +59682,10 @@ actors:
     coingecko_trust_score: 4
     coingecko_trust_score_rank: 681
     coingecko_has_trading_incentive: false
+    aliases:
+    - velocimeter-fantom
+    - velocimeter-iota-evm
+    - velocimeter-base
   categories:
   - defi_dex
   uri: velocimeter.dummy
@@ -58815,6 +59730,12 @@ actors:
     coingecko_trust_score_rank: 673
     description: SMARDEX is an Automated Market Maker (AMM) that addresses the issue of Impermanent Loss (IL) and in some cases transforms it into Impermanent Gain (IG). It is an open-source Smart Contract, which is a decentralized software that runs on compatible Ethereum Virtual Machine blockchains.
     coingecko_has_trading_incentive: false
+    aliases:
+    - smardex-ethereum
+    - smardex-bsc
+    - smardex-base
+    - smardex-polygon
+    - smardex-arbitrum
   categories:
   - defi_dex
   uri: smardex.dummy
@@ -58839,6 +59760,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - norwegian_block_exchange
   categories:
   - exchange
   uri: norwegian_block_exchange.dummy
@@ -58849,6 +59772,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - coss_exchange
   categories:
   - exchange
   uri: coss_exchange.dummy
@@ -58951,6 +59876,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - indoex_ltd
   categories:
   - exchange
   uri: indoex_ltd.dummy
@@ -58961,6 +59888,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - impare_drainer
   categories:
   - social_engineering
   uri: impare_drainer.dummy
@@ -58971,6 +59900,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - tbcc_global
   categories:
   - exchange
   uri: tbcc_global.dummy
@@ -59020,6 +59951,8 @@ actors:
     coingecko_trust_score: 3
     coingecko_trust_score_rank: 749
     coingecko_has_trading_incentive: false
+    aliases:
+    - dackieswap-v2
   categories:
   - defi_dex
   uri: dackieswap.dummy
@@ -59232,6 +60165,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - bitcoin_meester
   categories:
   - exchange
   uri: bitcoin_meester.dummy
@@ -59242,6 +60177,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - artis_turba_exchange
   categories:
   - exchange
   uri: artis_turba_exchange.dummy
@@ -59269,6 +60206,10 @@ actors:
     coingecko_trust_score_rank: 666
     description: 'Carbon DeFi: A Next-Gen Decentralized Exchange (DEX) by Bancor Carbon DeFi, powered by Bancor, simplifies decentralized trading and liquidity management by enabling strategy makers to create and customize trading strategies with precision and control. At its core is a built-in solver system- a trading bot that integrates seamlessly with major DEXes across a blockchain, leveraging chain-wide liquidity to help ensure efficient order fulfillment. Key Features of Carbon DeFi Strategy makers gain key advantages such as immunity to MEV sandwich attacks, zero slippage, and the ability to edit positions directly onchain. Strategy types include: Limit Orders: Set precise buy or sell prices and receive exactly the quoted price. Range Orders: Scale in or out of positions by defining price ranges (e.g., buy a cryptocurrency from $1 down to $0.75). Recurring Orders: Automate "buy low, sell high" strategies by linking buy and sell orders. Auto-Compounding Concentrated Liquidity: Choose custom fee tiers, free from tick constraints. Advanced Trading Tools Carbon DeFi’s user interface (UI) includes tools designed to simplify and enhance trading: Simulator: Backtest strategies using historical data for informed decision-making. In-House Drawing Tools: Track trends, pinpoint key levels, and map strategies- all on the UI. Advanced Activity Tracker: Monitor individual and protocol-wide position performance with CSV export options. Security Carbon DeFi has undergone rigorous audits and operates with zero third party dependencies, such as keepers, oracles, and hooks.'
     coingecko_has_trading_incentive: false
+    aliases:
+    - carbon_defi
+    - carbon-defi-celo
+    - carbon
   categories:
   - defi_dex
   uri: carbon_defi.dummy
@@ -59330,6 +60271,12 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 369
     coingecko_has_trading_incentive: false
+    aliases:
+    - dyorswap-monad
+    - dyorswap-ink
+    - dyorswap-x-layer
+    - dyorswap-plasma
+    - dyorswap-world-chain
   categories:
   - defi_dex
   uri: dyorswap.dummy
@@ -59344,6 +60291,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - sora_hashi
   categories:
   - defi_bridge
   uri: sora_hashi.dummy
@@ -59374,6 +60323,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - multibank_group
   categories:
   - exchange
   uri: multibank_group.dummy
@@ -59408,6 +60359,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - anycoin_direct
   categories:
   - exchange
   uri: anycoin_direct.dummy
@@ -59454,6 +60407,15 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 295
     coingecko_has_trading_incentive: false
+    aliases:
+    - syncswap-linea
+    - syncswap-scroll
+    - syncswap-v2-zksync
+    - syncswap-v2-1-scroll
+    - syncswap-v3-zksync
+    - syncswap-v2-1-linea
+    - syncswap-v2-1-zksync
+    - syncswap-v2-1-sophon
   categories:
   - defi_dex
   uri: syncswap.dummy
@@ -59471,6 +60433,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - alcumex_exchange
   categories:
   - exchange
   uri: alcumex_exchange.dummy
@@ -59561,6 +60525,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - calypso_exchange
   categories:
   - exchange
   uri: calypso_exchange.dummy
@@ -59586,6 +60552,8 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 547
     coingecko_has_trading_incentive: false
+    aliases:
+    - yakafinancev3
   aliases:
   - yakafinancev3
 - id: youngplatform
@@ -59644,6 +60612,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - bnb_bridge_exploiter
   categories:
   - hacking
   uri: bnb_bridge_exploiter.dummy
@@ -59654,6 +60624,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - yield_yak
   categories:
   - defi_dex
   uri: yield_yak.dummy
@@ -59688,6 +60660,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - sterling_finance
   categories:
   - defi_dex
   uri: sterling_finance.dummy
@@ -59714,6 +60688,9 @@ actors:
     coingecko_trust_score_rank: 205
     description: Alien Base is the Base-native DEX for degen earthlings.
     coingecko_has_trading_incentive: false
+    aliases:
+    - alien-base-v3
+    - alien-base
   categories:
   - defi_dex
   uri: alienbase.dummy
@@ -59775,6 +60752,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - lemon_cash
   categories:
   - exchange
   uri: lemon_cash.dummy
@@ -59813,6 +60792,8 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 330
     coingecko_has_trading_incentive: false
+    aliases:
+    - nuri-v2
   categories:
   - defi_dex
   uri: nuri.dummy
@@ -59870,6 +60851,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - nexbit_pro
   categories:
   - exchange
   uri: nexbit_pro.dummy
@@ -59880,6 +60863,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - umbria_narni_bridge
   categories:
   - defi_bridge
   uri: umbria_narni_bridge.dummy
@@ -59917,6 +60902,8 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 319
     coingecko_has_trading_incentive: false
+    aliases:
+    - katana-v3
   categories:
   - defi_dex
   uri: katana.dummy
@@ -60014,6 +61001,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - flata_exchange
   categories:
   - exchange
   uri: flata_exchange.dummy
@@ -60040,6 +61029,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - prime_trust
   categories:
   - exchange
   uri: prime_trust.dummy
@@ -60082,6 +61073,10 @@ actors:
     coingecko_trust_score_rank: 277
     description: Merchant Moe is the native Decentralized Exchange of Mantle
     coingecko_has_trading_incentive: false
+    aliases:
+    - merchant_moe
+    - merchant-moe-mantle
+    - merchant-moe-liquidity-book-mantle
   categories:
   - defi_dex
   uri: merchant_moe.dummy
@@ -60131,6 +61126,9 @@ actors:
     coingecko_trust_score_rank: 801
     description: Trade, earn, stake, and launch crypto with the most best DEX on the internet. Make derp great again!
     coingecko_has_trading_incentive: false
+    aliases:
+    - derpdex-base
+    - derpdex-opbnb
   categories:
   - defi_dex
   uri: derpdex.dummy
@@ -60168,6 +61166,8 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    aliases:
+    - eigen_fx
   categories:
   - exchange
   uri: eigen_fx.dummy
@@ -60238,6 +61238,9 @@ actors:
   jurisdictions:
   - HK
   uri: x.com/osldotcom
+  context:
+    aliases:
+    - oslcom
 - id: websea
   label: Websea
   jurisdictions:
@@ -60257,6 +61260,12 @@ actors:
     coingecko_trust_score_rank: 709
     description: Websea is a Web3 digital asset world for global youth. The platform boasts a dual-account security system, intelligent copy-trading, and other innovative services, enabling more young individuals to access the Web 3.0 world conveniently, quickly, and securely. Furthermore, through the tokenomics design of the platform's native token WBS based on Web3 attributes, more young people can reap substantial rewards and value returns while participating in Websea's social, entertainment, and gaming ecosystem.
     coingecko_has_trading_incentive: false
+- id: whirlwind
+  label: Whirlwind
+  jurisdictions: []
+  categories:
+  - mixing_service
+  uri: whirlwind.cash
 - id: yuzu
   label: Yuzu
   jurisdictions: []

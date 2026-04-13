@@ -552,10 +552,10 @@ actors:
     - 9mmv3pulsechain
   aliases:
   - 9mmv3pulsechain
-- id: obyte
+- id: Obyte
   aliases:
   - counterstake
-  - Obyte
+  - obyte
   label: Obyte Ostable/Oswap/Prophet/Counterstake
   jurisdictions: []
   categories:
@@ -589,10 +589,10 @@ actors:
     twitter_handle: ObyteOrg
     aliases:
     - counterstake
-    - Obyte
-- id: venomdao
+    - obyte
+- id: Venomdao
   aliases:
-  - Venomdao
+  - venomdao
   label: VenomDao ViperSwap / CobraSwap / Comfy Money
   jurisdictions: []
   categories:
@@ -624,10 +624,10 @@ actors:
     - icons.llama.fi/comfy-money.svg
     twitter_handle: VenomDAO
     aliases:
-    - Venomdao
-- id: zbg
+    - venomdao
+- id: ZBG
   aliases:
-  - ZBG
+  - zbg
   label: ZBG
   jurisdictions:
   - MT
@@ -649,7 +649,7 @@ actors:
     - coingecko/cer.live says est. in CN
     twitter_handle: ZBG_Exchange
     aliases:
-    - ZBG
+    - zbg
 - id: aada
   label: Aada
   jurisdictions: []
@@ -5505,9 +5505,9 @@ actors:
     images:
     - icons.llama.fi/beta-finance.jpg
     twitter_handle: beta_finance
-- id: betchaincomold
+- id: betchaincom-old
   aliases:
-  - betchaincom-old
+  - betchaincomold
   uri: betchain.com-old
   categories:
   - gambling
@@ -5519,7 +5519,7 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/BetChain.com-old
     aliases:
-    - betchaincom-old
+    - betchaincomold
 - id: betcoinag
   uri: betcoin.ag
   categories:
@@ -6110,9 +6110,9 @@ actors:
     - api.coingecko.com/api/v3/exchanges/birake
     images:
     - assets.coingecko.com/markets/images/419/small/Birake.png?1559647171
-- id: birwocomold
+- id: birwocom-old
   aliases:
-  - birwocom-old
+  - birwocomold
   uri: birwo.com-old
   categories:
   - service
@@ -6123,7 +6123,7 @@ actors:
     - www.walletexplorer.com/wallet/Birwo.com-old
     active: false
     aliases:
-    - birwocom-old
+    - birwocomold
 - id: bishares
   label: BiShares
   jurisdictions: []
@@ -6575,9 +6575,9 @@ actors:
     refs:
     - www.theasianbanker.com/publication/virtual-currency-services
     active: false
-- id: bitcoinbourse
+- id: bitcoin-bourse
   aliases:
-  - bitcoin-bourse
+  - bitcoinbourse
   uri: bitcoinbourse.eu/
   categories:
   - exchange
@@ -6589,10 +6589,10 @@ actors:
     - www.theasianbanker.com/publication/virtual-currency-services
     active: false
     aliases:
-    - bitcoin-bourse
-- id: bitcoinroulettecom
+    - bitcoinbourse
+- id: bitcoin-roulettecom
   aliases:
-  - bitcoin-roulettecom
+  - bitcoinroulettecom
   uri: bitcoin-roulette.com
   categories:
   - service
@@ -6603,7 +6603,7 @@ actors:
     - www.walletexplorer.com/wallet/Bitcoin-Roulette.com
     active: false
     aliases:
-    - bitcoin-roulettecom
+    - bitcoinroulettecom
 - id: bitcoin24
   label: Bitcoin-24
   jurisdictions:
@@ -9641,9 +9641,9 @@ actors:
     images:
     - icons.llama.fi/btcst.png
     twitter_handle: BTCST2020
-- id: btcstcompirateat40
+- id: btcstcom-pirateat40
   aliases:
-  - btcstcom-pirateat40
+  - btcstcompirateat40
   uri: btcst.com-pirateat40
   categories:
   - service
@@ -9654,7 +9654,7 @@ actors:
     - www.walletexplorer.com/wallet/Btcst.com-pirateat40
     active: false
     aliases:
-    - btcstcom-pirateat40
+    - btcstcompirateat40
 - id: btctcom
   uri: btct.com
   categories:
@@ -12139,9 +12139,9 @@ actors:
     - coinexchange
   aliases:
   - coinexchange
-- id: coinswapnet
+- id: coin-swapnet
   aliases:
-  - coin-swapnet
+  - coinswapnet
   uri: coin-swap.net
   categories:
   - service
@@ -12152,10 +12152,10 @@ actors:
     - www.walletexplorer.com/wallet/Coin-Swap.net
     active: false
     aliases:
-    - coin-swapnet
-- id: coinsweepercom
+    - coinswapnet
+- id: coin-sweepercom
   aliases:
-  - coin-sweepercom
+  - coinsweepercom
   uri: coin-sweeper.com
   categories:
   - service
@@ -12166,7 +12166,7 @@ actors:
     - www.walletexplorer.com/wallet/Coin-Sweeper.com
     active: false
     aliases:
-    - coin-sweepercom
+    - coinsweepercom
 - id: coinapultcom
   uri: coinapult.com
   categories:
@@ -14437,9 +14437,9 @@ actors:
     images:
     - icons.llama.fi/cryptex-locker.png
     twitter_handle: ExLocker
-- id: cryptogamesnet
+- id: crypto-gamesnet
   aliases:
-  - crypto-gamesnet
+  - cryptogamesnet
   uri: crypto-games.net
   categories:
   - gambling
@@ -14451,10 +14451,10 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/Crypto-Games.net
     aliases:
-    - crypto-gamesnet
-- id: cryptotradecom
+    - cryptogamesnet
+- id: crypto-tradecom
   aliases:
-  - crypto-tradecom
+  - cryptotradecom
   uri: crypto-trade.com
   categories:
   - service
@@ -14468,7 +14468,7 @@ actors:
     - www.theasianbanker.com/publication/virtual-currency-services
     active: false
     aliases:
-    - crypto-tradecom
+    - cryptotradecom
 - id: cryptoblades
   label: CryptoBlades
   jurisdictions: []
@@ -21969,9 +21969,9 @@ actors:
     images:
     - icons.llama.fi/gemkeeper.png
     twitter_handle: GemKeeperDeFi
-- id: genesisminingcom
+- id: genesis-miningcom
   aliases:
-  - genesis-miningcom
+  - genesisminingcom
   uri: genesis-mining.com
   categories:
   - service
@@ -21981,7 +21981,7 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/Genesis-Mining.com
     aliases:
-    - genesis-miningcom
+    - genesisminingcom
 - id: genesisfinance
   label: Genesis Finance
   jurisdictions: []
@@ -24910,9 +24910,9 @@ actors:
     coingecko_trust_score_rank: 950
     description: ICDex is a fully on-chain order book DEX project built on the IC blockchain.
     coingecko_has_trading_incentive: false
-- id: icedicecom
+- id: ice-dicecom
   aliases:
-  - ice-dicecom
+  - icedicecom
   uri: ice-dice.com
   categories:
   - service
@@ -24923,7 +24923,7 @@ actors:
     - www.walletexplorer.com/wallet/Ice-Dice.com
     active: false
     aliases:
-    - ice-dicecom
+    - icedicecom
 - id: icecolony
   label: Ice Colony
   jurisdictions: []
@@ -25729,9 +25729,9 @@ actors:
     images:
     - icons.llama.fi/interest-protocol.jpg
     twitter_handle: InterestDeFi
-- id: internetarchive
+- id: internet_archive
   aliases:
-  - internet_archive
+  - internetarchive
   uri: https://archive.org
   label: Internet Archive
   jurisdictions:
@@ -25740,7 +25740,7 @@ actors:
   - organization
   context:
     aliases:
-    - internet_archive
+    - internetarchive
 - id: interlaycollateral
   label: Interlay Collatera/BTC/Staking/Kintsugi
   jurisdictions: []
@@ -26613,9 +26613,9 @@ actors:
     images:
     - icons.llama.fi/jupiter-swap.png
     twitter_handle: jupiter_swap
-- id: justdicecom
+- id: just-dicecom
   aliases:
-  - just-dicecom
+  - justdicecom
   uri: just-dice.com
   categories:
   - service
@@ -26626,7 +26626,7 @@ actors:
     - www.walletexplorer.com/wallet/Just-Dice.com
     active: false
     aliases:
-    - just-dicecom
+    - justdicecom
 - id: justcoin
   label: Justcoin
   jurisdictions:
@@ -42320,9 +42320,9 @@ actors:
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 215
     coingecko_has_trading_incentive: false
-- id: satoshikaroshicom
+- id: satoshi-karoshicom
   aliases:
-  - satoshi-karoshicom
+  - satoshikaroshicom
   uri: satoshi-karoshi.com
   categories:
   - gambling
@@ -42332,7 +42332,7 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/Satoshi-Karoshi.com
     aliases:
-    - satoshi-karoshicom
+    - satoshikaroshicom
 - id: satoshibetcom
   uri: satoshibet.com
   categories:
@@ -43554,9 +43554,9 @@ actors:
     - www.crunchbase.com/organization/simple-coin
     - www.walletexplorer.com/wallet/SimpleCoin.cz
     active: true
-- id: simplecoinusmining
+- id: simplecoinus_mining
   aliases:
-  - simplecoinus_mining
+  - simplecoinusmining
   label: Simplecoin.us
   categories:
   - mining_service
@@ -43567,7 +43567,7 @@ actors:
     - btc.com/stats/pool/simplecoin.us
     active: false
     aliases:
-    - simplecoinus_mining
+    - simplecoinusmining
 - id: sinbadio
   label: sinbad.io
   uri: sinbad.io
@@ -46258,9 +46258,9 @@ actors:
     twitter_handle: StripsFinance
     aliases:
     - strips
-- id: strongcoincomfee
+- id: strongcoincom-fee
   aliases:
-  - strongcoincom-fee
+  - strongcoincomfee
   uri: strongcoin.com-fee
   categories:
   - service
@@ -46270,7 +46270,7 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/StrongCoin.com-fee
     aliases:
-    - strongcoincom-fee
+    - strongcoincomfee
 - id: stronghands
   label: Stronghands
   jurisdictions: []
@@ -51822,9 +51822,9 @@ actors:
     refs:
     - https://www.crunchbase.com/organization/viabtc
     - https://btc.com/stats/pool/ViaBTC
-- id: vicsocksto
+- id: vic-socksto
   aliases:
-  - vic-socksto
+  - vicsocksto
   uri: vic-socks.to
   categories:
   - service
@@ -51834,7 +51834,7 @@ actors:
     refs:
     - www.walletexplorer.com/wallet/Vic-Socks.to
     aliases:
-    - vic-socksto
+    - vicsocksto
 - id: vidya
   label: Vidya
   jurisdictions: []

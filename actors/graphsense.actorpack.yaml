@@ -607,7 +607,6 @@ actors:
     - comfy
     - viper
     - viperswap
-    - comfy
     defilama_ids:
     - viperswap
     - cobraswap
@@ -1421,8 +1420,6 @@ actors:
   - defi_dex
   uri: www.alexgo.io
   context:
-    coingecko_ids:
-    - alexgo
     defilama_ids:
     - alex
     refs:
@@ -5048,9 +5045,7 @@ actors:
   uri: www.bcex.ca
   context:
     coingecko_ids:
-    - bchpad
-    defilama_ids:
-    - bchpad
+    - bcex
     refs:
     - coinmarketcap.com/exchanges/bcex/
     - www.cryptowisser.com/exchange/bcex/
@@ -33716,7 +33711,7 @@ actors:
   uri: nereus.finance
   context:
     coingecko_ids:
-    - wirex
+    - nereus-token
     defilama_ids:
     - nereus-finance
     refs:
@@ -34313,7 +34308,6 @@ actors:
   uri: nonkyc.io
   context:
     coingecko_ids:
-    - flipster
     - nonkyc_io
     defilama_ids:
     - nonkyc-io
@@ -34360,7 +34354,6 @@ actors:
   context:
     coingecko_ids:
     - nomiswap
-    - nominex
     - nomiswap_stable
     defilama_ids:
     - nomiswap
@@ -54392,8 +54385,6 @@ actors:
   - exchange
   uri: www.zb.com
   context:
-    coingecko_ids:
-    - zbx
     refs:
     - coinmarketcap.com/exchanges/zb-com/
     - www.crunchbase.com/organization/zb-com

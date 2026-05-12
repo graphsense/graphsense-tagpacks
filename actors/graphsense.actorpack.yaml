@@ -460,6 +460,18 @@ actors:
     - China-focused
     legal_name: 796 ELLECTRONIC TRADING Ltd.
     active: false
+- id: 8888com
+  label: 8888.com
+  uri: 8888.com
+  jurisdictions: []
+  categories:
+  - exchange
+  context:
+    refs:
+    - 8888.com
+    notes:
+    - Cryptocurrency trading platform offering spot and perpetual contract trading
+    active: true
 - id: 88mph
   label: 88mph
   jurisdictions: []

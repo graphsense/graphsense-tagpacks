@@ -5972,7 +5972,6 @@ actors:
   - ZA
   categories:
   - organization
-  - defi_dex
   - exchange
   - mining_service
   uri: binance.com
@@ -14511,7 +14510,6 @@ actors:
   categories:
   - organization
   - exchange
-  - defi_dex
   uri: crypto.com
   context:
     notes:
@@ -35048,7 +35046,6 @@ actors:
   categories:
   - organization
   - exchange
-  - defi_dex
   - mining_service
   - miner
   uri: okx.com

@@ -61350,3 +61350,22 @@ actors:
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 493
     coingecko_has_trading_incentive: false
+- id: relay
+  aliases:
+  - relaylink
+  - relayprotocol
+  label: Relay
+  jurisdictions: []
+  categories:
+  - defi_bridge
+  uri: relay.link
+  context:
+    refs:
+    - relay.link
+    - docs.relay.link
+    images:
+    - relay.link/favicon.ico
+    notes:
+    - Cross-chain bridging and swap protocol (Relay Protocol, built by Reservoir)
+    twitter_handle: RelayProtocol
+    active: true

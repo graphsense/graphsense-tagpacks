@@ -3374,6 +3374,7 @@ tags:
   label: SIM, Hyon Sop
   source: https://www.treasury.gov/ofac/downloads/sdn.csv
   category: sanction
+  context: '{"chains": ["arbitrum", "ethereum"]}'
 - address: TGXE9dGWawjfd3xqFSho1h1bRbRv9wUGrF
   currency: TRX
   label: SIM, Hyon Sop
@@ -3878,6 +3879,11 @@ tags:
   category: sanction
 - address: '0xe950dc316b836e4eefb8308bf32bf7c72a1358ff'
   currency: ETH
+  label: GAZA NOW
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TXEsK1sEsKjZ1xtHitnyAAoqw3WLdYdRNW
+  currency: TRX
   label: GAZA NOW
   source: https://www.treasury.gov/ofac/downloads/sdn.csv
   category: sanction

@@ -1,0 +1,5244 @@
+title: AI DECISIONS - OFAC SDN crypto addresses (primary-source)
+creator: AI DECISIONS (aidecisions.ai)
+description: Public-source address labels unified by the openlabels attribution pipeline. Every tag carries the URI of the public source it was harvested from.
+lastmod: '2026-09-14'
+confidence: authority_data
+tags:
+- address: TNiq9AXBp9EjUqhDhrwrfvAA8U3GUQZH81
+  currency: TRX
+  label: BANK MARKAZI JOMHOURI ISLAMI IRAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TTiDLWE6fZK8okMJv6ijg42yrH6W2pjSr9
+  currency: TRX
+  label: BANK MARKAZI JOMHOURI ISLAMI IRAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TAhwhFv3JpK39Nc2m8W5LPCcoTisutiRfp
+  currency: TRX
+  label: BANK MARKAZI JOMHOURI ISLAMI IRAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TJdgB1k6ot3f2nLuZug6D8eD3HavTmzmSK
+  currency: TRX
+  label: BANK MARKAZI JOMHOURI ISLAMI IRAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TXGHxdYbGy574z5hBu4LNzq9NzjZQ9bhUf
+  currency: TRX
+  label: BANK MARKAZI JOMHOURI ISLAMI IRAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TFQbqaNbmq2xsVor2NbufLkYZvxFC9wC7k
+  currency: TRX
+  label: BANK MARKAZI JOMHOURI ISLAMI IRAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TUoixKFaWVsHxGWgnYyMzpkrT22YqU7VvH
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TBtRqkiFzyuwe8nSAGQghxygAfwAF5eERq
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TTs7KRq39547ruAsxb9brAPuTLy7h3U6H1
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TVttWTHTCU9kULP51m9BaHpmCW8H1BJJNQ
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TCqKhk7MpPnGH3UfygE1TRzUo92a5tuVy6
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TSbGiFzG9xFXUYgGA6RwbS3jvKNpeA4c3R
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TVXHp8bMrpRd5HGy3w1yu9f87qwRrMHFp8
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TQ8a74SiDig3EDSC14tosLACWLbvaNYwCJ
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TWdqVcA3NyrNv71NgbMwKv3C5XMxj4XjSp
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TX1zyMrYZNbtQx7yPZp4adZV5NbToGNrkS
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TSSQDgExKUELagzAKTAcoLMviq4SZ1eTFm
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TUfq9hfP7qUDMoJbzkjG4GPtNxhZewqk8Z
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TCEe3McjK9FWby8YsNmtRDwJt1x2s5dFTL
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TBJqexr1FfGxVKhDsKeou6FVLBW1aS1Ny7
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TV6cvFEMcfxGsWqgxpBrXZ35MkhdtdhT3G
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: THfLaNMBAMz7xXnHoz5BkRMmrwuHKqfAfR
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TCudJgJ14kk3Ss2PEgsT15frztKpyG7HEh
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TCk1g37N3x6PDda63waydNQwqTUzFNpsrR
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TU8hJXgHdxWuj4DaaBKQFUwDeB8B5Xacke
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TL5WqcFX7XkhVLLwaXrdr57gnjC4stBeSG
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TSFCGGbR57b56c4MXdiW5gzpD8j6cmimgo
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TXHb3BkGgYmygyS14MJKX8kTcFGT7dXN4r
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TN56YaCBymut2xoiRvy3v2qZ2pYgmBAtSo
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TPnUDsrLYZg1UXGkpXSmhFEY5J5etfzE9S
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TVXP7Aj5KFUPKMQUrsU6F3wUsyiLiUaUje
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TDxXXmCELgrb5VwYobDMyTKVTTdY9LjEjx
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TXoVNrqm11FFVKcF1vEND64gibVkr1HwAR
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TEKeY9i4CcVySJMmhuh2AxZhtgTmugYUMW
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TW9mABkenngQyJBqce5khR9fNCBF5gsBFQ
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TWumrtaEaPCv8Bs9mXqKkhY5sZVd78QAdS
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TD7TXyvmjPfJkfhJuQ58NXA9dX9q81mqAp
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TEtLieZwyjJTth7S5EJqUNjtSbM1ui9toK
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TS729BUXeZWBhJGPKCdK75q7VU4nhkJkYT
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TER8k4zWt3byuHyvyBkLstz3QVUUuBs9pt
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TByksCkUtMaYwHCSaetmAGufpeyfdXBrJk
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TNmKrdYLPtFwPNWJUjrXdkQw4gSwpszUJd
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TTuDmNhu8A6koPJRUd8Q5RnsT1FMfrZnoj
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TGLrjZc9c48iMFB4ZmDnSjSRMq27MXPg2k
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TVgJTK9qPg7wGTyeTG2MYF8aKMEx883xYU
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TPkNp2Z5KiA1sLWpPMWsfNErVo2dHxc4iy
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TDSGtCciE9yFKYzDj1kBBc3F7gosguDqwC
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TNVbVXAgUT83Sv7E9oZwWutXqzs13sr6xN
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TAwNQN5tmzJJ694PPuoFUxQY13quBs8YgA
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TGNwKzHjYvYP2SwsrmCYrRRvCRdxQgLq1w
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TA3rH2A7iHnm6pKH8gr9cK1EZnShnmZdFg
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TLj5ZRvem4DAdbZLTGU3qAbAdLQug57JVo
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TMRxAJt87MVYnadWne53AxZFG1FPKGfoGz
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TRmrnQiUY1ofMcTQUXvgeauKcZPnmwUeUR
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TBKq3SzXigsGhQNzdCYocpt8RzoMh3uxAr
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TYAiWf2KhXrGuWxmCPaJgC6zNYwFuKtioi
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TYVveapkRkm5RHcDNPU9QnPk8N5RdsS4iY
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TK7HUNru8YLMz7vv8kzWRPrE2ZSgZeCaHV
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TAyyw6ZoTZexvTcN7WRR9t79JUFgSAvkL8
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TJGVHmHVNuU1vsXGGALLoirPwoRZoMUuhg
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TB1Bcv3x8mg7PVV4nVM48pgHJKcYboTypU
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TWxoDF6qvjMUeTYRimaiARGsJTUnjrzZn3
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TCXihiScsAodR942Xq45df9qQAdr5nhkjQ
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TDhtVUnmYwWfzWVrnzryr3fbQo8VTvj4ji
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TE6VgR7rAuY4kuzCjdSVCZFXPjjzSQYY7X
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TV62LkiP1GiNdFCJEdY3xf6GdNLCCi6mfu
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TWBqpQLDPCrXgRW1X9yFqR8NFfjyFSq5k4
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TQetJ6xMqvv2Fu4ftD9UdBhuaKem5HbMou
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TWAfC6htS1FyFv1r3aKENuD8DQGMzBbP8L
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TMfDhpUqW5W6HcMPXFaJfaiY271CYa51Hs
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TB5J8W166YTUmtpUsy4XnNTKLVtesuE9eV
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TSE5NWTJckiN8hJCUzwB3RgsMbdF4uCrmr
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TDi9s3GeAtFBbUvGxqXiZnxiaH9QpqjYFn
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TCUTmWspsaJb3U5JUs5AhVcGwaftyK1qtp
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TYvR9x3Dqx39s9rooaSAHwVwF8psBrcFBV
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TUyo1Kfnnjr2iMQdZxLWPX1U8Xiy1Wz5z5
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TBhR5MLrTsNZ8FUyKgzdrCjWkYD2orYLdx
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: THstQuwNidzC4YeJ7uPowf55ZdVZtGcHJ5
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TKX6rgpGpGrJWzf1qXUUSNL5cYHQt7Z9rY
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TWoRwYzsifrD79DHDpTHC8fq787MvH9Qro
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TDHJNJHosn6xNDxMecFZwXyTzE9bYGXp9L
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TQVZEuLHacexyJX3nZStaPzxceS63C9bax
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TQb6Pc4PmfUdUokLq5ygNioj4PnodNak9b
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TR3yiEuFrbBnP8X5DKYFjRxCwbxcYyftD4
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TEBHpD6iiAqhyS4w7zZFmD1rrv65a5HVTD
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TMocScwSbSn2cqRCHVkzZSEar3Jk5AsXgo
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TNKyDgjn2WHZwHhH2Mj5AGMnK4moBX9xQd
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TPcwqbJ3ViWMUQMiKfMjDM7VTiCzdRu1cH
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TVJ4B5R8c8dS65NtUXpZPMGUpCRq8BQUrC
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TAgZxxuvfuKYJY5UPC1DXF8NPHbKtTzEGu
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TCyAE8Lxa1rmTThhE5Z3X95PC9rgMrReMX
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TSi1d66cgg3cPm9L6c2ZD8K1381XusSjkc
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TR83KsDjUKeds62PcAgo7BfhPJPSpMk7Ba
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TDX3dFNPvJeA9eVLLNqf1ixr4U2ktcDmoD
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TJCUwt9EKeTyzDw42658h8aYxQXScLdCZR
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TETfViHWf9ZNB6WJgZBRMB48pTaBFo5Rmd
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TBhTMBAaEWiTtMgMdJ97ZmYotgHeY543cc
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TFebC149jCDiow1MBphhfpHDLeMAKRNrqJ
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TXw4d7BseHBn6sneMUzm4nEdfPVjuJGEH9
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TQt3dWHiPdaKioG7nwovoTDUtxfimyuxYa
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TE5R3hJ6REap6vh14YAqjXczKrYaiteTy3
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TCCryMcQb5A5FSYkmcVy26Nd8J1FWHtfWh
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TLC3piEQ5n4tcULKHqLTGhmYFUyHUVSxck
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TLDtPq9PQsDuQunME8CSeVdYaLtRdrVgoJ
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TRqbVMHWck3j2vKzA16L69v3cwuoyQSY8L
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TA82wQ77kb9DieW4C8q7C4KwMfnCzfziqN
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TUcjuVB6RFvsMgE352Kdc3VHvFvteti97B
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TBfVDwNS6hC2Ln2qTLTRKMMPddscFEhhrU
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TC7vaJsxZteEEnnm2EFm9BRSZvezvsuA86
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TRWDtgCfXzTcMv8W6iJxh6umeqeF3zG7n5
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TUa7BcRjT3eT7kPyNWPvHQkz4qF9v68D7A
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TNHNySUf8LMzhzSiQnHCXCbgatscQbM4ZQ
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TNzvDTvcQTaY9jFrv85JnqibnGcudePj1z
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TUcNB6c22JmcwXbbbuv9HVPeVqv5HSiTwQ
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TVUS1CVQnnzoJG8PBWkcWyf7DkLrS8yh5Z
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TXR1nhqAek4c5Dq9EfjQLarcBWR9Jp6N7m
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TFS2LHNcrffdAVRHpDUpNvnmCHs78cSNbz
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TPTFrDhx5tntyp5mRX423DaAe8aLDMUs31
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TCn9wM828B1GtsVn8kUaCvoE3RpfCAmtEB
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TFtz6Ae6NNo9VvhnVrj6V1RyEFMtZQMh3r
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TMoMat6oyJLKxSb6SfQWBWc7q5PSm3Gr6U
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TNsMJKvAtqiWntAnrcS8jkugL37FGzoqss
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TPCnxv28xNbvtAaEppddvnfkjQpaFeAkV3
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TDXBEozXRJy7eBYNCoqrDMRCx5QBN4jCCt
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TTrJwfL8SCSWBXWAPcZV8Pd5fZf1rznRhz
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TFqo5f16FJfSKesPxtGN4VN5HNZJebqMQX
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TPwjq8YuABThppKM5ppsuagBFwDhzpnY11
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TXgm2Pej4dHzh6oAJvaxAVFDevgGJqfSKr
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TUErmQ9GtRDGC4g4L5wjWS55Ju5hYfR3sa
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: THPfLwEGvHVgRzi7EMnviAFy5WG1feDH1p
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TPH1ehJuNY8cRuJgWTXoGuzkVpK5ckueLF
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TRZvMk2D4fmjGjtuZHRVpgw6yjk8NcjsHV
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TMuBvwcgrTj6JysMmutXWaPjk1kREK2BDe
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TE5paMkU1hPr8BdjkSJLvEyUBxjKKSx1H6
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TBmqXsFNYTMkyw9jVGBAecGaLyLwbxFTM1
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TFh7Z4qmdiT7opAYYLmNVXQJtVCkAtg7Zh
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TLFqEhiG7RUSZ9x5iph99Ke5782dkgRnWf
+  currency: TRX
+  label: ISIL KHORASAN
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TA3941uFAvmVibSkQ6fMJXxmaSNovX86mz
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TA39q3p75XRSWYAEaSF7dANtyksoa3sLge
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TBATDh41qMQ1yeVYecneEvhpfayYmkAQWS
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TBwghbQMsBC5xcUxE7ZpYXhfDMXZAfiFv6
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TBWRDpQsW1ZVPGGaBAwVLNb7iqmVBuM1nj
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TBYRhsZR7Mdn9ezpGVLwZiNVnGm8wZGLAD
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TBZefVsyQpzzxc2WSCLbZBECvxVdzGqdtC
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TC5UNu3LGrjjVCuLNDdVgjm4oL5cQAyFRZ
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TCA7AfTSuDmgYk2VaezfPuZF4Z4X8wxwcQ
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TDNKsLvsY2iSznyghddXz7ZDRc4X3191Z8
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TE3mCcPULjPUE7ykX7RArDPAhyahoy3d2j
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TF4J8Gp7zbS8NA3HLuxsLdx7Ebzr6weCGn
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TFdHux43bs21qRsygv5WQWfgtbQeT6nXey
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TFrH3dcpnR3tADrAcfyJwiK4brsgf3B7PG
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TFurWgnyNMq9bhLrLoT9FGnrLfAL2BtR5R
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TGDaYNWFXi9HJ7NacfETF15vhUH7eRhKzt
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TGdpkwNVFjw2DnbHBCFKLvCygPVPz9w4iM
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TGKgLatirRpTugS6wgCUKerjLbzWKXAVqx
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TGMFaAXH15oaW8MpcNHLid6NbMKWaaNPdC
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TGpNzk9noyvCCdnFPuSg5cqptPs16LjXZq
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TGRZZsD8gxahF5oE6C7K8LLRHqQzoPa5bX
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: THEQTsqPhRDDfgcfBW5npH5Lr9PZhpthrf
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: THHb5iMAbZgQYY19h6uY66y5xt6e11gcZC
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: THob8vRrpDybXeqZDj8ukQhMjJVJ5nCbTW
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: THUqqeevBQS3EYordDJKwp8DLFknesnfCD
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TJ812KESWjzJZGEWBPFCu74Js5zQS7jN5A
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TJBg9SxwiUUoqJGk18vK9avxkuV8GrKMK7
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TLRMHPjLGXsVpD9RVzSfat6zDiVDrd4b4w
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TMECKT19hfumcK3KqQKbhxkn1ohyeR58xu
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TMgnRWb9xFMtktny9Lzty21QYLLQD93ft6
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TMiSGhXXVsvJzqwGbwAsGiFxWg2eALZoM5
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TPcUZYthDfxNsHQnZZGBM1BDNBeNSjfPZE
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TPF9UQhqpV18BPWg5xo6MeB3h8t4iEg9gP
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TPo3JyryRcQ3uhBWexeYhtkpMitsUwY4uB
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TPPR7e8hGC57dexrE2jy1f94wtuGyVP6Dp
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TQKQ4ntejdYYJpuYkFz8oCSDoXW6RKRDdY
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TQthYM5nLqwAEr6DScC8tRtw29ncEB53mK
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TR18rEj7gWjKBJLYrowyfnvjWLTTsXGngK
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TRkGqvaobVp4XDNmSceRo5hDcJYDTFmYjd
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TTct1DezYvriNWU7Wi3mygLoskkaw61mra
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TTUqoT6EAmiM1xLvwVwxhjvjaoEUGtKDdZ
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TTzMs5AR66jr9mQMkWfCHVwd3AiLLYPepQ
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TUKsuPVb8kgJVFp5x528KC5HisUVdzxami
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TVDsEFm19zLV8HeXdt6G75rLroxnp6uqpV
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TVu2SiQrWSnfwk8quAeDxfiaLy6FHzYkMA
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TVyiDQ25H6Rx6PcNV1WyjGasGSa8ehj1Uv
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TW3RgbhYkFEFnmRJ9mE9b83T9XYSMkjwuD
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TWwv8FQiES3yHGig7y3zJWYuPaZfSV3vmY
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TXc4kRiMEcdXRxWpSKkD5qKaARExN4uxPq
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TXFUYHVJMDyKikutvCG6qNgTUS5pxtZhHs
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TYD6a4PAAfAgegEdDf9oZUnW4DFmS8jeFT
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TYK29mbyvVxLaLUKdFSTRADMwoxaVbVZQg
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TYxwUhoLPF7AgfG9GaXFEp8CQi8K8KG1m3
+  currency: TRX
+  label: CHEIL CREDIT BANK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 12aNKp2iDKuhEde2YfPdd4DFGenRUTKupL
+  currency: BTC
+  label: MESRI, Behzad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x252a8bd2319d8a555b872990601221b3a2053bce'
+  currency: ETH
+  label: MESRI, Behzad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x1cab8177ace78b1b6b1c393371f4f2dcae40cbeb'
+  currency: ETH
+  label: MESRI, Behzad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x6fac4d18c912343bf86fa7049364dd4e424ab9c0'
+  currency: ETH
+  label: MESRI, Behzad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xa40cfbfc8534ffc84e20a7d8bbc3729b26a35f6f'
+  currency: ETH
+  label: MESRI, Behzad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x7f03679b56d8772530efa516b58bb83d4829e881'
+  currency: ETH
+  label: MESRI, Behzad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x8ac5381fcd9e7395d14e02986c344aada84b4bc6'
+  currency: ETH
+  label: MESRI, Behzad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x9697749a9e8d6c119d8eeb0d6268a1b99c40684c'
+  currency: ETH
+  label: MESRI, Behzad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x9dd7fa4b4950154f7e75bdd8a77266b99b94ec08'
+  currency: ETH
+  label: MESRI, Behzad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xb5a69da691670f62510793f79a9b36c7db1a7b7c'
+  currency: ETH
+  label: MESRI, Behzad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x6b0736fed0634e15e19cc57fba19cd179c13abca'
+  currency: ETH
+  label: MESRI, Behzad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xd81414abc631c6cadae1c6198b0c2b15a9b4fde5'
+  currency: ETH
+  label: MESRI, Behzad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xf45ecc3a59c7911181c659ce9115854c6175be91'
+  currency: ETH
+  label: MESRI, Behzad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TAbbVaBKgH4VBLXgWqACuwoKF4cH1HinQh
+  currency: TRX
+  label: MESRI, Behzad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TEsxMcVocweTM82Mdmc5diKC6qyCWqSpPv
+  currency: TRX
+  label: MESRI, Behzad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 12QtD5BFwRsdNsAZY76UVE1xyCGNTojH9h
+  currency: BTC
+  label: YAN, Xiaobing
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1Kuf2Rd8mDyAViwBozGTNYnvWL8uYFrkVo
+  currency: BTC
+  label: YAN, Xiaobing
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 13f59kUM5FU8MfTG7DCEugYarDhSD7XCoC
+  currency: BTC
+  label: YAN, Xiaobing
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1P3ZfGFLezzYGg9k5SVzQmnjyh7nrUmF2y
+  currency: BTC
+  label: YAN, Xiaobing
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1EpMiZkQVekM5ij12nMiEwttFPcDK9XhX6
+  currency: BTC
+  label: YAN, Xiaobing
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1JREJdZupiFhE7ZzQPtASuMCvvpXC7wRsC
+  currency: BTC
+  label: YAN, Xiaobing
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 149w62rY42aZBox8fGcmqNsXUzSStKeq8C
+  currency: BTC
+  label: KHORASHADIZADEH, Ali
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1AjZPMsnmpdK2Rv9KQNfMurTXinscVro9V
+  currency: BTC
+  label: GHORBANIYAN, Mohammad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 17ezuJoT3XBbdcwFZbkTnrXbup11F4uhiy
+  currency: BTC
+  label: ZHENG, Fujing
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1DH2xDH7TngrDU6LXciprKCBKNcPA1xX8A
+  currency: BTC
+  label: ZHENG, Fujing
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 33Kja69SQVc8kozpoP7Qw6HFtGxHkiWzTz
+  currency: BTC
+  label: ZHENG, Guanghua
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3MkUNScqf21EcfWq6T4x2MFgBeSTqhB5t6
+  currency: BTC
+  label: ZHENG, Guanghua
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: LaizKtS5DUhPuP1nTQcc83MS7HwK6vk85z
+  currency: LTC
+  label: ZHENG, Guanghua
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 18uKfaUjgG52rVeXEi3wxnveww7zZuECtE
+  currency: BTC
+  label: ZHENG, Guanghua
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x098b716b8aaf21512996dc57eb0615e2383e2f96'
+  currency: ETH
+  label: LAZARUS GROUP
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: lazarusgroup
+- address: '0xa0e1c89ef1a489c9c7de96311ed5ce5d32c20e4b'
+  currency: ETH
+  label: LAZARUS GROUP
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: lazarusgroup
+- address: '0x3cffd56b47b7b41c56258d9c7731abadc360e073'
+  currency: ETH
+  label: LAZARUS GROUP
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: lazarusgroup
+- address: '0x53b6936513e738f44fb50d2b9476730c0ab3bfc1'
+  currency: ETH
+  label: LAZARUS GROUP
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: lazarusgroup
+- address: '0x35fb6f6db4fb05e6a4ce86f2c93691425626d4b1'
+  currency: ETH
+  label: LAZARUS GROUP
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: lazarusgroup
+- address: '0xf7b31119c2682c88d88d455dbb9d5932c65cf1be'
+  currency: ETH
+  label: LAZARUS GROUP
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: lazarusgroup
+- address: '0x3e37627deaa754090fbfbb8bd226c1ce66d255e9'
+  currency: ETH
+  label: LAZARUS GROUP
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: lazarusgroup
+- address: '0x08723392ed15743cc38513c4925f5e6be5c17243'
+  currency: ETH
+  label: LAZARUS GROUP
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: lazarusgroup
+- address: 134r8iHv69xdT6p5qVKTsHrcUEuBVZAYak
+  currency: BTC
+  label: TIAN, Yinyin
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 15YK647qtoZQDzNrvY6HJL6QwXduLHfT28
+  currency: BTC
+  label: TIAN, Yinyin
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1PfwHNxUnkpfkK9MKjMqzR3Xq3KCtq9u17
+  currency: BTC
+  label: TIAN, Yinyin
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 14kqryJUxM3a7aEi117KX9hoLUw592WsMR
+  currency: BTC
+  label: TIAN, Yinyin
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1F2Gdug9ib9NQMhKMGGJczzMk5SuENoqrp
+  currency: BTC
+  label: TIAN, Yinyin
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3F2sZ4jbhvDKQdGbHYPC6ZxFXEau2m5Lqj
+  currency: BTC
+  label: TIAN, Yinyin
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1AXUTu9y3H8w4wYx4BjyFWgRhZKDhmcMrn
+  currency: BTC
+  label: TIAN, Yinyin
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1Hn9ErTCPRP6j5UDBeuXPGuq5RtRjFJxJQ
+  currency: BTC
+  label: TIAN, Yinyin
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1EfMVkxQQuZfBdocpJu6RUsCJvenQWbQyE
+  currency: BTC
+  label: LI, Jiadong
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 17UVSMegvrzfobKC82dHXpZLtLcqzW9stF
+  currency: BTC
+  label: LI, Jiadong
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 39eboeqYNFe2VoLC3mUGx4dh6GNhLB3D2q
+  currency: BTC
+  label: LI, Jiadong
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 39fhoB2DohisGBbHvvfmkdPdShT75CNHdX
+  currency: BTC
+  label: LI, Jiadong
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3E6rY4dSCDW6y2bzJNwrjvTtdmMQjB6yeh
+  currency: BTC
+  label: LI, Jiadong
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3EeR8FbcPbkcGj77D6ttneJxmsr3Nu7KGV
+  currency: BTC
+  label: LI, Jiadong
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3HQRveQzPifZorZLDXHernc5zjoZax8U9f
+  currency: BTC
+  label: LI, Jiadong
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3JXKQ81JzBqVbB8VHdV9Jtd7auWokkdPgY
+  currency: BTC
+  label: LI, Jiadong
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3KHfXU24Bt3YD5Ef4J7uNp2buCuhrxfGen
+  currency: BTC
+  label: LI, Jiadong
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3LbDu1rUXHNyiz4i8eb3KwkSSBMf7C583D
+  currency: BTC
+  label: LI, Jiadong
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3MN8nYo1tt5hLxMwMbxDkXWd7Xu522hb9P
+  currency: BTC
+  label: LI, Jiadong
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3N6WeZ6i34taX8Ditser6LKWBcXmt2XXL4
+  currency: BTC
+  label: LI, Jiadong
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1Q9UAQbcDezmyouFrzt94t4dSMxgsUfW1X
+  currency: BTC
+  label: POTEKHIN, Danil
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1Kys8fqDen8NGFUJ6AFcXfFW5qquuTH4eh
+  currency: BTC
+  label: POTEKHIN, Danil
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x7f367cc41522ce07553e823bf3be79a889debe1b'
+  currency: ETH
+  label: POTEKHIN, Danil
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1Q6saNmqKkyFB9mFR68Ck8F7Dp7dTopF2W
+  currency: BTC
+  label: KARASAVIDI, Dmitrii
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1DDA93oZPn7wte2eR1ABwcFoxUFxkKMwCf
+  currency: BTC
+  label: KARASAVIDI, Dmitrii
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xd882cfc20f52f2599d84b8e8d58c7fb62cfe344b'
+  currency: ETH
+  label: KARASAVIDI, Dmitrii
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: LNwgtMxcKUQ51dw7bQL1yPQjBVZh6QEqsd
+  currency: LTC
+  label: KARASAVIDI, Dmitrii
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 12udabs2TkX7NXCSj6KpqXfakjE52ZPLhz
+  currency: BTC
+  label: LIFSHITS, Artem Mikhaylovich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: Leo3j36nn1JcsUQruytQhFUdCdCH5YHMR3
+  currency: LTC
+  label: LIFSHITS, Artem Mikhaylovich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x901bb9583b24d97e995513c6778dc6888ab6870e'
+  currency: ETH
+  label: LIFSHITS, Artem Mikhaylovich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1DT3tenf14cxz9WFNxmYrXFbB6TFiVWA9U
+  currency: BTC
+  label: LIFSHITS, Artem Mikhaylovich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xa7e5d5a720f06526557c513402f2e6b5fa20b008'
+  currency: ETH
+  label: LIFSHITS, Artem Mikhaylovich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1Fz29BQp82pE3vXXcsZoMNQ3KSHfMzfMe3
+  currency: BTC
+  label: ANDREYEV, Anton Nikolaeyvich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: LWnbjLYUfqeokfbWM4FcU7uk2FP2DSxuWS
+  currency: LTC
+  label: ANDREYEV, Anton Nikolaeyvich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1AeSq93WDNdLoEJ92sex7T8xQZoYYm8BtS
+  currency: BTC
+  label: ANDREYEV, Anton Nikolaeyvich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: LaYUy1DGfVSuSF5KbPhbLrm8kRotqiwUJn
+  currency: LTC
+  label: ANDREYEV, Anton Nikolaeyvich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x8576acc5c05d6ce88f4e49bf65bdf0c62f91353c'
+  currency: ETH
+  label: ANDREYEV, Anton Nikolaeyvich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1AoxtfiBQ22DvbhqAN9Ctb8sULMRhrdwTr
+  currency: BTC
+  label: ANDREYEV, Anton Nikolaeyvich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 18Qj1THHuETfYhuRDZycXJbWwDMGw73Poa
+  currency: BTC
+  label: ANDREYEV, Anton Nikolaeyvich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1MnbhWe5wr7Ut45ReyQsm96PwnM9jD7KaH
+  currency: BTC
+  label: ANDREYEV, Anton Nikolaeyvich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1DYFJ6CuBvrxyoQSuBzVsNcetY9tvdsrag
+  currency: BTC
+  label: ANDREYEV, Anton Nikolaeyvich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 15Pt4NwZaUmMUwS2bQbyyncc7mzgWShtv8
+  currency: BTC
+  label: ANDREYEV, Anton Nikolaeyvich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1PhqQpaGCrqSxQ6QDXcv14QCd1U98Zp34E
+  currency: BTC
+  label: ANDREYEV, Anton Nikolaeyvich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 13YBQr2Cp1YY3xqq2qngaPb7ca1o4ugeq6
+  currency: BTC
+  label: ANDREYEV, Anton Nikolaeyvich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1KgudqxMfYaGzqAA7MS4DcsqejtMteqhix
+  currency: BTC
+  label: ANDREYEV, Anton Nikolaeyvich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1FRyL9gmFGbzfYDAB4iY9836DJe3KSnjP9
+  currency: BTC
+  label: ANDREYEV, Anton Nikolaeyvich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1DbShx4r8i2XesthoDBf5EkYWz5dsKEusV
+  currency: BTC
+  label: ANDREYEV, Anton Nikolaeyvich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1NE2NiGhhbkFPSEyNWwj7hKGhGDedBtSrQ
+  currency: BTC
+  label: SECONDEYE SOLUTION
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 19D8PHBjZH29uS1uPZ4m3sVyqqfF8UFG9o
+  currency: BTC
+  label: SECONDEYE SOLUTION
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1EYitrwBYNWuTBcjZFbEUdqHppe2raLpaF
+  currency: BTC
+  label: SECONDEYE SOLUTION
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1G9CKRHA3mx22DoT1QyNYrh85VSQ19Y1em
+  currency: BTC
+  label: SECONDEYE SOLUTION
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 182NGZbPJXwg2WDrhrPpR7tpiGQkNPF844
+  currency: BTC
+  label: SECONDEYE SOLUTION
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1NayLEVF3bEEbDtdF2Cwso1VdEtvVNh2qX
+  currency: BTC
+  label: SECONDEYE SOLUTION
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 16PhXY3hNNMTo8kpuJx2emh713KbWpkqci
+  currency: BTC
+  label: SECONDEYE SOLUTION
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1GqChmWqGtsaLrGbHfgdrV5Nkvahtjjuxr
+  currency: BTC
+  label: SECONDEYE SOLUTION
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 18Ke1QWE9nQfXuhJijHggZuPJ5ZYxapoBK
+  currency: BTC
+  label: SECONDEYE SOLUTION
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1QJUiNsNfji6mR1FjAwf6Eg9NxxHPoxpWL
+  currency: BTC
+  label: SECONDEYE SOLUTION
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1DtGgdCi9VPKz2Bpq8GQhUQEPnQ5HwaT9n
+  currency: BTC
+  label: SECONDEYE SOLUTION
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x1da5821544e25c636c1417ba96ade4cf6d2f9b5a'
+  currency: ETH
+  label: SECONDEYE SOLUTION
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x7db418b5d567a4e0e8c59ad71be1fce48f3e6107'
+  currency: ETH
+  label: SECONDEYE SOLUTION
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x72a5843cc08275c8171e582972aa4fda8c397b2a'
+  currency: ETH
+  label: SECONDEYE SOLUTION
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x7f19720a857f834887fc9a7bc0a0fbe7fc7f8102'
+  currency: ETH
+  label: SECONDEYE SOLUTION
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: LQAhYwwK5AR1JQiQPr7vu8Pu4b6qcxxvNB
+  currency: LTC
+  label: SECONDEYE SOLUTION
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: LgwmgYnraU2uBWHVFUDgAmFCPYj5Yw8C9L
+  currency: LTC
+  label: SECONDEYE SOLUTION
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: LeKvNdNEzgQkzVVnRdV3fAu2DSF1nLsNw6
+  currency: LTC
+  label: SECONDEYE SOLUTION
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1KSAbh5trMCTZwhiNsuUQvfTtSSTT8zqRk
+  currency: BTC
+  label: RAZA, Mujtaba Ali
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1BiUFjzH6wsT73U3tfy4aXHCQsYQHzjk5h
+  currency: BTC
+  label: RAZA, Mujtaba Ali
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3Gbs4rjcVUtQd8p3CiFUCxPLZwRqurezRZ
+  currency: BTC
+  label: SOUTHFRONT
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x9f4cda013e354b8fc285bf4b9a60460cee7f7ea9'
+  currency: ETH
+  label: SOUTHFRONT
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qv7k70u2zynvem59u88ctdlaw7hc735d8xep9rq
+  currency: BTC
+  label: SOUTHFRONT
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qw4cxpe6sxa5dg6sdwxjph959cw6yztrzl4r54s
+  currency: BTC
+  label: SOUTHFRONT
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x3cbded43efdaf0fc77b9c55f6fc9988fcc9b757d'
+  currency: ETH
+  label: SOUTHFRONT
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TLNRT524dzL5FF1nJHDhYEMFpeWjLjRbz1
+  currency: TRX
+  label: AL-JAMAL, Sa'id Ahmad Muhammad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: THh5woR8qfmDsNknQ3agPYzQSiRtMnKsTh
+  currency: TRX
+  label: AL-JAMAL, Sa'id Ahmad Muhammad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TV5ZTpKDszLTF6XcMnPongS33pwBgF91by
+  currency: TRX
+  label: AL-JAMAL, Sa'id Ahmad Muhammad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TTAHMdqoom4f2VTWniroPWQHcTRZ4caoH4
+  currency: TRX
+  label: AL-JAMAL, Sa'id Ahmad Muhammad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TFFvv7NAWmbcVfA7QN81mMvUC25TWj1WJx
+  currency: TRX
+  label: AL-JAMAL, Sa'id Ahmad Muhammad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1JPfVv5cWRLx1js9NWxg46dG2CGbeRz4th
+  currency: BTC
+  label: HEBEI ATUN TRADING CO., LTD.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 12HQDsicffSBaYdJ6BhnE22sfjTESmmzKx
+  currency: BTC
+  label: SUEX OTC, S.R.O.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1L4ncif9hh9TnUveqWq77HfWWt6CJWtrnb
+  currency: BTC
+  label: SUEX OTC, S.R.O.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 13mnk8SvDGqsQTHbiGiHBXqtaQCUKfcsnP
+  currency: BTC
+  label: SUEX OTC, S.R.O.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1Edue8XZCWNoDBNZgnQkCCivDyr9GEo4x6
+  currency: BTC
+  label: SUEX OTC, S.R.O.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1ECeZBxCVJ8Wm2JSN3Cyc6rge2gnvD3W5K
+  currency: BTC
+  label: SUEX OTC, S.R.O.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1J9oGoAiHeRfeMZeUnJ9W7RpV55CdKtgYE
+  currency: BTC
+  label: SUEX OTC, S.R.O.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1295rkVyNfFpqZpXvKGhDqwhP1jZcNNDMV
+  currency: BTC
+  label: SUEX OTC, S.R.O.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1LiNmTUPSJEd92ZgVJjAV3RT9BzUjvUCkx
+  currency: BTC
+  label: SUEX OTC, S.R.O.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1LrxsRd7zNuxPJcL5rttnoeJFy1y4AffYY
+  currency: BTC
+  label: SUEX OTC, S.R.O.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x2f389ce8bd8ff92de3402ffce4691d17fc4f6535'
+  currency: ETH
+  label: SUEX OTC, S.R.O.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x19aa5fe80d33a56d56c78e82ea5e50e5d80b4dff'
+  currency: ETH
+  label: SUEX OTC, S.R.O.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xe7aa314c77f4233c18c6cc84384a9247c0cf367b'
+  currency: ETH
+  label: SUEX OTC, S.R.O.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1KUUJPkyDhamZXgpsyXqNGc3x1QPXtdhgz
+  currency: BTC
+  label: SUEX OTC, S.R.O.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1CF46Rfbp97absrs7zb7dFfZS6qBXUm9EP
+  currency: BTC
+  label: SUEX OTC, S.R.O.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1Df883c96LVauVsx9FEgnsourD8DELwCUQ
+  currency: BTC
+  label: SUEX OTC, S.R.O.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qdt3gml5z5n50y5hm04u2yjdphefkm0fl2zdj68
+  currency: BTC
+  label: SUEX OTC, S.R.O.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x308ed4b7b49797e1a98d3818bff6fe5385410370'
+  currency: ETH
+  label: SUEX OTC, S.R.O.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1B64QRxfaa35MVkf7sDjuGUYAP5izQt7Qi
+  currency: BTC
+  label: SUEX OTC, S.R.O.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 16iWn2J1McqjToYLHSsAyS6En3QA8YQ91H
+  currency: BTC
+  label: SUEX OTC, S.R.O.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3E7YbpXuhh3CWFks1jmvWoV8y5DvsfzE6n
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: '0x67d40ee1a85bf4a4bb7ffae16de985e8427b6b45'
+  currency: ETH
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: 3LtcaPbCj87CwJHnRX3vh7c2y9RZQqeSy8
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: '0x6f1ca141a28907f78ebaa64fb83a9088b02a8352'
+  currency: ETH
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: 3NRJ8aXdUiZdHaiFX9ePX3DhGHzcEi14Fq
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: 3K7PMJyMNVnxqsfpmK9r9nJDtzDw9wNwNV
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: 3H3rh85qPaGLy2w6618yZNaH7i8asHv46B
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: 3MTrJTFhYK9v1C6pjHtuweZSopfZa4b1wb
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: '0x48549a34ae37b12f6a30566245176994e17c6b4a'
+  currency: ETH
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: 347QFbejDBdMZFTxpmn6evvvqyXiqZTCd7
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: '0x5512d943ed1f7c8a43f3435c85f7ab68b30121b0'
+  currency: ETH
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: 33xWfziVZesgo83U5izdNCBVTnrtBpSwK7
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: 32wdqwX3zCEX3DhAVEcKwXCEGdzgBnx1R9
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: 3N9YcPBDky9UsMx1RTk33tL4jDkZfSnsPk
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: bc1q90zrdysy4flyacw7hsury3ajs9yzwtwp6guqpypx94w0d3p58hysvz6pde
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: bc1qw7vfgv3r5vnehafl0y95sclg3uqsj87wxs9ad628yjjcq33cwessr6ndyw
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: bc1q86tl9255vg5wldamfymaaz36uqxzm30gs7fhkljvzdlt9t38s3lqgdwdfq
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: 3M7CGBPUJwXXSroWuZ6H5jiprdKCyf7V5M
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: 34kWCKF2wCbe6uinit2uL4ND6d8yxsuxKM
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: bc1qe95l438kzjcvnsm3kn8n5augf9gpctdlhsq7f7hpnkyvlr7rc7cqupapf7
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: 32VgTk8kGvBsqkHhkvtNooGdtqZm46jTVo
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: 3NPognMSbzyA2JYW2fpkVKWyBMi2XTq2Zt
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: 3MzLtBQ4Lz9J6w4Qu55TktgxFKZwxYWrP6
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: 36YGN5dGzqrxMomTHdkT6cYVMnWBw8S7hD
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: '0xc455f7fd3e0e12afd51fba5c106909934d8a0e4a'
+  currency: ETH
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: bc1q4rzdtlt0uslyw86cp29sctl6ct29g9a95cuup7pn5md9ddj7xgmqpp5m73
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: 39KQvziHwUe2vddbpfC5WkQEV72qbQhxuh
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: 3Qw9Fn19gCnga9LfHfpM99aGzuqxBNjR2i
+  currency: BTC
+  label: CHATEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: chatex
+- address: 158treVZBGMBThoaympxccPdZPtqUfYrT9
+  currency: BTC
+  label: POLYANIN, Yevgeniy Igorevich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xfec8a60023265364d066a1212fde3930f6ae8da7'
+  currency: ETH
+  label: POLYANIN, Yevgeniy Igorevich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 389Sft4nJFkPGhbagk9FN4jXncA9piYTuU
+  currency: BTC
+  label: POLYANIN, Yevgeniy Igorevich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 39Te8MbphSgs7npDJPj2hbNzhke61NTcnB
+  currency: BTC
+  label: POLYANIN, Yevgeniy Igorevich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 31p6woV4e55HUfC2aGynFhzQnGoJFW26cD
+  currency: BTC
+  label: POLYANIN, Yevgeniy Igorevich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3DNsaQnaUz7wkQny1ZDSmtz6QfbEShxoDD
+  currency: BTC
+  label: POLYANIN, Yevgeniy Igorevich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3AjyprBY5yhijiCjUC5NUJutGbwhd3AQdE
+  currency: BTC
+  label: POLYANIN, Yevgeniy Igorevich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 35QpLWYkvD3ALhjbge5bK2kd7HfHYcDMu3
+  currency: BTC
+  label: VASINSKYI, Yaroslav
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3NQ1aa9ceirMJ1JvRq3eXefvXj1L639fzX
+  currency: BTC
+  label: VASINSKYI, Yaroslav
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3BsyZ7qRFSi3NsaoV1Ff724qAgrEpjVUHm
+  currency: BTC
+  label: VASINSKYI, Yaroslav
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 372Wk9NLrMkJzKgqJdatWJy4bYRfxFjgat
+  currency: BTC
+  label: VASINSKYI, Yaroslav
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3Lpoy53K625zVeE47ZasiG5jGkAxJ27kh1
+  currency: BTC
+  label: GARANTEX EUROPE OU
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: garantex
+- address: '0x7ff9cfad3877f21d41da833e2f775db0569ee3d9'
+  currency: ETH
+  label: GARANTEX EUROPE OU
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: garantex
+- address: 3E6ZCKRrsdPc35chA9Eftp1h3DLW18NFNV
+  currency: BTC
+  label: GARANTEX EUROPE OU
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: garantex
+- address: '0x8dce2aac0de82bdcaf6b4373b79f94331b8e4995'
+  currency: ETH
+  label: GARANTEX EUROPE OU
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: garantex
+- address: '0xf4377eda661e04b6dda78969796ed31658d602d4'
+  currency: ETH
+  label: GARANTEX EUROPE OU
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: garantex
+- address: '0xb338962b92cd818d6aef0a32a9ecd01212a71f33'
+  currency: ETH
+  label: GARANTEX EUROPE OU
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: garantex
+- address: '0x57ec89a0c056163a0314e413320f9b3abe761259'
+  currency: ETH
+  label: GARANTEX EUROPE OU
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: garantex
+- address: '0xd8500c631dc32fa18645b7436344a99e4825e10e'
+  currency: ETH
+  label: GARANTEX EUROPE OU
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: garantex
+- address: '0x7ced75026204ac29c34bea98905d4c949f27361e'
+  currency: ETH
+  label: GARANTEX EUROPE OU
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: garantex
+- address: TFwjPScaJRCbSWVAywE1S1WgaUgSnyYUbD
+  currency: TRX
+  label: GARANTEX EUROPE OU
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: garantex
+- address: TJkBr9TZ1xBeJoF7RNWqyEMbYqVJ6fXXHR
+  currency: TRX
+  label: GARANTEX EUROPE OU
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: garantex
+- address: TNDjh6WGLYyWmkh8vfu42bXVHUqFNQ3rDq
+  currency: TRX
+  label: GARANTEX EUROPE OU
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: garantex
+- address: 3K4rjdh8A5yi6LWvft2rbmyZvqEbPSSSX4
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 17mhyeBX617ABZ1ffThhUTJkHUcMvCkfd5
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 35qwVtMEohWDdBWRiCSR7azoP5cbY8SG1Q
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 35KAdTa2vqnJzitF2xiUzZn1Gmcas2Y465
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 35LScRJ8hzDvvWh9t9UA8bHGnGNVz3YEfa
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1PJp8diNa89cVHpiT1VPu7EQ8LxYM5HX6v
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 17V7THwHMiDJmDwZK4unhE5HgKFJKx7VCe
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3PiCnZrBvGfWAKQ9hr4cCpfaDjy64yNSpE
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 14gM1HuLVDELNHaFU22qpabjtiWek4HhV1
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1GYuu9d5HPikafbys3k5Q3DRJq6debGsoB
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3GXdtA6kbb4M5aqzZm5qqxcFDFRMW8LqdJ
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1B11Ezqg3AXjFhMdRq5UpPDpNyriYNVtkn
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 16SPDQFFzgsoNSPiFFTfS8Dw8LLXqia4oc
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 19pPbUDvoSBZafkUCYkD2Z9AkuqqV6sWm7
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3BQACtiMXYB9JpUMpkEWt9m8BzswpGHq4X
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1DGsY4ww3BJnWXTsnmTgWa6UWdoRXgA1pX
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1GcKLUUXodTQcLcPD7VLMgvCc4hs5Q775
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1EvhBad5wCZYhBoAsGaciV6AvmZ1osLpeJ
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: bc1qsmv6lkrw65l30yazdqpdjjtwzpvk9f8gfh0cy7
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: bc1qs9u6j78e3utj08mwvqkkmqm9de5xk3g4yh8qtq
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 12VrYZgS1nmf9KHHped24xBb1aLLRpV2cT
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: bc1q202ajnhxgg9d9jjczmg0g4usp6haqldyy2eakl
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1NbGwQwt4uEhg2srAKppLf8QaF6fbp3PZG
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 13LQJQ1oJ9K7PsqsGfjNhoVv6UeU6hgzQz
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1CG1aSCxUnbmv9G34ofxTQoHtuVnMLJtQV
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3Kp8Qc5z7yevDeoQxhS5RSSKnEi5x7AQ43
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 331TS6DyASY7iU5CRA8UryBnkPS78fP2B1
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1NvJm3jfZxENNyqws5BKQvhkLxg9chLJdo
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1Licqjca74n8pmNaoARXLLqcTUTHFpxbXH
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 175BUqf8JCU1uoG1iTRKTacDa4uvJDUCw2
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1ANpca7g93BwptUJg1zV116v49zn9gjDi3
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1BCWMwpR4M1nYUuuYe2bmzrNuwGoF9ZAbA
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 18cFGAdYcvNHkuhXLBE7izQKCyUW8TzCJE
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1QHxyuLGRMHfbNPJikV4Dwhfx45HWfUMWB
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1GnFTy5F9qi5MfaRZfgdg2jkyT5xtAHvd8
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: bc1quyc6j8ca84q9gjej5jjd2n8hra0vfu0j60fefs57p6e5rerkq07q0l5u3w
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 16p2UWTZwXRyK5bTHNVjdDyy1D3EQGsZf2
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1CddRqw7oSPrT4tt5oXKyx2LiHJDPszy7y
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1Hhe61Bwxs8Hd2WxzWY9FQyZicBiZGeSNW
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1D3GuaS9eqKw8dWj9JFQtNufdRtysjSLxZ
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1PWRKxkR5AU7Tc9zPqjdhtu1eGW1QZzs4y
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1D1ej7zQzywWBDNXKNYpmH7Hso2U9koDG4
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3KGQ3hX6eFYtBjTBFSdvdkzHmwZyYWLRQh
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1LKE3XA9bf5JFqtGtCHzWj5QGxKGwMfXZw
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1MtsQsw6n2jvJCWhpCw7jifTfD9Q3rBBVg
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1KkaKujnqwJf7Cbm7JKAZGF3X9d4685m8n
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1Ge8JodC2HiBiEuT7D3MoH6Fak6XrcT9Kf
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: bc1qsmqpalp3gtgkltag4x3ygevmhh9y2hzk73t2ug
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1E9uUnLbyfToazo95vmM3ysYnzgkrL7GeC
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1HH8eiuaTMucTNyvGCUmAvmCZCtdMi8SqK
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 19FQzHibWDhSP8pKmJS3uagFYoisXtehzw
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3DLGfN7hgsWXXSp9euXcnmWXLpFQuswW2t
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1PXxwPVtYxZiCRp9LKq7aKMDFrhAQztvUE
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1Q4tJjH2aBr3AJrzxqa4Z3jPpf5SDgF4jK
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1PYtgFS2t6i57WdDvbRa7kPcsagGMBxzfg
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 16ZSAEfYpPCj3D94fsNt2okYj9Ue8mxy6T
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: bc1qvlzfn6kmezv44d8kw0p5jsmxe6wchv3zc7gsxs
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3QVyoH4u3qT88uChAeJVhfB3r6maZt431y
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1FFS6pX1TCKTNy668Mbk2Lyoem1qB48kYX
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1Dpddb1TMjvmNQeYDqgyd1ww6cmwPJRdSk
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3AjiWiUdKB5mcGUSS9mBeoHCeYJw3Zo8r6
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1EtMuBPQnPCa3cecerdSH1SzydxnhbTmw
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3CCmt5LjQ5yKkaFY1DWC2SbERVEtWRnSRD
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1MQBDeRWsiJBf7K1VGjJ7PWEL6GJXMfmLg
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1MbtT2ZsTtLp7EKZUV9r74cTyqvsMtTP2M
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 36yS87PLuW7sErLg1TY26WzaVarTim7AcC
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3AYU365Tcjef7j9pdKF9Xe8rWpEpsH196t
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 148LKmyZT3FGE4x1GjsFN6RsAwcjzk5iuE
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 16EKTes8ahD8xvwisqjc2xSNLiG3fDHatW
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3GuQjr7kkrR5EjpanMgyAuxuLgrjEUwe21
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 35eanEz5iYg2eYaxCtMrR4SCoypFqrBWUH
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3QWUdP5taP4GrRuueVDud1eWetb7hc3wDH
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3Czhm6xqn8odwz6jgTcjRrUjog28v6aVS8
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1F7UL41qYm6TvnExZzPHBCyeENvX3XDEMS
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 123WBUDmSJv4GctdVEz6Qq6z8nXSKrJ4KX
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3BCN3WgMRJwULTz1vsEQ7NZrBjwaUBf5Ca
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 35SwVFxosV3AsvnrBfzdXarqavRbvDyyxv
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 32pCmCWEjwhkLwh5BgLNAeBQFp5Gi1hv81
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1G64TFMFVJTjhJXra6x74BBhsfSyiWaFtT
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1A3iYY4c3dkgNYGewzYzr7EsqfBuWXibGo
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3GAUBtrTtWp1D9yeXgr3wMg8B599QHa5m5
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3HJN4jRa4mdfkey9JR9jUhr86yPwL86A3C
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1EuUMPBCZtSd5pVVFEqmRqUSfU1qy6ASuL
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1Pu1nAW7kCoSMThMs8QcpM8JxuByQDZgH
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3QnWE5GVfQu3wVav91RuFkqip4Ti4NWqAY
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1CNbhgxGRZvsWnEHotfXge7k2E1UPzBDC7
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3HSZc4BLnQBznjSq7JvXgqNCZUUs3M9fZz
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 37dDBCexFPraKW4jGSqkE3NyG52YeZQbJx
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1H8sDTTgJPBKw83EBZDLhXvetCbxZUMMZM
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1BvJRBRp9ZZ6zLyuZaZsV7g3xP6JokdZQW
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: bc1q237mvl0heyw0r38wd3xz8h5mar96rrwpams8pp
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 34dxZvijpBM1YkPybczbQ7DuGuKAnULdfS
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1GkLN7DbA9mAtHNzQWNPANcdWbefaz4Gzm
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 13hfsQm6oCaDZehfYBSMFiJVAi1jsL6sQd
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1Sf6e4xQv8muMZqYPTdRFf3e5o5eWcg9F
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: bc1qj6j6p0jdefl6pvdzx3kx8245yy5mz6q4luhzes
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1B3u21itzjgKtm7QsNQNCBpSkwzzeDHqrW
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3JhPsVV3KnL9dBYGSZALS9EbrLr97R865a
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: bc1qqf8kcc9m57xjqcvsvuf989nnl48ve6d2s24cx3
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1HuYfoEwsfHgZiRhbhJrCd5ST3iksa8KEx
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1J9wJH2bamZVxscXAvoDH4jvtGKb7sYFDm
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 34WWXwFKAsXL9zYxbeNPaPV6vDamkjQLUo
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3PDmRwotTkRAFRLGTUrucCERp2JdM1q4ar
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3AFcE2mbSSndcpYFgHoExSmjUc26ef2gQh
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3P6PzdfETr4275Gn3veLkCyDxA1jV8fHKm
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3HRExd8GKFskZC5inmVcpiyy9UWG7FVa6o
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3MP7yBGSW2gkXVRE8S84T2j4KVgPh3rEzv
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1K2fmE9hfhbRNSZoBvCBWZAvsS5idTUxBG
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3ES6pqCueDPCnC4hCqhhYuey6gyiRJZw6E
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3KvBX3jo69Qn8jHy44M33RYoeYcf8DdRBD
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3K26aMKmnrv97Pj6YiFcqiXk2LxeHfhnG3
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3BWP6ZQAhc4j5wR1b95zJAthJEFvhdees7
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3JuSgFrwnrNfuhvR4GpWAPmeJVot4xrEae
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 1DKGRGJXGNLAtTeFb9SNPNHtrkZ87q7qKi
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 361AkMKNNWYwZRsCE8pPNmoh5aQf4V7g4p
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 33fWcMdmsB2Ey4CEbVWbjGFkuevBSyP9nG
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 35aTjkBh4yeTypJsi9nuTdoMKHTsawKVgX
+  currency: BTC
+  label: HYDRA MARKET
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: hydramarket
+- address: 3K35dyL85fR9ht7UgzPfd1gLRRXQtNTqE3
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3Q5dGfLKkWqWSwYtbMUyc8xGjN5LrRviK4
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3EPqGUw2q89pwPZ1UF8FJspE2AyojSTjdu
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3LhnVMcBq4gsR7aDaRr9XmUo17CuYBV4FN
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3F6bbvS1krsc1qR8FsbTDfYQyvkMm3QvmR
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3JHMz3mTna1gVCZSPp8NgRFiY7phkv5mA8
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 32DaxSzUhLBHY2WGSWQYiBSHnRsfQZrrRp
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3MTRvM5QrYZHKo8gh5qKcrPK3RLjxcDCZE
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 34pFGsSYbWEritXncW9unZtQQE9dKSvKku
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 38ncxqt932N9CcfNfYuHGZgCyR85hDkWBW
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3MD3riFB6U8PykypF6qkvSj8R2SGdUDPn3
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3JUwAS7seL3fh5hxWh9fu3HCiEzjuQLTfg
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3EUjqe9UpmyXCFd6jeu69hoTzndMRfxw9M
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3QEjBiPzw6WZUL4MYMmMU6DY1Y25aVbpQu
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3N3YSDvp4cbhEgNGabQxTN39kEzJmwG8Ah
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3J19qffPT6mxQUcV6k5yVURGZtdhpdGr4y
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 33KKjn4exdBJQkTtdWxqpdVsWxrw3LareG
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3GSXNXzyCDoQ1Rhsc7F1jjjFe7DGcHHdcM
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3QJyT8nThEQakbfqgX86YjCK1Sp9hfNCUW
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 35hh9dg3wSvUJz9vFk1FsezLE5Fx3Hudk2
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3NDzzVxiLBUs1WPvVGRfCYDTAD2Ua2PvW4
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3DCCgmyKozcZkFBzYb1A2x8abZCpAUTPPk
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3MvQ4gThF4mmuo49p4dBNchcmFHBRZnYfx
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3FBgeJdhiBe22UoSpp51Vd8dPHVa2A4wZX
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3HQDRyzwm82MFmLWtmyikDM9JQEtVT6vAp
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 31t4nEpcwyQJT1VuXdAoQZTT5givRDPsNP
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 39AALn7eTjdPzLb99hHhD6F7J8QWB3R2Rd
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3LDbNuDkKmLae5r3a5icPA5CQg2Y8F7ogW
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3JLyyLbwciWAC6re87D7mRknXakR4YbnUd
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3ANWhUnHujdwbw2jEuGSRH6bvFsD9BqEy9
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 32fbAZMTaQxNd2fAue1PgsiPgWfcsHBQQt
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3HupEUfKmMhvhXqf8TMoPAyqDcRC1kpe65
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 34kEYgpijvCmjvahRXXQEnBH76UGJVx2wg
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3GYbbYkvqvjF5oYhaKCgQYCvcVE1JENk6J
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3BazbaTP8ELJUEfPBV9z5HXEdgBziV9p7W
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3GMfGEDYMTq9G8dEHet1zLtUFJwYwSNa3Y
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 38LjCapRrJEW7w2zwbyS15P9D9UGPjWS44
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 36XqYWGvUQwBrYLRVuegN4pJJJSPWL1WEu
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 37g6WgqedzZx6nx51tYgssNG8Hnknyj5nL
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3QAdoc1rDCt8dii1GVPJXvvK6CEJLzCRZw
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 32PsiT8itBrEF84ebdaF82yBUEcz5Wc6uY
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3B4G1M8eF3cThbeMwhEWkKzczw9QoNTGak
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 34ETiHfQWEYFCCaXmEeQWVmhFH5vz2JMvd
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 3PyzSbFj3hbQQjTzDzyLSgvFVDjB7yw4Cj
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 15PggTG7YhJKiE6B16vkKzA1YDTZipXEX4
+  currency: BTC
+  label: BLENDER.IO
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: blenderio
+- address: 1H939dom7i4WDLCKyGbXUp3fs9CSTNRzgL
+  currency: BTC
+  label: KHATIBI AGHADA, Ahmad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q3y5v2khlyvemcz042wl98dzflywr8ghglqws6s
+  currency: BTC
+  label: KHATIBI AGHADA, Ahmad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qx3e2axj3wsfn0ndtvlwmkghmmgm4583nqg8ngk
+  currency: BTC
+  label: KHATIBI AGHADA, Ahmad
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qsxf77cvwcd6jv6j8d8j3uhh4g0xqw4meswmwuc
+  currency: BTC
+  label: NIKAEEN RAVARI, Amir Hossein
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q9lvynkfpaw330uhqmunzdz6gmafsvapv7y3zty
+  currency: BTC
+  label: NIKAEEN RAVARI, Amir Hossein
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qpaly5nm7pfka9v92d6qvl4fc2l9xzee8a6ys3s
+  currency: BTC
+  label: NIKAEEN RAVARI, Amir Hossein
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xc2a3829f459b3edd87791c74cd45402ba0a20be3'
+  currency: ETH
+  label: TASK FORCE RUSICH
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TX5GV4DyfxNB3rPkzZJhmqZ1efVmL4rEqG
+  currency: TRX
+  label: TASK FORCE RUSICH
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1ql7dlyh8xz6tpqk92vztrhqh88dmjvcwrmsemrm
+  currency: BTC
+  label: TASK FORCE RUSICH
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q2lpgjntr348pfvxhfy33ehmdzy3gmx8w4052z6
+  currency: BTC
+  label: TASK FORCE RUSICH
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x3ad9db589d201a710ed237c829c7860ba86510fc'
+  currency: ETH
+  label: TASK FORCE RUSICH
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1DbvK8P6imBuLcwh2Vruis4xsUb8YAwJQF
+  currency: BTC
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1G6DuwDKNHiUWqks2Lgu44cesu7ffFbLK7
+  currency: BTC
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3AQSmMk5n3c6TKEg9B2WyzYAPm33gJJAA4
+  currency: BTC
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 129zKFLoVad9JtxSmDKeJoLCsjhGR7b3vr
+  currency: BTC
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 12YyR9EpvHxBjjKjTWqfKqeyoWnvcraxpW
+  currency: BTC
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1KctQENEX5QkQMpnMC3Zh9yRAzkMBLpPcr
+  currency: BTC
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3HqA7i3ttECLvgqvq69HNxxUP5BL7Z5YgA
+  currency: BTC
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1G9A8WRjGXdnYY4TNEVRrcaHsMtana4ncF
+  currency: BTC
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1Js6goCey2NaqPQptiLANLQGuk4d6mowjP
+  currency: BTC
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 13RH4JaFhaCxDGPyYE9emjp2aDxdX18uBA
+  currency: BTC
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1FE2cuvkq8n5VGwj5hi8YYQxskwJpovPyV
+  currency: BTC
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1DJoEMvp95yJYWyxAZy8DDBzuvjnrTVrsN
+  currency: BTC
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1N6XqSf3ULpNjko9LrJmHudRoLitjwkETN
+  currency: BTC
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qwa6zu6qhl6wqnlxp642vcf89nptsassle25ulf
+  currency: BTC
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 386wa1UM6nA798AWNh64jdrejZyedeXgUN
+  currency: BTC
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 15UdZbmGPa2LatD3abtGpphgkHLFWftV4R
+  currency: BTC
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 16tByCYzxuWiN8kF9FrK9jJy6eQYLVkQ1i
+  currency: BTC
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1NpHuti9NSM9fVTXLkvSDU4AnhqGQ5N53d
+  currency: BTC
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x83e5bc4ffa856bb84bb88581f5dd62a433a25e0d'
+  currency: ETH
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x08b2efdcdb8822efe5ad0eae55517cf5dc544251'
+  currency: ETH
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x04dba1194ee10112fe6c3207c0687def0e78bacf'
+  currency: ETH
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x0ee5067b06776a89ccc7dc8ee369984ad7db5e06'
+  currency: ETH
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x502371699497d08d5339c870851898d6d72521dd'
+  currency: ETH
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x5a14e72060c11313e38738009254a90968f58f51'
+  currency: ETH
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xefe301d259f525ca1ba74a7977b80d5b060b3cca'
+  currency: ETH
+  label: PEIJNENBURG, Alex Adrianus Martinus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1LpYKb3SXZPve9hsH2QEJZFX279wJVGowi
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 15uqdxqNXQwVf5H7yZPz4TmEGeSccCwdor
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1FjubFHV4mpYjBmvjsEhZssyiiA4TNmnm2
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1LAh7PQwpd1uGiLHae5C5Xz9QXse3y2phq
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 15yqWQ4sqr7jzCwDtZ3U1KaCa8WMEy7Mm2
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 19GrL5jnUkGmHXVcraB1Etv5rXCANeLWpq
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 39NG2LcGRHXxSr1irpEVnJMw4ydL231sEn
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3He6EyDaCUgmdr4GXqhxbeTQukaGLCByU2
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 12NpCkhddSNiDkD9rRYUCHsTT9ReMNiJjG
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 32jgFkZsTEjMFaBvxJnYvJEeTNKTmq5b32
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1Hpj6qm9i7nMF3VkKfBFtjhEDpEjxHWvgv
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 194xmrZA53UBsZau2PnJLdmVVW9m5feeS
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 361NP7YcBPQ4KkLT3Y2QZeDEV4M3yi65Ar
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1LuDiMd95Df4i2bcvrfw47t2GKpLLXAQMZ
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3A1HH3PseYMkh2nSrBb4kkVt3815kUNVVC
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1F317n2eJEMaEMGiwCqtd5XCU3wF7jzPEW
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3HWjh69cVQvcPeLWVCyVmXEq72nyDSj5zP
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1r6S9vpUZPS5rb6gSdwV2bvSFcN3uSq4q
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3Jpf9B5P8cvEKSSGp9cES3Upbms8VRnXUb
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3EL5vcYeu1cnivLtR7tnAX3bBirr9ATNAL
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1LBQd4ZxtQYYsDWrCzK4uMxHBJVxmyzs3M
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1LQV6yUBcfTjAWvFu3XPhdTgjqihss7i1z
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1MiQRekg4BatJ12qbiSGnNakLLd8xbLMCG
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 12mNKr2YP4M3CEQvCvVqZsvxuCG47LHMu1
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1J6cgUVEZRKyJhpXJgHWX7YmzkdnHRaLhF
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3PUmTuVAW3LkKg53FZ7F97VDBitW4ugwnM
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3H4qaWi5DS6FMwyZrG9xRRud3Qc5dUVn2U
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 13ViCDZyJxxv5cZzpDDsE7aDQ3Y552zpAH
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1Juv2Ks3jJFUes8jEGxwgt6T6csBRQmmRw
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 35vypiSvQsxRiT3YZzGRGVaduUSx67ysZb
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3LLUnf3ezw6mCbQ2zCZmGu5rZULzkhxQi7
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3QrukkUiBrn23rFUKUgasNd1wYWNk7WdSV
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3B3vmabBbeDRnVrjvvq3hm85zVB4v5bWFC
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 31nadacWrgPeAQxKRMabhn3fPhnhi3hjKa
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 343w3Xh64q5UpgpvAPqmsUzxrknde8PQHb
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1C7RpJNE19HgefzWVCSaUqRTHAwGAFkbYV
+  currency: BTC
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xd0975b32cea532eadddfc9c60481976e39db3472'
+  currency: ETH
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x1967d8af5bd86a497fb3dd7899a020e47560daaf'
+  currency: ETH
+  label: GRIMM, Matthew Simon
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x39d908dac893cbcb53cc86e0ecc369aa4def1a29'
+  currency: ETH
+  label: ZIMENKOV, Jonatan
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qfg4gfg0y6t6xjnpmlhuwx5k0wlw6nmfzxn2psc
+  currency: BTC
+  label: ZIMENKOV, Jonatan
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3PKiHs4GY4rFg8dpppNVPXGPqMX6K2cBML
+  currency: BTC
+  label: WANG, Hongfei
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1986rYHckYbJpGQJy6ornuMyD2N5MTqwDt
+  currency: BTC
+  label: WU, Huihui
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 125W5ek3DT6Zqy5S2iPt4FHQdNMCbZA3FU
+  currency: BTC
+  label: WU, Huihui
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1Kc6egXevyLEaeTxLFA1Zyw7GuhCN8jQtt
+  currency: BTC
+  label: WU, Huihui
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 12w6v1qAaBc4W8h8C2Cu5SKFaKDSv3erUW
+  currency: BTC
+  label: WU, Huihui
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1CPJak9ZyddbawMGJPyEhCiJLXXb4sYv8N
+  currency: BTC
+  label: WU, Huihui
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1DJoVLgn1foJHHngduRPJvRbwpaFEKxvxd
+  currency: BTC
+  label: WU, Huihui
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 15kZobLkD6HZgEECtz4oS2Vz21XHTnNfSg
+  currency: BTC
+  label: WU, Huihui
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 15qyVrZvvVGvB7GWiAZ82TNcZ6QWMKu3kx
+  currency: BTC
+  label: WU, Huihui
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 12YCfVAEzkEZXBYhUTyJJaRkgMXiFxJgcu
+  currency: BTC
+  label: WU, Huihui
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1MkCnCa9agS5t6V1B15bzusBgYECB4LfWp
+  currency: BTC
+  label: WU, Huihui
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1NuBZQXJPyYQGfoBib8wWBDpZmbtkJa5Ba
+  currency: BTC
+  label: WU, Huihui
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 14rjAD8ZP5xaL571cMRE98qgxxbg1S8mAN
+  currency: BTC
+  label: WU, Huihui
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 18yWCu6agTxYqAerMxiz9sgHrK3ViezzGa
+  currency: BTC
+  label: WU, Huihui
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 12jVCWW1ZhTLA5yVnroEJswqKwsfiZKsax
+  currency: BTC
+  label: WU, Huihui
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1J378PbmTKn2sEw6NBrSWVfjZLBZW3DZem
+  currency: BTC
+  label: WU, Huihui
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 18aqbRhHupgvC9K8qEqD78phmTQQWs7B5d
+  currency: BTC
+  label: WU, Huihui
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 16ti2EXaae5izfkUZ1Zc59HMcsdnHpP5QJ
+  currency: BTC
+  label: WU, Huihui
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x4f47bc496083c727c5fbe3ce9cdf2b0f6496270c'
+  currency: ETH
+  label: SIM, Hyon Sop
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  context: '{"chains": ["arbitrum", "ethereum"]}'
+- address: TGXE9dGWawjfd3xqFSho1h1bRbRv9wUGrF
+  currency: TRX
+  label: SIM, Hyon Sop
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TPDLpXxPcaSsupEZ3yrVksmNkYP5SLeKxu
+  currency: TRX
+  label: SIM, Hyon Sop
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TNTFhgFoKH4srBMiWbfrVFqP2AThSmdwf1
+  currency: TRX
+  label: SIM, Hyon Sop
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TXhf9nU9bjo1j9z5qEesHdr6gtdndfnA4T
+  currency: TRX
+  label: SIM, Hyon Sop
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TK17wfSPp32RWrnzZPrGpv7TxdNFvvvE2s
+  currency: TRX
+  label: SIM, Hyon Sop
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TYeQD2VddTZ9NkFkAnT9DD8cUGetGUQZB2
+  currency: TRX
+  label: SIM, Hyon Sop
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xd04e33461fea8302c5e1e13895b60cee8aefda7f'
+  currency: ETH
+  label: SIM, Hyon Sop
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x76ea76ca4eb727f18956ab93445a94c5280412b9'
+  currency: ETH
+  label: SIM, Hyon Sop
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xfb3eff152ea55d1bfa04dbdd509a80fd7b72cdeb'
+  currency: ETH
+  label: SIM, Hyon Sop
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xfda1ec4a6178d4916b001a065422d31ebe5f62ff'
+  currency: ETH
+  label: SIM, Hyon Sop
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x747afb5c7a7fc34b547cd0fdebf9b91759c5a52b'
+  currency: ETH
+  label: SIM, Hyon Sop
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x38735f03b30fbc022ddd06abed01f0ca823c6a94'
+  currency: ETH
+  label: HANAFIN, John Desmond
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1D6gG9iKEhPitTcWRJiniuj1jYM2hNeAfJ
+  currency: BTC
+  label: KIM, Sang Man
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x97b1043abd9e6fc31681635166d430a458d14f9c'
+  currency: ETH
+  label: KIM, Sang Man
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xb6f5ec1a0a9cd1526536d3f0426c429529471f40'
+  currency: ETH
+  label: KIM, Sang Man
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1FCNgfZWpYMeYhy9t18AAkTBu8AsdoAc1Z
+  currency: BTC
+  label: KIM, Sang Man
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q4namcagg5wljs0u20z6h2sqgsq4q5lts8rt2rr
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qdpazd6smrkq5hmw6lupq98za2fqtgmq3azv3av
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qwz0l2ceddckwdy5rh6zyrm3x4ha6gn5f2da5zg
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qw8evftpgc8wsmkemd8yl5fg2husza5z802xaym
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qv4krhj2qmpd9qz9xj9nhvj99fq8s9xsw05d485
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qu5vngdtcx8nc9d68pq8nv7pzcjrswsy87s66gk
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qtsl3ufenrv3zgrgm9z8xarcx22x8mfztuartyn
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qtrrfhr0f3ufsrjxfv8a7p3yuqj0spe4cm6vaws
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qte9ret332gwrk6e7vqc87d807npzvdj5savg4h
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qtdupwe722vcc5e0vh94cgwfs0ep4gzwyfsf75q
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qnykkrlk67f9kdqvzyw2ndu3xmef5z2e52886yl
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qllmlvy5u038yvwywu803p53g8udcm8w7k4qxu9
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qlfpg2xn39u580cmwq6rymt8jdhcmj8520jhgh0
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1ql7rnd70aejdxt3f9fzdlfazjlc9hvdmut8ad8s
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1ql526s72gycmvq7hek6j3tuwwmcpv4rgs0auxu7
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qh3lw22uqwrywr8lpun20q2ma528a4yqmgf3uqp
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qgffxa65gr579tsz55n87pal2a777ygzg69d2yz
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qedvcgh32dud85yt7fu6s7qavthlh38gtwa7rhx
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qau9pmgc8l6rxpdwwap3fd6zprh5yp9mpe9jl0h
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qakycg2zp8hydg95lc9cheumpa9yfpdeyrqqh5f
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q9ua9ypl4dhj0zut5kzasj5c2kxclhh8v2k9djd
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q8q7z3kt37z6jalv5ujung5lem6pzlk9r3kt66k
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q8pw85s83mdx2f3rfu64mmfd9wexqu2y856arwp
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q7xfqqw9htr88t7vafg80p4qrlpjfyaps452x5g
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q7hhdygx05kyfyzjku2u7lywvx5pgyng6a0nefp
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q6w463k7mhsgguwgqtcratm4vm42rncwhvvkeck
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q68uswkjvu7nj7mhrvfzkx7cm6u5s9puvpm5dc2
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q5zd0cwzd09k9r8xfk68sn5ytqp8f5aae80yfsm
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q49ax787wv0mnn8wjgp3sx772qz7eun822rkv5k
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q3ael5my37nklgnqcrkwmnndfx9qdnp67j0739c
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q362njxy39gnwrvj7zytn84ax39fwnhvk7n2999
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q2jys00x2rgdkm3xnewuucqacytu0a7echupu8y
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q05aktddf9ce4p7hh3stgsf253m4vweu7nkhtmw
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qtywfzxx6snut2mdrum8dyr5nnd5qhqd29wmvqt
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qrc2gchg2fmxua5u7twu4luv5p9twmny4jjmg9x
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q9ws2gcq7uumm4mk3l9xezwve7w5tmcs5js5cup
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qh33xtpjqhgysq5xlmjzkm28uewj08885n95drr
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qe8wclszdtshkjk7gph57crc72vpp9rylujgwa5
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q2q8uxjznmurg363dvd98xjg54mrr7z6mw9t825
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qhvzl5w99m458nm7sc6hwf5qfhxndw28sgtatk8
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qavwamr74qlzj8txy6jaxqnpym9062h090x6kz4
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qe9lz50jq0a5pmtry0h3ekng3kjdg09vejg7355
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qup656lpfqfckhl580kwf62thmn5azmj2pal0sz
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qa2xr7dmz5lztplp9yfp7k382nf4ma8gwrl7zgg
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qrskwdw9unhlkt87ltcqq2d5pn9s6w2f35gz3z6
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1NaRX1GZgtZ7E8iXo8YUdTtnb8rAK5QFJa
+  currency: BTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xe1d865c3d669dcc8c57c8d023140cb204e672ee4'
+  currency: ETH
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: LNf2JDiuunBz7GMDKFYHN4rq5meXWxiwfb
+  currency: LTC
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TBHTJqAy4DhHhmT3dNceJYNRz4SdLofLre
+  currency: TRX
+  label: WANG, Yunhe
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x9c2bc757b66f24d60f016b6237f8cdd414a879fa'
+  currency: ETH
+  label: JIMENEZ CASTRO, Mario Alberto
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qq7p0es3dv5hcynjjf40f2xjjr6qp5py47d2f6n847vduuq9gvnyq7y9ecd
+  currency: BTC
+  label: SINBAD
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: sinbadio
+- address: 1JHdQHkBZiim1cb4hyUh2PbzEbbg6z2TrF
+  currency: BTC
+  label: SINBAD
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+  actor: sinbadio
+- address: TVacWx7F5wgMgn49L5frDf9KLgdYy8nPHL
+  currency: TRX
+  label: SHAFIU, Ali
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xdcbeffbecce100cce9e4b153c4e15cb885643193'
+  currency: ETH
+  label: SEMENOV, Roman
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x5f48c2a71b2cc96e3f0ccae4e39318ff0dc375b2'
+  currency: ETH
+  label: SEMENOV, Roman
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x5a7a51bfb49f190e5a6060a5bc6052ac14a3b59f'
+  currency: ETH
+  label: SEMENOV, Roman
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xed6e0a7e4ac94d976eebfb82ccf777a3c6bad921'
+  currency: ETH
+  label: SEMENOV, Roman
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x797d7ae72ebddcdea2a346c1834e04d1f8df102b'
+  currency: ETH
+  label: SEMENOV, Roman
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x931546d9e66836abf687d2bc64b30407bac8c568'
+  currency: ETH
+  label: SEMENOV, Roman
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x43fa21d92141ba9db43052492e0deee5aa5f0a93'
+  currency: ETH
+  label: SEMENOV, Roman
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x6be0ae71e6c41f2f9d0d1a3b8d0f75e6f6a0b46e'
+  currency: ETH
+  label: SEMENOV, Roman
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1Ljk8RNNabkZ9bfDYQBn98XfFozJhTjqcZ
+  currency: BTC
+  label: ZHDANOVA, Ekaterina Valeryevna
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3685sEusmTwZBiKJ4cgV73EAhpVD1nbgbe
+  currency: BTC
+  label: ZHDANOVA, Ekaterina Valeryevna
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 39p8qWp1bkBNhi4vPpFTetKPtH7goqNDZf
+  currency: BTC
+  label: ZHDANOVA, Ekaterina Valeryevna
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TEFph7dZoUN5233cGEzF6XFwRpjPF8fQDS
+  currency: TRX
+  label: GAMBASHIDZE, Ilya Andreevich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TMGLqRQ4twjW8wJhVH1mQR7nUThpGHUsN3
+  currency: TRX
+  label: GAMBASHIDZE, Ilya Andreevich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3B7S6zrgxQVQUHTU8wstM23tB9afE7ojuX
+  currency: BTC
+  label: SHEN, Xingbiao
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x530a64c0ce595026a4a556b703644228179e2d57'
+  currency: ETH
+  label: SHEN, Xingbiao
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TEAqwfMhXLaomXhZ8KeMhx3njGmQEDnsUR
+  currency: TRX
+  label: SHEN, Xingbiao
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qardcxz845jw83vgfvcmewhuxa0ag9gchjwmcfd
+  currency: BTC
+  label: VALERIAN LABS, INC.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x983a81ca6fb1e441266d2fbcb7d8e530ac2e05a2'
+  currency: ETH
+  label: VALERIAN LABS, INC.
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3NNcbBcMZokPB2JC2dxYuZrpgcetvyGeJn
+  currency: BTC
+  label: WANG, Jiantong
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TMStbg5fgb4uTV7fK1gEYF9hKAzP3siPsG
+  currency: TRX
+  label: WANG, Jiantong
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 38TftW1heYPqvKbiAhT4ttNBqkUPpooXad
+  currency: BTC
+  label: XIA, Fengbing
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qkfqh5p2qsakseg5gnwen6zh5xf3elmku2xaup29mw3l0wnncy3es880dss
+  currency: BTC
+  label: XIA, Fengbing
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TTKnV2S1295UrPr7N67Tp9ykNL7xX2Z4Uj
+  currency: TRX
+  label: XIA, Fengbing
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3NU9zkD8CCVGVmYnNNSN7PbU9sSFQBm5UV
+  currency: BTC
+  label: ZHANG, Wei
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TRBACioxdrdsYEZHvJWiUDZcMdBPpEe5Ub
+  currency: TRX
+  label: ZHANG, Wei
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x961c5be54a2ffc17cf4cb021d863c42dacd47fc1'
+  currency: ETH
+  label: ZHANG, Wei
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1MLPqwaFFUBZePTjpR3nxRoK19Cv9mPCc7
+  currency: BTC
+  label: WANG, Mingming
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3HePkztPU6UsdENxnyQHFrdZA6eVKeMtvz
+  currency: BTC
+  label: WANG, Mingming
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TUCsTq7TofTCJRRoHk6RvhMoS2mJLm5Yzq
+  currency: TRX
+  label: WANG, Mingming
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xfac583c0cf07ea434052c49115a4682172ab6b4f'
+  currency: ETH
+  label: WANG, Mingming
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 19D1iGzDr7FyAdiy3ZZdxMd6ttHj1kj6WW
+  currency: BTC
+  label: BUY CASH MONEY AND MONEY TRANSFER COMPANY
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xe950dc316b836e4eefb8308bf32bf7c72a1358ff'
+  currency: ETH
+  label: GAZA NOW
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TXEsK1sEsKjZ1xtHitnyAAoqw3WLdYdRNW
+  currency: TRX
+  label: GAZA NOW
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x21b8d56bda776bbe68655a16895afd96f5534fed'
+  currency: ETH
+  label: GAZA NOW
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3Q8H2ZWMtc4R1M3mkmhnTjCoYKTeCFigDP
+  currency: BTC
+  label: GAZA NOW
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TTgcTTNbNuFdbrhvbjMZVrdU5KALyzDaPw
+  currency: TRX
+  label: GAZA NOW
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TGJVc32ig2u8tQsYMLE7KXHT5NDQroaVNU
+  currency: TRX
+  label: GAZA NOW
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TH96tFMn8KGiYSLiwcV3E2UiaJc8jmcbz3
+  currency: TRX
+  label: GAZA NOW
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x175d44451403edf28469df03a9280c1197adb92c'
+  currency: ETH
+  label: GAZA NOW
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TC4VsFHJdZ66BdwobZxkudVZBVmQZgCP65
+  currency: TRX
+  label: ANSARALLAH
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TQ5mpZPbQMSq2s1vSM3RJgiB1AsTsiTpFZ
+  currency: TRX
+  label: ANSARALLAH
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TXEaKf4rT3rMoD3Vuqnuhwr6vLq6BL5t33
+  currency: TRX
+  label: ANSARALLAH
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TGUPpmW2bAnMCLe5ih2CFisfCHk4gTFDsx
+  currency: TRX
+  label: ANSARALLAH
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TDwN1Eq62bqvVhfGAjdRRJjE46jsi5KNMV
+  currency: TRX
+  label: ANSARALLAH
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TM6Kix9wH8cYQ4rLpFifsQ4ddH3rPX3f8p
+  currency: TRX
+  label: ANSARALLAH
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TDprk9jeYPVm6khkBp1u7fwuyJcEJFrPWD
+  currency: TRX
+  label: ANSARALLAH
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TVn4q7L4fKEPbygi7UHq1CKfZxtbeuMV5q
+  currency: TRX
+  label: ANSARALLAH
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 18gaXypKj9M23S2zT9qZfL9iPbLFM372Q5
+  currency: BTC
+  label: SUNGATOV, Artur Ravilevich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q5jqgm7nvrhaw2rh2vk0dk8e4gg5g373g0vz07r
+  currency: BTC
+  label: KONDRATIEV, Ivan Gennadievich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 32pTjxTNi7snk8sodrgfmdKao3DEn1nVJM
+  currency: BTC
+  label: KONDRATIEV, Ivan Gennadievich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 15cRqR3TXS1JehBGWERuxFE8NhWZzfoeeU
+  currency: BTC
+  label: KONDRATIEV, Ivan Gennadievich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1A7SKE2dQtezLktCY8peLsdAtkqxV9r1dC
+  currency: BTC
+  label: KONDRATIEV, Ivan Gennadievich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q8ew45w2agdffrnwp6adt2gqrc9n4mkev9ns29c
+  currency: BTC
+  label: KONDRATIEV, Ivan Gennadievich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qagp0gy58v8hqvw4p2wsphcxg067rrppp45hexr
+  currency: BTC
+  label: KONDRATIEV, Ivan Gennadievich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qn6segn8km4nfdp9vueu6msfjsaxaqgun9h60n9
+  currency: BTC
+  label: KONDRATIEV, Ivan Gennadievich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xf3701f445b6bdafedbca97d1e477357839e4120d'
+  currency: ETH
+  label: KONDRATIEV, Ivan Gennadievich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qx9upga7f09tsetqf78wa3qrmcjar58mkwz6ng6
+  currency: BTC
+  label: KONDRATIEV, Ivan Gennadievich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TWBAPzpPiZarfVsY2BLXeaLhNHurn4wkWG
+  currency: TRX
+  label: AL-LAW, Tawfiq Muhammad Sa'id
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x19f8f2b0915daa12a3f5c9cf01df9e24d53794f7'
+  currency: ETH
+  label: OKO DESIGN BUREAU
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TFdTr9C3BqQrzKBXqSxJfAZFTh8UwBAfSg
+  currency: TRX
+  label: OKO DESIGN BUREAU
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 13fhnkmpBBWXUQucJd6efWvXdEj78DKavk
+  currency: BTC
+  label: OKO DESIGN BUREAU
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qvhnfknw852ephxyc5hm4q520zmvf9maphetc9z
+  currency: BTC
+  label: KHOROSHEV, Dmitry Yuryevich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TLM3zA3EWycoDX4ZX4gKze7sgfbdkntTum
+  currency: TRX
+  label: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KONSTRUKTORSKOE BYURO VOSTOK
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 13JtX4h7G5ZuNK5mFudKGq9DHLvvMFuNuz
+  currency: BTC
+  label: CRYPTEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TTUDyVhhpCC1xJoPmWzdjLAzeoPwbSABdr
+  currency: TRX
+  label: CRYPTEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x0931ca4d13bb4ba75d9b7132ab690265d749a5e7'
+  currency: ETH
+  label: CRYPTEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: M8yFL6SFC6TreATegTyuSYkDfDRbisdpT3
+  currency: LTC
+  label: CRYPTEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3NEcQKZ8RwL2eDNhmMPpZ4td9vPsQh9JwM
+  currency: BTC
+  label: HUANG, Xiaojun
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x1999ef52700c34de7ec2b68a28aafb37db0c5ade'
+  currency: ETH
+  label: MAGOMEDOV, Khadzhi Murat Dalgatovich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TDdbRFoBTEmE3qiR69Y6rKRSG1hoF65QaE
+  currency: TRX
+  label: CHIRKINYAN, Elena
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1M5N4sJ1NHb4fviLVZA5MZLKhLZqU4CPZz
+  currency: BTC
+  label: ZSERVERS
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1Gekw8ACSs37oXcc5XQHvoux3iKoVFtpF4
+  currency: BTC
+  label: ZSERVERS
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q4yzd2rjmshm8ucrwy6dzj5rna20j0zlf8hf8vz
+  currency: BTC
+  label: ZSERVERS
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3FfRvC3kSo2SxiQe5e7SSuNdegwgq8iusL
+  currency: BTC
+  label: MISHIN, Alexander Igorevich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q3q2lz3cmt4u2f49ugxz5q34xrs0m2z4w2gmkp5
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qj2ffj6pepc80sfqpx2k2pd3q278q72dpqv2ens
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qjwr3rgww7a8ut7a4x8jqh3vswcue3xvp6dm7qe
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qvxlwpgcw260sc97a0u6dm0cjxv027clhd67fvx
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qwtswqzvaxl6lyw3keqqzwt8z937psta3wg9sjy
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qyqvyupkpl6tm60zdecef925y220ssjuagpxsm0
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q45cxufu7x6s5v9adzm9t38k80gwawse75xffwe
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qmzmx8res2fgzd2wttyvf2ajqqqtcnxxrgkqc2t
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qtnr3t28ltzgsuvr9j6ruqaat6fz773mm8wr02l
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q6rzzf4erht8v7kgh5mfnwcrvzxchxt5glpsuls
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qr4fd3glpnthkefcylhnxk4gp47jsd0523ue7qj
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q2c3vwu7wxq308lsun24rjlsh6ff0x8whx55v4q
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qwyye7frjufeth0pecvaf3hz67lakt028dezv3p
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qhsp4kffl5pmsae43st9jufagu6uy7lsa6mslla
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qlhh94040d8nxkstf4l7720q72f2vntxxl96m4d
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qdzgee6h4zjwvn8lyzjxgd467zxnshelqkudh7z
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q97eg4k2juepa3smpac4pnfjsnyws696c290cxq
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qu3e9sq8cem759umc3pywlsly3rr2qvjlxfnn9l
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qa4jp7udkn2ycecz8289jfs3vpnqdwf4483d3qe
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qxp3sxw4q2rw3u9pd2k7udhp4eagc77jqcezv4q
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q7d46dvuv56kn4mm0jz3yep6xj74kxcpydt5te4
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qetqqlgvlnzdh4eshz9q6twlpdtmvy5rfkn3lza
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qtrh9z4ls2s2mflyhc5y0mtxt0y30n87c97z4qp
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qr2tgu4almsw9ajqfwz93qw0xc8w2g72xpyzqvn
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qzqqdvukupr0qr5uckn2zjn40mkflnxu8fuuqdp
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q6yz2q723helcd7rz7xltw5nu77vn649zczklc3
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qfpdycqpkl5hvxg4feuk3nhde5h8t2zd89svsg9
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qhe6zy9x6ar42zkec3lhkms5m7hh3svtc88qhf6
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qptrvdk8uv8shd734tyhyzatrvmlq9l0v6r0dc2
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qcp6fr7gtyukympl6unr7uv78h3vprycwj455zx
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q8p5r6wdx7leuekulnlglapy2wlwxgukpe76mys
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q7qsruzjsed9sy6taqz2m5rvljsmleg2xl7dz5r
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q3tan207evu5skk2wj80ycyw242g0kdnn3hs3x0
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q4sqmmyv63g6ma5cmswzap3d8k995h0str69v3t
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qec85gd576z0phflq2jm8jxlh22tckqj3yru7xs
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q4qjvgw475a39d8cpcyv5keq39jlmlrq870sn30
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qmwznjzlhrj3fney3elxkwdpwa72u7eq0ge76dt
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qzcg8y0utezp7zkp2cmqppd3x80l4gpqzew25wy
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qdd2mumk4rxnygxyn5qhrq6pah6yjmnl3s9mef5
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qcjh0phl2yy3rxcztfthz9psuvk8trv2qe06p0k
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3FgaJMgxCfU3qqQ3Yiqv3Xw8rmLDDkByeo
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3EQoMXw6Xi8zNzY8tLfJbkWjV5EXsQP4Es
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 37KHumAdzFcg1fXMv36UGg91MHPqhJUv19
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3GBGnqDqdiskCmfq2Rchk1LcBoSo4P3DZQ
+  currency: BTC
+  label: PARSARAD, Behrouz
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xd5ed34b52ac4ab84d8fa8a231a3218bbf01ed510'
+  currency: ETH
+  label: FUNNULL TECHNOLOGY INC
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TNmRfnSUXZoWWzxcDDbf95eGQYXt1mJDt8
+  currency: TRX
+  label: FUNNULL TECHNOLOGY INC
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 18dLDAWi8LmrHbEq3QzDJb9SLxCf4uimXB
+  currency: BTC
+  label: VOLOSOVIK, Aleksandr Aleksandrovich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TU4tDFRvcKhAZ1jdihojmBWZqvJhQCnJ4F
+  currency: TRX
+  label: AEZA GROUP LLC
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TL1k1U6SHohxBqb68kCodxHc9y2LXoDSep
+  currency: TRX
+  label: GRINEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TNZxGWCwvsHr6JxQxzoeDXV597Yf7Zb7nV
+  currency: TRX
+  label: GRINEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TC8axQvzJEVR3NKN6mZnJtGy7537GEmh38
+  currency: TRX
+  label: GRINEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TEcuHDQthTmULe8fFLUccBPpjfXaTmJuuD
+  currency: TRX
+  label: GRINEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TAYhjpL8pPs8T84FSM329nffQpc6jD8GBM
+  currency: TRX
+  label: GRINEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TMuCgBejD5RsNANZdjGtaM3YyKGNgDoy7N
+  currency: TRX
+  label: GRINEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TGckaiamj5NzaYx6Qp6Zu7kahuHArzUo99
+  currency: TRX
+  label: GRINEX
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x12de548f79a50d2bd05481c8515c1ef5183666a9'
+  currency: ETH
+  label: OLD VECTOR LLC
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TCFD8N3vM5b4Gr5f1kkajQsodRVNyyAq1d
+  currency: TRX
+  label: OLD VECTOR LLC
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1HmqvgSXUVES1jn4TQPzk9dxo1NE8wim2T
+  currency: BTC
+  label: ANDREYEV, Vitaliy Sergeyevich
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TDFtJtyLPgN3oWUoHh23oJox3T5V5nR11K
+  currency: TRX
+  label: SAYYED, Sadiq Abbas Habib
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TSxAAo67VTDgKT537EVXxdogkJtk9c6ojz
+  currency: TRX
+  label: DERAKHSHAN, Alireza
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xdb2720ebad55399117ddb4c4a4afd9a4ccada8fe'
+  currency: ETH
+  label: DERAKHSHAN, Alireza
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TYDUutYN4YLKUPeT7TG27Yyqw6kNVLq9QZ
+  currency: TRX
+  label: ALIVAND, Arash Estaki
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TRakpsE1mZjCUMNPyozR4BW2ZtJsF7ZWFN
+  currency: TRX
+  label: ALIVAND, Arash Estaki
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xe3d35f68383732649669aa990832e017340dbca5'
+  currency: ETH
+  label: ALIVAND, Arash Estaki
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x532b77b33a040587e9fd1800088225f99b8b0e8a'
+  currency: ETH
+  label: ALIVAND, Arash Estaki
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TQ5H49Wz3K57zNHmuXVp6uLzFwitxviABs
+  currency: TRX
+  label: ALIVAND, Arash Estaki
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qeth6n6ryxexvkx34wnx3nuynun4474h3j0gkhw
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q2we5eqjj8je6lz9xwjattpc3pn4jejc5h0s70f
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qnujzvts45qka3cr2eqqw8ur3q6g6s0ze2wlk5m
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qw4fxztd5u3sl7vrcqwk2a8v5zh5dllvckx3tlt
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3EynPFpoGTPxU9m5bPaEDEUxUanzh7vgQP
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3FoD1f6Tfnq3s8MYHgJqFPWv9cUrtUdBSv
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3MKXKqPXf6VxTLkVSXuDKzaTiZZaz5AmiK
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 386sPhHBbLidzPnoxUH74jiiYkHYtobefQ
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 35irs2AU6pVgenYbWvMRz22avDBLC9XMkd
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 36ia8qAE1k1PKQePdXENCm1YKLXxZyVnnc
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 374RguZDMNW5Zh5ouW3KhKDcrerKusmsuk
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3CuqLrZWn5oCe6DRScdRwiFv8txcahrsG3
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3MNWiGeoKAhtTrbJuUXpvSRYJSNvmyJSWE
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 39HJB4x6W5QuKFEuV1tfcfNveLRJTzcC12
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3L1PSCgfPKJAfQCZcoKfbvWf1fBmWM1Bbs
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 3D44E2Z3PcLa868GeBNiP5E2GPTfVLULUJ
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qnq3pzsw3elkecrw8pqrz70r7zuse6cwyxa6dhc
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qeaxuj8vamvnxqveleaqgmae33x904xuzj836p3
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q66y45cq78ke25kz7rpe94l84avt7zetglzeeqg
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qu8mcqffx3jpdwnap88h85u5l5l0xq97438tz2x
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qw75cxmxz4e2v265mue9wmqgq2m0qdyr25l2ufl
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q7des766x6c0zkycz6dz6rfv066n3fcg4kggtrt
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qlwtksgusw8pp3k3a39mkmwvswujhhgn0ulp3uj
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qu4p4eynzu8vwwcv0yxq74gth00exjyech05uf0
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qw0pswznckx7s6tjmd2f5hrx4q6kc5nyrdxku50
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q9kja7t2zxz0ze4lcgxf0l07pygpc69ws528lj9
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qea942uw640l7nvtf3vplv6jd6wvuy06c58cd4k
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q6qze6uj6jncgnva4eghxn3tr4pm2frh77ad3k9
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qcx8vxxrld2s7qvz64qp75s3508rkzaxj65l60q
+  currency: BTC
+  label: CHEN, Zhi
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TAoLw5yD5XUoHWeBZRSZ1ExK9HMv2CiPvP
+  currency: TRX
+  label: WEDDING, Ryan James
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TVNyvx2astt2AB1Us67ENjfMZeEXZeiuu6
+  currency: TRX
+  label: WEDDING, Ryan James
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TPJ1JNX98MJpHueBJeF5SVSg85z8mYg1P1
+  currency: TRX
+  label: WEDDING, Ryan James
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TCu5onCzXuqxjvVzdB2tR4FLuF66d4yRqf
+  currency: TRX
+  label: SOKOLOVSKI, Rolan
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TBcLqqqyZjNj1ptuXFgj5H768NhNU5nDyn
+  currency: TRX
+  label: SOKOLOVSKI, Rolan
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 37fKFZQGMqdBkjSUub1jCDWGgSHwv9VxfZ
+  currency: BTC
+  label: SOKOLOVSKI, Rolan
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1JPqJ8sxLBvdHBqMqSFBmUkoh2vAuCUNvs
+  currency: BTC
+  label: SOKOLOVSKI, Rolan
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x5d5b5dafecbf31bdb08bfd3edad4f2694372d0ef'
+  currency: ETH
+  label: SOKOLOVSKI, Rolan
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xc103b7dc095c904b92081eef0c1640081ec01c10'
+  currency: ETH
+  label: SOKOLOVSKI, Rolan
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xe1e4c5e5ed8f03ae61b581e2def126025f2b9401'
+  currency: ETH
+  label: SOKOLOVSKI, Rolan
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TCA9vmjsYw9MtPKEwRBtGhKFRfr4CLxJAv
+  currency: TRX
+  label: ZEDCEX EXCHANGE LTD
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TGsNFrgWfbGN2gX25Wcf8oTejtxtQkvmEx
+  currency: TRX
+  label: ZEDCEX EXCHANGE LTD
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TASWbk6X1wiTku5TMmMQYqYFvshVEtfJy8
+  currency: TRX
+  label: ZEDCEX EXCHANGE LTD
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TTS9o5KkpGgH8cK9LofLmMAPYb5zfQvSNa
+  currency: TRX
+  label: ZEDCEX EXCHANGE LTD
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TCzq6m2zxnQkrZrf8cqYcK6bbXQYAfWYKC
+  currency: TRX
+  label: ZEDCEX EXCHANGE LTD
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TLvuvpfBKdxddxSsJefeiGCe9eVY8HUroE
+  currency: TRX
+  label: ZEDCEX EXCHANGE LTD
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TNuA5CQ6LB4jTHoNrjEeQZJmcmhQuHMbQ7
+  currency: TRX
+  label: ZEDCEX EXCHANGE LTD
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xb637f84b66876ebf609c2a4208905f9ddac9d075'
+  currency: ETH
+  label: YUN, Song Guk
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x95584c303fcd48af5c6b9873015f2ad0ca84eae3'
+  currency: ETH
+  label: YUN, Song Guk
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qyy5pt5cx3zth8xlj92lq5y87dh8xv3nwgs4ncq
+  currency: BTC
+  label: HOANG, Minh Quang
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TNrX2FwrHKoo4XACGkmSzqeK4pdnKYn6Z7
+  currency: TRX
+  label: AMNOKGANG TECHNOLOGY DEVELOPMENT COMPANY
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xcb74874f1e06fcf80a306e06e5379a44b488ba2d'
+  currency: ETH
+  label: AMNOKGANG TECHNOLOGY DEVELOPMENT COMPANY
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x0330070fd38ec3bb94f58fa55d40368271e9e54a'
+  currency: ETH
+  label: AMNOKGANG TECHNOLOGY DEVELOPMENT COMPANY
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x9be599d7867f5e1a2d7ec6db9710df2b98a15573'
+  currency: ETH
+  label: AMNOKGANG TECHNOLOGY DEVELOPMENT COMPANY
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TEEYCuGDyeNkuDj4u6GQRXxXo3Nh29r2vP
+  currency: TRX
+  label: AMNOKGANG TECHNOLOGY DEVELOPMENT COMPANY
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TZB4NrX7k9ZsV6PRc1GigAztLL8WHpLvwP
+  currency: TRX
+  label: AMNOKGANG TECHNOLOGY DEVELOPMENT COMPANY
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TDe2UNAvuUnTbbDo7518eMe3TXN5qJW8Ft
+  currency: TRX
+  label: AMNOKGANG TECHNOLOGY DEVELOPMENT COMPANY
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qr2pwmvkpq5tc5um2g9uh34yyu6wepwx89rts70
+  currency: BTC
+  label: BLAGH, Keyvan Fayyaz Gareh
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1q4ktvxxhhvf8qhs9qkdsm9arcxfmmeex6rl7n50
+  currency: BTC
+  label: BLAGH, Keyvan Fayyaz Gareh
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x4060cbf80734193f521a3cc6fd4e985df2825279'
+  currency: ETH
+  label: BLAGH, Keyvan Fayyaz Gareh
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x56de1527136f76a809e5b14ded6103eecd072ba7'
+  currency: ETH
+  label: BLAGH, Keyvan Fayyaz Gareh
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x8694ed130432be2cd3efff2e4d9dc52351dc7423'
+  currency: ETH
+  label: BLAGH, Keyvan Fayyaz Gareh
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xbd3276f265b83b5e828c05f46cde9d10a1521a24'
+  currency: ETH
+  label: BLAGH, Keyvan Fayyaz Gareh
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xf1c4c44d2dcbcfa704349e3b57628dbd8404e597'
+  currency: ETH
+  label: BLAGH, Keyvan Fayyaz Gareh
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TP3kVtnFgDSoSqzw178nLJtGWNjrbKNgB6
+  currency: TRX
+  label: BLAGH, Keyvan Fayyaz Gareh
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qf6zxs4lkp9umh6hf087mh70w0ymcyt8cunp58r
+  currency: BTC
+  label: BLAGH, Keyvan Fayyaz Gareh
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TXR4FDAZZLDSvuRxveW9aBMybbaS12WWHk
+  currency: TRX
+  label: BLAGH, Keyvan Fayyaz Gareh
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1GXeCkFQq7SYo6B7wdLAPkkri6NFTFB7No
+  currency: BTC
+  label: GHAL'EH-KUHI, Mojtaba
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x1b8579cf6ab12ea6b74ac5fa41f3829a3cb61e6e'
+  currency: ETH
+  label: GHAL'EH-KUHI, Mojtaba
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1JGPiQGK78xTxAVoxA1MjK3Z15M84Rj6BL
+  currency: BTC
+  label: KAHZADIAN, Arman
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xeb507efa9ee692a4c774ad1de9f3cb26fc459da3'
+  currency: ETH
+  label: KAHZADIAN, Arman
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xef85a6fafa5942a964dc618e94e230881d29ce2a'
+  currency: ETH
+  label: KAHZADIAN, Arman
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x038989cbb1710c72b9920dc4fa529158f463e72c'
+  currency: ETH
+  label: OJEDA AVILES, Armando de Jesus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x14779cec0b117d5194c750c55ea1f42086631964'
+  currency: ETH
+  label: OJEDA AVILES, Armando de Jesus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x32da24ca413f3e7b53145d4737e172c3bdf81e3e'
+  currency: ETH
+  label: OJEDA AVILES, Armando de Jesus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xf2235d55b2950a0b1317469d72d07ae65b2e27cb'
+  currency: ETH
+  label: OJEDA AVILES, Armando de Jesus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x4f428c11dc82388fa5136d636e613ad923eb700b'
+  currency: ETH
+  label: OJEDA AVILES, Armando de Jesus
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xac4cc4b68ea24bbfaac8fd127b67ed445accce22'
+  currency: ETH
+  label: ALARCON PALOMARES, Rodrigo
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TBXMiRqUp1XH1zLazWu8cWitMAScv4HsYq
+  currency: TRX
+  label: ABDERRAHMANE, Miloud
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TDFj8tYzfLDkwEMo4MJ2DfrbpMztuCCnan
+  currency: TRX
+  label: ABDERRAHMANE, Miloud
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TUuaxBAWfA5nmsqNfycxYrzEvz4a5GJMGY
+  currency: TRX
+  label: FIRST VPN SERVICE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qdnr88f4d2yqunnc4mjsguezm6g3mlwe44z5dw8
+  currency: BTC
+  label: FIRST VPN SERVICE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qr4ankqmvmrhce3ydvzse86dfx5s3zhehfr9tg9
+  currency: BTC
+  label: FIRST VPN SERVICE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x2711d73d559f62f4f855ee21f38378f528e07985'
+  currency: ETH
+  label: FIRST VPN SERVICE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: ltc1qr8ntsedq8tv0svmxqhzvdcdl5k7kntdmnhwep7
+  currency: LTC
+  label: FIRST VPN SERVICE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1MTndG4K51RRMvkzyvguaHnQpiMLnxFGzM
+  currency: BTC
+  label: RASHEVSKYI, Dmytro
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x1d19b52b54e7ef5ea1a4b40b616165e798eac9f8'
+  currency: ETH
+  label: RASHEVSKYI, Dmytro
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TTLRNgLpz5H5tLPuNU4FViUs7zmmAtyvzW
+  currency: TRX
+  label: RASHEVSKYI, Dmytro
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: LcP1DumXkNJbBtSYD3XxAfsJ2nZR5hLdpM
+  currency: LTC
+  label: RASHEVSKYI, Dmytro
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1DfyWkiXVVqWfcSduj23qTDis9kb2qvRDa
+  currency: BTC
+  label: RASHEVSKYI, Dmytro
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: LbPAqHvemZBv3pvAqiAtDnZ3U1t6EziaL1
+  currency: LTC
+  label: RASHEVSKYI, Dmytro
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TBFW9gF4oDX5cG44gS7AoxQeujScmm3z6h
+  currency: TRX
+  label: RASHEVSKYI, Dmytro
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x2c7dcd774b33e10367f7d6385479e04f97d179dc'
+  currency: ETH
+  label: RASHEVSKYI, Dmytro
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TPyE2oSoaysrXfLzwf9wetBVr9JudLwjtD
+  currency: TRX
+  label: AL-JEBOURI, Zaid Issam Ahmed
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TVgUsVzA7mpFExP4zS7HHbtKti6UuBDuwZ
+  currency: TRX
+  label: AL-JEBOURI, Zaid Issam Ahmed
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TLoG3vbjDgqmTD5bM7w9rMgA6ysaNReuRy
+  currency: TRX
+  label: AL-JEBOURI, Zaid Issam Ahmed
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TAhHpxPRwo1Bmm1A9m51uZ31tcB7EPq7SY
+  currency: TRX
+  label: AL-JEBOURI, Zaid Issam Ahmed
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TScXZTbDjjZ6a6jiC7dZjgCqfNo4vm7atV
+  currency: TRX
+  label: AL-JEBOURI, Zaid Issam Ahmed
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TGr2i8ZQiiMRjP3mWyQUH2MQBfKu8GJNqm
+  currency: TRX
+  label: AL-JEBOURI, Zaid Issam Ahmed
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: THJUJFyTnrBWb1ijWav7qfRBrjUuKgP49Z
+  currency: TRX
+  label: AL-JEBOURI, Zaid Issam Ahmed
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TTVJuXWCusAURrpNShiypauagEH1N4CrxV
+  currency: TRX
+  label: CRYPTO HOME DMCC
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xbb69e01921b17cd22080968bcc96ba6115da6062'
+  currency: ETH
+  label: CRYPTO HOME DMCC
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1G1V1b9s9uPsFCNL15ibZk44xsVygKsP2u
+  currency: BTC
+  label: CRYPTO HOME DMCC
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x8d79c73daae8630c88de372ba8f57592fa987607'
+  currency: ETH
+  label: KAYVANPOUR, Siavash
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TPgxjjB6AJeMSQFngbUM6dMMxPHa9GEtYa
+  currency: TRX
+  label: KAYVANPOUR, Siavash
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 15Zt2mKuQ5Qy6DEXfDcbtsEVneoGQQXrS4
+  currency: BTC
+  label: KAYVANPOUR, Siavash
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: 1BUXxhcwzFukm9CUxnhag85sSXDkMRbXse
+  currency: BTC
+  label: KAYVANPOUR, Siavash
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0xe05f529f5284d75624eba386cb716928c3b54a2a'
+  currency: ETH
+  label: SHPS SHELBIT
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qjzk63wwatq2f638psymq3qapn00aqgksyx56l3t8eg7zuuccwasq498khf
+  currency: BTC
+  label: SHPS SHELBIT
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TXN3hVukebhyYR31YPCYd7aJAvmUeXu1ab
+  currency: TRX
+  label: SHPS SHELBIT
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: bc1qz654h5qcqzalv6ltpxsk4ksdcc3e20wkedqntgnarv3a0t2e2p7scr48pl
+  currency: BTC
+  label: SHPS SHELBIT
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: '0x6b69e2a7545c166417a80c61a77562052bffa9c5'
+  currency: ETH
+  label: SHPS SHELBIT
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TW5tokvhEfrb77z98Rc8HqbkzQJ6sxYtGX
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TBKpozurdWLrbKkxtDqkveeq1dSB8Axj3V
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TWqcMjV7Wq2RHe2CSiKQHpkn6A7B2AWUPe
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TG83Fk56S2mycAUMYHZyZp9wMg6DCf4bUn
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TYkE8VwX1SGHM3Q2CA29nka5U2F2khKAj5
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TEECjwHqVG8sDmM3VtscjuCaRe5p351MU7
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TDU61o35UEe5hdB3R16c116DrPSV4kiyKz
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TKRNCETxbiMmyyMraCkgdXKdLr1ZkmKxV5
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TTWRf2MD6zJ26bS4uKCNrcp84aAr7AmTjm
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TYvjt4ZKfsipHjA52nzgjUjDBF622SLCih
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TXHX2NUvcgft4zs6MkkUtdNVERPTavHDWN
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TWPma8xH48AEN93x2krdukV9e1j6sPsBeS
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TK3n8pGHvDTcK53mpfeDAMzdwjb22qvFU3
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TGSGw4aUeAMNCfD8WqLRLe8ErQiJ1vqghj
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TBNjCi1d5Ns6ec5aMp28LpfKcX7xTpykAN
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: THH9JJNbLDN7qs1CyTxJQEjhC9y5FnZUhU
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TQhT3QWAbFiy6GEYuBrbK97uP3XVmTpRD8
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TXka5xc6mEkcoVXR7F2TFDKernyLt3XyW4
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TH1yknksde3pBY3oWVhUxVTbWbLqdafqYT
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TLHWeZcDmXk6idnaGwsQ9CEmK24KpoGgRM
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TTmvr41Fa9LeWJQ8NKQ5t4wFUspgEA1mJF
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: THifikwE6RtxYNWdcP9CWUjXS8Gh1xBCoa
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TR983hNyUNgrNSB1xncG9thZNhgYpbNvSh
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TNwe3WoEX6XrQ5NPAeWPkvpTtdaf27XYxK
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TGcewGsDLy7Fzc66kXXEB8Kh2b6u2XCvnV
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TYq3iRujcBELXX89i9JY32UmLxcyZAJe7E
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TRyQivSkQChryfnYnE1bUmJhnL3TvKUpvS
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TGjYoJLhfAiD2BRV9hwCeuHhZ54D3gLKTd
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TXT9atp8qBMXKbFYnRyWkM88UXYyobQNLP
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TThRMUSidD4gQeCnu56cFfCmqS421Nmbu7
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TAkpWPt2JZdiLSkG7ZX2VAQkZQsnGZ1nqh
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TZ8zsUe9M9tkhrFtfE7vMMmEwgVEF3n2UN
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TM9c5uR2UKwd5fMySgaoYSjphRyi3AjAtc
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TTjHn8qNVxazB3UroiekGRPuM2w2GwvNbn
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TWHwre81Mv4hvupNdHnsYX9FPocm29dQQQ
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TT4WKPQscK7fkxrPj1E9PjZp1HTVBUpoTm
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TYZKYK2fbvw3EAPES2daFvoV4DqPna43Jd
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TF7LUSoZQyDFxTFzCL11saBHAqMAyPh8dK
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TSmcHwvTR27Ao4NN8HhPFCVcPU5aTEqLDt
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TJ6NznpBV5uUpp5uZGDub9zD1999999999
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TPD4pmojFA2f2RvgnSDa7YCuGJ4BeS9yK2
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TXtH3iUipk6DZnYNu3kgjDsnSSLHLz8ZZU
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TBEqQGTxXRWXXeqe7ZwmSB6hc5MMMMMMMM
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TTYf9kcvABTSizXsdbC2E5co6jx9jvJ111
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TTrHak4biV5ZtNwN1K8oi7916CjmeVVeH8
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TCoKgVdQbSyPnJnf9oNUNQn3dWMDD9wbQL
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TNUQ2rZSRjZaGhtbwaFZEvuaemMj5z5Fnm
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TTWBrNgoooSs9HQQKMty3ZQDbS9LzgjNiH
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TGu8xk3u1QcA9FNCQZ4RUTvniiCjNkjXkA
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TAQPzv9941nVuTj4ng2vd6L11Re57r42pW
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TMdZfVVAsxKsbXGmV3kBnEgM69z3QHH3kz
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TZ42sU5kQ2n5rLZ6PhEGkmfLtmHjoi2vpr
+  currency: TRX
+  label: XINBI GUARANTEE
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction
+- address: TJCBpxZ3yC7C7oegSRZMFxBcscmUVeSA36
+  currency: TRX
+  label: TSORIS, Almpertos
+  source: https://www.treasury.gov/ofac/downloads/sdn.csv
+  category: sanction

@@ -3,7 +3,7 @@
 title: Graphsense Actors
 creator: Graphsense Core Team
 description: A curated list of cryptocurrency actors.
-lastmod: '2023-02-17'
+lastmod: '2026-10-02'
 actors:
 - id: '01'
   label: '01'
@@ -39239,6 +39239,22 @@ actors:
     images:
     - icons.llama.fi/potluck-protocol.png
     twitter_handle: PotluckProtocol
+- id: pouchph
+  label: Pouch.ph
+  uri: pouch.ph
+  categories:
+  - payment_processor
+  - wallet_service
+  jurisdictions:
+  - PH
+  aliases:
+  - pouch
+  context:
+    uris:
+    - pouch.ph
+    twitter_handle: pouchph
+    aliases:
+    - pouch
 - id: powaaprotocol
   label: Powaa Protocol
   jurisdictions: []

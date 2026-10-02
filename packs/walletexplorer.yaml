@@ -789,7 +789,7 @@ tags:
   label: CoinJar.com
   source: https://www.walletexplorer.com/address/1GXA41EhA6sCBsDqbSLK5SLmZL6ohUPi2c
   category: service
-  actor: coinw
+  actor: coinjar
 - address: 14xGktVgDJaDrSSJnF15d2kwXpwyeG3J2D
   label: BitcoinWallet.com
   source: https://www.walletexplorer.com/address/14xGktVgDJaDrSSJnF15d2kwXpwyeG3J2D

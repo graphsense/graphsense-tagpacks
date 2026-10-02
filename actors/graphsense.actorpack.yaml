@@ -7238,7 +7238,7 @@ actors:
   jurisdictions:
   - US
   categories:
-  - exchange
+  - wallet_service
   uri: bitgoinc.com
   context:
     refs:
@@ -55503,7 +55503,8 @@ actors:
 - id: bitgo
   label: Bitgo
   jurisdictions: []
-  categories: []
+  categories:
+  - wallet_service 
   uri: https://www.bitgo.com/
   context:
     same_as:
@@ -58987,6 +58988,8 @@ actors:
 - id: zonda
   label: Zonda
   uri: https://zondacrypto.com/en/home
+  context:
+    same_as: [bitpay]
   categories:
   - exchange
 - id: wagmi

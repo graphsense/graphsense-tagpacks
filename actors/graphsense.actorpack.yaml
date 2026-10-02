@@ -55504,7 +55504,7 @@ actors:
   label: Bitgo
   jurisdictions: []
   categories:
-  - wallet_service 
+  - wallet_service
   uri: https://www.bitgo.com/
   context:
     same_as:
@@ -58989,7 +58989,7 @@ actors:
   label: Zonda
   uri: https://zondacrypto.com/en/home
   context:
-    same_as: [bitpay]
+    same_as: [bitbay]
   categories:
   - exchange
 - id: wagmi

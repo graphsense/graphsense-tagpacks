@@ -6405,6 +6405,8 @@ actors:
   - exchange
   uri: bitbay.pl
   context:
+    same_as:
+    - bitbay  # bitbay.pl, rebranded to Zonda
     refs:
     - www.theasianbanker.com/publication/virtual-currency-services
     active: false
@@ -43798,6 +43800,8 @@ actors:
   jurisdictions: []
   label: SlushPool.com
   context:
+    same_as:
+    - braiins  # rebranded to Braiins
     refs:
     - www.walletexplorer.com/wallet/SlushPool.com
     notes:
@@ -52745,6 +52749,8 @@ actors:
   - defi_bridge
   uri: wbtc.network
   context:
+    related_actors:
+    - bitgoinc  # BitGo is the WBTC custodian
     coingecko_ids:
     - wrapped-bitcoin
     defilama_ids:
@@ -55499,7 +55505,9 @@ actors:
   jurisdictions: []
   categories: []
   uri: https://www.bitgo.com/
-  context: {}
+  context:
+    same_as:
+    - bitgoinc  # duplicate entry of BitGo
 - id: rockx
   label: Rockx
   jurisdictions: []
@@ -60238,6 +60246,8 @@ actors:
 - id: firi
   label: Firi
   context:
+    same_as:
+    - fire  # duplicate entry of Firi
     notes:
     - This is a dummy datapoint like all .dummy uris
   categories:

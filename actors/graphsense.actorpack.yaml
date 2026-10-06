@@ -9495,6 +9495,16 @@ actors:
     - www.crunchbase.com/organization/btc-e
     - www.walletexplorer.com/wallet/BTC-e.com
     active: false
+- id: btceur
+  label: BtcEur.eu
+  jurisdictions: []
+  categories:
+  - exchange
+  uri: btceur.eu
+  context:
+    refs:
+    - www.walletexplorer.com/wallet/BtcEur.eu
+    active: false
 - id: btcex
   label: BTCEX
   jurisdictions:

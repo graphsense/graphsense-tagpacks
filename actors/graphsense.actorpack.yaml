@@ -42318,6 +42318,10 @@ actors:
   - exchange
   uri: satang.com
   context:
+    nested_in:
+    - binance
+    notes:
+    - 'nested_in binance: 2021 test deposits to Satang Pro were swept by Binance (clustered into Binance wallets on BTC and BCH)'
     coingecko_ids:
     - tdax
     refs:
@@ -42326,6 +42330,7 @@ actors:
     - api.coingecko.com/api/v3/exchanges/tdax
     - cer.live/exchange/tdax
     - facebook.com/SatangProOfficial
+    - www.financemagnates.com/cryptocurrency/news/binance-opens-thai-baht-support-with-satang-partnership/
     images:
     - assets.coingecko.com/markets/images/231/small/satangpro.jpg?1549866880
     - coin-images.coingecko.com/markets/images/231/small/orbix.jpeg?1706864337

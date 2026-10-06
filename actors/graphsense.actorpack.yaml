@@ -7479,8 +7479,6 @@ actors:
   - exchange
   uri: www.bitmart.com
   context:
-    nested_in:
-    - cobo
     coingecko_ids:
     - bitmart
     refs:
@@ -8072,8 +8070,6 @@ actors:
   - exchange
   uri: www.bitunix.com
   context:
-    nested_in:
-    - cobo
     coingecko_ids:
     - bitunix
     defilama_ids:
@@ -11746,8 +11742,6 @@ actors:
   - exchange
   uri: www.chiliz.net
   context:
-    nested_in:
-    - cobo
     coingecko_ids:
     - chiliz
     refs:
@@ -38204,8 +38198,6 @@ actors:
   - exchange
   uri: www.pionex.com
   context:
-    nested_in:
-    - cobo
     coingecko_ids:
     - pionex
     refs:
@@ -49051,8 +49043,6 @@ actors:
   - exchange
   uri: www.toobit.com
   context:
-    nested_in:
-    - cobo
     coingecko_ids:
     - toobit
     defilama_ids:
@@ -53237,8 +53227,6 @@ actors:
   - defi_dex
   uri: woo.org
   context:
-    nested_in:
-    - cobo
     uris:
     - x.woo.org
     - fi.woo.org
@@ -55802,14 +55790,14 @@ actors:
 - id: cobo
   label: Cobo
   jurisdictions: []
-  categories: []
+  categories:
+  - wallet_service
   uri: https://www.cobo.com/
   context: {}
 - id: softbankcorp
   label: Softbank Corp
   jurisdictions: []
-  categories:
-  - wallet_service
+  categories: []
   uri: https://www.softbank.jp/en/corp/aboutus/
   context:
     aliases:

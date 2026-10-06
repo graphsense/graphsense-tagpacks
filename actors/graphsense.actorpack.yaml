@@ -55796,7 +55796,8 @@ actors:
 - id: softbankcorp
   label: Softbank Corp
   jurisdictions: []
-  categories: []
+  categories:
+  - wallet_service
   uri: https://www.softbank.jp/en/corp/aboutus/
   context:
     aliases:

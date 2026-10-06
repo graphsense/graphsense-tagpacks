@@ -33,11 +33,14 @@ tags:
 - address: 3ARiHh4ZB8gWRwwboAa9wkew6uBwKuVkUD
   is_cluster_definer: true
 - address: 3BMEXtMSkRt3wwXKytg7Nj86utJeSbwFHx
-  is_cluster_definer: true
+  is_cluster_definer: false
+  tag_type: event
 - address: 3BMEXuoRza9EimRGSHGrwPmyFNUqWFpu8t
-  is_cluster_definer: true
+  is_cluster_definer: false
+  tag_type: event
 - address: 3BMEXyn3rFJwGH6tTVMgC9ERz8TdDhVLuv
-  is_cluster_definer: true
+  is_cluster_definer: false
+  tag_type: event
 - address: 3DAJaTi9mZhHupEJ3ZEfAXCnXdqJmS8a5D
   is_cluster_definer: true
 - address: 3DoSXzGZFbUnw4dC5Cwj7GZ7aKPLwFcKSg

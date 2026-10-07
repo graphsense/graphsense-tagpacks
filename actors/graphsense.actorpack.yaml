@@ -23359,6 +23359,8 @@ actors:
   jurisdictions: []
   label: HaoBTC.com
   context:
+    same_as:
+    - bixin
     refs:
     - www.walletexplorer.com/wallet/HaoBTC.com
 - id: haozhuzhu

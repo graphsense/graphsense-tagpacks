@@ -45,3 +45,22 @@ Finally, all provided TagPacks must pass the validation steps supported by the [
 # GraphSense ActorPacks
 
 A [GraphSense ActorPack](https://github.com/graphsense/graphsense-tagpacks/wiki/GraphSense-Actors) is a data structure for packaging and sharing information about real-world actors, such as an exchange. 
+
+### Aliases and relations between actors
+
+Besides its own fields, an actor can point to other actors:
+
+- `aliases` (actor level): other ids or spellings of **this** actor; tags
+  using an alias are stored under the actor's id.
+- In `context`, for **separate** actor entries that may tag the same
+  addresses without a conflict:
+  - `same_as`: the same organisation (rebrand, duplicate entry)
+  - `sub_service_of`: a product or division of the same organisation (one id)
+  - `nested_in`: a separate organisation running on the listed actors'
+    addresses or accounts (e.g. an exchange at a custodian)
+  - `related_actors`: separate organisations on the same addresses for
+    another reason (e.g. a token and its custodian)
+
+Relations must name actor ids, not aliases. Record the evidence in
+`context.notes` / `context.refs`. Details, validation rules and a guide on
+which field to use: [graphsense-lib tagpack docs](https://github.com/graphsense/graphsense-lib/blob/develop/tagpack/docs/README.md#aliases).

@@ -2597,8 +2597,13 @@ actors:
     - aprobit
     refs:
     - api.coingecko.com/api/v3/exchanges/aprobit
+    - www.blockmedia.co.kr/archives/667070
     images:
     - assets.coingecko.com/markets/images/567/small/aprobit_logo.png?1597289585
+    notes:
+    - 'inactive: trading support ended 2024-09-23, withdrawals until 2024-12-23 (Blockmedia)'
+    active: false
+    end_activity: '2024-09-23'
 - id: aptinfinance
   label: Aptin Finance
   jurisdictions: []
@@ -7939,6 +7944,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/bitstorage
     - cer.live/exchange/bitstorage
+    - bitstorage.finance/
     images:
     - assets.coingecko.com/markets/images/394/small/logo2.png?1556783693
     - coin-images.coingecko.com/markets/images/394/small/Group_3575807.png?1706864409
@@ -7947,6 +7953,10 @@ actors:
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 130
     coingecko_has_trading_incentive: false
+    notes:
+    - 'inactive: discontinued all exchange services 2026-08-30, closure notice on its site'
+    active: false
+    end_activity: '2026-08-30'
 - id: bitswap
   label: BitSwap
   jurisdictions: []
@@ -8285,8 +8295,13 @@ actors:
   context:
     refs:
     - www.walletexplorer.com/wallet/BitZlato.com
+    - www.kitco.com/news/article/2023-01-18/doj-moves-against-criminal-exchange-bitzlato-arrests-its-founder-anatoly
     defilama_ids:
     - bitzlato
+    notes:
+    - 'inactive: website seized by US DOJ and infrastructure dismantled by French authorities 2023-01-18 (Kitco News)'
+    active: false
+    end_activity: '2023-01-18'
 - id: bitzy
   label: Bitzy
   jurisdictions: []
@@ -12457,14 +12472,18 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/coinex
     - www.crunchbase.com/organization/coinex
+    - www.theblock.co/news/business/2026-09-15-coinex-shut-down-414788
     images:
     - assets.coingecko.com/markets/images/135/small/coinex.jpg?1527737297
     - coin-images.coingecko.com/markets/images/135/small/coinex.jpg?1706864305
-    active: true
+    active: false
+    end_activity: '2026-09-29'
     year_established: 2017
     coingecko_trust_score: 7
     coingecko_trust_score_rank: 72
     coingecko_has_trading_incentive: false
+    notes:
+    - 'inactive: shutdown announced 2026-09-15, most services ceased 2026-09-29, withdrawals open until 2026-12-22 (The Block)'
 - id: coinfalcon
   label: Coinfalcon
   jurisdictions:
@@ -13190,11 +13209,15 @@ actors:
     - www.walletexplorer.com/wallet/CoinTrader.net
     - www.crunchbase.com/organization/cointrader-net
     - cointrader.net/pages/terms
+    - siliconangle.com/2016/03/30/bitcoin-weekly-2016-march-30-cointrader-exchange-closes-doors-coinkite-shutting-down-web-wallet-mit-raises-900000-for-bitcoin-core-devs/
     images:
     - cointrader.net/upload/CT-03.png
     twitter_handle: CoinTraderNet
     notes:
     - crunchbase says CA
+    - 'inactive: site notice: closed its doors effective immediately, 2016-03-28 (SiliconANGLE)'
+    active: false
+    end_activity: '2016-03-28'
 - id: cointraffic
   label: Cointraffic
   categories:
@@ -19439,7 +19462,12 @@ actors:
     - platform.arkhamintelligence.com/explorer/entity/exch
     - www.linkedin.com/company/exchcx
     - https://hszyoqwrcp7cxlxnqmovp6vjvmnwj33g4wviuxqzq47emieaxjaperyd.onion/
+    - therecord.media/exch-cryptocurrency-mixer-germany-takedown
     twitter_handle: exchex
+    notes:
+    - 'inactive: infrastructure seized by German BKA and Frankfurt prosecutors 2025-04-30, after announcing its closure (The Record)'
+    active: false
+    end_activity: '2025-04-30'
 - id: exchangecredit
   label: Exchange-Credit
   jurisdictions:
@@ -21739,7 +21767,12 @@ actors:
     refs:
     - golden.com/wiki/Garantex-EKMYW54
     - glasschain.org/provider/Garantex%20Russia
+    - www.justice.gov/opa/pr/garantex-cryptocurrency-exchange-disrupted-international-operation
     twitter_handle: garantexrussia
+    notes:
+    - 'inactive: domains seized by US DOJ/USSS and servers seized in Germany/Finland 2025-03-06 (DOJ press release)'
+    active: false
+    end_activity: '2025-03-06'
 - id: garblemoney
   label: Garble.Money
   jurisdictions: []
@@ -21909,9 +21942,14 @@ actors:
     - www.coingecko.com/en/exchanges/gdac
     - cer.live/exchange/gdac
     - facebook.com/official.gdac
+    - www.odaily.news/en/newsflash/375646
     images:
     - s2.coinmarketcap.com/static/img/exchanges/64x64/443.png
     - assets.coingecko.com/markets/images/301/small/gdac.png
+    notes:
+    - 'inactive: service terminated 2024-07-16, announced 2024-06-18 after the 2023 hack (Odaily)'
+    active: false
+    end_activity: '2024-07-16'
 - id: gearbox
   label: Gearbox
   jurisdictions: []
@@ -24614,9 +24652,14 @@ actors:
     refs:
     - cer.live/exchange/huobi_korea
     - facebook.com/huobikorea
+    - www.theblock.co/post/270289/huobi-korea-shuts-down-platform
     images:
     - assets.coingecko.com/markets/images/428/small/Huobi_Korea.png
     twitter_handle: huobi_korea
+    notes:
+    - 'inactive: exchange service ended 2024-01-29, company announcement (The Block)'
+    active: false
+    end_activity: '2024-01-29'
 - id: hurricaneswap
   label: HurricaneSwap
   jurisdictions: []
@@ -29930,10 +29973,15 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/luaswap
     - api.llama.fi/protocol/luaswap
+    - www.boerse-express.com/news/articles/luaswap-betrieb-am-31-maerz-2024-beendet-900971
     images:
     - assets.coingecko.com/markets/images/601/small/logo.d77b343b.png?1605083693
     - icons.llama.fi/luaswap.jpg
     twitter_handle: LuaSwap
+    notes:
+    - 'inactive: operations ended 2024-03-31 (Boerse Express)'
+    active: false
+    end_activity: '2024-03-31'
 - id: lubiancom
   label: Lubian
   uri: www.lubian.com
@@ -42977,10 +43025,15 @@ actors:
     refs:
     - api.llama.fi/protocol/serum
     - api.llama.fi/protocol/serum-swap
+    - www.theblock.co/post/190566/ftx-backed-dex-serum-calls-itself-defunct-promotes-community-fork
     images:
     - icons.llama.fi/serum.jpg
     - icons.llama.fi/serum-swap.svg
     twitter_handle: ProjectSerum
+    notes:
+    - 'inactive: declared itself defunct after the FTX collapse in Nov 2022; community fork OpenBook (The Block)'
+    active: false
+    end_activity: '2022'
 - id: setprotocol
   label: Set Protocol
   jurisdictions: []
@@ -49583,9 +49636,14 @@ actors:
     - www.cryptowisser.com/exchange/tradeogre
     - tokenhell.com/tradeogre/
     - cer.live/exchange/trade_ogre
+    - www.theblock.co/post/371395/canadian-police-seizes-40-million-crypto-tradeogre
     images:
     - assets.coingecko.com/markets/images/101/small/tradeogre.jpeg?1521428643
     twitter_handle: Tradeogre
+    notes:
+    - 'inactive: seized and dismantled by the RCMP, announced 2025-09-18; site offline since Jul 2025 (The Block)'
+    active: false
+    end_activity: '2025-09-18'
 - id: traderjoe
   label: Trader Joe v1/v2/Dex/Lend
   jurisdictions: []
@@ -50052,9 +50110,14 @@ actors:
     - cer.live/exchange/txbit
     - facebook.com/txbit.io
     - reddit.com/r/txbit
+    - www.theblock.co/post/244668/txbit-closure
     images:
     - assets.coingecko.com/markets/images/366/small/txbit.png?1674720388
     twitter_handle: txbit_io
+    notes:
+    - 'inactive: permanent closure announced 2023-08-14 with trading halted, withdrawals until 2023-09-14 (The Block)'
+    active: false
+    end_activity: '2023-08-14'
 - id: typhooncash
   label: Typhoon Cash
   jurisdictions: []
@@ -54686,10 +54749,15 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/zigzag
     - api.llama.fi/protocol/zigzag
+    - www.techflowpost.com/en-US/newsletter/45512
     images:
     - icons.llama.fi/zigzag.jpg
     - assets.coingecko.com/markets/images/873/small/zigzag.png?1653471335
     twitter_handle: ZigZagExchange
+    notes:
+    - 'inactive: shutdown announced Apr 2024 citing regulatory pressure (TechFlow)'
+    active: false
+    end_activity: '2024'
 - id: zilswap
   label: ZilSwap
   jurisdictions: []
@@ -59216,6 +59284,11 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    - 'inactive: withdrawals halted Jul 2018, bankruptcy and suspension of operations Aug 2018 (ForkLog)'
+    refs:
+    - forklog.com/en/former-wex-chief-dmitry-vasilyev-released-from-custody/
+    active: false
+    end_activity: '2018'
   categories:
   - exchange
   uri: wex.dummy
@@ -59308,6 +59381,11 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    - 'inactive: Allbit DEX officially ended its service in March 2021 (Financial News Korea)'
+    refs:
+    - www.fnnews.com/news/202104011814064958
+    active: false
+    end_activity: '2021'
   categories:
   - exchange
   uri: allbit.dummy
@@ -59418,6 +59496,11 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    - 'inactive: closure announced 2019-01-28, followed by a 30-day withdrawal window (The Cryptonomist)'
+    refs:
+    - en.cryptonomist.ch/2019/01/28/exchange-liqui-closes-down/
+    active: false
+    end_activity: '2019-01-28'
   categories:
   - exchange
   uri: liqui.dummy
@@ -59582,6 +59665,11 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    - 'inactive: Celsius Network: withdrawals frozen 2022-06, Chapter 11; on exiting bankruptcy 2024-01-31 it started closing its apps and phasing out operations (The Block)'
+    refs:
+    - 'www.theblock.co/post/275461/tshen@theblock.co'
+    active: false
+    end_activity: '2024-01-31'
   categories:
   - exchange
   uri: celsuis.dummy
@@ -60654,6 +60742,11 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    - 'inactive: halted trading 2017-09-20 after the Chinese exchange crackdown (ForkLog, citing Caixin)'
+    refs:
+    - forklog.com/?p=32130
+    active: false
+    end_activity: '2017-09-20'
   categories:
   - exchange
   uri: yunbi.dummy
@@ -60662,6 +60755,11 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    - 'inactive: operator Root One Soft closed the service 2020-02-29, announced 2020-01-29 (Finance Magnates)'
+    refs:
+    - www.financemagnates.com/cryptocurrency/news/south-korean-crypto-wallet-bitberry-to-shut-services/
+    active: false
+    end_activity: '2020-02-29'
   categories:
   - exchange
   uri: bitberry.dummy
@@ -60917,6 +61015,11 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    - 'inactive: trading support ended 2023-11-13, withdrawals until 2023-12-22 (exchange notice reported by news)'
+    refs:
+    - www.twig24.com/news/finance/2023/11/10/20231110500212
+    active: false
+    end_activity: '2023-11-13'
   categories:
   - exchange
   uri: cashierest.dummy
@@ -60996,6 +61099,11 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    - 'inactive: UEX ceased operation, users told to withdraw before 2019-05-10 (exchange notice on CoinMarketCap)'
+    refs:
+    - coinmarketcap.com/exchanges/uex
+    active: false
+    end_activity: '2019-05-10'
   categories:
   - exchange
   uri: uex.dummy
@@ -61103,8 +61211,13 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    - 'inactive: put into receivership by the Nevada regulator Jun 2023, filed for Chapter 11 bankruptcy 2023-08-14 (Decrypt)'
     aliases:
     - prime_trust
+    refs:
+    - decrypt.co/152508/prime-trust-chapter-11-bankruptcy
+    active: false
+    end_activity: '2023'
   categories:
   - exchange
   uri: prime_trust.dummy

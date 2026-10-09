@@ -34355,6 +34355,8 @@ actors:
   - exchange
   uri: www.nominex.io
   context:
+    nested_in:
+    - binance
     coingecko_ids:
     - nominex
     refs:
@@ -34362,8 +34364,10 @@ actors:
     - api.coingecko.com/api/v3/exchanges/nominex
     - cer.live/exchange/nominex
     - facebook.com/Nominex
+    - www.binance.com/en/proof-of-reserves
     notes:
     - cryptowisser says estonia
+    - 'nested_in binance: test-deposit tags for Nominex sit on 0xdfd5293d8e347dfe59e90efd55b2956a1343963d (ETH) and 0x73f5ebe90f27b46ea12e5795d16c4b408b19cc6f (BSC), wallets Binance lists as its own in its monthly proof-of-reserves address files (12 snapshots 2025-11-01 to 2026-10-01)'
     images:
     - assets.coingecko.com/markets/images/530/small/logo-200x200.png?1587543672
     active: true
@@ -38683,6 +38687,8 @@ actors:
   - exchange
   uri: poloniex.com
   context:
+    related_actors:
+    - huobi
     coingecko_ids:
     - poloniex
     defilama_ids:
@@ -38693,11 +38699,14 @@ actors:
     - www.walletexplorer.com/wallet/Poloniex.com
     - www.theasianbanker.com/publication/virtual-currency-services
     - cer.live/exchange/poloniex
+    - github.com/poloniex/tools-nodejs-address-verify
+    - www.htx.com/support/24922606430831
     images:
     - assets.coingecko.com/markets/images/37/small/poloniex.png?1663310089
     - coin-images.coingecko.com/markets/images/37/small/poloniex.png?1706864269
     notes:
     - coingecko/cer.live says seychelles (SC), the asian banker says US, so does crunchbase
+    - 'related_actors huobi: both exchanges list 14XKsv8tT6tt8P8mfDQZgNF8wtN5erNu5D as their own reserve wallet: HTX in its Work Report on Asset Transparency (I), snapshot 2022-12-11, 3,182 BTC; Poloniex in its proof-of-reserves list, snapshot 2026-09 (block 964903), 298.87 BTC, unsigned'
     legal_name: Poloniex
     twitter_handle: poloniex
     active: true
@@ -49165,10 +49174,15 @@ actors:
   - exchange
   uri: tokocrypto.com
   context:
+    nested_in:
+    - binance
+    notes:
+    - 'nested_in binance: test-deposit tags for TokoCrypto sit on 0x4976a4a02f38326660d17bf34b431dc6e2eb2327 (ETH), a wallet Binance lists as its own in its monthly proof-of-reserves address files (12 snapshots 2025-11-01 to 2026-10-01)'
     coingecko_ids:
     - toko_crypto
     refs:
     - api.coingecko.com/api/v3/exchanges/toko_crypto
+    - www.binance.com/en/proof-of-reserves
     images:
     - assets.coingecko.com/markets/images/501/small/toko.png?1578328877
     - coin-images.coingecko.com/markets/images/501/small/toko.png?1706864476
@@ -59970,12 +59984,25 @@ actors:
   uri: anyfrax.dummy
 - id: ceffu
   label: Ceffu
-  context:
-    notes:
-    - This is a dummy datapoint like all .dummy uris
+  jurisdictions:
+  - LT
+  - AE
+  - SG
   categories:
-  - exchange
-  uri: ceffu.dummy
+  - wallet_service
+  uri: www.ceffu.com
+  context:
+    sub_service_of: binance
+    notes:
+    - 'sub_service_of binance: Binance Custody (formerly binanceinstitutional.com) rebranded to Ceffu (rebrand notice on ceffu.com); its services are provided by Binance group companies (Bifinity UAB, Lithuania; Binance (AD) Limited, Abu Dhabi; Binance Institutional SG Pte. Ltd., Singapore), and Ceffu calls itself the only institutional custody partner of the Binance Exchange'
+    - 'Binance names Ceffu as third-party custodian of some of its wallets in its monthly proof-of-reserves address files (12 snapshots 2025-11-01 to 2026-10-01)'
+    refs:
+    - www.ceffu.com/about-us
+    - www.binance.com/en/proof-of-reserves
+    - linkedin.com/company/ceffu
+    twitter_handle: CeffuGlobal
+    year_established: 2021
+    description: Institutional digital asset platform offering custody, asset management and off-exchange settlement; institutional services launched in December 2021 as Binance Custody.
 - id: dackieswap
   label: Dackieswap
   context:

@@ -6864,8 +6864,13 @@ actors:
     - bit_com
     refs:
     - api.coingecko.com/api/v3/exchanges/bit_com
+    - www.cryptopolitan.com/bit-com-set-to-wind-down-operations/
     images:
     - assets.coingecko.com/markets/images/823/small/bit_old.jpg?1669104460
+    notes:
+    - 'inactive: Bit.com exchange announced a three-step shutdown 2025-12-27; trading ended 2026-01-31, final withdrawal deadline 2026-03-31 (Cryptopolitan); since 2026-03 www.bit.com is the domain of BIT, the rebranded Matrixport'
+    active: false
+    end_activity: '2026-03-31'
 - id: bitcurex
   label: Bitcurex
   jurisdictions:
@@ -8140,10 +8145,15 @@ actors:
   - exchange
   uri: www.bitvenus.me
   context:
+    notes:
+    - 'same_as bvox: BitVenus renamed BVOX (secondary listings only)'
+    same_as:
+    - bvox
     defilama_ids:
     - bitvenus
     refs:
     - api.llama.fi/protocol/bitvenus
+    - www.alchemy.com/dapps/bitvenus
     images:
     - icons.llama.fi/bitvenus.jpg
     twitter_handle: bit_venus
@@ -9532,8 +9542,13 @@ actors:
     - btcex
     refs:
     - api.coingecko.com/api/v3/exchanges/btcex
+    - web.archive.org/web/20230621134626/https://support.btcex.com/hc/en-us/articles/15440758749847-BTCEX-Trading-Platform-Closure-and-Refund-Process
     images:
     - assets.coingecko.com/markets/images/753/small/C8tiQdwL_400x400.jpg?1641348961
+    notes:
+    - 'inactive: own notice of 2023-06-21 (archived) announced gradual shutdown of trading from 2023-06-21; deposits and trading phased out, regular withdrawals until 2023-07-19'
+    active: false
+    end_activity: '2023-07-19'
 - id: btcexchange
   label: Btcexchange
   jurisdictions:
@@ -10476,10 +10491,15 @@ actors:
   - exchange
   uri: www.cakedefi.com
   context:
+    notes:
+    - 'same_as bake: Cake DeFi''s retail platform was renamed Bake in 2023'
+    same_as:
+    - bake
     defilama_ids:
     - cake-defi
     refs:
     - api.llama.fi/protocol/cake-defi
+    - en.cryptonomist.ch/2023/06/22/cake-defi-bucking-crypto-trend/
     images:
     - icons.llama.fi/cake-defi.jpg
     twitter_handle: cakedefi
@@ -11891,9 +11911,14 @@ actors:
     - api.coingecko.com/api/v3/exchanges/citex
     - cer.live/exchange/citex
     - facebook.com/citexglobal
+    - web.archive.org/web/20240907012629/https://www.citex.io/
     images:
     - assets.coingecko.com/markets/images/390/small/CITEX-LOGO.png?1564028815
     twitter_handle: Citexofficial
+    notes:
+    - 'inactive: own notice of 2024-07-23 (archived): CITEX ceased platform services 2024-08-06 at the demand of the authorities, delisted all pairs and wound down user accounts'
+    active: false
+    end_activity: '2024-08-06'
 - id: citycoins
   label: CityCoins
   jurisdictions: []
@@ -12518,9 +12543,14 @@ actors:
     - facebook.com/coinfieldexchange
     - reddit.com/r/CoinField
     - linkedin.com/company/18378334
+    - www.capitalmarketstribunal.ca/en/proceedings/manticore-labs-ou-re/reasons-and-decision-manticore-labs-ou-re
     images:
     - assets.coingecko.com/markets/images/188/small/coinfield.jpg?1529816716
     twitter_handle: CoinFieldEx
+    notes:
+    - 'inactive: Ontario Capital Markets Tribunal (2024 ONCMT 19): platform operated 2018 to 2023, then shut down without honouring withdrawals'
+    active: false
+    end_activity: '2023'
 - id: coinfinity
   label: Coinfinity
   jurisdictions:
@@ -24625,23 +24655,28 @@ actors:
     aliases:
     - htx
 - id: huobijapan
-  label: Huobi Japan
+  label: BitTrade (formerly Huobi Japan)
+  aliases:
+  - bittrade
   jurisdictions:
   - JP
   categories:
   - exchange
-  uri: www.huobi.co.jp
+  uri: bittrade.co.jp
   context:
+    notes:
+    - 'renamed BitTrade in Feb 2023 (same company); id kept as huobijapan'
     coingecko_ids:
     - huobi_japan
     refs:
     - api.coingecko.com/api/v3/exchanges/huobi_japan
     - cer.live/exchange/huobi_japan
+    - coinmarketcap.com/exchanges/bittrade/
     images:
     - assets.coingecko.com/markets/images/431/small/39799673_707393642968288_6655806910467407872_n.jpg?1561105680
     - coin-images.coingecko.com/markets/images/431/small/bit_trade_logo_.png?1758267450
     uris:
-    - bittrade.co.jp
+    - www.huobi.co.jp
     year_established: 2016
     coingecko_trust_score: 7
     coingecko_trust_score_rank: 82
@@ -31310,9 +31345,14 @@ actors:
     - coinmarketcap.com/exchanges/mercatox/
     - cer.live/exchange/mercatox
     - facebook.com/mercatoxcom
+    - web.archive.org/web/20241130174401/https://mercatox.com/news/Closure-of-platform
     images:
     - assets.coingecko.com/markets/images/53/small/mercatox.jpg?1520933436
     twitter_handle: MercatoxCom,Mercatox_info
+    notes:
+    - 'inactive: own notice (archived) announced closure of the platform; trading off 2024-12-05, withdrawals until 2024-12-28, extended to 2025-01-20, then offline'
+    active: false
+    end_activity: '2025-01-20'
 - id: mercurity
   label: Mercurity
   jurisdictions: []
@@ -43805,9 +43845,14 @@ actors:
     - www.cryptowisser.com/exchange/sistemkoin/
     - www.crunchbase.com/organization/sistemkoin
     - cer.live/exchange/sistemkoin
+    - www.hurriyet.com.tr/ekonomi/kripto-paradan-da-ciftlikbank-cikti-koyun-yetmedi-coinle-de-dolandirdi-41797506
     images:
     - s2.coinmarketcap.com/static/img/exchanges/64x64/388.png
     twitter_handle: Sistemkoin
+    notes:
+    - 'inactive: closed in early 2021, owners of operator Orenda Yazilim arrested after police operation 2021-03-26 (Hurriyet)'
+    active: false
+    end_activity: '2021'
 - id: skcs
   label: sKCS
   jurisdictions: []
@@ -54553,8 +54598,13 @@ actors:
     - zebitex
     refs:
     - api.coingecko.com/api/v3/exchanges/zebitex
+    - www.planet-fintech.com/Paymium-se-metamorphose-et-devoile-sa-nouvelle-strategie_a5442.html
     images:
     - assets.coingecko.com/markets/images/566/small/zebitex_logo.png?1596782748
+    notes:
+    - 'inactive: business taken over by Paymium, client accounts migrated 2024-09-16 to 2024-09-25, platform closed 2024-09-30 (Planet Fintech)'
+    active: false
+    end_activity: '2024-09-30'
 - id: zebpay
   label: ZebPay
   jurisdictions:
@@ -55171,6 +55221,13 @@ actors:
   - payment_processor
   - exchange
   uri: www.payeer.com
+  context:
+    refs:
+    - kurs.expert/ru/news/4945/payeer_zakrytie.html
+    notes:
+    - 'inactive: announced closure after EU sanctions (19th package); standard withdrawals until 2026-01-05, afterwards via support only (kurs.expert)'
+    active: false
+    end_activity: '2026-01-05'
 - id: omgomgmarket
   label: OMG!OMG! Market
   jurisdictions:
@@ -59095,6 +59152,12 @@ actors:
   uri: https://zondacrypto.com/en/home
   context:
     same_as: [bitbay]
+    refs:
+    - www.money.pl/gielda/decyzja-sadu-ws-zondacrypto-prokuratura-kieruje-klientow-z-roszczeniami-7329702661671072a.html
+    notes:
+    - 'inactive: operator BB Trade Estonia declared bankrupt by the Harju County Court in Tallinn 2026-08-27 (money.pl)'
+    active: false
+    end_activity: '2026-08-27'
   categories:
   - exchange
 - id: wagmi
@@ -59316,8 +59379,11 @@ actors:
 - id: gbx
   label: Gbx
   context:
+    refs:
+    - www.cryptoninjas.net/2020/02/05/gibraltar-blockchain-exchange-gbx-rebrands-in-move-to-estonia/
     notes:
     - This is a dummy datapoint like all .dummy uris
+    - 'Gibraltar Blockchain Exchange renamed Global Blockchain Exchange, business moved to GBX OÜ (Estonia) on 2020-02-12'
   categories:
   - exchange
   uri: gbx.dummy
@@ -59737,8 +59803,11 @@ actors:
 - id: lordtoken
   label: Lordtoken
   context:
+    refs:
+    - app.davensi.com/en/articles/update-of-july-25th-lordtoken-exchange-is-migrating-to-davensi-platform
     notes:
     - This is a dummy datapoint like all .dummy uris
+    - 'migrated to the Davensi platform in Sep 2023 (same operator Lord Services); no Davensi actor yet'
   categories:
   - exchange
   uri: lordtoken.dummy
@@ -60660,6 +60729,11 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    - 'inactive: TAGZ exchange announced it would cease operations 2020-07-30 (Crowdfund Insider)'
+    refs:
+    - www.crowdfundinsider.com/2020/07/163622-australia-based-tagz-a-digital-asset-exchange-which-claimed-to-be-one-of-the-largest-crypto-trading-platforms-to-shut-down/
+    active: false
+    end_activity: '2020-07-30'
   categories:
   - exchange
   uri: tagz.dummy
@@ -60781,6 +60855,11 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    - 'inactive: site notice: shutting down and filing for bankruptcy after the February 2025 hack, reported 2025-06-27 (ChainCatcher)'
+    refs:
+    - www.chaincatcher.com/en/article/2188442
+    active: false
+    end_activity: '2025-06-27'
   categories:
   - exchange
   uri: xeggex.dummy
@@ -61164,6 +61243,11 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    - 'inactive: force majeure notice on stex.com 2023-06-20 (data loss, cannot continue any business operations), quoted by Cryptowisser'
+    refs:
+    - www.cryptowisser.com/exchange/stex-com/
+    active: false
+    end_activity: '2023-06-20'
   categories:
   - exchange
   uri: stex.dummy

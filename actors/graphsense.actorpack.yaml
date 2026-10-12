@@ -12809,9 +12809,12 @@ actors:
   - exchange
   uri: coinmetro.com
   context:
+    notes:
+    - 'trading, deposits and withdrawals paused; the Harju County Court declined to open reorganisation proceedings on 2026-08-24, appeal pending at the Tallinn Circuit Court (status 2026-09-25)'
     coingecko_ids:
     - coin_metro
     refs:
+    - www.coinmetro.com/reorganization-status-and-information
     - api.coingecko.com/api/v3/exchanges/coin_metro
     - cer.live/exchange/coin_metro
     - linkedin.com/company/27019423
@@ -21378,6 +21381,8 @@ actors:
   - exchange
   uri: www.fubthk.com
   context:
+    notes:
+    - 'www.fubthk.com no longer belongs to the exchange (unrelated site, checked 2026-10)'
     coingecko_ids:
     - fubt
     refs:

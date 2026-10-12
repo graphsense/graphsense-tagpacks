@@ -6864,8 +6864,13 @@ actors:
     - bit_com
     refs:
     - api.coingecko.com/api/v3/exchanges/bit_com
+    - www.cryptopolitan.com/bit-com-set-to-wind-down-operations/
     images:
     - assets.coingecko.com/markets/images/823/small/bit_old.jpg?1669104460
+    notes:
+    - 'inactive: Bit.com exchange announced a three-step shutdown 2025-12-27; trading ended 2026-01-31, final withdrawal deadline 2026-03-31 (Cryptopolitan); since 2026-03 www.bit.com is the domain of BIT, the rebranded Matrixport'
+    active: false
+    end_activity: '2026-03-31'
 - id: bitcurex
   label: Bitcurex
   jurisdictions:
@@ -9537,8 +9542,13 @@ actors:
     - btcex
     refs:
     - api.coingecko.com/api/v3/exchanges/btcex
+    - web.archive.org/web/20230621134626/https://support.btcex.com/hc/en-us/articles/15440758749847-BTCEX-Trading-Platform-Closure-and-Refund-Process
     images:
     - assets.coingecko.com/markets/images/753/small/C8tiQdwL_400x400.jpg?1641348961
+    notes:
+    - 'inactive: own notice of 2023-06-21 (archived) announced gradual shutdown of trading from 2023-06-21; deposits and trading phased out, regular withdrawals until 2023-07-19'
+    active: false
+    end_activity: '2023-07-19'
 - id: btcexchange
   label: Btcexchange
   jurisdictions:
@@ -11901,9 +11911,14 @@ actors:
     - api.coingecko.com/api/v3/exchanges/citex
     - cer.live/exchange/citex
     - facebook.com/citexglobal
+    - web.archive.org/web/20240907012629/https://www.citex.io/
     images:
     - assets.coingecko.com/markets/images/390/small/CITEX-LOGO.png?1564028815
     twitter_handle: Citexofficial
+    notes:
+    - 'inactive: own notice of 2024-07-23 (archived): CITEX ceased platform services 2024-08-06 at the demand of the authorities, delisted all pairs and wound down user accounts'
+    active: false
+    end_activity: '2024-08-06'
 - id: citycoins
   label: CityCoins
   jurisdictions: []
@@ -31323,9 +31338,14 @@ actors:
     - coinmarketcap.com/exchanges/mercatox/
     - cer.live/exchange/mercatox
     - facebook.com/mercatoxcom
+    - web.archive.org/web/20241130174401/https://mercatox.com/news/Closure-of-platform
     images:
     - assets.coingecko.com/markets/images/53/small/mercatox.jpg?1520933436
     twitter_handle: MercatoxCom,Mercatox_info
+    notes:
+    - 'inactive: own notice (archived) announced closure of the platform; trading off 2024-12-05, withdrawals until 2024-12-28, extended to 2025-01-20, then offline'
+    active: false
+    end_activity: '2025-01-20'
 - id: mercurity
   label: Mercurity
   jurisdictions: []

@@ -12518,9 +12518,14 @@ actors:
     - facebook.com/coinfieldexchange
     - reddit.com/r/CoinField
     - linkedin.com/company/18378334
+    - www.capitalmarketstribunal.ca/en/proceedings/manticore-labs-ou-re/reasons-and-decision-manticore-labs-ou-re
     images:
     - assets.coingecko.com/markets/images/188/small/coinfield.jpg?1529816716
     twitter_handle: CoinFieldEx
+    notes:
+    - 'inactive: Ontario Capital Markets Tribunal (2024 ONCMT 19): platform operated 2018 to 2023, then shut down without honouring withdrawals'
+    active: false
+    end_activity: '2023'
 - id: coinfinity
   label: Coinfinity
   jurisdictions:
@@ -43800,9 +43805,14 @@ actors:
     - www.cryptowisser.com/exchange/sistemkoin/
     - www.crunchbase.com/organization/sistemkoin
     - cer.live/exchange/sistemkoin
+    - www.hurriyet.com.tr/ekonomi/kripto-paradan-da-ciftlikbank-cikti-koyun-yetmedi-coinle-de-dolandirdi-41797506
     images:
     - s2.coinmarketcap.com/static/img/exchanges/64x64/388.png
     twitter_handle: Sistemkoin
+    notes:
+    - 'inactive: closed in early 2021, owners of operator Orenda Yazilim arrested after police operation 2021-03-26 (Hurriyet)'
+    active: false
+    end_activity: '2021'
 - id: skcs
   label: sKCS
   jurisdictions: []
@@ -54548,8 +54558,13 @@ actors:
     - zebitex
     refs:
     - api.coingecko.com/api/v3/exchanges/zebitex
+    - www.planet-fintech.com/Paymium-se-metamorphose-et-devoile-sa-nouvelle-strategie_a5442.html
     images:
     - assets.coingecko.com/markets/images/566/small/zebitex_logo.png?1596782748
+    notes:
+    - 'inactive: business taken over by Paymium, client accounts migrated 2024-09-16 to 2024-09-25, platform closed 2024-09-30 (Planet Fintech)'
+    active: false
+    end_activity: '2024-09-30'
 - id: zebpay
   label: ZebPay
   jurisdictions:
@@ -55166,6 +55181,13 @@ actors:
   - payment_processor
   - exchange
   uri: www.payeer.com
+  context:
+    refs:
+    - kurs.expert/ru/news/4945/payeer_zakrytie.html
+    notes:
+    - 'inactive: announced closure after EU sanctions (19th package); standard withdrawals until 2026-01-05, afterwards via support only (kurs.expert)'
+    active: false
+    end_activity: '2026-01-05'
 - id: omgomgmarket
   label: OMG!OMG! Market
   jurisdictions:
@@ -59090,6 +59112,12 @@ actors:
   uri: https://zondacrypto.com/en/home
   context:
     same_as: [bitbay]
+    refs:
+    - www.money.pl/gielda/decyzja-sadu-ws-zondacrypto-prokuratura-kieruje-klientow-z-roszczeniami-7329702661671072a.html
+    notes:
+    - 'inactive: operator BB Trade Estonia declared bankrupt by the Harju County Court in Tallinn 2026-08-27 (money.pl)'
+    active: false
+    end_activity: '2026-08-27'
   categories:
   - exchange
 - id: wagmi
@@ -60655,6 +60683,11 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    - 'inactive: TAGZ exchange announced it would cease operations 2020-07-30 (Crowdfund Insider)'
+    refs:
+    - www.crowdfundinsider.com/2020/07/163622-australia-based-tagz-a-digital-asset-exchange-which-claimed-to-be-one-of-the-largest-crypto-trading-platforms-to-shut-down/
+    active: false
+    end_activity: '2020-07-30'
   categories:
   - exchange
   uri: tagz.dummy
@@ -60776,6 +60809,11 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    - 'inactive: site notice: shutting down and filing for bankruptcy after the February 2025 hack, reported 2025-06-27 (ChainCatcher)'
+    refs:
+    - www.chaincatcher.com/en/article/2188442
+    active: false
+    end_activity: '2025-06-27'
   categories:
   - exchange
   uri: xeggex.dummy
@@ -61159,6 +61197,11 @@ actors:
   context:
     notes:
     - This is a dummy datapoint like all .dummy uris
+    - 'inactive: force majeure notice on stex.com 2023-06-20 (data loss, cannot continue any business operations), quoted by Cryptowisser'
+    refs:
+    - www.cryptowisser.com/exchange/stex-com/
+    active: false
+    end_activity: '2023-06-20'
   categories:
   - exchange
   uri: stex.dummy

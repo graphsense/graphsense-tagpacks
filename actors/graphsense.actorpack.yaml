@@ -24650,15 +24650,17 @@ actors:
     aliases:
     - htx
 - id: huobijapan
-  label: Huobi Japan
+  label: BitTrade (formerly Huobi Japan)
+  aliases:
+  - bittrade
   jurisdictions:
   - JP
   categories:
   - exchange
-  uri: www.huobi.co.jp
+  uri: bittrade.co.jp
   context:
     notes:
-    - 'renamed BitTrade in Feb 2023 (same company); no BitTrade actor yet'
+    - 'renamed BitTrade in Feb 2023 (same company); id kept as huobijapan'
     coingecko_ids:
     - huobi_japan
     refs:
@@ -24669,7 +24671,7 @@ actors:
     - assets.coingecko.com/markets/images/431/small/39799673_707393642968288_6655806910467407872_n.jpg?1561105680
     - coin-images.coingecko.com/markets/images/431/small/bit_trade_logo_.png?1758267450
     uris:
-    - bittrade.co.jp
+    - www.huobi.co.jp
     year_established: 2016
     coingecko_trust_score: 7
     coingecko_trust_score_rank: 82

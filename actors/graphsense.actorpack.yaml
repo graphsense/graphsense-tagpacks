@@ -8140,10 +8140,15 @@ actors:
   - exchange
   uri: www.bitvenus.me
   context:
+    notes:
+    - 'same_as bvox: BitVenus renamed BVOX (secondary listings only)'
+    same_as:
+    - bvox
     defilama_ids:
     - bitvenus
     refs:
     - api.llama.fi/protocol/bitvenus
+    - www.alchemy.com/dapps/bitvenus
     images:
     - icons.llama.fi/bitvenus.jpg
     twitter_handle: bit_venus
@@ -10476,10 +10481,15 @@ actors:
   - exchange
   uri: www.cakedefi.com
   context:
+    notes:
+    - 'same_as bake: Cake DeFi''s retail platform was renamed Bake in 2023'
+    same_as:
+    - bake
     defilama_ids:
     - cake-defi
     refs:
     - api.llama.fi/protocol/cake-defi
+    - en.cryptonomist.ch/2023/06/22/cake-defi-bucking-crypto-trend/
     images:
     - icons.llama.fi/cake-defi.jpg
     twitter_handle: cakedefi
@@ -24632,11 +24642,14 @@ actors:
   - exchange
   uri: www.huobi.co.jp
   context:
+    notes:
+    - 'renamed BitTrade in Feb 2023 (same company); no BitTrade actor yet'
     coingecko_ids:
     - huobi_japan
     refs:
     - api.coingecko.com/api/v3/exchanges/huobi_japan
     - cer.live/exchange/huobi_japan
+    - coinmarketcap.com/exchanges/bittrade/
     images:
     - assets.coingecko.com/markets/images/431/small/39799673_707393642968288_6655806910467407872_n.jpg?1561105680
     - coin-images.coingecko.com/markets/images/431/small/bit_trade_logo_.png?1758267450
@@ -59339,8 +59352,11 @@ actors:
 - id: gbx
   label: Gbx
   context:
+    refs:
+    - www.cryptoninjas.net/2020/02/05/gibraltar-blockchain-exchange-gbx-rebrands-in-move-to-estonia/
     notes:
     - This is a dummy datapoint like all .dummy uris
+    - 'Gibraltar Blockchain Exchange renamed Global Blockchain Exchange, business moved to GBX OÜ (Estonia) on 2020-02-12'
   categories:
   - exchange
   uri: gbx.dummy
@@ -59760,8 +59776,11 @@ actors:
 - id: lordtoken
   label: Lordtoken
   context:
+    refs:
+    - app.davensi.com/en/articles/update-of-july-25th-lordtoken-exchange-is-migrating-to-davensi-platform
     notes:
     - This is a dummy datapoint like all .dummy uris
+    - 'migrated to the Davensi platform in Sep 2023 (same operator Lord Services); no Davensi actor yet'
   categories:
   - exchange
   uri: lordtoken.dummy

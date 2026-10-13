@@ -3,7 +3,7 @@
 title: Graphsense Actors
 creator: Graphsense Core Team
 description: A curated list of cryptocurrency actors.
-lastmod: '2026-10-02'
+lastmod: '2026-10-13'
 actors:
 - id: '01'
   label: '01'
@@ -61644,4 +61644,89 @@ actors:
     notes:
     - Cross-chain bridging and swap protocol (Relay Protocol, built by Reservoir)
     twitter_handle: RelayProtocol
+    active: true
+- id: lombard
+  aliases:
+  - lombardfinance
+  - lbtc
+  label: Lombard
+  jurisdictions: []
+  categories:
+  - defi_bridge
+  uri: lombard.finance
+  context:
+    defilama_ids:
+    - lombard-lbtc
+    - lombard-btc.b
+    - lombard-vaults
+    refs:
+    - api.llama.fi/protocol/lombard-lbtc
+    - www.lombard.finance
+    images:
+    - icons.llama.fi/lombard-lbtc.png
+    notes:
+    - Issuer of LBTC (Bitcoin staked through Babylon) and BTC.b; holds the deposited bitcoin. Publishes its BTC deposit and wallet addresses through its own API (mainnet.prod.lombard.finance)
+    twitter_handle: Lombard_Finance
+    active: true
+- id: pumpbtc
+  label: PumpBTC
+  jurisdictions: []
+  categories:
+  - defi_bridge
+  uri: pumpbtc.xyz
+  context:
+    defilama_ids:
+    - pumpbtc
+    refs:
+    - api.llama.fi/protocol/pumpbtc
+    - pumpbtc.xyz
+    images:
+    - icons.llama.fi/pumpbtc.png
+    notes:
+    - Issuer of the liquid staking token pumpBTC; holds the deposited bitcoin
+    twitter_handle: Pumpbtcxyz
+    active: true
+- id: bitsafe
+  aliases:
+  - cbtc
+  label: BitSafe
+  jurisdictions: []
+  categories:
+  - defi_bridge
+  uri: bitsafe.finance
+  context:
+    defilama_ids:
+    - bitsafe-cbtc
+    refs:
+    - api.llama.fi/protocol/bitsafe-cbtc
+    - bitsafe.finance
+    images:
+    - icons.llama.fi/bitsafe-cbtc.png
+    notes:
+    - Issuer of CBTC (bitcoin on the Canton network); holds the deposited bitcoin
+    twitter_handle: BitSafe_Finance
+    active: true
+- id: bedrock
+  aliases:
+  - unibtc
+  label: Bedrock
+  jurisdictions: []
+  categories:
+  - defi_bridge
+  uri: bedrock.technology
+  context:
+    related_actors:
+    - rockx
+    defilama_ids:
+    - bedrock-unibtc
+    - bedrock-unieth
+    - bedrock-uniiotx
+    refs:
+    - api.llama.fi/protocol/bedrock-unibtc
+    - www.bedrock.technology
+    images:
+    - icons.llama.fi/bedrock-unibtc.png
+    notes:
+    - Issuer of uniBTC and other liquid (re)staking tokens, developed by RockX; holds the deposited bitcoin
+    twitter_handle: Bedrock_DeFi
     active: true

@@ -3,7 +3,7 @@
 title: Graphsense Actors
 creator: Graphsense Core Team
 description: A curated list of cryptocurrency actors.
-lastmod: '2026-10-13'
+lastmod: '2026-10-14'
 actors:
 - id: '01'
   label: '01'
@@ -61729,4 +61729,102 @@ actors:
     notes:
     - Issuer of uniBTC and other liquid (re)staking tokens, developed by RockX; holds the deposited bitcoin
     twitter_handle: Bedrock_DeFi
+    active: true
+- id: yala
+  aliases:
+  - ybtc
+  label: Yala
+  jurisdictions: []
+  categories:
+  - defi_bridge
+  uri: yala.org
+  context:
+    defilama_ids:
+    - yala
+    refs:
+    - api.llama.fi/protocol/yala
+    - www.yala.org
+    - github.com/yalaorg
+    images:
+    - icons.llamao.fi/icons/protocols/yala
+    notes:
+    - Issuer of YBTC (bitcoin-backed) and the YU stablecoin; holds the deposited bitcoin. Publishes its BTC addresses in its GitHub organisation (yalaorg/yala-defillama)
+    twitter_handle: yalaorg
+    active: true
+- id: exsat
+  label: exSat
+  jurisdictions: []
+  categories:
+  - defi_bridge
+  uri: exsat.network
+  context:
+    defilama_ids:
+    - exsat-bridge
+    - exsat-staking-btc
+    refs:
+    - api.llama.fi/protocol/exsat-bridge
+    - exsat.network
+    - github.com/exsat-network
+    images:
+    - icons.llamao.fi/icons/protocols/exsat-bridge
+    notes:
+    - Bitcoin layer with a custodian bridge for BTC (custody contract custody.xsat); publishes its BTC custody addresses in its GitHub organisation (exsat-network/exsat-defillama)
+    twitter_handle: exSatNetwork
+    active: true
+- id: vishwa
+  aliases:
+  - btcvp
+  label: Vishwa
+  jurisdictions: []
+  categories:
+  - defi_bridge
+  uri: vishwalab.com
+  context:
+    defilama_ids:
+    - vishwa
+    refs:
+    - api.llama.fi/protocol/vishwa
+    - www.vishwalab.com
+    images:
+    - icons.llamao.fi/icons/protocols/vishwa
+    notes:
+    - Issuer of BTCvp (Naro BTC vault on Pharos); holds the native BTC that backs it and lists its BTC addresses through its own API (vault.vishwalab.com)
+    twitter_handle: Vishwa_lab
+    active: true
+- id: teleswap
+  aliases:
+  - teleportdao
+  - telebtc
+  label: TeleSwap
+  jurisdictions: []
+  categories:
+  - defi_bridge
+  uri: teleswap.xyz
+  context:
+    defilama_ids:
+    - teleswap
+    refs:
+    - api.llama.fi/protocol/teleswap
+    - teleswap.xyz
+    - github.com/TeleportDAO
+    images:
+    - icons.llamao.fi/icons/protocols/teleswap
+    notes:
+    - Bitcoin bridge by TeleportDAO issuing teleBTC; BTC is held by lockers (registered operators who post collateral), listed through its API (api.teleportdao.xyz)
+    twitter_handle: Tele_Swap
+    active: true
+- id: riverfinancial
+  label: River Financial
+  jurisdictions:
+  - US
+  categories:
+  - exchange
+  uri: river.com
+  context:
+    refs:
+    - river.com/reserves
+    notes:
+    - Bitcoin-only brokerage (River Financial Inc., NMLS ID 1906809); publishes a monthly proof of reserves naming its cold storage address. Not the DefiLlama protocol "River" (riverai.inc)
+    legal_name: River Financial Inc.
+    twitter_handle: River
     active: true

@@ -7489,6 +7489,8 @@ actors:
   - exchange
   uri: www.bitmart.com
   context:
+    nested_in:
+    - cobo
     coingecko_ids:
     - bitmart
     refs:
@@ -7498,6 +7500,7 @@ actors:
     - facebook.com/bitmartexchange
     - reddit.com/r/BitMartExchange
     - medium.com/@bitmart.exchange
+    - techcrunch.com/2021/09/22/crypto-asset-management-platform-cobo-bags-40m-series-b/
     images:
     - assets.coingecko.com/markets/images/239/small/Bitmart.png?1628066397
     - coin-images.coingecko.com/markets/images/239/small/Bitmart.png?1706864341
@@ -7509,6 +7512,8 @@ actors:
     coingecko_trust_score_rank: 22
     description: BitMart is a global cryptocurrency exchange, offering a wide range of trading options, including spot and futures trading. Known for its user-friendly interface and low trading fees, BitMart also provides various financial products like staking and lending to enhance user engagement.
     coingecko_has_trading_incentive: false
+    notes:
+    - 'nested_in cobo: TechCrunch (2021-09-22) names BitMart among the institutional clients of Cobo''s custody services. On-chain: 23 BTC and 3 LTC addresses tagged BitMart send into bc1q0qfzuge7vr5s2xkczrjkccmxemlyyn8mhx298v (BTC) and LgycvYBU9SVr1dVuq7gC1mdwukyW7qKoeX (LTC), Cobo wallets that sweep the deposit addresses of several exchanges (checked 2026-10-15)'
 - id: bitmax
   label: AscendEX (fka BitMax)
   jurisdictions:
@@ -8085,6 +8090,8 @@ actors:
   - exchange
   uri: www.bitunix.com
   context:
+    nested_in:
+    - cobo
     coingecko_ids:
     - bitunix
     defilama_ids:
@@ -8093,6 +8100,7 @@ actors:
     - defillama.com/cex/bitunix#information
     - coinmarketcap.com/exchanges/bitunix/
     - api.coingecko.com/api/v3/exchanges/bitunix
+    - u.today/bitunix-derivative-exchange-collaborates-with-cobo-to-enhance-asset-security
     twitter_handle: BitunixOfficial
     images:
     - coin-images.coingecko.com/markets/images/1185/small/APP_icon_1024.png?1706865197
@@ -8101,6 +8109,8 @@ actors:
     coingecko_trust_score_rank: 36
     description: "Bitunix is a derivatives-focused cryptocurrency exchange founded in 2021. It has grown into a global platform offering both spot and derivatives trading, serving more than 4 million users across over 150 countries.\n\nThe platform provides a range of trading products, including spot trading, perpetual futures, and chart-based trading tools. It also includes features such as fixed risk mechanisms and loss-based positioning. Bitunix supports over 1,100 trading pairs and offers leverage of up to 200x.\n\nThe exchange operates around three core principles—Ultra Trust, Ultra Product, and Ultra Experience—which are reflected in its use of professional trading tools, integration with TradingView indicators, and its on-chain Proof of Reserves (PoR) system aimed at enhancing transparency."
     coingecko_has_trading_incentive: false
+    notes:
+    - 'nested_in cobo: U.Today (2023-06-11): Bitunix integrates Cobo WaaS (wallet-as-a-service) and is a customer of Cobo''s custody. On-chain: an address tagged Bitunix sends into the Cobo sweep wallet bc1q0qfzuge7vr5s2xkczrjkccmxemlyyn8mhx298v (BTC) (checked 2026-10-15)'
 - id: bitvavo
   label: Bitvavo
   jurisdictions:
@@ -10258,6 +10268,9 @@ actors:
   - miner
   uri: www.bw.com
   context:
+    related_actors:
+    - zbcom
+    - exx
     coingecko_ids:
     - bw
     refs:
@@ -10266,12 +10279,17 @@ actors:
     - www.walletexplorer.com/wallet/BW.com
     - cer.live/exchange/bw
     - btc.com/stats/pool/BWPool
+    - www.prnewswire.com/news-releases/zbcom-and-bwcom-announce-strategic-partnership-with-quoine-300549250.html
+    - 'web.archive.org/web/20210303142750/https://www.zb.com/en/about/'
+    - www.panewslab.com/zh/articles/wz0zw2uqpbku
     images:
     - assets.coingecko.com/markets/images/326/small/bw.com.jpg?1548664400
     active: true
     twitter_handle: BWOfficial2
     aliases:
     - bwcom
+    notes:
+    - 'related_actors zbcom, exx: ZB.com and BW.com announced partnerships jointly (2017-11-03) and ZB.com''s about page linked BW as its derivatives exchange; a PANews column (2022-08-31) says the ZB team went on to found EXX and that ZB''s founder Hua Songxiu owned 币网 (BW). On-chain: addresses tagged BW, ZB and EXX all send into 13gmX571ehVQnz4hYTKkme68eFn4ZjWKWP, a BTC wallet that sweeps their deposit addresses (checked 2026-10-15). Common ownership is not confirmed by an official source'
   aliases:
   - bwcom
 - id: bwatch
@@ -15762,6 +15780,8 @@ actors:
   - exchange
   uri: www.deepcoin.com
   context:
+    nested_in:
+    - cobo
     coingecko_ids:
     - deepcoin
     refs:
@@ -15769,6 +15789,7 @@ actors:
     - cer.live/exchange/deepcoin
     - facebook.com/Deepcoinapp
     - reddit.com/r/GNSTaurus
+    - www.deepcoin.com/en
     images:
     - assets.coingecko.com/markets/images/1005/small/deepcoin.png?1669802775
     - coin-images.coingecko.com/markets/images/1005/small/deepcoin.jpeg?1706864992
@@ -15778,6 +15799,8 @@ actors:
     coingecko_trust_score_rank: 94
     description: Deepcoin Exchange offers groundbreaking tools for you to buy and sell over 120 cryptocurrencies. Since 2018, we have provided a secure and reliable way for you to invest in spot and futures trading to our over 1 million users.
     coingecko_has_trading_incentive: false
+    notes:
+    - 'nested_in cobo: Deepcoin''s own site advertises "COBO custody with bank-grade security". On-chain: 3 BTC and 1 LTC addresses tagged Deepcoin send into the Cobo sweep wallets bc1q0qfzuge7vr5s2xkczrjkccmxemlyyn8mhx298v (BTC) and LgycvYBU9SVr1dVuq7gC1mdwukyW7qKoeX (LTC) (checked 2026-10-15)'
 - id: deeplock
   label: DeepLock
   jurisdictions: []
@@ -24026,6 +24049,10 @@ actors:
   - exchange
   uri: hitbtc.com
   context:
+    related_actors:
+    - bequant
+    - bitcoincom
+    - changelly
     coingecko_ids:
     - hitbtc
     defilama_ids:
@@ -24037,8 +24064,11 @@ actors:
     - www.theasianbanker.com/publication/virtual-currency-services
     - cer.live/exchange/hitbtc
     - facebook.com/hit.btc
+    - www.coindesk.com/business/2020/10/22/bequant-adds-services-to-its-crypto-prime-brokerage-offering
+    - www.newsfilecorp.com/release/97180
     notes:
     - the asian banker says GB
+    - 'related_actors bequant, bitcoincom, changelly: hitbtc.com, bequant.io, fmfw.io (formerly Bitcoin.com Exchange, rebranded 2021-09-29) and pro.changelly.com run the same white-label exchange platform (page source: brokerId 1 hitbtc, 3 bequant, 8 bcom, 11 Changelly PRO); Bequant names HitBTC as a liquidity source (CoinDesk, 2020-10-22). On-chain: the BTC wallet 1EEqRvnS7XqMoXDcaGL7bLS3hzZi1qUZm1 receives from about 180 addresses tagged HitBTC, 3 tagged Bequant, 1 tagged FMFW and 14 tagged Changelly or Changelly PRO (checked 2026-10-15); its successor bc1qdfl3dfnwwvlqa5jpckh0ccwpjczh5y566c4g76 sweeps the same brands'' deposit addresses. Only Changelly PRO runs on the platform, not Changelly''s swap service. Common ownership is not confirmed by an official source'
     images:
     - assets.coingecko.com/markets/images/24/small/hitbtc.png?1603975458
     - coin-images.coingecko.com/markets/images/24/small/hitbtc.png?1706864259
@@ -38307,13 +38337,17 @@ actors:
   - exchange
   uri: www.pionex.com
   context:
+    nested_in:
+    - cobo
     coingecko_ids:
     - pionex
     refs:
     - api.coingecko.com/api/v3/exchanges/pionex
     - www.crunchbase.com/organization/pionex
+    - techcrunch.com/2021/09/22/crypto-asset-management-platform-cobo-bags-40m-series-b/
     notes:
     - coinmarketcap.com/it/exchanges/pionex/
+    - 'nested_in cobo: TechCrunch (2021-09-22) names Pionex among the institutional clients of Cobo''s custody services. On-chain: 4 BTC and 1 LTC addresses tagged Pionex send into the Cobo sweep wallets bc1q0qfzuge7vr5s2xkczrjkccmxemlyyn8mhx298v (BTC) and LgycvYBU9SVr1dVuq7gC1mdwukyW7qKoeX (LTC) (checked 2026-10-15)'
     images:
     - assets.coingecko.com/markets/images/1026/small/pionex.png?1673508138
     - coin-images.coingecko.com/markets/images/1026/small/pionex.png?1706865056
@@ -49172,6 +49206,8 @@ actors:
   - exchange
   uri: www.toobit.com
   context:
+    nested_in:
+    - cobo
     coingecko_ids:
     - toobit
     defilama_ids:
@@ -49180,6 +49216,7 @@ actors:
     - defillama.com/cex/toobit#information
     - coinmarketcap.com/exchanges/toobit/
     - api.coingecko.com/api/v3/exchanges/toobit
+    - globalfintechseries.com/trading/toobit-and-cobo-collaborate-to-boost-user-asset-and-wallet-security-strength/
     twitter_handle: Toobit_official
     images:
     - coin-images.coingecko.com/markets/images/1139/small/Toobit_logo400X400.png?1706865157
@@ -49188,6 +49225,8 @@ actors:
     coingecko_trust_score_rank: 28
     description: Toobit is where the future of crypto trading unfolds—an award-winning cryptocurrency derivatives exchange built for those who thrive exploring new frontiers. With deep liquidity and cutting-edge technology, Toobit empowers traders worldwide to navigate the digital asset markets with confidence. We offer a fair, secure, seamless, and transparent trading experience, ensuring every trade is an opportunity to discover what’s next.
     coingecko_has_trading_incentive: false
+    notes:
+    - 'nested_in cobo: Toobit and Cobo announced a collaboration (2024-07-03): Toobit uses Cobo''s MPC wallets, and its institutional clients use Cobo''s custody. On-chain: 3 BTC and 2 LTC addresses tagged Toobit send into the Cobo sweep wallets bc1q0qfzuge7vr5s2xkczrjkccmxemlyyn8mhx298v (BTC) and LgycvYBU9SVr1dVuq7gC1mdwukyW7qKoeX (LTC) (checked 2026-10-15)'
 - id: tokencan
   label: Tokencan
   jurisdictions:
@@ -60295,16 +60334,21 @@ actors:
   - exchange
   uri: trubit.com
   context:
+    nested_in:
+    - cobo
     coingecko_ids:
     - trubit
     refs:
     - api.coingecko.com/api/v3/exchanges/trubit
+    - www.cobo.com/post/trubit-pro-cobo-
     images:
     - coin-images.coingecko.com/markets/images/1103/small/trubit.png?1706865122
     year_established: 2022
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 96
     coingecko_has_trading_incentive: false
+    notes:
+    - 'nested_in cobo: Cobo press release (2025-04-21) quotes TruBit''s CEO: "Since TruBit''s founding in 2020, we have firmly chosen to partner with Cobo rather than managing user assets internally." On-chain: addresses tagged Trubit send into the Cobo sweep wallets bc1q0qfzuge7vr5s2xkczrjkccmxemlyyn8mhx298v (BTC) and LgycvYBU9SVr1dVuq7gC1mdwukyW7qKoeX (LTC) (checked 2026-10-15)'
 - id: wdexpolygon
   label: 'W-DEX (Polygon) '
   jurisdictions: []

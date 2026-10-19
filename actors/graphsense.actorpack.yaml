@@ -799,6 +799,7 @@ actors:
     - api.coingecko.com/api/v3/exchanges/aborean-finance-v2
     - api.coingecko.com/api/v3/exchanges/aborean-finance-v3
     images:
+    - icons.llama.fi/aborean-cl.jpg
     - coin-images.coingecko.com/markets/images/22127/small/open-uri20251013-75-f3cmhg.?1760340247
     - coin-images.coingecko.com/markets/images/22128/small/open-uri20251013-30-nmaemx.?1760340541
     coingecko_trust_score: 5
@@ -824,7 +825,7 @@ actors:
     refs:
     - api.llama.fi/protocol/abracadabra
     images:
-    - icons.llama.fi/abracadabra.svg
+    - icons.llama.fi/abracadabra.jpg
     twitter_handle: MIM_Spell
 - id: abraxasmarket
   uri: www.walletexplorer.com/wallet/AbraxasMarket
@@ -1560,7 +1561,7 @@ actors:
     - api.llama.fi/protocol/algo-liquid-governance
     - api.llama.fi/protocol/folks-finance-lending
     images:
-    - icons.llama.fi/folks-finance.png
+    - icons.llama.fi/folks-finance.jpg
     twitter_handle: FolksFinance
 - id: algomint
   label: Algomint
@@ -1802,7 +1803,7 @@ actors:
     refs:
     - api.llama.fi/protocol/alpaca-finance
     images:
-    - icons.llama.fi/alpaca-finance.jpg
+    - icons.llama.fi/alpaca-finance.png
     twitter_handle: AlpacaFinance
     aliases:
     - alpaca
@@ -2468,7 +2469,6 @@ actors:
     - api.llama.fi/protocol/apeswap-amm
     - api.llama.fi/protocol/apeswap-lending
     images:
-    - icons.llama.fi/apeswap-amm.png
     - assets.coingecko.com/markets/images/651/small/APESWAP.png?1618806870
     - assets.coingecko.com/markets/images/718/small/dCfHngLf_400x400.jpeg?1655093813
     - icons.llama.fi/apeswap-lending.png
@@ -2534,7 +2534,7 @@ actors:
     refs:
     - api.llama.fi/protocol/api3
     images:
-    - icons.llama.fi/api3.jpg
+    - icons.llama.fi/api3.png
     twitter_handle: API3DAO
 - id: apollodao
   label: ApolloDAO
@@ -2567,7 +2567,7 @@ actors:
     refs:
     - api.llama.fi/protocol/apollox
     images:
-    - icons.llama.fi/apollox.png
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/1452.png
     twitter_handle: ApolloX_com
 - id: apricotfinance
   label: Apricot Finance
@@ -2646,8 +2646,6 @@ actors:
     - apwine
     refs:
     - api.llama.fi/protocol/apwine
-    images:
-    - icons.llama.fi/apwine.jpg
     twitter_handle: APWineFinance
 - id: apyfinance
   label: APY Finance
@@ -2902,7 +2900,7 @@ actors:
     refs:
     - api.llama.fi/protocol/arcade-xyz
     images:
-    - icons.llama.fi/arcade-xyz.jpg
+    - icons.llama.fi/arcade.xyz.jpg
     twitter_handle: Arcade_xyz
 - id: archerswap
   label: Archerswap
@@ -2936,8 +2934,6 @@ actors:
     - arch-ethereum-web3
     refs:
     - api.llama.fi/protocol/arch-ethereum-web3
-    images:
-    - icons.llama.fi/arch-ethereum-web3.png
     twitter_handle: archdefi
 - id: archlyfinance
   label: Archly Finance
@@ -4105,7 +4101,7 @@ actors:
     refs:
     - api.llama.fi/protocol/aztec
     images:
-    - icons.llama.fi/aztec.jpg
+    - icons.llama.fi/aztec-connect.jpg
     twitter_handle: aztecnetwork
 - id: azuro
   label: Azuro
@@ -4393,7 +4389,7 @@ actors:
     refs:
     - api.llama.fi/protocol/bagels-finance
     images:
-    - icons.llama.fi/bagel-finance.png
+    - icons.llama.fi/bagel-finance.jpg
     twitter_handle: BagelsFinance
 - id: baguette
   label: Baguette
@@ -4611,7 +4607,7 @@ actors:
     refs:
     - api.llama.fi/protocol/bamboodefi
     images:
-    - icons.llama.fi/bamboodefi.svg
+    - icons.llama.fi/bamboodefi.png
     twitter_handle: FiBamboo
 - id: bananafarm
   label: BananaFarm
@@ -8873,7 +8869,7 @@ actors:
     refs:
     - api.llama.fi/protocol/bolide
     images:
-    - icons.llama.fi/bolide.jpg
+    - icons.llama.fi/bolide.png
     twitter_handle: Bolide_fi
 - id: bombfinance
   label: Bomb Finance
@@ -9137,7 +9133,7 @@ actors:
     refs:
     - api.llama.fi/protocol/brahma
     images:
-    - icons.llama.fi/brahma.jpg
+    - icons.llama.fi/brahma-vaults-(sunset).jpg
     twitter_handle: BrahmaFi
 - id: braiins
   label: Braiins.com
@@ -9331,6 +9327,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/bron-intents
     images:
+    - bron.org/favicons/favicon-96.png
     - coin-images.coingecko.com/markets/images/22192/small/data.?1768881710
     coingecko_trust_score_rank: 870
     coingecko_has_trading_incentive: false
@@ -10518,8 +10515,6 @@ actors:
     refs:
     - api.llama.fi/protocol/cake-defi
     - en.cryptonomist.ch/2023/06/22/cake-defi-bucking-crypto-trend/
-    images:
-    - icons.llama.fi/cake-defi.jpg
     twitter_handle: cakedefi
 - id: cakemonster
   label: Cake Monster
@@ -10862,6 +10857,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/capricorn-monad
     images:
+    - icons.llama.fi/capricorn.jpg
     - coin-images.coingecko.com/markets/images/22168/small/data.?1764302502
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 168
@@ -13261,8 +13257,6 @@ actors:
     - www.crunchbase.com/organization/cointrader-net
     - cointrader.net/pages/terms
     - siliconangle.com/2016/03/30/bitcoin-weekly-2016-march-30-cointrader-exchange-closes-doors-coinkite-shutting-down-web-wallet-mit-raises-900000-for-bitcoin-core-devs/
-    images:
-    - cointrader.net/upload/CT-03.png
     twitter_handle: CoinTraderNet
     notes:
     - crunchbase says CA
@@ -15352,6 +15346,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/cypher
     images:
+    - app.cyphereth.com/favicon.svg
     - coin-images.coingecko.com/markets/images/22178/small/data.?1766372626
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 268
@@ -15673,7 +15668,7 @@ actors:
     refs:
     - api.llama.fi/protocol/debridge
     images:
-    - icons.llama.fi/debridge.png
+    - icons.llama.fi/debridge.jpg
     twitter_handle: deBridgeFinance
     aliases:
     - debridgegate
@@ -16106,7 +16101,6 @@ actors:
     - api.coingecko.com/api/v3/exchanges/defi_plaza
     - api.coingecko.com/api/v3/exchanges/defiplaza_radix
     images:
-    - icons.llama.fi/defiplaza.svg
     - assets.coingecko.com/markets/images/908/small/a8Qe_bCU_400x400.png?1656300829
     - coin-images.coingecko.com/markets/images/1382/small/defiplaza.png?1706865392
     twitter_handle: DefiPlaza
@@ -16141,7 +16135,7 @@ actors:
     refs:
     - api.llama.fi/protocol/defisaver
     images:
-    - icons.llama.fi/defisaver.jpg
+    - icons.llama.fi/defi-saver-asset-management.jpg
     twitter_handle: DefiSaver
 - id: defisnetwork
   label: DeFis Network
@@ -16156,8 +16150,6 @@ actors:
     - defis-network
     refs:
     - api.llama.fi/protocol/defis-network
-    images:
-    - icons.llama.fi/defis-network.png
     twitter_handle: DFSnetworks
 - id: defituna
   label: DefiTuna
@@ -16654,7 +16646,7 @@ actors:
     refs:
     - api.llama.fi/protocol/dex-finance
     images:
-    - icons.llama.fi/dex-finance.png
+    - icons.llama.fi/dexfinance.png
     twitter_handle: DexFinance
 - id: dexible
   label: Dexible
@@ -17238,6 +17230,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/dnax
     images:
+    - icons.llama.fi/dnax.jpg
     - coin-images.coingecko.com/markets/images/22185/small/data.?1767794243
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 508
@@ -17548,8 +17541,6 @@ actors:
     - dopex
     refs:
     - api.llama.fi/protocol/dopex
-    images:
-    - icons.llama.fi/dopex.png
     twitter_handle: dopex_io
 - id: dopplefinance
   label: Dopple Finance
@@ -18359,8 +18350,6 @@ actors:
     - element-finance
     refs:
     - api.llama.fi/protocol/element-finance
-    images:
-    - icons.llama.fi/element-finance.jpg
     twitter_handle: element_fi
 - id: elephantdex
   label: Elephantdex
@@ -18825,8 +18814,6 @@ actors:
     - enso-finance
     refs:
     - api.llama.fi/protocol/enso-finance
-    images:
-    - icons.llama.fi/enso-finance.png
     twitter_handle: EnsoFinance
 - id: enterdao
   label: EnterDAO
@@ -19680,8 +19667,6 @@ actors:
   context:
     notes:
     - twitter says teheran
-    images:
-    - admin.exnovin.io/media/assets/Uc9r9f8DO57ty7yEuopCVFs5yTgrIFvZQ9Cd6whe.svg
     active: true
     twitter_handle: Exnovin_io
 - id: exodia
@@ -19802,7 +19787,7 @@ actors:
     refs:
     - api.llama.fi/protocol/fairyswap
     images:
-    - icons.llama.fi/fairyswap.png
+    - icons.llama.fi/fairyswap.jpg
     twitter_handle: fairy_swap
 - id: fameex
   label: Fameex
@@ -20253,7 +20238,7 @@ actors:
     refs:
     - api.llama.fi/protocol/filet
     images:
-    - icons.llama.fi/filet.png
+    - icons.llama.fi/filet-finance.png
     twitter_handle: Filet_finance
 - id: finexbox
   label: FinexBox
@@ -20477,7 +20462,7 @@ actors:
     refs:
     - api.llama.fi/protocol/flexa
     images:
-    - icons.llama.fi/flexa.png_small
+    - icons.llama.fi/flexa.png
     twitter_handle: amptoken
 - id: fliperino
   label: Fliperino
@@ -20590,6 +20575,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/flowswap
     images:
+    - icons.llama.fi/flowswap.jpg
     - coin-images.coingecko.com/markets/images/22147/small/data.?1763092172
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 297
@@ -20720,6 +20706,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/fluxion
     images:
+    - icons.llama.fi/fluxion-network.jpg
     - coin-images.coingecko.com/markets/images/22180/small/open-uri20251224-7887-xs8wru.?1766548447
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 339
@@ -22757,8 +22744,6 @@ actors:
     - goodghosting
     refs:
     - api.llama.fi/protocol/goodghosting
-    images:
-    - icons.llama.fi/goodghosting.png
     twitter_handle: goodghosting
 - id: goosefinance
   label: Goose Finance
@@ -23127,6 +23112,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/grxswap
     images:
+    - icons.llama.fi/grxswap.jpg
     - coin-images.coingecko.com/markets/images/22221/small/data.?1772092797
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 136
@@ -23631,8 +23617,6 @@ actors:
     - hawksight
     refs:
     - api.llama.fi/protocol/hawksight
-    images:
-    - icons.llama.fi/hawksight.jpg
     twitter_handle: HawksightCo
 - id: hbtc
   label: hBTC
@@ -25009,6 +24993,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/hypertrade
     images:
+    - icons.llama.fi/hypertrade.jpg
     - coin-images.coingecko.com/markets/images/22232/small/open-uri20260317-54-ko73s3.?1773720664
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 347
@@ -25145,7 +25130,7 @@ actors:
     refs:
     - api.llama.fi/protocol/ichi-farm
     images:
-    - icons.llama.fi/ichi-farm.png
+    - icons.llama.fi/ichi.png
     twitter_handle: ichifarm
     aliases:
     - ichi
@@ -26066,6 +26051,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/ionex
     images:
+    - icons.llama.fi/ionex.jpg
     - coin-images.coingecko.com/markets/images/22121/small/open-uri20251002-60-xf9o80.?1759400871
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 500
@@ -26114,7 +26100,7 @@ actors:
     refs:
     - api.llama.fi/protocol/ipor
     images:
-    - icons.llama.fi/ipor.jpg
+    - icons.llama.fi/fusion-by-ipor.svg
     twitter_handle: ipor_io
 - id: iq
   label: IQ
@@ -26314,6 +26300,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/jaine
     images:
+    - icons.llama.fi/jaine.jpg
     - coin-images.coingecko.com/markets/images/22119/small/open-uri20251001-32-wdr7ob.?1759289850
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 279
@@ -26469,7 +26456,7 @@ actors:
     refs:
     - api.llama.fi/protocol/jexchange
     images:
-    - icons.llama.fi/jexchange.jpg
+    - icons.llama.fi/jexchangedefi.jpg
     twitter_handle: jexchangeP2P
 - id: jibitex
   label: Jibitex
@@ -27075,6 +27062,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/kaspacom
     images:
+    - icons.llama.fi/kaspacom.jpg
     - coin-images.coingecko.com/markets/images/22237/small/open-uri20260331-39-223bmk.?1774929713
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 494
@@ -28296,6 +28284,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/krown-dex
     images:
+    - icons.llama.fi/krown-dex.jpg
     - coin-images.coingecko.com/markets/images/22189/small/data.?1768466040
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 211
@@ -28444,6 +28433,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/kumbaya
     images:
+    - icons.llama.fi/kumbaya.jpg
     - coin-images.coingecko.com/markets/images/22202/small/data.?1770258232
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 181
@@ -29630,6 +29620,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/lithos
     images:
+    - icons.llama.fi/lithos.jpg
     - coin-images.coingecko.com/markets/images/22120/small/open-uri20251002-45-arpnah.?1759399192
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 350
@@ -30766,7 +30757,7 @@ actors:
     refs:
     - api.llama.fi/protocol/mantra-dao
     images:
-    - icons.llama.fi/mantra-dao.jpg
+    - icons.llama.fi/mantra-dao.png
     twitter_handle: MANTRADAO
 - id: maple
   aliases:
@@ -31429,6 +31420,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/meridian
     images:
+    - app.meridian.money/apple-touch-icon.png
     - coin-images.coingecko.com/markets/images/22191/small/open-uri20260119-254-2o0gnq.?1768809555
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 409
@@ -31565,7 +31557,7 @@ actors:
     refs:
     - api.llama.fi/protocol/messinaone
     images:
-    - icons.llama.fi/messinaone.jpg
+    - icons.llama.fi/messina-liquid-staking.jpg
     twitter_handle: MessinaOne
 - id: metacrono
   label: MetaCrono
@@ -31783,7 +31775,7 @@ actors:
     refs:
     - defillama.com/protocol/metamask
     images:
-    - icons.llama.fi/metamask.png
+    - icons.llama.fi/metamask.jpg
     twitter_handle: MetaMask
 - id: meteora
   label: Meteora
@@ -32070,8 +32062,6 @@ actors:
     - milkyway
     refs:
     - api.llama.fi/protocol/milkyway
-    images:
-    - icons.llama.fi/milkyway.png
     twitter_handle: AeliaProtocol
 - id: mimasfinance
   label: Mimas Finance
@@ -32351,7 +32341,6 @@ actors:
     - api.llama.fi/protocol/minswap
     - api.coingecko.com/api/v3/exchanges/minswap
     images:
-    - icons.llama.fi/minswap.png
     - assets.coingecko.com/markets/images/983/small/minswap.png?1665723834
     - coin-images.coingecko.com/markets/images/983/small/Logo_200_%281%29.png?1744183470
     twitter_handle: MinswapDEX
@@ -32876,7 +32865,7 @@ actors:
     refs:
     - api.llama.fi/protocol/monster
     images:
-    - icons.llama.fi/monster.png
+    - icons.llama.fi/monster.jpg
     twitter_handle: Crypto_Shuraba
 - id: moolamarket
   label: Moola Market
@@ -33118,6 +33107,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/mosaic
     images:
+    - icons.llama.fi/mosaic.jpg
     - coin-images.coingecko.com/markets/images/22133/small/open-uri20251021-47-s11r5j.?1761027335
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 550
@@ -33725,6 +33715,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/near-intents
     images:
+    - icons.llama.fi/near-intents.jpg
     - coin-images.coingecko.com/markets/images/22137/small/data.?1762131565
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 124
@@ -33831,7 +33822,7 @@ actors:
     - api.llama.fi/protocol/neopin-pool
     - api.llama.fi/protocol/neopin-staking
     images:
-    - icons.llama.fi/neopin-pool.jpg
+    - icons.llama.fi/neopin-pool.png
     - icons.llama.fi/neopin-staking.jpg
     twitter_handle: NeopinOfficial
 - id: neptunemutual
@@ -33896,7 +33887,7 @@ actors:
     refs:
     - api.llama.fi/protocol/nerve-network
     images:
-    - icons.llama.fi/nerve-network.jpg
+    - icons.llama.fi/nervebridge.png
     twitter_handle: nerve_network
 - id: nest
   label: NestFi (Staking)
@@ -35041,6 +35032,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/octoswap-cl
     images:
+    - icons.llama.fi/octoswap-cl.jpg
     - coin-images.coingecko.com/markets/images/22162/small/open-uri20251126-53-fkpdda.?1764134222
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 370
@@ -35238,6 +35230,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/okieswap-stableswap
     images:
+    - icons.llama.fi/okieswap-stableswap.jpg
     - coin-images.coingecko.com/markets/images/22167/small/open-uri20251126-38-6wac7a.?1764146864
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 510
@@ -35506,7 +35499,6 @@ actors:
     - api.llama.fi/protocol/ondo-finance
     - api.coingecko.com/api/v3/exchanges/ondo_global_markets
     images:
-    - icons.llama.fi/ondo-finance.jpg
     - coin-images.coingecko.com/markets/images/22079/small/images.png?1756437723
     twitter_handle: OndoFinance
     coingecko_ids:
@@ -35595,7 +35587,7 @@ actors:
     refs:
     - api.llama.fi/protocol/onering
     images:
-    - icons.llama.fi/onering.png
+    - icons.llama.fi/onering.jpg
     twitter_handle: Onering_Finance
 - id: oneswap
   label: OneSwap
@@ -36306,7 +36298,6 @@ actors:
     - api.coingecko.com/api/v3/exchanges/orderly_network
     - api.llama.fi/protocol/orderly-network
     images:
-    - icons.llama.fi/orderly-network.jpg
     - assets.coingecko.com/markets/images/1015/small/Orderly_Network_Brandmark_Transparent.png?1671762725
     twitter_handle: OrderlyNetwork
 - id: ordernchaos
@@ -36458,7 +36449,7 @@ actors:
     refs:
     - api.llama.fi/protocol/orion-protocol
     images:
-    - icons.llama.fi/orion-protocol.png
+    - s2.coinmarketcap.com/static/img/exchanges/64x64/1487.png
     twitter_handle: orion_protocol
 - id: oslglobal
   label: OSL Global
@@ -36761,7 +36752,6 @@ actors:
     - api.coingecko.com/api/v3/exchanges/paintswap
     - api.llama.fi/protocol/paint-swap
     images:
-    - icons.llama.fi/paint-swap.png
     - assets.coingecko.com/markets/images/723/small/paintswap.png?1634880497
     - coin-images.coingecko.com/markets/images/723/small/paintswap.png?1706864683
     twitter_handle: paint_swap
@@ -37762,8 +37752,6 @@ actors:
     - perp88
     refs:
     - api.llama.fi/protocol/perp88
-    images:
-    - icons.llama.fi/perp88.png
     twitter_handle: 0xPerp88
 - id: perpetualprotocol
   label: Perpetual Protocol
@@ -38587,7 +38575,7 @@ actors:
     refs:
     - api.llama.fi/protocol/pluto
     images:
-    - icons.llama.fi/pluto.png
+    - icons.llama.fi/pluto.jpg
     twitter_handle: whenPluto
 - id: plutusdao
   label: PlutusDAO
@@ -38969,7 +38957,7 @@ actors:
     refs:
     - api.llama.fi/protocol/polynomial-protocol
     images:
-    - icons.llama.fi/polynominal-finance.png
+    - icons.llama.fi/polynomial-protocol.png
     twitter_handle: PolynomialFi
 - id: polyoexchange
   label: Polyo Exchange
@@ -39213,6 +39201,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/pools-finance
     images:
+    - icons.llama.fi/pools-finance.jpg
     - coin-images.coingecko.com/markets/images/22198/small/open-uri20260123-8488-qlnfdr.?1769155614
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 309
@@ -39262,8 +39251,6 @@ actors:
     - popcorn
     refs:
     - api.llama.fi/protocol/popcorn
-    images:
-    - icons.llama.fi/popcorn.png
     twitter_handle: Popcorn_DAO
 - id: popsiclefinance
   label: Popsicle Finance
@@ -39363,8 +39350,8 @@ actors:
     - api.coingecko.com/api/v3/exchanges/potatoswap-v3
     - api.coingecko.com/api/v3/exchanges/potatoswap-x-layer
     images:
-    - coin-images.coingecko.com/markets/images/22141/small/open-uri20251105-30-7v5icb.?1762312107
     - coin-images.coingecko.com/markets/images/1565/small/potatoswap.jpeg?1713931706
+    - coin-images.coingecko.com/markets/images/22141/small/open-uri20251105-30-7v5icb.?1762312107
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 415
     coingecko_has_trading_incentive: false
@@ -39649,6 +39636,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/prism-megaeth
     images:
+    - prismfi.cc/favicon.ico
     - coin-images.coingecko.com/markets/images/22212/small/data.?1771213005
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 313
@@ -39667,7 +39655,7 @@ actors:
     refs:
     - api.llama.fi/protocol/prism-protocol
     images:
-    - icons.llama.fi/prism.png
+    - icons.llama.fi/prism.jpg
     twitter_handle: prism_protocol
 - id: probit
   label: ProBit Global & Korea
@@ -40821,8 +40809,6 @@ actors:
     - ravelin-finance
     refs:
     - api.llama.fi/protocol/ravelin-finance
-    images:
-    - icons.llama.fi/ravelin-finance.png
     twitter_handle: RavelinFinance
 - id: rawpoolcom
   label: Rawpool.com
@@ -41068,7 +41054,7 @@ actors:
     refs:
     - api.llama.fi/protocol/rehold
     images:
-    - icons.llama.fi/rehold.png
+    - icons.llama.fi/rehold.jpg
     twitter_handle: rehold_io
 - id: relaychain
   label: RelayChain
@@ -41142,7 +41128,7 @@ actors:
     refs:
     - api.llama.fi/protocol/reserve
     images:
-    - icons.llama.fi/reserve.jpg
+    - icons.llama.fi/reserve.png
     twitter_handle: reserveprotocol
     aliases:
     - reserveprotocol
@@ -41371,7 +41357,6 @@ actors:
     - api.llama.fi/protocol/rhino.fi
     - api.coingecko.com/api/v3/exchanges/deversifi
     images:
-    - icons.llama.fi/rhino.fi.jpg
     - assets.coingecko.com/markets/images/511/small/COINGECKO_DVF_200x200.jpeg?1657853638
     twitter_handle: rhinofi,deversifi
 - id: ribbon
@@ -41858,6 +41843,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/rooster-protocol-v2
     images:
+    - icons.llama.fi/rooster-protocol-v2.jpg
     - coin-images.coingecko.com/markets/images/22129/small/open-uri20251016-29-o1otq5.?1760611195
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 349
@@ -41929,7 +41915,7 @@ actors:
     refs:
     - api.llama.fi/protocol/rubic
     images:
-    - icons.llama.fi/rubic.png
+    - icons.llama.fi/rubic.jpg
     twitter_handle: CryptoRubic
 - id: rubicon
   label: Rubicon
@@ -42408,7 +42394,6 @@ actors:
     - api.coingecko.com/api/v3/exchanges/saros
     - api.coingecko.com/api/v3/exchanges/saros-dlmm
     images:
-    - icons.llama.fi/saros.svg
     - assets.coingecko.com/markets/images/861/small/saros.png?1651828065
     - coin-images.coingecko.com/markets/images/861/small/saros.png?1754059184
     - coin-images.coingecko.com/markets/images/22007/small/saros.png?1754059192
@@ -43237,7 +43222,7 @@ actors:
     - www.crunchbase.com/organization/shapeshift
     - coinmarketcap.com/currencies/fox-token/
     images:
-    - icons.llama.fi/shapeshift.jpg
+    - icons.llama.fi/shapeshift.svg
     twitter_handle: ShapeShift_io,ShapeShift
     github_organisation: shapeshift
 - id: sharedstake
@@ -44722,7 +44707,7 @@ actors:
     refs:
     - api.llama.fi/protocol/sonic
     images:
-    - icons.llama.fi/sonic.png
+    - icons.llama.fi/sonic.jpg
     twitter_handle: sonic_ooo
 - id: sonicswap
   label: SonicSwap
@@ -44830,7 +44815,6 @@ actors:
     - api.coingecko.com/api/v3/exchanges/sovryn
     - api.llama.fi/protocol/sovryn
     images:
-    - icons.llama.fi/sovryn.svg
     - assets.coingecko.com/markets/images/1001/small/sovryn.png?1669089390
     - coin-images.coingecko.com/markets/images/1001/small/sovryn.png?1706864989
     twitter_handle: SovrynBTC
@@ -45085,7 +45069,6 @@ actors:
     - api.llama.fi/protocol/sperax-usd
     - api.llama.fi/protocol/sperax-demeter
     images:
-    - icons.llama.fi/sperax-demeter.png
     - icons.llama.fi/sperax-usd.jpg
     twitter_handle: SperaxUSD
 - id: spherefinance
@@ -45391,8 +45374,6 @@ actors:
     - spool
     refs:
     - api.llama.fi/protocol/spool-protocol
-    images:
-    - icons.llama.fi/spool-protocol.png
     twitter_handle: SpoolFi
     aliases:
     - spool
@@ -45850,7 +45831,7 @@ actors:
     refs:
     - api.llama.fi/protocol/standard-protocol
     images:
-    - icons.llama.fi/standard-protocol.jpg
+    - icons.llama.fi/standard-protocol.png
     twitter_handle: standarddefi
 - id: standcash
   label: Stand Cash
@@ -46810,6 +46791,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/supernova-cl
     images:
+    - icons.llama.fi/supernova-cl.jpg
     - coin-images.coingecko.com/markets/images/22220/small/open-uri20260226-69-errj4d.?1772073520
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 147
@@ -47825,8 +47807,6 @@ actors:
     - talent-protocol
     refs:
     - api.llama.fi/protocol/talent-protocol
-    images:
-    - icons.llama.fi/talent-protocol.png
     twitter_handle: talentprotocol
 - id: tangent
   label: Tangent
@@ -48435,8 +48415,6 @@ actors:
     - tfm
     refs:
     - api.llama.fi/protocol/tfm
-    images:
-    - icons.llama.fi/tfm.png
     twitter_handle: tfm_com
 - id: thalaswapcl
   label: ThalaSwap CL
@@ -48455,8 +48433,8 @@ actors:
     - api.coingecko.com/api/v3/exchanges/thala
     - api.coingecko.com/api/v3/exchanges/thalaswap-v2
     images:
-    - coin-images.coingecko.com/markets/images/22239/small/open-uri20260401-53-f2yipk.?1775033877
     - coin-images.coingecko.com/markets/images/1118/small/thala.jpeg?1706865138
+    - coin-images.coingecko.com/markets/images/22239/small/open-uri20260401-53-f2yipk.?1775033877
     - coin-images.coingecko.com/markets/images/11760/small/THL_logo.png?1731641244
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 135
@@ -51162,7 +51140,7 @@ actors:
     refs:
     - api.llama.fi/protocol/usd+
     images:
-    - icons.llama.fi/usd+.png
+    - icons.llama.fi/overnight-finance.jpg
     twitter_handle: overnight_fi
     aliases:
     - overnight
@@ -54794,7 +54772,7 @@ actors:
     refs:
     - api.llama.fi/protocol/zeta
     images:
-    - icons.llama.fi/zeta.png
+    - icons.llama.fi/zeta.jpg
     twitter_handle: ZetaMarkets
 - id: zeusfinance
   label: Zeus Finance
@@ -57602,6 +57580,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/valiant
     images:
+    - icons.llama.fi/valiant-trade-spot.jpg
     - coin-images.coingecko.com/markets/images/22222/small/open-uri20260302-268-7u6512.?1772432187
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 187
@@ -58066,8 +58045,6 @@ actors:
     - steam-exchange-rails-network
     uris:
     - swap.steamexchange.io
-    images:
-    - missing_small.png
     refs:
     - api.coingecko.com/api/v3/exchanges/steam-exchange-rails-network
     year_established: 2021
@@ -58667,8 +58644,8 @@ actors:
     - aerodrome-base
     - aerodrome-slipstream
     images:
-    - coin-images.coingecko.com/markets/images/22142/small/open-uri20251105-30-tyth5u.?1762313263
     - coin-images.coingecko.com/markets/images/1271/small/aerodrome.jpeg?1706865271
+    - coin-images.coingecko.com/markets/images/22142/small/open-uri20251105-30-tyth5u.?1762313263
     - coin-images.coingecko.com/markets/images/1579/small/aerodrome.jpeg?1714981922
     coingecko_trust_score: 6
     coingecko_trust_score_rank: 120
@@ -59261,8 +59238,8 @@ actors:
     - oku-trade-corn
     - oku-trade-nibiru
     images:
-    - coin-images.coingecko.com/markets/images/22108/small/open-uri20250925-6750-98mz29.?1758806134
     - coin-images.coingecko.com/markets/images/11946/small/oku-trade.jpeg?1746572484
+    - coin-images.coingecko.com/markets/images/22108/small/open-uri20250925-6750-98mz29.?1758806134
     - coin-images.coingecko.com/markets/images/22069/small/oku_trade.jpg?1755674660
     - coin-images.coingecko.com/markets/images/11740/small/oku_trade.png?1764557037
     - coin-images.coingecko.com/markets/images/1709/small/oku_trade.png?1764557011
@@ -60259,6 +60236,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/winnieswap
     images:
+    - icons.llama.fi/winnieswap.jpg
     - coin-images.coingecko.com/markets/images/22132/small/data.?1760674266
     coingecko_trust_score: 4
     coingecko_trust_score_rank: 636
@@ -60537,8 +60515,8 @@ actors:
     uris:
     - dyorswap.finance
     images:
-    - coin-images.coingecko.com/markets/images/22149/small/open-uri20251124-73-347prl.?1763993312
     - coin-images.coingecko.com/markets/images/11801/small/dyorswap.jpg?1734684464
+    - coin-images.coingecko.com/markets/images/22149/small/open-uri20251124-73-347prl.?1763993312
     - coin-images.coingecko.com/markets/images/22061/small/dyorswap.jpg?1755236989
     - coin-images.coingecko.com/markets/images/22117/small/open-uri20250930-33-xt922t.?1759196971
     - coin-images.coingecko.com/markets/images/11734/small/dyorswap.jpg?1729212335
@@ -61666,6 +61644,7 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/zuno
     images:
+    - icons.llama.fi/zuno.jpg
     - coin-images.coingecko.com/markets/images/22219/small/data.?1772003160
     coingecko_trust_score: 5
     coingecko_trust_score_rank: 493
@@ -61707,7 +61686,7 @@ actors:
     - api.llama.fi/protocol/lombard-lbtc
     - www.lombard.finance
     images:
-    - icons.llama.fi/lombard-lbtc.png
+    - icons.llama.fi/lombard-lbtc.jpg
     notes:
     - Issuer of LBTC (Bitcoin staked through Babylon) and BTC.b; holds the deposited bitcoin. Publishes its BTC deposit and wallet addresses through its own API (mainnet.prod.lombard.finance)
     twitter_handle: Lombard_Finance
@@ -61745,7 +61724,7 @@ actors:
     - api.llama.fi/protocol/bitsafe-cbtc
     - bitsafe.finance
     images:
-    - icons.llama.fi/bitsafe-cbtc.png
+    - icons.llama.fi/bitsafe-cbtc.jpg
     notes:
     - Issuer of CBTC (bitcoin on the Canton network); holds the deposited bitcoin
     twitter_handle: BitSafe_Finance
@@ -61769,7 +61748,7 @@ actors:
     - api.llama.fi/protocol/bedrock-unibtc
     - www.bedrock.technology
     images:
-    - icons.llama.fi/bedrock-unibtc.png
+    - icons.llama.fi/bedrock-unibtc.jpg
     notes:
     - Issuer of uniBTC and other liquid (re)staking tokens, developed by RockX; holds the deposited bitcoin
     twitter_handle: Bedrock_DeFi
@@ -61790,6 +61769,7 @@ actors:
     - www.yala.org
     - github.com/yalaorg
     images:
+    - icons.llama.fi/yala.jpg
     - icons.llamao.fi/icons/protocols/yala
     notes:
     - Issuer of YBTC (bitcoin-backed) and the YU stablecoin; holds the deposited bitcoin. Publishes its BTC addresses in its GitHub organisation (yalaorg/yala-defillama)
@@ -61810,6 +61790,7 @@ actors:
     - exsat.network
     - github.com/exsat-network
     images:
+    - icons.llama.fi/exsat-bridge.jpg
     - icons.llamao.fi/icons/protocols/exsat-bridge
     notes:
     - Bitcoin layer with a custodian bridge for BTC (custody contract custody.xsat); publishes its BTC custody addresses in its GitHub organisation (exsat-network/exsat-defillama)
@@ -61830,6 +61811,7 @@ actors:
     - api.llama.fi/protocol/vishwa
     - www.vishwalab.com
     images:
+    - icons.llama.fi/vishwa.jpg
     - icons.llamao.fi/icons/protocols/vishwa
     notes:
     - Issuer of BTCvp (Naro BTC vault on Pharos); holds the native BTC that backs it and lists its BTC addresses through its own API (vault.vishwalab.com)
@@ -61852,6 +61834,7 @@ actors:
     - teleswap.xyz
     - github.com/TeleportDAO
     images:
+    - icons.llama.fi/teleswap.jpg
     - icons.llamao.fi/icons/protocols/teleswap
     notes:
     - Bitcoin bridge by TeleportDAO issuing teleBTC; BTC is held by lockers (registered operators who post collateral), listed through its API (api.teleportdao.xyz)

@@ -1,0 +1,69 @@
+name: Actor links
+
+on:
+  pull_request:
+    paths:
+      - "actors/**"
+      - "tools/check_actor_links.py"
+  schedule:
+    - cron: "17 5 * * 1"  # Mondays 05:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  changed:
+    name: New or changed links
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: astral-sh/setup-uv@v5
+      - name: Check new or changed links
+        run: |
+          uv run tools/check_actor_links.py \
+            --changed-from "origin/${{ github.base_ref }}" \
+            --report report.md --fail-on-broken
+      - name: Summary
+        if: always()
+        run: cat report.md >> "$GITHUB_STEP_SUMMARY" || true
+
+  all:
+    name: All actors
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - name: Check all actors
+        run: uv run tools/check_actor_links.py --report report.md --csv results.csv
+      - uses: actions/upload-artifact@v4
+        with:
+          name: actor-links
+          path: |
+            report.md
+            results.csv
+      - name: Update the report issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cat report.md >> "$GITHUB_STEP_SUMMARY"
+          # issue bodies are limited to 65,536 characters
+          {
+            head -c 60000 report.md
+            echo
+            echo "Full report and CSV: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          } > body.md
+          gh label create actor-links --color d93f0b \
+            --description "Weekly actor link check" --force
+          number=$(gh issue list --label actor-links --state open --json number -q '.[0].number')
+          if [ -n "$number" ]; then
+            gh issue edit "$number" --body-file body.md
+          else
+            gh issue create --title "Actor link check" --label actor-links --body-file body.md
+          fi

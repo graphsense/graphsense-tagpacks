@@ -7592,17 +7592,21 @@ actors:
     - www.crunchbase.com/organization/bitmex-bitcoin-mercantile-exchange
     - api.coingecko.com/api/v3/exchanges/bitmex_spot
     - cer.live/exchange/bitmex_spot
+    - www.coindesk.com/markets/2026/07/23/bitmex-s-11-year-run-comes-to-an-end-notifies-users-it-is-ending-operations-in-by-sept-23
     images:
     - icons.llama.fi/bitmex.jpg
     - assets.coingecko.com/markets/images/866/small/bitmex.jpeg?1652794708
     - coin-images.coingecko.com/markets/images/866/small/bitmex.jpeg?1706864881
     twitter_handle: BitMEX
     legal_name: HDR Global Trading Limited
-    active: true
+    active: false
+    end_activity: '2026-09-23'
     year_established: 2022
     coingecko_trust_score: 7
     coingecko_trust_score_rank: 88
     coingecko_has_trading_incentive: false
+    notes:
+    - 'inactive: shutdown announced 2026-07-23 by HDR Global Trading Limited, operations ended 2026-09-23 04:00 UTC, withdrawals still possible afterwards for a monthly fee (CoinDesk)'
 - id: bitmillionscom
   uri: bitmillions.com
   categories:

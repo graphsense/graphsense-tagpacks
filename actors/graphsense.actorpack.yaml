@@ -61859,3 +61859,20 @@ actors:
     legal_name: River Financial Inc.
     twitter_handle: River
     active: true
+- id: nowpayments
+  label: NOWPayments
+  jurisdictions:
+  - SC
+  categories:
+  - payment_processor
+  uri: nowpayments.io
+  context:
+    refs:
+    - nowpayments.io
+    - nowpayments.io/about
+    - en.bitcoin.it/wiki/NOWPayments
+    notes:
+    - Crypto payment gateway (invoices, payment links, API, shop plugins, mass payouts, optional custody); launched 2019 by the team behind ChangeNOW, which performs its automatic coin conversions
+    legal_name: NOWPayments Ltd.
+    year_established: 2019
+    active: true

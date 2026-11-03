@@ -33707,6 +33707,12 @@ actors:
     coingecko_trust_score_rank: 217
     description: Norwegian Block Exchange (NBX) is a Norwegian company with a customer base throughout the Nordics and beyond. NBX is headquartered in Oslo, Norway, and is registered with the Financial Supervisory Authority of Norway. We build products for the financial infrastructure of the future. Our goal is to make cryptocurrency widely available and let anyone take part in secure, efficient, and user-friendly services based on blockchain technology.
     coingecko_has_trading_incentive: false
+    aliases:
+    - norwegianblockexchange
+    - norwegian_block_exchange
+  aliases:
+  - norwegianblockexchange
+  - norwegian_block_exchange
 - id: nearintents
   label: Near Intents
   jurisdictions: []
@@ -59996,18 +60002,6 @@ actors:
   categories:
   - exchange
   uri: bep20usdt.dummy
-- id: norwegianblockexchange
-  label: Norwegian Block Exchange
-  context:
-    notes:
-    - This is a dummy datapoint like all .dummy uris
-    aliases:
-    - norwegian_block_exchange
-  categories:
-  - exchange
-  uri: norwegian_block_exchange.dummy
-  aliases:
-  - norwegian_block_exchange
 - id: cossexchange
   label: Coss Exchange
   context:

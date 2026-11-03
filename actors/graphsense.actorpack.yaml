@@ -61870,3 +61870,16 @@ actors:
     legal_name: NOWPayments Ltd.
     year_established: 2019
     active: true
+- id: tronify
+  label: Tronify
+  jurisdictions: []
+  categories:
+  - service
+  uri: tronify.io
+  context:
+    refs:
+    - tronify.io
+    - tronify.gitbook.io/tronify
+    notes:
+    - TRON energy and bandwidth rental marketplace. Buyers pay TRX or USDT (TRC20) to Tronify platform addresses, and Tronify delegates staked energy/bandwidth to the buyer address. Also offers energy staking (energy finance) and a seller side where users authorize Tronify to sell their staked energy.
+    active: true

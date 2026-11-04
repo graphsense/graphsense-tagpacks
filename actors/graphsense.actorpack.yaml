@@ -7694,7 +7694,7 @@ actors:
     description: BitoPro is a cryptocurrency exchange, offering a user-friendly platform for trading various digital assets with a focus on security and regulatory compliance. It provides additional services like digital wallets and financial solutions, catering to both individual and institutional users in the region.
     coingecko_has_trading_incentive: false
 - id: bitpanda
-  label: Bitpanda (fka coinimal)
+  label: Bitpanda
   jurisdictions:
   - AT
   - IT

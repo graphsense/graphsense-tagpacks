@@ -59009,6 +59009,15 @@ actors:
   uri: https://alchemypay.org
   categories:
   - payment_processor
+  context:
+    coingecko_ids:
+    - alchemy-pay
+    refs:
+    - api.coingecko.com/api/v3/coins/alchemy-pay
+    - coinmarketcap.com/currencies/alchemy-pay/
+    images:
+    - s2.coinmarketcap.com/static/img/coins/64x64/6958.png
+    twitter_handle: AlchemyPay
 - id: anchoragedigital
   aliases:
   - anchorage_digital

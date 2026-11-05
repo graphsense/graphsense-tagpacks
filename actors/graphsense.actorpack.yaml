@@ -59004,6 +59004,11 @@ actors:
   uri: https://www.simplex.com
   categories:
   - payment_processor
+- id: alchemypay
+  label: Alchemy Pay
+  uri: https://alchemypay.org
+  categories:
+  - payment_processor
 - id: anchoragedigital
   aliases:
   - anchorage_digital

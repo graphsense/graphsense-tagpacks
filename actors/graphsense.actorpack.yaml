@@ -38932,6 +38932,7 @@ actors:
   jurisdictions: []
   categories:
   - organization
+  - gambling
   uri: polymarket.com
   context:
     defilama_ids:

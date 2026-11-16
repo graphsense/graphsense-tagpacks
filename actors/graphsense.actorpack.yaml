@@ -61897,3 +61897,18 @@ actors:
     notes:
     - TRON energy and bandwidth rental marketplace. Buyers pay TRX or USDT (TRC20) to Tronify platform addresses, and Tronify delegates staked energy/bandwidth to the buyer address. Also offers energy staking (energy finance) and a seller side where users authorize Tronify to sell their staked energy.
     active: true
+- id: hifiswap
+  label: HiFiSwap
+  jurisdictions: []
+  categories:
+  - defi_dex
+  uri: https://www.hifiswap.io
+  context:
+    refs:
+    - www.hifiswap.io
+    - etherscan.io/address/0x0280baf5c87cfa44d7d661805cc17db29d7973b7
+    images:
+    - www.hifiswap.io/assets/hifiswap-icon-light.svg
+    notes:
+    - Swap and bridge service (smart router across Uniswap, Curve and Balancer; USDT bridge between BSC and TRON). Not the lending protocol Hifi Finance (actor hifi). The domain hifiswap.org is a different site, flagged as phishing.
+    active: true

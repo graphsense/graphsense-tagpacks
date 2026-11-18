@@ -22499,6 +22499,8 @@ actors:
     refs:
     - api.coingecko.com/api/v3/exchanges/gmo_japan
     - cer.live/exchange/gmo_japan
+    same_as:
+    - gmocoin  # GMO Coin (coin.z.com); duplicate entry with less metadata
     images:
     - assets.coingecko.com/markets/images/430/small/gmo_z_com.png?1561112572
     - coin-images.coingecko.com/markets/images/430/small/gmo_z_com.png?1706864428
@@ -61912,4 +61914,19 @@ actors:
     - www.hifiswap.io/assets/hifiswap-icon-light.svg
     notes:
     - Swap and bridge service (smart router across Uniswap, Curve and Balancer; USDT bridge between BSC and TRON). Not the lending protocol Hifi Finance (actor hifi). The domain hifiswap.org is a different site, flagged as phishing.
+    active: true
+- id: cashapp
+  label: Cash App
+  jurisdictions:
+  - US
+  categories:
+  - exchange
+  uri: cash.app
+  context:
+    refs:
+    - cash.app
+    - cash.app/bitcoin
+    - block.xyz
+    notes:
+    - Payment app of Block, Inc. (formerly Square, Inc.); customers buy, sell, send and receive bitcoin.
     active: true
